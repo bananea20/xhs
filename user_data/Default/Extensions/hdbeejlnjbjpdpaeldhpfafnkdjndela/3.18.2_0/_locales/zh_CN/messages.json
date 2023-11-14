@@ -1,0 +1,497 @@
+{
+   "contentCloseWebPageTranslating": {
+      "message": "关闭网页翻译"
+   },
+   "contentHistoryTitle": {
+      "message": "翻译历史"
+   },
+   "contentInputHere": {
+      "message": "在此输入"
+   },
+   "contentNoRecord": {
+      "message": "无记录"
+   },
+   "contentResult": {
+      "message": "结果"
+   },
+   "contentStartWebPageTranslating": {
+      "message": "开始网页翻译"
+   },
+   "contentSwitchDisplayModeOfResult": {
+      "message": "切换翻译结果的显示方式"
+   },
+   "contentTranslateAfterInput": {
+      "message": "输入后翻译"
+   },
+   "contextMenus_LISTEN_SELECTION_TEXT": {
+      "message": "朗读您选择的文本"
+   },
+   "contextMenus_OPEN_SEPARATE_WINDOW": {
+      "message": "打开独立翻译窗口"
+   },
+   "contextMenus_OPEN_THIS_PAGE_WITH_PDF_VIEWER": {
+      "message": "用 PDF 阅读器打开此页面"
+   },
+   "contextMenus_TRANSLATE_CURRENT_PAGE": {
+      "message": "翻译当前页面"
+   },
+   "contextMenus_TRANSLATE_SELECTION_TEXT": {
+      "message": "翻译您选择的文本"
+   },
+   "errorCode_CONNECTION_TIMED_OUT": {
+      "message": "错误：连接超时。"
+   },
+   "errorCode_EXTENSION_UPDATED": {
+      "message": "错误：扩展可能已更新了，请尝试刷新页面以重新启动扩展。"
+   },
+   "errorCode_LANGUAGE_NOT_SOPPORTED": {
+      "message": "错误：当前翻译源不支持这种语言。"
+   },
+   "errorCode_NO_RESULT": {
+      "message": "错误：无翻译结果。"
+   },
+   "errorCode_RESULT_ERROR": {
+      "message": "错误：服务器返回了一个意外的结果。"
+   },
+   "errorCode_SOURCE_ERROR": {
+      "message": "错误：未找到翻译源。"
+   },
+   "extActivateExtensionDescription": {
+      "message": "激活扩展"
+   },
+   "extCallOutCommandDescription": {
+      "message": "在网页中唤出扩展"
+   },
+   "extCloseCommandDescription": {
+      "message": "在网页中关闭扩展"
+   },
+   "extDescription": {
+      "message": "划词翻译集成谷歌、百度强大翻译能力和朗读引擎，可以方便的查看、复制和朗读不同引擎的翻译结果。英文翻译，中文翻译等。支持网页翻译、PDF 阅读器。"
+   },
+   "extListenCommandDescription": {
+      "message": "朗读您选择的文本"
+   },
+   "extName": {
+      "message": "谷歌划词翻译"
+   },
+   "extOpenSeparateWindowDescription": {
+      "message": "打开独立翻译窗口"
+   },
+   "extOpenWithPdfViewerDescription": {
+      "message": "用 PDF 阅读器打开此页面"
+   },
+   "extToggleAutoInsertResultDescription": {
+      "message": "切换“自动在网页中插入翻译结果”选项"
+   },
+   "extTranslateCommandDescription": {
+      "message": "翻译您选择的文本"
+   },
+   "extTranslateCurrentPageDescription": {
+      "message": "翻译当前页面"
+   },
+   "optionsAfterSelectingText": {
+      "message": "选择文本后"
+   },
+   "optionsAfterSelectingTextDescription": {
+      "message": "你在网页中选择的文本将会被处理。文本通过正则表达式被置为空后，按钮将不会被展示，文本也不会被自动翻译。非文字已被默认置换为空。"
+   },
+   "optionsAllowExtensionToReadClipboard": {
+      "message": "允许扩展读取剪贴板"
+   },
+   "optionsAllowExtensionToReadClipboardDescription": {
+      "message": "部分功能需要你允许扩展去读取剪贴板来获取最后的文本。如：自动粘贴到输入框中。"
+   },
+   "optionsAudio": {
+      "message": "朗读"
+   },
+   "optionsAutoInsertResult": {
+      "message": "自动在网页中插入翻译结果"
+   },
+   "optionsAutoInsertResultDescription": {
+      "message": "启用此选项后，扩展将在翻译请求完成并可以插入时自动在网页中插入翻译结果。你可以通过使用“切换‘自动在网页中插入翻译结果’选项”键盘快捷键来切换此选项。"
+   },
+   "optionsAutoPasteInTheInputBoxErrorDescription": {
+      "message": "错误：未能获得读取剪贴板的许可。你需要允许该扩展读取剪贴板。你可以点击 URL 栏右边的图标来允许该扩展访问剪贴板。同样你可以通过以下链接来管理剪贴板权限："
+   },
+   "optionsAutoTranslateAfterInput": {
+      "message": "在输入框输入后自动翻译"
+   },
+   "optionsAutoTranslateAfterInputDescription": {
+      "message": "当你在输入框输入后，经过0.6秒，扩展会自动发送翻译请求。当不启用时，需要使用“Ctrl + Enter”快捷键来发送翻译请求。"
+   },
+   "optionsBeforeSendingTranslateRequest": {
+      "message": "在发送翻译请求之前"
+   },
+   "optionsBeforeSendingTranslateRequestDescription": {
+      "message": "你要翻译的文本将在发送翻译请求之前进行处理。"
+   },
+   "optionsBeta": {
+      "message": "该功能可能没有开发完整，可能会存在兼容性和破坏性的问题。如果想要报告错误或者提出功能上的建议，请与开发者联系。"
+   },
+   "optionsButtonCopy": {
+      "message": "复制"
+   },
+   "optionsButtonListen": {
+      "message": "朗读"
+   },
+   "optionsButtonTranslate": {
+      "message": "翻译"
+   },
+   "optionsButtonsPosition": {
+      "message": "按钮的位置"
+   },
+   "optionsCallOutCommandDescription": {
+      "message": "当扩展在网页中启用时，点击此快捷键可以直接唤出扩展。当在已唤出扩展的状态下点击此快捷键时，将会聚焦文本框。"
+   },
+   "optionsChangeLog": {
+      "message": "更新日志"
+   },
+   "optionsClipboard": {
+      "message": "剪贴板"
+   },
+   "optionsContextMenus": {
+      "message": "右键菜单"
+   },
+   "optionsConvertCamelCase": {
+      "message": "转换驼峰式"
+   },
+   "optionsCustomizeHere": {
+      "message": "在此自定义"
+   },
+   "optionsCustomizeStyle": {
+      "message": "自定义样式"
+   },
+   "optionsCustomizeStyleDescription": {
+      "message": "在此输入的 CSS 将会注入到除了设置页外的所有页面。"
+   },
+   "optionsCustomizeStyleNotice": {
+      "message": "注意：不能保证元素和类名不会更改。一旦元素和类名被更改了，你在此输入的 CSS 可能会造成样式错乱，然后你可能会需要调整你所输入的 CSS。"
+   },
+   "optionsDarkMode": {
+      "message": "黑夜模式"
+   },
+   "optionsDefaultAudioOptions": {
+      "message": "默认朗读选项"
+   },
+   "optionsDefaultTranslateOptions": {
+      "message": "默认翻译选项"
+   },
+   "optionsDisplayMode": {
+      "message": "翻译结果的显示方式"
+   },
+   "optionsDoNotRespondInTextBox": {
+      "message": "不在文本框中响应"
+   },
+   "optionsDoNotRespondInTextBoxDescription": {
+      "message": "在文本框内选择文本时，扩展不会展示按钮和自动翻译。"
+   },
+   "optionsDomainfilter": {
+      "message": "域名筛选"
+   },
+   "optionsEnableContextMenus": {
+      "message": "启用右键菜单"
+   },
+   "optionsEnableHistory": {
+      "message": "启用翻译历史"
+   },
+   "optionsEnableInsertResult": {
+      "message": "允许扩展在网页中插入翻译结果"
+   },
+   "optionsEnableInsertResultDescription": {
+      "message": "在你启用这个选项并且在可插入结果的情况下，翻译结果后会有一个“插入”图标。点击该图标后，扩展会在你选择的文本的后面插入翻译结果。再次点击图标会移除之前插入的翻译结果。"
+   },
+   "optionsEnablePdfViewer": {
+      "message": "启用 PDF 阅读器"
+   },
+   "optionsEnablePdfViewerDescription": {
+      "message": "启用此选项时，此扩展将重定向所有 PDF 文件的 URL。通过使用 PDF 阅读器，可以令此扩展在 PDF 文件内使用。如果你想要对本地 PDF 文件也启用此扩展，请在扩展管理中勾选“允许访问文件 URL”。"
+   },
+   "optionsEnabled": {
+      "message": "启用"
+   },
+   "optionsFlags": {
+      "message": "标志"
+   },
+   "optionsFontSizeOfTranslatePanel": {
+      "message": "翻译面板的字体大小"
+   },
+   "optionsFrom": {
+      "message": "源语言"
+   },
+   "optionsHideButtonAfterFixedTime": {
+      "message": "在固定时间后隐藏按钮"
+   },
+   "optionsHistory": {
+      "message": "翻译历史"
+   },
+   "optionsHistoryBlackListMode": {
+      "message": "黑名单模式"
+   },
+   "optionsInWebPage": {
+      "message": "在网页中"
+   },
+   "optionsKeyboardShortcut": {
+      "message": "快捷键"
+   },
+   "optionsLanguage": {
+      "message": "语言"
+   },
+   "optionsLearnMoreAboutTextPreprocessing": {
+      "message": "深入了解文本预处理。"
+   },
+   "optionsMaxHeightOfTranslatePanel": {
+      "message": "翻译面板的最大高度"
+   },
+   "optionsMode": {
+      "message": "模式"
+   },
+   "optionsModify": {
+      "message": "修改"
+   },
+   "optionsMore": {
+      "message": "其它"
+   },
+   "optionsMoreFeaturesOrBugReports": {
+      "message": "更多功能或错误报告"
+   },
+   "optionsMultipleTranslateMode": {
+      "message": "复数翻译模式"
+   },
+   "optionsNoControlBarWhileFirstActivating": {
+      "message": "首次激活时不显示控制栏"
+   },
+   "optionsNoControlBarWhileFirstActivatingDescription": {
+      "message": "只有当“激活网页翻译后直接翻译”选项启用后此选项才会生效。启用此选项后，首次激活“网页翻译”将不会展示控制栏。首次激活后，再次激活“网页翻译”可以展示或隐藏控制栏。"
+   },
+   "optionsNotEnabled": {
+      "message": "未启用"
+   },
+   "optionsOriginalText": {
+      "message": "原文"
+   },
+   "optionsPattern": {
+      "message": "模式"
+   },
+   "optionsPatternCanNotBeEmpty": {
+      "message": "模式不能为空。"
+   },
+   "optionsPercentage": {
+      "message": "百分比"
+   },
+   "optionsPinThePanelWhileOpeningIt": {
+      "message": "打开面板时将其固定"
+   },
+   "optionsPinThePanelWhileOpeningItDescription": {
+      "message": "在面板处于隐藏的状态下进行翻译或是使用“在网页中唤出扩展”快捷键时会自动固定面板。"
+   },
+   "optionsPlayTestAudio": {
+      "message": "播放测试音频"
+   },
+   "optionsPlaybackRate": {
+      "message": "播放速率"
+   },
+   "optionsPreferredLanguage": {
+      "message": "首选语言"
+   },
+   "optionsPreferredLanguageDescription": {
+      "message": "当翻译的目标语言为“自动选择”时，会翻译为“首选语言”。当文本的语言与“首选语言”相同时，将会翻译为“次选语言”。"
+   },
+   "optionsPreview": {
+      "message": "预览："
+   },
+   "optionsReadClipboardAutomatically": {
+      "message": "自动粘贴到输入框中"
+   },
+   "optionsReadClipboardAutomaticallyDescription": {
+      "message": "打开弹出页面或独立翻译窗口时，最后的剪贴板文本将自动粘贴到输入框中。"
+   },
+   "optionsRememberHistoryPanelStatus": {
+      "message": "记住翻译历史面板的状态"
+   },
+   "optionsRememberPositionOfPinnedPanel": {
+      "message": "记住面板固定的位置"
+   },
+   "optionsRememberPositionOfPinnedPanelDescription": {
+      "message": "在未固定的状态下点击图钉图标时会自动移到最后固定的位置。在已固定的状态下移动面板后会把当前位置自动同步到所有页面中。"
+   },
+   "optionsRememberStwSizeAndPosition": {
+      "message": "记住独立翻译窗口的大小与位置"
+   },
+   "optionsReplaceWithRegExp": {
+      "message": "用正则表达式替换"
+   },
+   "optionsReplacement": {
+      "message": "替换值"
+   },
+   "optionsResetSizeAndPosition": {
+      "message": "重置大小与位置"
+   },
+   "optionsRespondToSeparateWindow": {
+      "message": "响应到独立翻译窗口"
+   },
+   "optionsSecondPreferredLanguage": {
+      "message": "次选语言"
+   },
+   "optionsShowButtonAfterSelect": {
+      "message": "选择文本后展示按钮"
+   },
+   "optionsShowButtonAfterSelectDescription": {
+      "message": "当你选择一些文本并释放鼠标左键后，将显示你在下方所勾选的按钮。按钮的顺序与你勾选的顺序相关。如果你不想显示任何按钮，只需取消勾选所有按钮即可。"
+   },
+   "optionsSource": {
+      "message": "源"
+   },
+   "optionsSourceList": {
+      "message": "源列表"
+   },
+   "optionsStwAutoRespondDescription": {
+      "message": "独立翻译窗口会自动响应你在扩展不可用的页面中点击右键菜单中的“翻译”项后产生的翻译请求。"
+   },
+   "optionsStwDescription": {
+      "message": "独立翻译窗口使用“复数翻译模式”的翻译面板，与其共用同一套翻译设置。独立翻译窗口也可以响应键盘快捷键。"
+   },
+   "optionsTestSomeText": {
+      "message": "测试一些文本"
+   },
+   "optionsTestSomeTextDescription": {
+      "message": "在下方左边的文本框里输入文本后会在右边的文本框里展示处理后的文本。"
+   },
+   "optionsTextPreprocessing": {
+      "message": "文本预处理"
+   },
+   "optionsTextPreprocessingDescription": {
+      "message": "“文本预处理”通过正则表达式来匹配字符串，并在匹配后将其替换。如果你不熟悉正则表达式，则不建议自己编写正则表达式。"
+   },
+   "optionsTheFixedTimeOfHidingButton": {
+      "message": "隐藏按钮的固定时间"
+   },
+   "optionsTheme": {
+      "message": "主题"
+   },
+   "optionsTitle": {
+      "message": "常规选项"
+   },
+   "optionsTo": {
+      "message": "目标语言"
+   },
+   "optionsTranslate": {
+      "message": "翻译"
+   },
+   "optionsTranslateBlackListMode": {
+      "message": "黑名单模式"
+   },
+   "optionsTranslateDirectly": {
+      "message": "直接翻译"
+   },
+   "optionsTranslateDirectlyWhilePinning": {
+      "message": "翻译面板固定时直接翻译"
+   },
+   "optionsTranslatePanel": {
+      "message": "翻译面板"
+   },
+   "optionsTranslateToTargetLanguage": {
+      "message": "翻译为目标语言"
+   },
+   "optionsTranslateWithKeyPress": {
+      "message": "按住 Ctrl 键并选择文本后翻译"
+   },
+   "optionsTranslation": {
+      "message": "译文"
+   },
+   "optionsUseDotCn": {
+      "message": "在 URL 中使用“.cn”（例如：translate.google.cn）"
+   },
+   "optionsVolume": {
+      "message": "音量"
+   },
+   "optionsWebPageTranslateDirectly": {
+      "message": "激活网页翻译后直接翻译"
+   },
+   "optionsWebPageTranslateDirectlyDescription": {
+      "message": "启用此选项并激活网页翻译后，你无需点击“开始网页翻译”按钮，网页将被自动翻译。"
+   },
+   "optionsWebPageTranslating": {
+      "message": "网页翻译"
+   },
+   "optionsWebPageTranslatingDescription": {
+      "message": "“网页翻译”是一种可以用你想要的语言翻译整个网页的功能。你可以通过右键菜单或键盘快捷键激活网页翻译。激活网页翻译后，页面右下角会出现一个控制栏。"
+   },
+   "optionsWidthOfTranslatePanel": {
+      "message": "翻译面板的宽度"
+   },
+   "popupDisableDarkMode": {
+      "message": "禁用黑夜模式"
+   },
+   "popupDisableHistory": {
+      "message": "在此网站禁用历史"
+   },
+   "popupDisableTranslate": {
+      "message": "在此网站禁用翻译"
+   },
+   "popupEnableDarkMode": {
+      "message": "启用黑夜模式"
+   },
+   "popupEnableHistory": {
+      "message": "在此网站启用历史"
+   },
+   "popupEnableTranslate": {
+      "message": "在此网站启用翻译"
+   },
+   "popupNotAvailable": {
+      "message": "在此网站不可用"
+   },
+   "popupOpenOptionsPage": {
+      "message": "打开选项页面"
+   },
+   "popupSwitchToTheNextTheme": {
+      "message": "切换到下一个主题"
+   },
+   "sentenceAddTranslateSource": {
+      "message": "请添加翻译源。"
+   },
+   "sentenceNoResult": {
+      "message": "无结果。"
+   },
+   "sentenceRefreshPage": {
+      "message": "刷新页面"
+   },
+   "sentenceSearchLanguages": {
+      "message": "搜索语言"
+   },
+   "themeBackgroundColor": {
+      "message": "背景颜色"
+   },
+   "themePreset": {
+      "message": "预设"
+   },
+   "themeSaveColor": {
+      "message": "保存颜色"
+   },
+   "themeTextColor": {
+      "message": "文本颜色"
+   },
+   "themeThemeName": {
+      "message": "主题名称"
+   },
+   "titleSeparateWindow": {
+      "message": "独立翻译窗口"
+   },
+   "wordCancel": {
+      "message": "取消"
+   },
+   "wordRelated": {
+      "message": "相关"
+   },
+   "wordRequesting": {
+      "message": "正在请求……"
+   },
+   "wordRetry": {
+      "message": "重试"
+   },
+   "wordSave": {
+      "message": "保存"
+   },
+   "wordTranslate": {
+      "message": "翻译"
+   }
+}

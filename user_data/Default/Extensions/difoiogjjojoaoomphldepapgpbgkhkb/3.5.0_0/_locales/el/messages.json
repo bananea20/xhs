@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "Πλαϊνή γραμμή ChatGPT ως βοηθός τεχνητής νοημοσύνης σε οποιαδήποτε σελίδα"
+   },
+   "appDescEdge": {
+      "message": "Sider -- πλευρική γραμμή AI που υποστηρίζεται από το ChatGPT του OpenAI"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

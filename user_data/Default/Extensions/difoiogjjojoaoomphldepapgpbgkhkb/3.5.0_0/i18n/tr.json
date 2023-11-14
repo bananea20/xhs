@@ -1,0 +1,907 @@
+{
+  "sidebar": "kenar çubuğu",
+  "shortcut": "Kısayol tuşu",
+  "ask": "Sormak",
+  "save": "Kaydet",
+  "saved": "kaydedildi",
+  "delete": "Silmek",
+  "remove": "Kaldırmak",
+  "cancel": "İptal etmek",
+  "stop": "Durmak",
+  "insert": "Sokmak",
+  "replace": "Yer değiştirmek",
+  "ok": "TAMAM",
+  "submit": "Göndermek",
+  "attention": "Fark etme",
+  "send": "Göndermek",
+  "copy": "kopyala",
+  "copied": "kopyalandı",
+  "clear": "Temizlemek",
+  "quote": "Alıntı",
+  "collapse": "Kenar çubuğunu daralt",
+  "done": "Tamamlamak",
+  "manage": "Üstesinden gelmek",
+  "template": "şablon",
+  "edit": "Düzenlemek",
+  "add": "Eklemek",
+  "feedback": "Geri bildirim",
+  "tweetit": "Tweetle",
+  "fullPageChat": "Tam sayfa sohbet",
+  "whatNew": "Yeni Özellikler",
+  "gotIt": "Anladım",
+  "settings": "Ayarlar",
+  "signin": "Kayıt olmak",
+  "signinNow": "Şimdi giriş yap",
+  "unlimited": "Sınırsız",
+  "share": "Paylaşmak",
+  "myChats": "Sohbetlerim",
+  "general": "Genel yapılandırma",
+  "archive": "Arşiv",
+  "unarchive": "arşivden çıkar",
+  "searchPage": "Arama Sayfası",
+  "addons": "eklentiler",
+  "webStore": "İnternet mağazası",
+  "webApp": "internet uygulaması",
+  "webAccess": "Web Erişimi",
+  "upgradeNow": "Hemen Yükselt",
+  "upgrade": "Güncelleme",
+  "language": "Dil",
+  "theme": "Tema",
+  "sendShortcut": "Kısayol gönder",
+  "model": "Modeli",
+  "version": "Sürüm",
+  "more": "Daha",
+  "listen": "Dinlemek",
+  "skip": "Atlamak",
+  "vote": "Oy",
+  "invite": "Davet etmek",
+  "hide": "Saklamak",
+  "pin": "iğnelemek",
+  "unpin": "sabitlemeyi kaldır",
+  "showMore": "Daha fazla göster",
+  "editTitle": "Başlığı düzenle",
+  "summarize": "özetle",
+  "summarizing": "Özetleme",
+  "answering": "Cevaplama",
+  "productivity": "Verimlilik",
+  "modelUpdateSuccess": "Model başarıyla güncellendi",
+  "modelUpdateFailed": "Model güncellenemedi",
+  "customPrompt": "Özel bilgi istemi",
+  "currentTpl": "Geçerli şablon:",
+  "current": "Akım",
+  "extra": "ekstra",
+  "editTpl": "Bu şablonu düzenle",
+  "delteTpl": "Bu şablonu sil",
+  "restoreTpl": "Bu şablonu geri yükle",
+  "archiveTpl": "Bu şablonu arşivle",
+  "showTpl": "Bu şablonu göster",
+  "prompts": "İstemler",
+  "imageRetryTip": "Yükleme başarısız. Yeniden denemek için tıklayın.",
+  "mentionBot": "Bahsetme Botu",
+  "promptName": "İstem Adı",
+  "promptContent": "Bilgi İstemi İçeriği",
+  "contactUs": "Bize Ulaşın",
+  "webAssistant": "Web Asistanı",
+  "quickAction": "İçerik Menüsü",
+  "promptManage": "İstem Yöneticisi",
+  "issueType": "Sorun Tipi",
+  "pinExt": "Pin uzantısı",
+  "yourEmailAddress": "E-posta Adresiniz",
+  "troubleshooting": "Sorun giderme",
+  "openSidebar": "Kenar çubuğunu aç",
+  "pasteSelection": "Seçimi yapıştır",
+  "pasteTextPage": "Sayfadan metin yapıştır",
+  "getAnotherKey": "Başka Bir Anahtar Al",
+  "showSearchPanel": "Arama Panelini Göster",
+  "getItNow": "Şimdi sahip ol",
+  "notNow": "Şimdi değil",
+  "alwaysDisplay": "Her Zaman Görüntüle",
+  "queries": "Sorguları",
+  "total": "Toplam",
+  "getMore": "Daha fazla al",
+  "goPremium": "Premiuma yükselt",
+  "goPremiumGetMore": "daha fazlasını elde etmek için premium'a yükseltin",
+  "myAccount": "Hesabım",
+  "clickToAsk": "sormak için tıklayın",
+  "searchingFor": "aranıyor:",
+  "searchedFor": "Aranan:",
+  "using": "Kullanma",
+  "used": "Kullanılmış",
+  "switchAndContinue": "Değiştir ve devam et",
+  "ExtractText": "Resimden metin çıkar",
+  "describleImage": "Bu resmi açıklayın",
+  "pricePerDay": "{{num}}/gün'den az",
+  "readingAssistant": "Okuma Asistanı",
+  "writingAssistant": "Yazma Asistanı",
+  "moreQueries": "Daha fazla sorgu!",
+  "newPlan": "Yeni plan!",
+  "all": "Tüm",
+  "success": "Başarı",
+  "usedIn": "Kullanılan",
+  "check": "Kontrol etmek",
+  "example": "Örnek",
+  "ChangeTone": "Tonu değiştir",
+  "screenshot": "Ekran görüntüsü",
+  "uploadImage": "Bir görüntü yükle",
+  "hideImage": "Resmi gizle",
+  "showImage": "Resmi göster",
+  "fullscreen": "Tam ekran",
+  "OR": "VEYA",
+  "refresh": "Yenile",
+  "phoneNumber": "Telefon numarası",
+  "recognizing": "tanıma",
+  "result": "Sonuç",
+  "describeImage": "Bu resmi açıklayın",
+  "inviteFriendTip": "Ekstra sorgu almak için <a>arkadaşlarınızı davet edin</a>",
+  "resetTime": "<a>3 Ağu 2023</a>'de sıfırlayın",
+  "imageQuoteTipTitle": "Resmi tekrar sor? Görselden alıntı yapmanız gerekmektedir",
+  "imageQuoteTipContent": "Görsel hakkında tekrar soru sormak için alıntı yapmanız yeterlidir.",
+  "ocrEmptyMsg": "Üzgünüm, bu resimde metin bulamıyorum.",
+  "imageInputHint": "Bu görsel hakkında sorular sorun",
+  "popupPage": {
+    "thank": "{{APP_NAME}} uzantısını kullandığınız için teşekkür ederiz!",
+    "desc": "Geçerli sayfa benzersiz bir sayfadır ve kenar çubuğu özelliği kullanılamaz. Ancak, sohbet etmek için tam bir sayfa açabilirsiniz!",
+    "chatNow": "Şimdi sohbet et"
+  },
+  "setupPage": {
+    "loginSuccess": "Giriş başarılı",
+    "welcome": "{{APP_NAME}} uygulamasına hoş geldiniz!",
+    "loginWith": "{{name}} ile oturum açın",
+    "pinTips": "<b>{{APP_NAME}}</b>'i sabitleyin, daha kolay erişim sağlayın!",
+    "pinClickTip": "{{icon}} uygulamasını sabitlemek için {{APP_NAME}} simgesini tıklayın",
+    "next": "Sonraki",
+    "pinGuideDesc": "Uzantıya erişimi kolaylaştırmak için lütfen aşağıdaki adımları izleyerek sabitlenmiş kalmasına izin verin.\n1. Profil avatarınızın yanındaki yapboz simgesine <b>SİMGE</b> tıklayın.\n2. Açılır menüde {{APP_NAME}} uygulamasını bulun.\n3. Raptiye simgesini maviye dönene kadar tıklayın.",
+    "signInGuideTitle": "Aşağıdakilerin kilidini açmak için şimdi oturum açın:",
+    "signInGuideStep1": "Uzantı ayarlarını bilgisayarlar arasında senkronize edin",
+    "signInGuideStep2": "İstemlerinize farklı dizüstü bilgisayarlardan erişin",
+    "signInGuideStep3": "Sohbetleri ileride kullanmak üzere kaydedin",
+    "signInGuideStep4": "Sohbetleri bağlantı yoluyla paylaşın",
+    "welcomeGuide": "{{APP_NAME}} uygulamasına hoş geldiniz",
+    "step1Label": "ilk adım",
+    "step2Label": "ikinci adım",
+    "tryOut": "denemek"
+  },
+  "getKeyPage": {
+    "welcome": "{{APP_NAME}}'a hoş geldiniz! İşte başlama yolculuğunuz:",
+    "stepTitle": "API anahtarı nasıl alınır.",
+    "step1": "1. Adım: API anahtarını alın",
+    "step1-1": "<i>OpenAI hesabınıza giriş yapın</i> Hesabınız yoksa <b>BURADAN</b> kaydolun",
+    "step1-2": "OpenAI API Anahtarı sayfasını ziyaret edin",
+    "step1-3": "Yeni bir gizli anahtar oluşturun ve aşağıdaki gibi kopyalayın",
+    "step2": "2. Adım: API Anahtarını aşağıdaki kutuya yapıştırın",
+    "step2-tips": "Merak etme. API anahtarınız yalnızca yerel olarak ChatGPT uzantısında kullanılır. API'yi kullanmak, ChatGPT'yi doğrudan kullanmaktan daha kararlıdır.",
+    "step3": "3. Adım: Kredilerinizi <i>buradan</i> kontrol edin"
+  },
+  "optionPage": {
+    "howToAccess": "ChatGPT'ye nasıl erişilir ve her yerde nasıl kullanılır?",
+    "howToAccessTip": "Yapay zekaya herkesin erişebildiğinden emin olmak için ChatGPT'ye erişmenin ve onu her yerde kullanmanız için 3 yol sunuyoruz.",
+    "recommend4all": "(Herkese tavsiye edilir)",
+    "sidebarProvider": "Kenar Çubuğu, istikrarlı erişim sağlamak için ChatGPT Premium API'yi kullanır.",
+    "sidebarProviderGoPremium": "Herkes için AI erişilebilirliğini garanti etmek için {{num}} ücretsiz günlük sorgu sunuyoruz. Günlük sorgu sınırınızı artırmak ve <a>herkes için Evrensel Yapay Zeka sağlama</a> misyonumuzu desteklemek için <b>premium sürüme geçin</b>.",
+    "webappProvider": "ChatGPT web uygulamasını destekleyen API ücretsizdir, ancak bazen kararsız olabilir.",
+    "webappGPT4": "(ChatGPT Plus kullanıcıları deneyebilir)",
+    "webappTip1": "ChatGPT Plus kullanıcısıysanız, artık GPT-4'ü seçme seçeneğiniz vardır. Ancak OpenAI, günde gönderebileceğiniz mesaj sayısını sınırlayabilir.",
+    "webappTip2": "Lütfen <m>ChatGPT sekmesini sabitleyin</m> ve ChatGPT web sitesinde oturumunuzu açık tutun. Ancak, bu istikrarı garanti etmeyebilir. Herhangi bir sorunla karşılaşırsanız, <v>ChatGPT web sitesini </v> ziyaret edin ve sayfayı yenileyin.",
+    "GPT4Desc": "Web sitesindeki ChatGPT hesabınızda oturum açmış durumda kalmalısınız. OpenAI kısıtlaması nedeniyle hem Plus kullanıcıları hem de ücretsiz kullanıcılar için kararlılık tutarsız olabilir.",
+    "apiKeyProviderTip": "(API anahtarına sahip geliştiriciler için)",
+    "apiKeyProvider": "Resmi OpenAI API'si daha kararlıdır ve ücretler kullanıma bağlıdır.",
+    "apiKeyLocally": "API Anahtarınız tarayıcınızda yerel olarak saklanır ve asla başka bir yere gönderilmez.",
+    "ownURL": "Kendi URL'mi kullan",
+    "apiKeyTip1": "Ücretsiz OpenAI API anahtarınızın süresi dolmuş olabilir. Lütfen <a>API anahtarının sona erme durumunu buradan kontrol edin.</a>",
+    "apiKeyTip2": "Ücretsiz OpenAI API anahtarını kullanırsanız, yüksek talep gördüğünde ChatGPT'ye erişim istikrarlı olmayabilir.",
+    "apiFreeGuide": "API anahtarını almak için kılavuzu izleyin.",
+    "apiKeyGpt4Tip": "Bir GPT-4 API anahtarı girerseniz uzantı GPT-4'ü destekler.",
+    "displaySearchRes": "Arama sonuç sayfalarının yanında ChatGPT yanıtını görüntüleyin",
+    "whenToAsk": "ChatGPT'ye ne zaman sorulmalı?",
+    "promptTplForSearch": "Google ve diğer arama motorları için bilgi istemi şablonu",
+    "addNewTplForSearch": "Yeni bilgi istemi şablonu ekle",
+    "launchSidebar": "Kenar çubuğunu başlat",
+    "sidebarLocation": "Kenar Çubuğu Konumu",
+    "sidebarLeftOrRight": "Kenar çubuğunu sol veya sağ tarafa yerleştirin",
+    "sidebarDisplayOption": "Kenar Çubuğu Görüntüleme Modu",
+    "sidebarDisplayOptionTip": "Kenar çubuğunun sayfada nasıl görüneceğini seçin",
+    "sidebarDisplayOptions": {
+      "overlay": "Kaplama",
+      "expand": "Genişleyen"
+    },
+    "sidebarIcon": "Kenar Çubuğu Simgesi",
+    "sidebarIconAccess": "Sayfanın sağ alt köşesinde bulunan simge aracılığıyla kenar çubuğuna erişin. Yukarı ve aşağı taşımak için sürükleyebilirsiniz",
+    "easiestWayUse": "{{APP_NAME}} kullanmanın en kolay yolu",
+    "displayWhenSelect": "Metin seçildiğinde göster",
+    "promptTplForSidebar": "Kenar çubuğu için bilgi istemi şablonu",
+    "dragSidebarTpl": "Şablonu yeniden sıralamak için sürükleyip bırakın VEYA kullanmayacağınızı arşivleyin",
+    "addNewTplForSidebar": "Yeni bilgi istemi şablonu ekle",
+    "editSearchTplTip": "arama anahtar kelimelerinizi yönlendirmek için {{keywords}} kullanın",
+    "editSearchTplPlaceholder": "Bilgi istemi içeriğindeki {{keywords}}, sihirli bir şekilde arama anahtar kelimelerinizle değiştirilecek",
+    "editSidebarTplTip": "İçeriği buraya yapıştırın veya girin",
+    "showOnList": "Listede göster",
+    "translatorNavTitle": "Hızlı Arama",
+    "translatorTitle": "Hızlı Arama Penceresi",
+    "translatorFabTitle": "Hızlı Arama simgesi",
+    "translatorFabDesc": "Simge aracılığıyla hızlı arama penceresine erişin.",
+    "translatorFabToggleLabel": "Metin seçildiğinde göster",
+    "translatorTplTitle": "Açılır pencere için bilgi istemi şablonu",
+    "translatorTplDesc": "İlk ana şablon, açılır pencere için varsayılan komut olarak kullanılacaktır.",
+    "translatorPrimaryTemplates": "Ana şablonlar",
+    "translatorTemplatesNotes": "*Bu açılır pencere, kenar çubuğuyla aynı şablonları paylaşır. Bir şablonu düzenlemeniz veya eklemeniz gerekirse, lütfen şablonu <b>kenar çubuğundaki Ayarlar</b>'da değiştirin.",
+    "translatorIntroTitle": "🤔 Hızlı Arama nedir?",
+    "translatorIntroDesc": "Hızlı Arama, {{APP_NAME}} uygulamasının hızlı bir işlemidir ve bir dizi yararlı araç sunar.\n\nMetni seçtiğinizde anında görünür. Tek bir tıklama ile metinleri hızlıca çevirebilir, yeniden yazabilir, açıklamalar alabilir ve çok daha fazlasını yapabilirsiniz. Ek olarak, araçların sırasını yeniden düzenleyebilir ve kendi istemlerinizi özelleştirebilirsiniz.\n\n{{APP_NAME}} uygulamasını etkinleştirmek için tek yapmanız gereken Hızlı Arama simgesine tıklamak.",
+    "translatorHostFabConfigLabel": "Hızlı Arama'nın devre dışı bırakıldığı web sitelerinin listesi",
+    "translatorShortcutLabel": "Hızlı Arama için Kısayol Tuşu",
+    "quickAction": {
+      "shortcutDesc": "Kısayolla {{name}}'ı etkinleştir",
+      "customPromptMenu": "Bu menü için istemi özelleştirin",
+      "readTitle": "Okumak için içerik menüsü",
+      "selectionDesc": "Herhangi bir metni seçtiğinizde menüyü görüntüleyin",
+      "diabledSite": "Bu özelliğin devre dışı bırakıldığı web sitelerinin listesi",
+      "writeTitle": "Yazmak için içerik menüsü (giriş kutusu)",
+      "writeInputIconTitle": "Giriş kutusu simgesi",
+      "writeInputIconDesc": "Herhangi bir giriş kutusunda yazma asistanı simgesini görüntüleyin",
+      "triggerKeyword": "Anahtar kelimeleri tetikleyin",
+      "triggerKeywordDesc": "Anahtar kelimeler aracılığıyla tüm metin girişlerinde {{name}}'yi etkinleştirin",
+      "whatisQuickAction": "🤔 {{name}} nedir?",
+      "quickActionDesc": "{{name}}, metni seçtiğinizde veya bir kısayol tuşu kullandığınızda kullanıma hazır olan değerli araçlardan oluşan bir koleksiyondur. Tek bir tıklama ile okuma veya yazma becerilerinizi hızla geliştirebilirsiniz. Ek olarak, okurken veya yazarken özel gereksinimlerinizi yerine getirmenize yardımcı olması için bilgi istemi giriş kutusunu etkinleştirebilirsiniz. Bu, bir konu için taslak oluşturma, beyin fırtınası yapma ve paragrafları yeniden yazma gibi görevleri içerir."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "YouTube Video Özeti",
+        "desc": "{{APP_NAME}} etkinleştirildiğinde, YouTube videolarını özetlemenize yardımcı olabilir"
+      },
+      "webpage": {
+        "title": "Web Sayfası Özeti",
+        "desc": "{{APP_NAME}} etkinleştirildiğinde, web sayfasındaki makaleleri özetlemenize yardımcı olabilir"
+      },
+      "qa": {
+        "title": "Soru-Cevap Asistanı",
+        "desc": "{{APP_NAME}} etkinleştirildiğinde Quora, StackOverflow ve diğer KG sitelerinde soruyu yanıtlayabilir"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Yeni İstem",
+      "editPrompt": "İstemi Düzenle",
+      "checkPrompt": "İstemi Kontrol Et",
+      "archiveTips": "Arşivlenen istemler senaryolarda gösterilmez ancak aranabilir",
+      "dragTips": "İlgili senaryoda kullanmayacağınız komut istemini yeniden sıralamak VEYA arşivlemek için sürükleyip bırakın",
+      "howToWritePrompt": "istem nasıl yazılır",
+      "howToVarTitle": "Bilgi istemine hangi değişkenler dahil edilebilir?",
+      "howToVar1": "Girişi veya seçilen içeriği temsil etmek için bu değişkeni kullanabilirsiniz. Bilgi istemi bu değişkeni içermiyorsa, giriş veya seçilen içerik üçlü tırnak içine alınacak ve bilgi isteminin en sonuna yerleştirilecektir.",
+      "howToVar2": "Ayarlarda ayarlanan varsayılan dile bağlı olarak çıktı için kullanmak istediğiniz dili temsil etmek için bu değişkeni kullanabilirsiniz.",
+      "howToExample": "Başlıkları, bölümleri ve alt bölümleri içeren bir taslak oluşturmak için lütfen aşağıdaki konuları veya anahtar kelimeleri kullanın.\nMarkdown formatında çıktı alın. Bana sadece çıktıyı ver, başka bir şey yapma. Anahat {{lang}} dilinde olmalıdır.\nKonular veya anahtar kelimeler: {{content}}",
+      "clickToExpand": "Genişletmek için tıklayın",
+      "clickToHide": "Gizlemek için tıklayın"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Sorun Raporu",
+        "title": {
+          "label": "Sorun Özeti",
+          "tip": "Birkaç kelimeyle neyin yanlış gittiğini bize bildirin."
+        },
+        "detail": {
+          "label": "Sorun Ayrıntıları",
+          "tip": "Lütfen neyin yanlış gittiğini, yaptığınız işlemleri ve aldığınız hata mesajlarını ayrıntılı olarak açıklayın."
+        }
+      },
+      "fr": {
+        "name": "Özellik isteği",
+        "title": {
+          "label": "Başlık",
+          "tip": "Talebiniz ne hakkında?"
+        },
+        "detail": {
+          "label": "Tanım",
+          "tip": "Lütfen istediğiniz yeni özelliğin ayrıntılı bir açıklamasını sağlayın."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "ChatGPT'ye sorun:",
+    "savePrompt": "İstemi kaydet",
+    "saveNewPrompt": "Yeni bilgi istemi olarak kaydet",
+    "replacePrompt": "İstemi değiştir",
+    "inputPlaceholder1": "Giriş istemi veya menüden seçim yapın",
+    "inputPlaceholder2": "İçeriği buraya yapıştırın veya girin",
+    "startNewLine": "Yeni bir satır başlatmak için {{shortcut}} tuşuna basın",
+    "inputPlaceholderCodes": "Kodları buraya yapıştırın veya girin",
+    "inputPlaceholderQA": "Soruyu buraya yapıştırın veya girin",
+    "pressToSubmit": "Göndermek için {{key}} tuşuna basın",
+    "response": "Cevap:",
+    "stopGenerating": "Oluşturmayı durdur",
+    "regenerate": "Yanıtı yeniden oluştur",
+    "askTabLabel": "Sormak",
+    "chatTabLabel": "Sohbet",
+    "composeTabLabel": "Yazmak",
+    "ocrTabLabel": "OCR",
+    "grammarTabLabel": "Dilbilgisi",
+    "queryLeft": "{{num}} sorgu kaldı",
+    "queryLeft2": "{{num}} kaldı",
+    "freePlan": "Ücretsiz Plan",
+    "premiumPlan": "Prim Planı",
+    "extraQuota": "Ekstra Kota",
+    "submitOption": "Gönderme Seçeneği",
+    "painterLabel": "Ressam"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Çok hızlı, çoğu günlük görev için harika.",
+    "gpt-4": "En yetenekli model, ileri düzey muhakeme gerektiren karmaşık görevler için en iyisi.",
+    "claude-instant": "Antropik, düşük gecikme süreli, yüksek verimli kullanım örneklerinden temel model.",
+    "claude2": "Anthropic'in sınıfının en iyisi teklif modeli, karmaşık muhakeme gerektiren görevlerde üstün performans.",
+    "bard": "Google'ın modeli (PaLM 2), ileri düzey akıl yürütme görevlerinde iyi performans gösterir."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Maliyet <m>1 Hızlı Metin sorgusu</m>.",
+    "gpt-4": "Maliyet <m>1 Gelişmiş Metin sorgusu</m>."
+  },
+  "sidebarChatPanel": {
+    "newChat": "Yeni sohbet",
+    "chatHistory": "Tarih",
+    "inputPlaceholder": "Bir mesaj yazın...",
+    "send": "Göndermek",
+    "feedback": "Geri bildirim",
+    "share": "Paylaşmak",
+    "deleteConfirmTitle": "Bu görüşme silinsin mi?",
+    "deleteConfirmContent": "Bu işlem geri alınamaz.",
+    "compareWeb": "Web'den yanıtı karşılaştırın",
+    "improveWithXXX": "<b>Bot</b>'tan daha akıllı yanıt alın",
+    "improveWithXXX2": "<b>Bot</b>'tan kapsamlı yanıt alın",
+    "compareWithXXX": "<b>Bot</b>'tan gelen yanıtı karşılaştırın",
+    "improveWithSearch": "Google'dan web yanıtı alın",
+    "improveWithBoth": "Google Yanıtlarını GPT-4 ile düzenleyin",
+    "answerWithoutSearching": "Orijinal <b>Bot</b>'un yanıtını karşılaştırın",
+    "screenshot": "Ekran görüntüsü",
+    "upload": "Yüklemek",
+    "addImage": "Resim ekle",
+    "welcomeQues": [
+      {
+        "title": "🤔 Karmaşık bir kavramı açıklayın",
+        "ques": "Bana Big Bang hakkında bir şeyler söyle ki 5 yaşındaki çocuğuma açıklayayım."
+      },
+      {
+        "title": "🧠 Benzeri görülmemiş fikirlerle beyin fırtınası yapın",
+        "ques": "Lütfen arkadaşımın doğum günü için bana 10 hediye fikri verin."
+      },
+      {
+        "title": "💭 Anında akılda kalıcı başlıklar alın",
+        "ques": "ChatGPT'nin kullanım durumu hakkındaki yazım için akılda kalıcı beş başlık oluşturun"
+      }
+    ],
+    "textSelectedTip": "Seçiminizden metin",
+    "ocrTextTip": "{{name}} Sonuç",
+    "textSelectedSystemMsg": "Metinle ne yapmak istersin?",
+    "welcomeSystemMsg": "Merhaba! Size bugün nasıl yardımcı olabilirim?",
+    "chatActionTranslate": "{{lang}} diline çevir",
+    "addAPrompt": "Bilgi istemi ekle",
+    "search": "Aramak",
+    "continueInChat": "sohbete devam et",
+    "userStopTip": "Kullanıcı isteği iptal etti.",
+    "noChatHistory": "Henüz sohbet geçmişi yok.",
+    "noSearchHistory": "Sonuç bulunamadı.",
+    "webAccessModalTitle": "{{APP_NAME}}, ChatGPT'ye Web'e Erişim Sağlıyor!",
+    "webAccessModalContent": "Unutmayın, ChatGPT'de 2021'de bilgi kesintisi var! Ancak {{APP_NAME}}, ChatGPT'nin gelişmiş zekasını gerçek zamanlı web bilgileriyle birleştirir. Bu özellik önemli miktarda jeton gerektirir, bu nedenle çabalarımızı desteklemek için yükseltmeyi düşünün!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Oluştur",
+    "reply": "Cevap vermek",
+    "writePlaceholder": "Oluşturmak istediğiniz konu",
+    "replyPlaceholder1": "Cevaplamak istediğiniz orijinal metin",
+    "replyPlaceholder2": "Yukarıdaki metne verdiğiniz yanıtın genel içeriği",
+    "submitShortcut": "Taslak oluşturmak için {{shortcut}} tuşuna basın",
+    "generate": "Taslak oluştur",
+    "format": "Biçim",
+    "email": "E-posta",
+    "idea": "Fikir",
+    "outline": "Anahat",
+    "essay": "Makale",
+    "paragraph": "Paragraf",
+    "blog": "Blog yazısı",
+    "ads": "Pazarlama Reklamları",
+    "twitter": "twitter",
+    "comment": "Yorum",
+    "message": "İleti",
+    "tone": "ton",
+    "professional": "Profesyonel",
+    "formal": "Resmi",
+    "casual": "Gündelik",
+    "enthusiastic": "Hevesli",
+    "informational": "bilgilendirici",
+    "funny": "Eğlenceli",
+    "length": "Uzunluk",
+    "short": "Kısa",
+    "medium": "Orta",
+    "long": "Uzun",
+    "preview": "Ön izleme",
+    "regenerate": "yeniden oluştur",
+    "addToSite": "siteye ekle",
+    "addToSiteTip": "Fare imlecinizi istenen giriş kutusuna getirin ve eklemek için '{{name}}' öğesini tıklayın"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Hatayı Düzelt",
+    "retry": "Yeniden dene",
+    "inputPlaceholder": "İngilizce yazınızın hatasız olduğundan emin olun. Dilbilgisi, yazım ve noktalama işareti hatalarını kontrol etmek için metninizi yapıştırın veya aşağıya yazmaya başlayın.",
+    "checking": "Kontrol etme",
+    "checkFailed": "Kontrol Başarısız",
+    "accept": "Kabul etmek",
+    "ignore": "Görmezden gelmek",
+    "continueImproving": "İyileştirmeye Devam Edin",
+    "improveGuideText": "Geliştirilmiş metni ve nedenini almak için burayı tıklayın!",
+    "improvedText": "Geliştirilmiş Metin:",
+    "reasonForChanges": "Değişikliklerin nedeni:"
+  },
+  "OCRPanel": {
+    "ocrTips": "Görüntüden metin, sayı ve denklem çıkarma",
+    "ocrCost": "Her bir {{name}}, {{num}} resim sorgusuna mal olacak",
+    "newOCR": "Yeni {{ocr}}",
+    "noText": "Hiçbir metin tanınmadı"
+  },
+  "translator": {
+    "quickActions": "hızlı aramalar",
+    "disableHostFabLabel": "Bu sitede devre dışı bırak",
+    "disableFabLabel": "Tüm sitelerde devre dışı bırak"
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Uzantımızı beğendiniz mi?</b> Büyümemize yardımcı olması için lütfen web mağazasında bize beş yıldız verin",
+    "newInVersion": "{{versionId}} sürümündeki Yenilikler",
+    "learnToUse": "Nasıl kullanıldığını öğren",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} daha akıllı hale geldi",
+          "features": [
+            "{{4+VISION}}",
+            "Aynı soruyu farklı botlarla yanıtlamak için tek tıkla"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Dilbilgisi Widget'ı",
+          "features": [
+            "Dilbilgisi hatalarını kontrol edin",
+            "Dilbilgisi hatalarını düzeltin",
+            "Yazıyı gramerin ötesinde geliştirin"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Vision özellikli ChatGPT kenar çubuğu",
+          "features": [
+            "Bir görüntüden metin çıkarma",
+            "Resim hakkında herhangi bir soru sorun",
+            "{{SIDERVISION}}'a resim göndermenin 3 yolu <div><ol><li>Ekran görüntüsü alın</li><li>Bir resmi Sohbet penceresine Sürükleyip Bırakın</li><li>Bir resim yükleyin </li></ol> li></div></div>"
+          ]
+        },
+        {
+          "features": [
+            "Bir görüntüden metin çıkarma"
+          ]
+        },
+        {
+          "features": [
+            "Bir görüntüden metin çıkarma"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "5 kat daha fazla GPT-4 sorgusu içeren yeni fiyatlandırma planı",
+          "features": [
+            "Harika haber! Güncellenmiş fiyatlarımız artık GPT-4 ve Claude 2 sorgularına daha da fazla erişim sağlıyor.",
+            "Zaten premium kullanıcıysanız otomatik olarak yükseltileceksiniz. Ayrıca, tüm uzman kullanıcılar için yeni bir 'Sınırsız' planımız var!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Daha fazla bot!",
+          "features": [
+            "ChatGPT ve Claude'un yanı sıra Sider artık Bard'ı da destekliyor!"
+          ]
+        },
+        {
+          "title": "OCR: Herhangi bir görüntüden metni çıkarın ve ChatGPT'ye gönderin",
+          "features": [
+            "10'dan fazla ana dili tanır",
+            "İngilizce el yazısını tanıma",
+            "Metindeki <b>matematik denklemlerini</b> tanıyın"
+          ]
+        },
+        {
+          "title": "Boyacıyı Geliştir",
+          "features": [
+            "Arka planın tamamını değiştir",
+            "Seçilen alanı kaldır"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Daha Fazla Sohbet Robotu</b>: Artık Claude-instant, Claude 2'yi Destekliyor!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Grup Sohbeti</b>: Yanıtları Chatbot'larda Karşılaştırın!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Bahsetme</b>: Konuşma sırasında herhangi bir sohbet robotundan zahmetsizce bahsetmek ve onunla etkileşimde bulunmak için '@' kullanın!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Hızlı İstem</b>: Sadece '/' Yazın ve Devam Edin!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Basit Tasarım</b>: Tasarımı basit ve gezinmesi kolay hale getirin"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Gelişmiş bilgi istemi yöneticisi",
+          "features": [
+            "Bağlam menüsünü okuma",
+            "Bağlam menüsünü yazma"
+          ]
+        },
+        {
+          "title": "AI görüntü düzenleyici",
+          "features": [
+            "Herhangi bir görselden arka planı kaldırın",
+            "Herhangi bir görselden metni kaldırın"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Okuma Asistanı: Web sayfalarını okurken hızlı anlamak için yapay zekayı kullanın",
+        "Yazma Asistanı: Web giriş kutusunda yapay zeka ile hızla içerik oluşturun"
+      ],
+      "2_7_0": [
+        "Metinden resim çiz",
+        "Referans resimden resim çizin"
+      ],
+      "2_6_0": [
+        "Sider, Sabit Kenar Çubuğunu Destekler - Herhangi bir içeriği çakıştırmadan tüm sekmeler arasında sohbet edebilirsiniz <br /> (Chrome 114 veya sonraki sürümlerde mevcuttur)"
+      ],
+      "2_5_0": [
+        "YouTube Özeti! 1 dakikada 1 saatlik YouTube videosunu izleyin",
+        "Quora, StackOverflow ve Zhihu gibi Soru-Cevap sitelerinde insanlar ve yapay zeka tarafından sağlanan yanıtları karşılaştırın"
+      ],
+      "2_4_0": [
+        "<b>Akıllı web erişimi</b>: Al, sorgunuza göre web'e erişmesi gerekip gerekmediğine karar verecektir.",
+        "Stabilite iyileştirme"
+      ],
+      "2_3_0": [
+        "Plus kullanıcıları için Tarama ve Eklentileri Destekleyin!",
+        "Herkes için internet erişimi olan ChatGPT!"
+      ],
+      "2_2_0": [
+        "Herhangi bir mesaj oluşturun",
+        "E-posta, tweet, yorum vb."
+      ],
+      "2_1_0": [
+        "Hızlı Arama için Kısayol",
+        "Hızlı Arama penceresini yeniden boyutlandırma",
+        "Hata düzeltmeleri ve diğer UX geliştirmeleri"
+      ],
+      "2_0_0": [
+        "Tüm kullanıcılar için <b>GPT-4 </b>'ü destekleyin!",
+        "Arkadaşlarınızı davet edin ve ikiniz için de <b>GPT-4</b> sorguları kazanın!",
+        "Hata düzeltmeleri ve diğer UX geliştirmeleri"
+      ],
+      "1_1_0": [
+        "<b>Yeni sekmede</b> Tam Sohbet!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> birlikte!",
+        "Hata düzeltmeleri"
+      ],
+      "1_0_13": [
+        "Soru sorduktan sonra sohbete devam edin",
+        "Plus kullanıcıları için GPT-4 ve GPT-3.5 arasında geçiş yapın",
+        "Sohbet geçmişine kolayca erişin ve arama yapın"
+      ],
+      "1_0_12": [
+        "Uzantı ayarlarını bilgisayarlar arasında senkronize edin",
+        "İstemlerinize farklı dizüstü bilgisayarlardan erişin",
+        "Sohbetleri ileride kullanmak üzere kaydedin",
+        "Sohbetleri bağlantı yoluyla paylaşın"
+      ],
+      "1_0_11": [
+        "Kenar çubuğunu açmadan bir açılır pencere aracılığıyla eylemlere hızla erişin.",
+        "Ek diller için destek ekleyin.",
+        "Çeviri özelliğini kullanırken kullanıcının dil tercihini koruyun.",
+        "GitHub ve diğerleri gibi platformlarda kısayol çakışmalarını çözün."
+      ],
+      "1_0_10": [
+        "Şimdi 50'den fazla dili destekleyin!"
+      ],
+      "1_0_8": [
+        "Plus kullanıcıları için GPT-4'ü destekleyin! Ayarlar sayfasını kontrol edin!"
+      ],
+      "1_0_7": [
+        "Geçen sefer kullanılan istemi hatırla",
+        "Arama sayfalarında chatGPT panelinin konumunu optimize edin",
+        "Kenar çubuğu sayfa içi simgesini sol tarafa koymak için bir seçenek ekleyin",
+        "Paket boyutunu optimize edin",
+        "Karanlık mod ekle",
+        "API url proxy'nizi destekleyin"
+      ],
+      "1_0_6": [
+        "Youtube sayfasında özetleme özelliğini geliştirin"
+      ],
+      "1_0_5": [
+        "Kenar çubuğu simgesinin konumunu hatırla",
+        "Kısayol tuşlarını geliştirin",
+        "Bilgi istemi şablonlarını doğrudan kenar çubuğundan kaydedin"
+      ],
+      "1_0_4": [
+        "Açılır listedeki bilgi istemi öğelerini yeniden sıralayın",
+        "Kullanmayacağınız bilgi istemi öğelerini arşivleyin",
+        "50'den fazla dilde destek yanıtı"
+      ],
+      "1_0_3": [
+        "Hızlı \"Gönder\" yapmak için CMD/Ctrl + Enter",
+        "Arama sonuçları sayfasında paneli gizleme seçeneği",
+        "Kenar çubuğunu gizlemek için ESC'yi destekleyin",
+        "Destek uzun makaleyi özetle"
+      ],
+      "1_0_2": [
+        "Yanıt oluşturmayı durdurmak için durdur düğmesi ekleyin",
+        "Daralt düğmesinin yerini değiştir"
+      ],
+      "1_0_1": [
+        "Youtube sayfasında özetleme özelliğini geliştirin",
+        "Kopyala/yapıştır ve yazdır ile ilgili bazı hataları düzeltin"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Ürün Avına Oy Verin",
+    "sidebar2Banner1": "Haberi yaymak için ŞİMDİ <b>Product Hunt</b>'ta bize oy verin.",
+    "sidebar2ModalTitle": "✨ Kenar Çubuğu 2.0'ın Özeti",
+    "sidebar2ModalDesc": "• Sohbet sekmesi\n  • Hızlı sorgular için hızlı arama\n  • İstemleri senkronize etmek için bir hesap\n  • Sohbetleri kaydedin ve paylaşın\n  • Daha fazla dil desteği\n  • GPT-4'ü destekleyin",
+    "ios1Banner1": "ChitChat için oy verin – ChatGPT iOS uygulaması 🎉",
+    "ios1Banner2": "İşleri bir patlama ile başlatalım! 😄",
+    "ios1ModalTitle": "✨ ChitChat iOS Uygulamasında Yenilikler",
+    "ios1ModalDesc": "• ChatGPT 3.5 ve 4'ten yanıtlar alın\n• Robotlardan oluşan bir destek ekibi size tek bir yerden yardımcı olur\n  • PDF'nizi bir sohbet robotuna dönüştürün"
+  },
+  "searchTool": {
+    "questionMark": "Sorgunuzdan sonra bir soru işareti ekleyerek ChatGPT'yi tetikleyin",
+    "askForQuery": "Bu sorgu için ChatGPT'ye sorun",
+    "fiveStart": "Bu uzantıyı beğendiniz mi? {{store}}'da bize 5 yıldız verin",
+    "loginAndCloudflareCheck": "Lütfen giriş yapın ve {{web}} adresinden Cloudflare kontrolünü geçin",
+    "braveTrouble": "Hala çalışmıyor? {{url}}'yi takip et",
+    "cloudflareCheck": "OpenAI, arada bir güvenlik kontrolünden geçmeyi gerektirir. Bu durum devam ederse, <i>uzantı seçeneklerinde</i> AI sağlayıcısını OpenAI API olarak değiştirin.",
+    "failedResponse": "ChatGPT'den yanıt yüklenemedi:",
+    "waitResponse": "ChatGPT yanıtı bekleniyor..."
+  },
+  "sidepanel": {
+    "title": "Sider, Sabit Kenar Çubuğunu Destekler",
+    "tip": "İpucu: Daha iyi bir deneyim için yan panelin genişliğini uygun şekilde ayarlayın.",
+    "benefit1": "Yeni bir sayfaya giderseniz Sider kenar çubuğunuz <b>hiçbir zaman kaybolmaz</b>.",
+    "benefit2": "<b>Herhangi bir içerik çakışmadan</b> tüm sekmeler arasında sohbet edebilirsiniz.",
+    "benefit3": "Yalnızca <b>Google Chrome 114 veya sonraki sürümlerinde</b> kullanılabilir"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Maliyet {{num}} sorgu",
+    "videoSummaryBtn": "Videoyu Özetle",
+    "loginToSummary": "Özetlemek için oturum açın",
+    "noTranscriptTip": "{{APP_NAME}}, videoları altyazısız özetleyemiyor.",
+    "shownotes": "önemli anlar",
+    "freeLimitTips": "Ücretsiz deneme süreniz doldu, video özeti özelliğini kullanmaya devam etmek için şimdi yükseltin.",
+    "askQuestionBtn": "Soru sor",
+    "noQuestionTip": "{{APP_NAME}}, sorunu sayfaya alamıyor."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "{{APP_NAME}} uygulamasına istediğiniz her şeyi sorun",
+    "defaultPlaceholder2": "Yukarıdaki içeriği {{APP_NAME}}'a sorun",
+    "managePrompts": "İstemleri Yönet",
+    "editSelectionGroup": "Seçimi düzenle veya gözden geçir",
+    "selectionGroup": "Seçimden oluştur",
+    "draftGroup": "{{name}} ile taslak",
+    "AIGenerating": "{{name}} oluşturuyor...",
+    "pressToStop": "Durdurmak için {{name}} tuşuna basın",
+    "pressToClose": "Kapatmak için {{name}} tuşuna basın",
+    "disableOnce": "Bir sonraki ziyarete kadar sakla",
+    "disableSite": "Bu site için devre dışı bırak",
+    "disableGlobal": "Genel olarak devre dışı bırak",
+    "continueImproving": "İyileştirmeye Devam Edin"
+  },
+  "msg": {
+    "supportedFileFormat": "Desteklenen dosya formatları: {{formats}}",
+    "maxFileSize": "Maksimum dosya boyutu: {{size}}",
+    "enterAPIKey": "Lütfen OpenAI API anahtarınızı girin",
+    "selectModel": "Lütfen geçerli bir model seçin",
+    "changeSaved": "değişiklikler kaydedildi",
+    "fiveStart": "Bize 5 yıldız verin",
+    "pleaseContactUs": "Lütfen <a>bizimle iletişime geçin</a>.",
+    "inviteTitle": "Davet ve Ödüller",
+    "inviteEarn": "Siz ve arkadaşlarınız için <mx>{{num}} sorgu</mx> kazanın. <b>Ne kadar çok yönlendirirseniz, o kadar çok kazanırsınız</b>.",
+    "inviteStep1": "Davet bağlantısı ile arkadaşlarınıza önerin",
+    "inviteStep2": "Arkadaşların kaydoluyor",
+    "inviteStep3": "Uzantıyı yüklerler ve oturum açarlar. Kazanılan ödüller!",
+    "checkInvitation": "Davet Kayıtlarını Kontrol Edin",
+    "inviteFriendsEarn": "Arkadaşlarınızı Davet Edin ve GPT-4 sorguları kazanın",
+    "inviteFriends": "Arkadaşları davet etmek",
+    "inviteRewardsRecord": "Ödül Kayıtları:",
+    "invitedRewardObtained": "Ödüller Alındı!",
+    "invitedWelcome": "Hoş geldin! GPT sorguları hesabınıza eklendi!",
+    "invitedRewardTips": "Arkadaşın seni davet ediyor ve her birinizin kullanabileceği <mx>{{num}} sorgu</mx> var",
+    "getMoreGPT4": "Daha fazla GPT-4 kotası alın",
+    "errSiderApiLimit": "Tarafımızdan sağlanan tüm ücretsiz kredileri kullandınız, OpenAI'den bir API almak için lütfen <i>buradaki talimatları</i> takip edin.",
+    "errSiderApiLimitDevice": "Tarafımızdan sağlanan ücretsiz kredilerin tamamını kullandınız. Daha fazla ücretsiz kredi almak için <a>oturum açın</a>.",
+    "errSiderApiLimitLogin": "Kotanıza ulaştınız. Devam etmek için lütfen <a>premium planımıza yükseltmeyi</a> düşünün. Teşekkürler!",
+    "errSiderApiLimitLogin2": "Kotanıza ulaştınız. Devam etmek için lütfen <a>premium planımıza yükseltmeyi</a> düşünün. Teşekkürler!",
+    "errSiderApiLimitPremium": "Kredilerin tamamını kullandınız, lütfen <a>planınızı yükseltin</a>.",
+    "errSiderPremiumRequired": "Bu özelliği kullanmak için lütfen <a>premium sürüme geçin</a>.",
+    "errSiderHighTrafficError": "{{APP_NAME}}, yüksek trafikle karşı karşıya. Lütfen daha sonra tekrar deneyiniz.",
+    "errSiderHighTrafficTip": "İstikrarlı erişim ve gelişimimizi desteklemek için lütfen <a>bir premium hesaba yükseltmeyi</a> düşünün.",
+    "errSiderDeviceBinded": "Kullanmak için lütfen <a>oturum açın</a>.",
+    "errSiderApiHighLoad": "Yoğunluk nedeniyle istek sınırına ulaşıldı, lütfen daha sonra tekrar deneyin.",
+    "errSiderGPT4HighLoad": "Yüksek yük nedeniyle GPT-4 sınırına ulaşıldı, lütfen daha sonra tekrar deneyin.",
+    "errSiderGPT4LimitDevice": "Lütfen önce <b>oturum açın</b> ve daha gelişmiş metin kotası almak için <amb>arkadaşlarınızı davet edin</amb> veya <ta>premium sürüme geçin</ta>.",
+    "errSiderGPT4LimitLogin": "Daha fazla Gelişmiş Metin kotası almak için <t>arkadaşlarınızı davet edin</t> veya <a>premium sürüme geçin</a>.",
+    "errSiderGPT4LimitPremium": "Daha gelişmiş metin kotası almak için <tm>Arkadaşlarınızı davet edin</tm> veya <dm>planınızı yükseltin</dm>.",
+    "errSiderNeedLogin": "Lütfen <a>oturum açın</a>.",
+    "goToSignIn": "Oturum açmaya git",
+    "errSiderTimeout": "İstek zaman aşımına uğradı. Lütfen tekrar deneyin.",
+    "errSiderProcessing": "Bir seferde yalnızca bir mesaj. Lütfen başka bir mesaj göndermeden önce diğer yanıtların tamamlanmasına izin verin veya bir dakika bekleyin.",
+    "errTrySiderAPI": "İstikrarlı erişim elde etmek için (herkes için) <i>ChatGPT Kenar Çubuğu API'sına</i> geçin",
+    "errTrySiderAPI2": "VEYA <a>ayar sayfasında</a> kendi API anahtarınızı kullanın (geliştiriciler için)",
+    "errChatGPTAuth": "Lütfen ChatGPT web sayfanızda <m>oturum açmak için bağlantıyı tıklayın </m> ve biz de onu sabitlemenize yardımcı olacağız. Ardından kenar çubuğunda kullanabilirsiniz.",
+    "errChatGPTAuthTipTitle": "Çalışmazsa:",
+    "errChatGPTFailToFetch": "ChatGPT'den yanıt alınamadı.",
+    "errOpenaiFailToFetch": "API anahtarınız aracılığıyla OpenAI'den yanıt alınamadı.",
+    "errSiderBasicTextLimit": "Temel metin hızı sorgu sınırımıza ulaştınız. Şu anda her {{N1}} dakikada bir {{NUM2}} mesaj kısıtlaması var. Alternatif olarak gelişmiş metin sorgusunu kullanabilir ve daha sonra geri dönebilirsiniz.",
+    "errSiderAdvancedTextLimit": "Gelişmiş metin hızı sorgu sınırımıza ulaştınız. Şu anda her {{N1}} dakikada bir {{NUM2}} mesaj kısıtlaması var. Alternatif olarak, temel metin sorgusunu kullanabilir ve daha sonra geri dönebilirsiniz.",
+    "loginAndCloudflareCheck": "İstikrarlı erişim elde etmek için <a>Kenar Çubuğu API'sına</a> geçin VEYA <i>chat.openai.com</i> adresinden oturum açıp Cloudflare kontrolünden geçin.",
+    "invalidApiKey": "API anahtarı geçersiz, lütfen başka bir tane alın.",
+    "getApiKeyGuide": "Çalışması için bir OpenAI API anahtarına ihtiyacınız var. API anahtarını almak için kılavuzumuzu takip edin.",
+    "thankForFeedback": "Teşekkür ederim. Form başarıyla gönderildi. Kısa süre içinde sizinle iletişime geçeceğiz.",
+    "writeSomething": "Lütfen bir şeyler yazın.",
+    "enterEmail": "Sorunla ilgili güncellemeleri almak için bir e-posta adresi girin.",
+    "emailRequired": "Email gereklidir.",
+    "promptNameRequired": "Bilgi istemi adı gerekli.",
+    "titleRequired": "Başlık gereklidir.",
+    "nameYourPrompt": "İsteminize bir ad verin",
+    "nameYourTitle": "görüşmenize ad verin",
+    "promptTplRequired": "Hızlı içerik gereklidir.",
+    "deletePromptWarn": "Bu istemi silmek istiyor musunuz?",
+    "restorePromptWarn": "Bu bilgi istemi şablonunu geri yüklemek istiyor musunuz?",
+    "notValidEmail": "geçerli bir e-posta değil",
+    "pleaseSignin": "Lütfen giriş yapın.",
+    "signinTips": "İstemlerinizi ve ayarlarınızı senkronize etmek için oturum açın",
+    "signinAward": "Günde {{num}} sorgu almak için oturum açın",
+    "signinAward2": "Sorgular, oturum açmamış kullanıcı için kullanıldı. <b>Günde {{num}} ücretsiz sorgu</b> almak için oturum açabilirsiniz.",
+    "signinAward3": "Günde daha fazla sorgu almak için oturum açın",
+    "chatgptTabGuardTips": "Lütfen bu sekmeyi açık tutun, artık {{APP_NAME}} uygulamasına dönebilirsiniz.",
+    "chatgptTabGuardRefreshingTips": "ChatGPT'de bir şeyler ters gitti. Yeniden bağlanılıyor, lütfen bekleyin...",
+    "chatgptTabGuardRefreshingTips1": "ChatGPT'de bir şeyler ters gitti.",
+    "chatgptTabGuardRefreshingTips2": "Yeniden bağlanılıyor, lütfen bekleyin...",
+    "chatgptTabGuardSetupSuccessTips": "Düzeltildi, lütfen tekrar deneyin",
+    "switchToSiderApiToContinue": "Bu özellik şu anda yalnızca {{APP_NAME}} API modunu desteklemektedir, devam etmek için lütfen <a>{{APP_NAME}} API'sine geçin</a>.",
+    "switchRequired": "Anahtar Gerekli",
+    "signInRequired": "Oturum Açmak Gerekli",
+    "useUpUpgrade": "Kotanız dolmuştur, daha fazla kota almak için lütfen yükseltiniz.",
+    "webSearchSignIn": "Bu özelliği kullanmak için lütfen oturum açın.",
+    "featureLimit": "Özellik Sınırı",
+    "featureLimitTip": "Lütfen Claude ve Bard'ı kullanmak için yükseltme yapın.",
+    "featureUnavailableOnPage": "Bu özellik bu sayfada kullanılamıyor",
+    "featureBrowserLimit": "Tarayıcının kısıtlamaları nedeniyle bu özellik bu sayfada kullanılamıyor. Lütfen bir sayfayı değiştirin ve tekrar deneyin.",
+    "quotaModelContent": "GPT-4/Claude-2 sorgu sınırınıza ulaşıldı. Daha fazla erişim için Premium Plana yükseltin veya ücretsiz ekstra sorgular için arkadaşlarınızı davet edin.",
+    "signinFeature": "Bu özelliğe erişmek için lütfen oturum açın.",
+    "signinFeature2": "Bu özelliğe erişmek için lütfen oturum açın",
+    "dragImgTips": "{{name}} eklemek istediğiniz bir görsele tıklayın veya sürükleyin",
+    "reEnableInSettings": "<a>Ayarlar</a>'dan yeniden etkinleştirebilirsiniz",
+    "switchBarTip": "Gezinme çubuğunu sabitlemek için yan paneli genişletin.",
+    "upgradeSupport": "Bizi desteklemek için premium plana geçin",
+    "imageSizeLimit": "Resim Sınırı",
+    "imageSizeLimitTip": "Lütfen görselin 10 MB'tan küçük olduğundan ve genişliğinin veya yüksekliğinin 4096 pikseli aşmadığından emin olun ve tekrar deneyin.",
+    "errOpenAIFilter": "Yanıt, OpenAI'nin içerik yönetimi politikasını tetikleyen istem nedeniyle filtrelendi. Lütfen isteminizi değiştirin ve yeniden deneyin."
+  },
+  "options": {
+    "theme": {
+      "auto": "otomatik",
+      "light": "parlak mod",
+      "dark": "karanlık mod"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Her zaman",
+        "desc": "Her aramada ChatGPT'ye sorun"
+      },
+      "questionMark": {
+        "title": "Soru işareti",
+        "desc": "ChatGPT'ye anahtar kelimelerin soru işaretiyle (?) bitip bitmediğini sorun."
+      },
+      "manually": {
+        "title": "manuel olarak",
+        "desc": "ChatGPT'ye yalnızca düğmeyi tıkladığınızda sorun"
+      }
+    },
+    "sidebarLocation": {
+      "left": "Sol Taraf",
+      "right": "Sağ Taraf"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "ChatGPT'ye Sor",
+        "template": "Bana {{keywords}} hakkında bir şeyler söyleyebilir misin? Mümkünse bana bununla ilgili linkler verebilir misiniz? {{keywords}} kodla ilgili bir soruysa, lütfen kodu yazmanız yeterli"
+      },
+      "list": {
+        "title": "Soruların Anahtar Kelimeleri",
+        "template": "\"{{keywords}}\" ile ilgili en popüler 1 soruyu listeleyin. Ardından, bu soruyu cevaplayın. Son olarak, 4 soru daha listeleyin."
+      },
+      "suggest": {
+        "title": "Alakalı anahtar kelimeler alın",
+        "template": "{{keywords}}, Google'da arama anahtar kelimelerimdir. Lütfen bana 5 takım ilgili anahtar kelime verin."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "özetle",
+        "template": "Bunu ikinci sınıf öğrencisi için özetleyin:"
+      },
+      "similar-pages": {
+        "title": "benzer sayfalar",
+        "template": "Bağlantı ile aşağıdaki içeriğe benzer 10 sayfa bulun:"
+      },
+      "grammar": {
+        "title": "Dilbilgisi",
+        "template": "Bunu standart İngilizce olarak düzeltin:"
+      },
+      "explain": {
+        "title": "Açıklamak",
+        "template": "Aşağıdaki içeriği açıklayın:"
+      },
+      "explain-codes": {
+        "title": "Kodları Açıkla",
+        "template": "Aşağıdaki kodları açıklayınız:"
+      },
+      "rewrite": {
+        "title": "Yeniden yazmak",
+        "template": "Aşağıdaki içeriği yeniden yazın:"
+      },
+      "translate": {
+        "title": "Çevirmek",
+        "template": "Aşağıdaki içeriği {{lang}} diline çevirin:"
+      },
+      "qa": {
+        "title": "Soru-Cevap",
+        "template": "Bu soruyu cevaplayın:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Ücretsiz Plan",
+    "basic": "Temel Plan",
+    "pro": "Profesyonel Plan",
+    "ultra": "Ultra Plan"
+  },
+  "queryNames": {
+    "fast": "Hızlı Metin",
+    "advanced": "Gelişmiş Metin",
+    "image": "Resim"
+  },
+  "upgradeModal": {
+    "desc": "Daha fazla sorgu ve daha fazla özellik！",
+    "upgradeToUseXXX": "<b>bot</b>'u Kullanmak İçin Yükselt",
+    "getWebAccess": "Web yanıtını almak için yükseltme yapın",
+    "gpt4Desc": "GPT-4 önemli ölçüde daha akıllıdır ve daha mantıklı ve doğru yanıtlar almanıza yardımcı olabilir.",
+    "claude2Desc": "Claude-2 önemli ölçüde daha akıllıdır ve daha mantıklı ve doğru yanıtlar almanıza yardımcı olabilir.",
+    "webAccessDesc": "Sider, sorularınızın yanıtlarını Google'dan alır ve kısa ve öz bir düzenleme ve özetleme için yapay zekayı kullanır.",
+    "features": {
+      "_0": "<b>Sınırsız</b> Hızlı Metin Sorgulama",
+      "0_desc": "GPT3.5 için Bard ve Claude Instant",
+      "_1": "<b>Sınırsız</b> Gelişmiş Metin Sorguları",
+      "1_desc": "GPT4 ve Claude V2 için",
+      "_2": "<b>1000/Ay</b> Resim Sorguları",
+      "2_desc": "Ressam, OCR ve Vision için"
+    }
+  }
+}

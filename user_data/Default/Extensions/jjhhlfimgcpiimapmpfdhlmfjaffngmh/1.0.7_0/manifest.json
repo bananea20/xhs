@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "background/index.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon19.png",
+         "38": "images/icon38.png"
+      },
+      "default_popup": "popup/index.html",
+      "default_title": "__MSG_extName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "injected.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxJdLl8Zwo+vF4Yvlrj6rwwy6MsTFH19P3VDwcLOAKtXsZwQvGQf3acRwkVTz5LsDMOfuZPYgwRtW48kKoZ67B3fQasLycd7BA/MpJxK76HkcYzK7nPok3lq/aaMe/B+WrdqVmIRsRfVC8Hm7do809fcOgtoMECX2d5y+gKrfUHuuFUEZR9jpE2sAXif5o1wzF0S7noPI5QCxPmOpHua/EVnL1cF3qIcOObVdGp0046O7eoLdkAfLbvSchpidoW9ppXCJBwiW607nxkWTN86aicCOUvUQTUirSpBlomKfitLJIok7/hQ5RY32mmjDqmq3KFLFFGhFaQhGKsXmSARbSQIDAQAB",
+   "manifest_version": 2,
+   "name": "MeddleMonkey",
+   "options_page": "options/index.html",
+   "permissions": [ "tabs", "\u003Call_urls>", "webRequest", "webRequestBlocking", "notifications", "downloads", "storage", "unlimitedStorage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.0.7"
+}

@@ -1,0 +1,242 @@
+{
+   "Acknowledgment": {
+      "message": "謝辞"
+   },
+   "BlackListStr": {
+      "message": "ブロックリスト"
+   },
+   "OverwriteAriaNgRpcWarn": {
+      "message": "RPC設定が変更されました。AriaNGに同期しますか？"
+   },
+   "Reset": {
+      "message": "リセット"
+   },
+   "Save": {
+      "message": "保存"
+   },
+   "WebUIOpenStyle1": {
+      "message": "ポップアップ"
+   },
+   "WebUIOpenStyle2": {
+      "message": "新しいタブ"
+   },
+   "WebUIOpenStyle3": {
+      "message": "新しいウィンドウ"
+   },
+   "WebUIOpenStyleStr": {
+      "message": "AriaNGで開く"
+   },
+   "addToBlackListStr": {
+      "message": "現在のURL -> ブロックリスト"
+   },
+   "addToWhiteListStr": {
+      "message": "現在のURL -> 許可リスト"
+   },
+   "allowExternalRequestDes": {
+      "message": "他の拡張機能からのダウンロードリクエストを受信する"
+   },
+   "allowNotificationDes": {
+      "message": "タスクステータス通知"
+   },
+   "allowedExtsPlaceholderDes": {
+      "message": "キャプチャするファイル拡張子を1行に1つ設定し、*はすべてを意味します。\n（許可リストが優先されます）"
+   },
+   "allowedSitesPlaceholderDes": {
+      "message": "キャプチャするドメインを1行に1つ設定し、regexpをサポートします。\n（許可リストが優先されます）"
+   },
+   "appName": {
+      "message": "Aria2 Explorer"
+   },
+   "askBeforeDownloadDes": {
+      "message": "自動ダウンロード前に詳細設定を確認する"
+   },
+   "askBeforeExportDes": {
+      "message": "エクスポート前に詳細設定を確認する"
+   },
+   "blockedExtsPlaceholderDes": {
+      "message": "キャプチャしたくないファイル拡張子を1行に1つ設定し、*はすべてを意味します。"
+   },
+   "blockedSitesPlaceholderDes": {
+      "message": "キャプチャしたくないドメインを1行に1つ設定し、regexpをサポートします。"
+   },
+   "captureMagnetDes": {
+      "message": "マグネットリンクをキャプチャする"
+   },
+   "captureMagnetWarn": {
+      "message": "OSレベルのキャプチャ、アンインストール前に無効にすることを確認してください"
+   },
+   "configCloudSync": {
+      "message": "クラウド同期"
+   },
+   "configCloudSyncDes": {
+      "message": "AriaNgと拡張機能の設定を現在ログインしているブラウザアカウントに同期する"
+   },
+   "configPageTitle": {
+      "message": "拡張オプション設定"
+   },
+   "connected": {
+      "message": "接続されました"
+   },
+   "contextmenuDes": {
+      "message": "コンテキストメニューからタスクをエクスポート"
+   },
+   "contextmenuStr": {
+      "message": "コンテキストメニュー"
+   },
+   "contextmenuTitle": {
+      "message": "エクスポート "
+   },
+   "description": {
+      "message": "ダウンロードを高速化するためにAria2を使用し、ダウンロードタスクを簡単に管理します。"
+   },
+   "disconnected": {
+      "message": "切断されました"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "downloadCaptureDes": {
+      "message": "Aria2 はダウンロード タスクを自動的にキャプチャします，ファイルサイズが"
+   },
+   "downloadCaptureStr": {
+      "message": "ダウンロードキャプチャ"
+   },
+   "downloadComplete": {
+      "message": "$rpcName$ ダウンロードが完了しました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadConfigFailed": {
+      "message": "設定のダウンロードに失敗しました：データが無効またはネットワークが切断されています。"
+   },
+   "downloadConfigSucceed": {
+      "message": "設定をダウンロードしました。"
+   },
+   "downloadError": {
+      "message": "$rpcName$ ダウンロードエラーが発生しました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadStart": {
+      "message": "$rpcName$ ダウンロードが開始されました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "exportAllDes": {
+      "message": "すべてのリンクをエクスポート"
+   },
+   "exportAllFailedDes": {
+      "message": "有効なダウンロードリンクが見つかりません。"
+   },
+   "exportFailedDes": {
+      "message": "$rpcName$ はタスクを開始できませんでした！",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportFailedStr": {
+      "message": "エクスポートに失敗しました"
+   },
+   "exportSucceedDes": {
+      "message": "$rpcName$ がダウンロードを開始しました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportSucceedStr": {
+      "message": "エクスポートに成功しました"
+   },
+   "fileExtStr": {
+      "message": "ファイル拡張子"
+   },
+   "finish": {
+      "message": "完了"
+   },
+   "keepAwakeDes": {
+      "message": "ダウンロード中にシステムを起動したままにする"
+   },
+   "keepSilentDes": {
+      "message": "通知をサイレントにする"
+   },
+   "monitorAllDes": {
+      "message": "すべてのAria2を監視する"
+   },
+   "monitorAllTips": {
+      "message": "複数のAria2が設定されている場合、すべてのAria2の状態を監視し、結果を集約します。"
+   },
+   "monitorAria2Des": {
+      "message": "Aria 2ダウンロード状態の監視"
+   },
+   "monitorAria2Str": {
+      "message": "Aria 2状態の監視"
+   },
+   "openWebUIStr": {
+      "message": "AriaNGを開く"
+   },
+   "removeFromBlackListStr": {
+      "message": "ブロックリストから削除"
+   },
+   "removeFromWhiteListStr": {
+      "message": "許可リストから削除"
+   },
+   "review": {
+      "message": "評価"
+   },
+   "reviewDes": {
+      "message": "評価する！"
+   },
+   "selectDefaultRpcStr": {
+      "message": "デフォルトAria2"
+   },
+   "startAria2Str": {
+      "message": "スタートAria2"
+   },
+   "taskNotification": {
+      "message": "タスクの通知"
+   },
+   "toggleCapture": {
+      "message": "ダウンロードキャプチャの切り替え"
+   },
+   "upload": {
+      "message": "アップロード"
+   },
+   "uploadConfigFailed": {
+      "message": "設定のアップロードに失敗しました："
+   },
+   "uploadConfigSucceed": {
+      "message": "設定をアップロードしました。"
+   },
+   "uploadConfigWarn": {
+      "message": "ローカルの設定データが無効または空ですが、続行しますか？"
+   },
+   "wait": {
+      "message": "待機"
+   },
+   "websiteFilterStr": {
+      "message": "Webサイトフィルタ"
+   },
+   "websiteStr": {
+      "message": "ウェブサイト"
+   },
+   "whiteListStr": {
+      "message": "許可リスト"
+   }
+}

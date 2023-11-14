@@ -1,0 +1,41 @@
+{
+   "action": {
+      "default_icon": "/images/icon-128.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "background": {
+      "service_worker": "./background/background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "static/css/tgt.css" ],
+      "js": [ "content/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "zh_CN",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "https://transmart.qq.com",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "/images/icon-128.png",
+      "16": "/images/icon-16.png",
+      "32": "/images/icon-32.png",
+      "48": "/images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkYaV88tqLsToaS0U5Qn4tBOSpJX2++YOTBaGULOdpAOBLN47EK6wWkMCzQi6/C8ZLVhSQhdby3hY9eyfhtoGijGf9xSYxOECzdFca1lOavouR0tej5s61FigmJhXgdAQ7yEECn89deIcLFAdueYgVcziQkxw7Z32395xFJQa3q3GqA1OGHhGBJvLYanmgGpxvrx2I89nLhQZS3TF956bR31/HSL6enIv+6alHC9CM+LFtAgIO7fIKYsRp0HqEd7Eli9YDEjs6i/Gfw01195vFkOMDDpSRdYmy6vyQFT+cZ7JSFYw7SnlAnoRJizHtfLz/UiQHgZxQxm83NedU/SHBQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "options_page": "options/options.html",
+   "permissions": [ "contextMenus", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.4",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "static/css/content.css", "*.woff2" ]
+   } ]
+}

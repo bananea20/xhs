@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "cloudappWebServerPort": {
+      "type": "string"
+    }
+  }
+}

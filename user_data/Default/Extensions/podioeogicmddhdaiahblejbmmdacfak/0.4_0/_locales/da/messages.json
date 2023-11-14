@@ -1,0 +1,80 @@
+{
+   "contx_info": {
+      "message": "Genstart Microsoft Edge for at tilføje ændringerne."
+   },
+   "desc": {
+      "message": "Træt af at læse? Vælg teksten du ønsker at læse og lyt til den. SpeakIt konverterer tekst til tale så du ikke længere behøver at læse."
+   },
+   "lang_contex": {
+      "message": "Aktiver SpeakIt kontekstmenu genvej."
+   },
+   "lang_donate": {
+      "message": "Giv en donation"
+   },
+   "lang_engine": {
+      "message": "Tekst til tale motoren"
+   },
+   "lang_enqueue": {
+      "message": "Aktiver enqueue modus"
+   },
+   "lang_error": {
+      "message": "Kan du ikke høre noget? Klik her!"
+   },
+   "lang_input": {
+      "message": "Tale indstillinger"
+   },
+   "lang_keyboard": {
+      "message": "Keyboard genveje"
+   },
+   "lang_options": {
+      "message": "SpeakIt! - Indstillinger"
+   },
+   "lang_paypal": {
+      "message": "PayPal donationer"
+   },
+   "lang_pitch": {
+      "message": "Tale pitch"
+   },
+   "lang_playback": {
+      "message": "Afspilning indstillinger"
+   },
+   "lang_rate": {
+      "message": "Talehastighed"
+   },
+   "lang_save": {
+      "message": "Gem"
+   },
+   "lang_shortcuts": {
+      "message": "Genveje indstillinger"
+   },
+   "lang_showpaypal": {
+      "message": "Vis knap for PayPal donationer."
+   },
+   "lang_stt": {
+      "message": "Aktiver tale til tekst funktionen."
+   },
+   "lang_testing": {
+      "message": "Test"
+   },
+   "lang_testtext": {
+      "message": "Dette er en test tekst for Microsoft Edge udvidelsen SpeakIt"
+   },
+   "lang_voices": {
+      "message": "Ønsker du nye stemmer?"
+   },
+   "lang_volume": {
+      "message": "Standard lydstyrke niveau"
+   },
+   "lang_wpm": {
+      "message": "ord/minut"
+   },
+   "paypalinfo": {
+      "message": "SpeakIt! er helt gratis, men hvis du synes om den så vær venlig at doner et mindre beløb så jeg kan vide det og hjælp med at støtte fremtidig udvikling af projektet. Alle donationer er meget værdsat! \u003Cbr/>\u003Cb>Tak!\u003C/b>\u003Cdiv id='paypal'>\u003C/div>"
+   },
+   "tip": {
+      "message": "Dine indstillinger blev gemt."
+   },
+   "title": {
+      "message": "Konverter tekst til tale"
+   }
+}

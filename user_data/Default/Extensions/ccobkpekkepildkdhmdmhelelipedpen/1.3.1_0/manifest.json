@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "VIP会员视频"
+   },
+   "content_scripts": [ {
+      "js": [ "jquery.js", "content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "VIP会员看视频支持优酷、爱奇艺、搜狐、腾讯等多个视频网站。VIP会员电影免费看，告别充值会员的烦恼。但不能点播用点券的VIP电影。",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApDKcdh9igSHDlF0amdpyiOH5smZC8KWxQmGqk0T4tj2rm3iY4remNOmGR3mHG730rXtBA6K79KJlfurqX58jktviRS4VPt+mvJ0QtZU03uJMypwPRrU3HSff4yNKn/+G3OXCx8npzs8IRkIcAX2e9ZGTNO++FN7+tqUMDzVma4HtlzYLnkIo5tfH5ykXk9fSHH+ZRIXkVahhUIyRF7YtEvXNYjnqXAtyRWhDjAkAFhmioxhEMe3Y+aOGTdejvTZ4DlSSKdoDsctHbnXwJsrcXhm+JSf4KuXyKKCdEkxGot1++eTUbcRujzu++g+nnjTjeBGcrU8YyMiLbViSQc7LIQIDAQAB",
+   "manifest_version": 2,
+   "name": "VIP会员视频",
+   "permissions": [ "storage", "http://*/*", "tabs", "webRequest", "webRequestBlocking", "browsingData", "*://*/*", "unlimitedStorage", "https://*/*", "contextMenus", "\u003Call_urls>" ],
+   "short_name": "VIP会员视频",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.3.1"
+}

@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "סרגל הצד של ChatGPT בתור עוזר הבינה המלאכותית שלך בכל עמוד"
+   },
+   "appDescEdge": {
+      "message": "Sider -- סרגל צד בינה מלאכותית המופעל על ידי ChatGPT של OpenAI"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

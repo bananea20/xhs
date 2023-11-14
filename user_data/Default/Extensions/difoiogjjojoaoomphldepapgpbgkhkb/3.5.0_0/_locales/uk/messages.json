@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "Бічна панель ChatGPT як ваш помічник AI на будь-якій сторінці"
+   },
+   "appDescEdge": {
+      "message": "Sider -- бокова панель AI на базі ChatGPT OpenAI"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

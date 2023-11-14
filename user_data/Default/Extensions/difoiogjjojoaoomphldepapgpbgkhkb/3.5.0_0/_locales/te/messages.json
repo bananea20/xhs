@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ఏ పేజీలోనైనా మీ AI అసిస్టెంట్‌గా ChatGPT సైడ్‌బార్"
+   },
+   "appDescEdge": {
+      "message": "సైడర్ -- AI సైడ్‌బార్ OpenAI యొక్క ChatGPT ద్వారా ఆధారితం"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

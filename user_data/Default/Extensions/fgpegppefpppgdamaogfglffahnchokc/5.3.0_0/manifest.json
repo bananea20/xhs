@@ -1,0 +1,32 @@
+{
+   "author": "晚星",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon32.png",
+      "default_popup": "index.html",
+      "default_title": "Magnetar"
+   },
+   "content_scripts": [ {
+      "js": [ "magnetar_script.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "加速访问谷歌网站",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtMKERQfLjTrNrKDruRd1sUuiUD7tilWO70Ileji6qCD768mDLm9AMM8BB9da+3zhDS1aJhIfO/N4Vbvc4gOH8o4ym1XThJJMI0Yu12UImtEwRYnP+kTmDSRWCm6GguvcQOTL6nowA0JiBwMhbPEBWUCJaN3rkyik/fCwhOeO1wFaClXpNGmDe8FmouAzjsX7yE27zidmmLuFAe8osr9ey4iWEIZSALuLsl19627DSg3VypikZKmCC+wQ6pKLUL0X4gUGddceX27tUthrAW94wY/Vq6kPPqTnwsYndOeOy5nB3phP5pn54HbznQd9RrlkpYYb5i4fwsLKu8r6qSBsLwIDAQAB",
+   "manifest_version": 2,
+   "name": "Magnetar",
+   "omnibox": {
+      "keyword": "q"
+   },
+   "permissions": [ "*://*/*", "contextMenus", "storage", "proxy", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "5.3.0"
+}

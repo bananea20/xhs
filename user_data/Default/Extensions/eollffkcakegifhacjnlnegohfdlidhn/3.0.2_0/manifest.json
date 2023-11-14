@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": "icon-34.png",
+      "default_popup": "src/pages/popup/index.html"
+   },
+   "background": {
+      "service_worker": "src/pages/background/index.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/css/contentStyle16974835464.chunk.css" ],
+      "js": [ "src/pages/content/index.js" ],
+      "matches": [ "https://chat.openai.com/*" ]
+   } ],
+   "description": "Expands ChatGPT with voice control and read aloud.",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj5N4ledf/fgrtRCORvC1gL89wcPij+wxl9QDzaMeaZGMFrCVaOzxLXiHjWUGnCBLY7cnHq464RhbFQRw7lMelsNEsUiasdOib+O16hGnVznCnbUFxPArKRP0SVzByLI58sWeRsDPyoPdUP+ZzIH0dL+The0IKf+uMZr5lvuKqS9+HXAVO8Z5BfcsDykfr1UVMTKdDft4hSpcGTB/2UP80kxldwojDYZMdChPL+LuaTVziuZJHhVquTYjn7g7vOt3sHZYjFdGgAAGj2Sg2S/1eAfinDtfILIrFshWNyl7Mq4eOREaWDYvpaNI16tmbdIDYLKFkeem0QikCH/e5/MEBQIDAQAB",
+   "manifest_version": 3,
+   "name": "Voice Control for ChatGPT",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.2",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "assets/js/*.js", "assets/css/*.css", "assets/svg/*.svg", "assets/png/*.png", "icon-128.png", "icon-34.png", "manifest.json" ]
+   } ]
+}

@@ -1,0 +1,907 @@
+{
+  "sidebar": "Stranska vrstica",
+  "shortcut": "Tipka za bližnjico",
+  "ask": "Vprašajte",
+  "save": "Shrani",
+  "saved": "Shranjeno",
+  "delete": "Izbriši",
+  "remove": "Odstrani",
+  "cancel": "Prekliči",
+  "stop": "Stop",
+  "insert": "Vstavi",
+  "replace": "Zamenjati",
+  "ok": "v redu",
+  "submit": "Predloži",
+  "attention": "Opaziti",
+  "send": "Pošlji",
+  "copy": "Kopirati",
+  "copied": "Kopirano",
+  "clear": "jasno",
+  "quote": "Kvota",
+  "collapse": "Strni stransko vrstico",
+  "done": "Končano",
+  "manage": "Upravljaj",
+  "template": "predlogo",
+  "edit": "Uredi",
+  "add": "Dodaj",
+  "feedback": "Povratne informacije",
+  "tweetit": "Tviti",
+  "fullPageChat": "Celostranski klepet",
+  "whatNew": "Nove funkcionalnosti",
+  "gotIt": "Razumem",
+  "settings": "nastavitve",
+  "signin": "Prijava",
+  "signinNow": "Prijavite se zdaj",
+  "unlimited": "Neomejeno",
+  "share": "Deliti",
+  "myChats": "Moji klepeti",
+  "general": "Splošna konfiguracija",
+  "archive": "arhiv",
+  "unarchive": "unarchive",
+  "searchPage": "Stran za iskanje",
+  "addons": "Dodatki",
+  "webStore": "Spletna trgovina",
+  "webApp": "Spletna aplikacija",
+  "webAccess": "Spletni dostop",
+  "upgradeNow": "Nadgradi zdaj",
+  "upgrade": "Nadgradnja",
+  "language": "Jezik",
+  "theme": "Tema",
+  "sendShortcut": "Pošlji bližnjico",
+  "model": "Model",
+  "version": "Različica",
+  "more": "več",
+  "listen": "poslušaj",
+  "skip": "Preskoči",
+  "vote": "Glasujte",
+  "invite": "Povabi",
+  "hide": "Skrij se",
+  "pin": "pripeti",
+  "unpin": "odpni",
+  "showMore": "Pokaži več",
+  "editTitle": "Uredi naslov",
+  "summarize": "Povzemite",
+  "summarizing": "Povzemanje",
+  "answering": "Odgovarjanje",
+  "productivity": "Produktivnost",
+  "modelUpdateSuccess": "Model je bil uspešno posodobljen",
+  "modelUpdateFailed": "Posodobitev modela ni uspela",
+  "customPrompt": "Poziv po meri",
+  "currentTpl": "Trenutna predloga:",
+  "current": "Trenutno",
+  "extra": "dodatno",
+  "editTpl": "Uredi to predlogo",
+  "delteTpl": "Izbriši to predlogo",
+  "restoreTpl": "Obnovi to predlogo",
+  "archiveTpl": "Arhivirajte to predlogo",
+  "showTpl": "Prikaži to predlogo",
+  "prompts": "Pozivi",
+  "imageRetryTip": "Nalaganje ni uspelo. Kliknite za ponovni poskus.",
+  "mentionBot": "Omeni Bot",
+  "promptName": "Ime poziva",
+  "promptContent": "Hitra vsebina",
+  "contactUs": "Kontaktiraj nas",
+  "webAssistant": "Spletni pomočnik",
+  "quickAction": "Kontekstni meni",
+  "promptManage": "Prompt Manager",
+  "issueType": "Vrsta izdaje",
+  "pinExt": "Pin podaljšek",
+  "yourEmailAddress": "Vaš email naslov",
+  "troubleshooting": "Odpravljanje težav",
+  "openSidebar": "Odpri stransko vrstico",
+  "pasteSelection": "Prilepi izbor",
+  "pasteTextPage": "Prilepi besedilo s strani",
+  "getAnotherKey": "Pridobite drug ključ",
+  "showSearchPanel": "Pokaži iskalno ploščo",
+  "getItNow": "Dobite zdaj",
+  "notNow": "Ne zdaj",
+  "alwaysDisplay": "Vedno prikaži",
+  "queries": "Poizvedbe",
+  "total": "skupaj",
+  "getMore": "dobili več",
+  "goPremium": "nadgradite na premium",
+  "goPremiumGetMore": "nadgradite na premium, da dobite več",
+  "myAccount": "Moj račun",
+  "clickToAsk": "Kliknite za vprašanje",
+  "searchingFor": "Iskati:",
+  "searchedFor": "Iskano:",
+  "using": "Uporaba",
+  "used": "Rabljeno",
+  "switchAndContinue": "Preklopite in nadaljujte",
+  "ExtractText": "Izvleček besedila iz slike",
+  "describleImage": "Opišite to sliko",
+  "pricePerDay": "Manj kot {{num}}/dan",
+  "readingAssistant": "Pomočnik pri branju",
+  "writingAssistant": "Pomočnik pri pisanju",
+  "moreQueries": "Več vprašanj!",
+  "newPlan": "Nov načrt!",
+  "all": "Vse",
+  "success": "Uspeh",
+  "usedIn": "Uporablja se v",
+  "check": "Preverite",
+  "example": "Primer",
+  "ChangeTone": "Spremenite ton",
+  "screenshot": "Posnetek zaslona",
+  "uploadImage": "Naložite sliko",
+  "hideImage": "Skrij sliko",
+  "showImage": "Pokaži sliko",
+  "fullscreen": "Celozaslonski način",
+  "OR": "ALI",
+  "refresh": "Osveži",
+  "phoneNumber": "Telefonska številka",
+  "recognizing": "Prepoznavanje",
+  "result": "Rezultat",
+  "describeImage": "Opišite to sliko",
+  "inviteFriendTip": "<a>Povabite prijatelje</a>, da dobite dodatna vprašanja",
+  "resetTime": "Ponastavi <a>3. avgusta 2023</a>",
+  "imageQuoteTipTitle": "Ponovno vprašati sliko? Sliko morate citirati",
+  "imageQuoteTipContent": "Če želite znova vprašati o sliki, jo preprosto citirajte.",
+  "ocrEmptyMsg": "Oprostite, na tej sliki ne najdem besedila.",
+  "imageInputHint": "Postavite vprašanja o tej sliki",
+  "popupPage": {
+    "thank": "Hvala, ker uporabljate razširitev {{APP_NAME}}!",
+    "desc": "Trenutna stran je edinstvena stran in funkcija stranske vrstice ni na voljo. Vendar pa lahko za klepet odprete celo stran!",
+    "chatNow": "Klepetajte zdaj"
+  },
+  "setupPage": {
+    "loginSuccess": "Prijava uspešna",
+    "welcome": "Dobrodošli v {{APP_NAME}}!",
+    "loginWith": "Prijavite se z {{name}}",
+    "pinTips": "<b>Pripni {{APP_NAME}}</b>, lažji dostop!",
+    "pinClickTip": "Kliknite {{icon}}, da pripnete {{APP_NAME}}",
+    "next": "Naslednji",
+    "pinGuideDesc": "Za lažji dostop do razširitve pustite, da ostane pripeta, tako da sledite spodnjim korakom.\n1. Kliknite ikono uganke <b>ICON</b> poleg avatarja vašega profila.\n2. V spustnem meniju poiščite {{APP_NAME}}.\n3. Kliknite ikono gumba, dokler se ne obarva modro.",
+    "signInGuideTitle": "Prijavite se zdaj, da odklenete naslednje:",
+    "signInGuideStep1": "Sinhronizirajte nastavitve razširitve med računalniki",
+    "signInGuideStep2": "Dostopajte do svojih pozivov iz različnih prenosnikov",
+    "signInGuideStep3": "Shranite klepete za prihodnjo uporabo",
+    "signInGuideStep4": "Delite klepete prek povezave",
+    "welcomeGuide": "Dobrodošli v {{APP_NAME}}",
+    "step1Label": "Prvi korak",
+    "step2Label": "drugi korak",
+    "tryOut": "poskusi"
+  },
+  "getKeyPage": {
+    "welcome": "Dobrodošli v {{APP_NAME}}! Tukaj je vaše potovanje za začetek:",
+    "stepTitle": "Kako pridobiti ključ API.",
+    "step1": "1. korak: Pridobite ključ API",
+    "step1-1": "<i>Prijavite se v svoj račun OpenAI</i> Če še nimate računa, se prijavite <b>TUKAJ</b>",
+    "step1-2": "Obiščite stran OpenAI API Key",
+    "step1-3": "Ustvarite nov skrivni ključ in ga kopirajte, kot sledi",
+    "step2": "2. korak: Prilepite ključ API v spodnje polje",
+    "step2-tips": "Ne skrbi. Vaš ključ API se uporablja samo lokalno v razširitvi ChatGPT. Uporaba API-ja je bolj stabilna kot neposredna uporaba ChatGPT.",
+    "step3": "3. korak: preverite dobroimetje <i>tukaj</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Kako dostopati do ChatGPT in ga uporabljati kjer koli",
+    "howToAccessTip": "Da bi zagotovili, da je umetna inteligenca dostopna vsem, ponujamo 3 načine za dostop do ChatGPT in njegovo uporabo kjer koli.",
+    "recommend4all": "(Priporočamo vsem)",
+    "sidebarProvider": "Stranska vrstica uporablja API ChatGPT Premium za zagotavljanje stabilnega dostopa.",
+    "sidebarProviderGoPremium": "Ponujamo {{num}} brezplačnih dnevnih poizvedb, da vsem zagotovimo dostopnost z umetno inteligenco. <a>Nadgradite na premium</a>, da povečate dnevno omejitev poizvedb in podprete naše poslanstvo <b>zagotavljanja univerzalne umetne inteligence za vsakogar</b>.",
+    "webappProvider": "API, ki poganja spletno aplikacijo ChatGPT, je brezplačen, vendar je lahko včasih nestabilen.",
+    "webappGPT4": "(Uporabniki ChatGPT Plus lahko poskusijo)",
+    "webappTip1": "Če ste uporabnik ChatGPT Plus, imate zdaj možnost izbrati GPT-4. Vendar lahko OpenAI omeji število sporočil, ki jih lahko pošljete na dan.",
+    "webappTip2": "<m>Pripnite zavihek ChatGPT</m> in ostanite prijavljeni na spletnem mestu ChatGPT. Vendar to morda ne zagotavlja stabilnosti. Če naletite na težave, obiščite <v>spletno mesto ChatGPT </v>in osvežite stran.",
+    "GPT4Desc": "Na spletnem mestu morate ostati prijavljeni v svoj račun ChatGPT. Stabilnost je lahko nedosledna tako za uporabnike Plus kot za brezplačne uporabnike zaradi omejitve OpenAI.",
+    "apiKeyProviderTip": "(Za razvijalce s ključem API)",
+    "apiKeyProvider": "Uradni API OpenAI je bolj stabilen in stroški temeljijo na uporabi.",
+    "apiKeyLocally": "Vaš API ključ je shranjen lokalno v vašem brskalniku in nikoli ni poslan nikamor drugam.",
+    "ownURL": "Uporabi moj URL",
+    "apiKeyTip1": "Vaš brezplačni ključ OpenAI API je morda potekel. <a>Tukaj preverite status poteka ključa API.</a>",
+    "apiKeyTip2": "Če uporabljate brezplačni ključ OpenAI API, dostop do ChatGPT morda ne bo stabilen, ko se pojavi veliko povpraševanje.",
+    "apiFreeGuide": "Sledite vodniku, da dobite ključ API.",
+    "apiKeyGpt4Tip": "Razširitev podpira GPT-4, če vnesete ključ GPT-4 API.",
+    "displaySearchRes": "Prikaz odgovora ChatGPT poleg strani z rezultati iskanja",
+    "whenToAsk": "Kdaj vprašati ChatGPT",
+    "promptTplForSearch": "Predloga poziva za Google in druge iskalnike",
+    "addNewTplForSearch": "Dodajte novo predlogo poziva",
+    "launchSidebar": "Zaženi stransko vrstico",
+    "sidebarLocation": "Lokacija stranske vrstice",
+    "sidebarLeftOrRight": "Postavite stransko vrstico na levo ali desno stran",
+    "sidebarDisplayOption": "Način prikaza stranske vrstice",
+    "sidebarDisplayOptionTip": "Izberite, kako bo stranska vrstica prikazana na strani",
+    "sidebarDisplayOptions": {
+      "overlay": "Prekrivanje",
+      "expand": "Širi se"
+    },
+    "sidebarIcon": "Ikona stranske vrstice",
+    "sidebarIconAccess": "Do stranske vrstice dostopajte prek ikone v spodnjem desnem kotu strani. Lahko ga povlečete, da ga premaknete gor in dol",
+    "easiestWayUse": "Najlažji način za uporabo {{APP_NAME}}",
+    "displayWhenSelect": "Prikaz, ko je izbrano besedilo",
+    "promptTplForSidebar": "Predloga poziva za stransko vrstico",
+    "dragSidebarTpl": "Povlecite in spustite, da preuredite predlogo ALI arhivirajte tiste, ki jih ne boste uporabljali",
+    "addNewTplForSidebar": "Dodajte novo predlogo poziva",
+    "editSearchTplTip": "uporabite {{keywords}}, da navedete svoje ključne besede za iskanje",
+    "editSearchTplPlaceholder": "{{keywords}} v vsebini poziva bodo samodejno zamenjane z vašimi iskalnimi ključnimi besedami",
+    "editSidebarTplTip": "Tukaj prilepite ali vnesite vsebino",
+    "showOnList": "Prikaži na seznamu",
+    "translatorNavTitle": "Hitro iskanje",
+    "translatorTitle": "Okno za hitro iskanje",
+    "translatorFabTitle": "Ikona za hitro iskanje",
+    "translatorFabDesc": "Odprite okno za hitro iskanje prek ikone.",
+    "translatorFabToggleLabel": "Prikaz, ko je izbrano besedilo",
+    "translatorTplTitle": "Predloga poziva za pojavno okno",
+    "translatorTplDesc": "Prva glavna predloga bo uporabljena kot privzeti ukaz za pojavno okno.",
+    "translatorPrimaryTemplates": "Glavne predloge",
+    "translatorTemplatesNotes": "*To pojavno okno ima iste predloge kot stranska vrstica. Če morate urediti ali dodati predlogo, jo spremenite v <b>Nastavitve stranske vrstice</b>.",
+    "translatorIntroTitle": "🤔 Kaj je hitro iskanje?",
+    "translatorIntroDesc": "Hitro iskanje je hitro dejanje aplikacije {{APP_NAME}}, ki ponuja vrsto uporabnih orodij.\n\nPrikaže se takoj, ko izberete besedilo. Z enim klikom lahko hitro prevedete besedila, jih prepišete, dobite pojasnila in še veliko več. Poleg tega lahko preuredite vrstni red orodij in prilagodite lastne pozive.\n\nČe želite aktivirati {{APP_NAME}}, morate samo klikniti ikono za hitro iskanje.",
+    "translatorHostFabConfigLabel": "Seznam spletnih mest, kjer je hitro iskanje onemogočeno",
+    "translatorShortcutLabel": "Bližnjična tipka za hitro iskanje",
+    "quickAction": {
+      "shortcutDesc": "Aktiviraj {{name}} prek bližnjice",
+      "customPromptMenu": "Prilagodite poziv za ta meni",
+      "readTitle": "Kontekstni meni za branje",
+      "selectionDesc": "Prikažite meni, ko izberete poljubno besedilo",
+      "diabledSite": "Seznam spletnih mest, kjer je ta funkcija onemogočena",
+      "writeTitle": "Kontekstni meni za pisanje (polje za vnos)",
+      "writeInputIconTitle": "Ikona polja za vnos",
+      "writeInputIconDesc": "Prikažite ikono pomočnika za pisanje v poljubnem vnosnem polju",
+      "triggerKeyword": "Sproži ključne besede",
+      "triggerKeywordDesc": "Aktivirajte {{name}} v vseh vnosih besedila prek ključnih besed",
+      "whatisQuickAction": "🤔 Kaj je {{name}}?",
+      "quickActionDesc": "{{name}} je zbirka dragocenih orodij, ki so takoj na voljo, ko izberete besedilo ali uporabite tipko za bližnjico. Z enim klikom lahko hitro izboljšate svoje branje ali pisanje. Poleg tega lahko aktivirate polje za hitri vnos, ki vam pomaga pri izpolnjevanju posebnih zahtev med branjem ali pisanjem. To vključuje naloge, kot je ustvarjanje orisa za temo, razmišljanje o idejah in prepisovanje odstavkov."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "YouTube Video povzetek",
+        "desc": "Ko je aplikacija {{APP_NAME}} vklopljena, vam lahko pomaga povzeti videoposnetke YouTube"
+      },
+      "webpage": {
+        "title": "Povzetek spletne strani",
+        "desc": "Ko je aplikacija {{APP_NAME}} vklopljena, vam lahko pomaga povzemati članke na spletni strani"
+      },
+      "qa": {
+        "title": "Pomočnik za vprašanja in odgovore",
+        "desc": "Ko je vklopljena, lahko {{APP_NAME}} odgovori na vprašanje na Quora, StackOverflow in drugih mestih za zagotavljanje kakovosti"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Nov poziv",
+      "editPrompt": "Poziv za urejanje",
+      "checkPrompt": "Preverite poziv",
+      "archiveTips": "Arhivirani pozivi ne bodo prikazani v scenarijih, vendar jih je mogoče iskati",
+      "dragTips": "Povlecite in spustite, da preuredite poziv ALI arhivirajte tiste, ki jih ne boste uporabili v ustreznem scenariju",
+      "howToWritePrompt": "Kako napisati poziv",
+      "howToVarTitle": "Katere spremenljivke so lahko vključene v poziv?",
+      "howToVar1": "To spremenljivko lahko uporabite za predstavitev vnosa ali izbrane vsebine. Če poziv ne vključuje te spremenljivke, bo vnos ali izbrana vsebina obdana s trojnimi narekovaji in postavljena na sam konec poziva.",
+      "howToVar2": "To spremenljivko lahko uporabite za predstavitev jezika, ki ga želite uporabiti za izpis, glede na privzeti jezik, nastavljen v nastavitvah.",
+      "howToExample": "Uporabite naslednje teme ali ključne besede, da ustvarite oris, ki vključuje naslove, poglavja in pododdelke.\nIzpišite ga v formatu Markdown. Daj mi samo rezultat in nič drugega. Oris mora biti v {{lang}} jeziku.\nTeme ali ključne besede: {{content}}",
+      "clickToExpand": "Kliknite za razširitev",
+      "clickToHide": "Kliknite, da skrijete"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Poročilo o težavi",
+        "title": {
+          "label": "Povzetek problema",
+          "tip": "V nekaj besedah nam povejte, kaj je šlo narobe."
+        },
+        "detail": {
+          "label": "Podrobnosti težave",
+          "tip": "Podrobno opišite, kaj je šlo narobe, vsa dejanja, ki ste jih izvedli, in sporočila o napakah, ki ste jih prejeli."
+        }
+      },
+      "fr": {
+        "name": "Zahteva po funkciji",
+        "title": {
+          "label": "Naslov",
+          "tip": "Kaj je vaša zahteva?"
+        },
+        "detail": {
+          "label": "Opis",
+          "tip": "Navedite podroben opis nove funkcije, ki jo želite."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Vprašaj ChatGPT:",
+    "savePrompt": "Shrani poziv",
+    "saveNewPrompt": "Shrani kot nov poziv",
+    "replacePrompt": "Zamenjajte poziv",
+    "inputPlaceholder1": "Vnesite poziv ali izberite v meniju",
+    "inputPlaceholder2": "Tukaj prilepite ali vnesite vsebino",
+    "startNewLine": "Pritisnite {{shortcut}}, da začnete novo vrstico",
+    "inputPlaceholderCodes": "Tukaj prilepite ali vnesite kode",
+    "inputPlaceholderQA": "Tukaj prilepite ali vnesite vprašanje",
+    "pressToSubmit": "Pritisnite {{key}} za oddajo",
+    "response": "odgovor:",
+    "stopGenerating": "Nehajte ustvarjati",
+    "regenerate": "Regeneriraj odziv",
+    "askTabLabel": "Vprašajte",
+    "chatTabLabel": "Klepetajte",
+    "composeTabLabel": "Pišite",
+    "ocrTabLabel": "OCR",
+    "grammarTabLabel": "Slovnica",
+    "queryLeft": "Še {{num}} poizvedb",
+    "queryLeft2": "Še {{num}}",
+    "freePlan": "Brezplačni načrt",
+    "premiumPlan": "Premium načrt",
+    "extraQuota": "Dodatna kvota",
+    "submitOption": "Možnost pošiljanja",
+    "painterLabel": "Slikar"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Zelo hiter, odličen za večino vsakodnevnih opravil.",
+    "gpt-4": "Najzmogljivejši model, najboljši za zapletene naloge, ki zahtevajo napredno sklepanje.",
+    "claude-instant": "Osnovni model podjetja Anthropic, primeri uporabe z nizko zakasnitvijo in visoko zmogljivostjo.",
+    "claude2": "Najboljši model ponudbe v razredu podjetja Anthropic, vrhunska zmogljivost pri nalogah, ki zahtevajo zapleteno sklepanje.",
+    "bard": "Googlov model (PaLM 2) se dobro obnese pri naprednih nalogah sklepanja."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Cena <m>1 poizvedba s hitrim besedilom</m>.",
+    "gpt-4": "Cena <m>1 napredna besedilna poizvedba</m>."
+  },
+  "sidebarChatPanel": {
+    "newChat": "Nov klepet",
+    "chatHistory": "Zgodovina",
+    "inputPlaceholder": "Vnesite sporočilo ...",
+    "send": "Pošlji",
+    "feedback": "Povratne informacije",
+    "share": "Deliti",
+    "deleteConfirmTitle": "Želite izbrisati ta pogovor?",
+    "deleteConfirmContent": "Tega dejanja ni mogoče razveljaviti.",
+    "compareWeb": "Primerjaj odgovor s spleta",
+    "improveWithXXX": "Pridobite pametnejši odgovor od <b>bota</b>",
+    "improveWithXXX2": "Pridobite izčrpen odgovor od <b>Bot</b>",
+    "compareWithXXX": "Primerjaj odgovor <b>bota</b>",
+    "improveWithSearch": "Pridobite spletni odgovor od Googla",
+    "improveWithBoth": "Organizirajte Google Answers z GPT-4",
+    "answerWithoutSearching": "Primerjaj odgovor izvirnega <b>bota</b>",
+    "screenshot": "Posnetek zaslona",
+    "upload": "Naloži",
+    "addImage": "Dodajte sliko",
+    "welcomeQues": [
+      {
+        "title": "🤔 Pojasnite zapleten koncept",
+        "ques": "Povej mi nekaj o velikem poku, da bom lahko razložil svojemu 5-letnemu otroku"
+      },
+      {
+        "title": "🧠 Razmislite o idejah brez primere",
+        "ques": "Prosim, posredujte mi 10 idej za darila za prijateljev rojstni dan"
+      },
+      {
+        "title": "💭 Takoj pridobite privlačne naslove",
+        "ques": "Ustvarite pet privlačnih naslovov za moje pisanje o primeru uporabe ChatGPT"
+      }
+    ],
+    "textSelectedTip": "Besedilo po vaši izbiri",
+    "ocrTextTip": "{{name}} Rezultat",
+    "textSelectedSystemMsg": "Kaj bi radi naredili z besedilom?",
+    "welcomeSystemMsg": "Zdravo! Kako vam lahko danes pomagam?",
+    "chatActionTranslate": "Prevedi v {{lang}}",
+    "addAPrompt": "Dodajte poziv",
+    "search": "Iskanje",
+    "continueInChat": "Nadaljujte v klepetu",
+    "userStopTip": "Uporabnik je preklical zahtevo.",
+    "noChatHistory": "Zgodovine klepeta še ni.",
+    "noSearchHistory": "Ni zadetkov.",
+    "webAccessModalTitle": "{{APP_NAME}} omogoča ChatGPT dostop do spleta!",
+    "webAccessModalContent": "Ne pozabite, da ima ChatGPT v letu 2021 mejo znanja! Vendar {{APP_NAME}} združuje prefinjeno inteligenco ChatGPT s spletnimi informacijami v realnem času. Ta funkcija zahteva precejšnjo količino žetonov, zato razmislite o nadgradnji, da podprete naša prizadevanja!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Sestavi",
+    "reply": "Odgovori",
+    "writePlaceholder": "Tema, ki jo želite sestaviti",
+    "replyPlaceholder1": "Izvirno besedilo, na katerega želite odgovoriti",
+    "replyPlaceholder2": "Splošna vsebina vašega odgovora na zgornje besedilo",
+    "submitShortcut": "Pritisnite {{shortcut}}, da ustvarite osnutek",
+    "generate": "Ustvari osnutek",
+    "format": "Oblika",
+    "email": "E-naslov",
+    "idea": "Ideja",
+    "outline": "Oris",
+    "essay": "Esej",
+    "paragraph": "odstavek",
+    "blog": "Objava v spletnem dnevniku",
+    "ads": "Tržni oglasi",
+    "twitter": "Twitter",
+    "comment": "Komentiraj",
+    "message": "Sporočilo",
+    "tone": "ton",
+    "professional": "Profesionalno",
+    "formal": "Formalno",
+    "casual": "Ležerno",
+    "enthusiastic": "Navdušen",
+    "informational": "Informativno",
+    "funny": "Smešno",
+    "length": "Dolžina",
+    "short": "Kratek",
+    "medium": "Srednje",
+    "long": "dolga",
+    "preview": "Predogled",
+    "regenerate": "Regeneriraj",
+    "addToSite": "Dodaj na spletno mesto",
+    "addToSiteTip": "Kazalec miške postavite v želeno polje za vnos in kliknite '{{name}}' za vstavljanje"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Popravi napako",
+    "retry": "Poskusite znova",
+    "inputPlaceholder": "Prepričajte se, da je vaš angleški zapis brez napak. Prilepite besedilo ali začnite tipkati spodaj, da preverite slovnične, črkovalne in ločilne napake.",
+    "checking": "Preverjanje",
+    "checkFailed": "Preverjanje ni uspelo",
+    "accept": "Sprejmi",
+    "ignore": "Ignoriraj",
+    "continueImproving": "Nadaljujte z izboljšavami",
+    "improveGuideText": "Kliknite tukaj za izboljšano besedilo in razlog!",
+    "improvedText": "Izboljšano besedilo:",
+    "reasonForChanges": "Razlog za spremembe:"
+  },
+  "OCRPanel": {
+    "ocrTips": "Iz slike izvlecite besedilo, številke in enačbe",
+    "ocrCost": "Vsaka {{name}} bo stala {{num}} slikovne poizvedbe",
+    "newOCR": "Novo {{ocr}}",
+    "noText": "Besedilo ni prepoznano"
+  },
+  "translator": {
+    "quickActions": "Hitro iskanje",
+    "disableHostFabLabel": "Onemogoči na tem mestu",
+    "disableFabLabel": "Onemogoči na vseh mestih"
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Vam je všeč naša razširitev?</b> Ocenite nas s petimi zvezdicami v spletni trgovini, da nam pomagate rasti",
+    "newInVersion": "Kaj je novega v različici {{versionId}}",
+    "learnToUse": "Naučite se uporabljati",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} je postal pametnejši",
+          "features": [
+            "{{4+VISION}}",
+            "Z enim klikom odgovorite na isto vprašanje z različnimi roboti"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Preverite slovnične napake",
+            "Popravi slovnične napake",
+            "Izboljšajte pisanje poleg slovnice"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Stranska vrstica ChatGPT z Vision",
+          "features": [
+            "Izvleček besedila iz slike",
+            "Zastavite kakršno koli vprašanje o sliki",
+            "3 načini za pošiljanje slike v {{SIDERVISION}} <div><ol><li>Naredite posnetek zaslona</li><li>Povlecite in spustite sliko v okno za klepet</li><li>Naložite sliko </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Izvleček besedila iz slike"
+          ]
+        },
+        {
+          "features": [
+            "Izvleček besedila iz slike"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Nov cenovni načrt s 5x več poizvedbami GPT-4",
+          "features": [
+            "Odlična novica! Naše posodobljene cene vam zdaj omogočajo še več dostopa do poizvedb GPT-4 in Claude 2.",
+            "Če ste že premium uporabnik, boste samodejno nadgrajeni. Poleg tega imamo nov paket »Neomejeno« za vse izkušene uporabnike!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Več botov!",
+          "features": [
+            "Poleg ChatGPT in Claude, Sider zdaj podpira Bard!"
+          ]
+        },
+        {
+          "title": "OCR: Izvlecite besedilo iz katere koli slike in ga pošljite v ChatGPT",
+          "features": [
+            "Prepoznajte 10+ glavnih jezikov",
+            "Prepoznavanje rokopisa v angleščini",
+            "Prepoznajte <b>matematične enačbe</b> v besedilu"
+          ]
+        },
+        {
+          "title": "Izboljšaj slikarja",
+          "features": [
+            "Zamenjaj celotno ozadje",
+            "Odstrani izbrano območje"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Več klepetalnih robotov</b>: zdaj podpira Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Skupinski klepet</b>: primerjajte odgovore med klepetalnimi roboti!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Omemba</b>: Uporabite '@' za preprosto omembo katerega koli klepetalnega robota v pogovoru in komuniciranje z njim!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Hitri poziv</b>: Samo vnesite '/' in pojdite!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Enostaven dizajn</b>: Naj bo dizajn preprost in enostaven za krmarjenje"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Izboljšan upravitelj pozivov za",
+          "features": [
+            "Branje kontekstnega menija",
+            "Pisanje kontekstnega menija"
+          ]
+        },
+        {
+          "title": "AI urejevalnik slik",
+          "features": [
+            "Odstranite ozadje s poljubnih slik",
+            "Odstranite besedilo s poljubnih slik"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Pomočnik pri branju: uporabite AI za hitro razumevanje med branjem spletnih strani",
+        "Pomočnik pri pisanju: Hitro ustvarite vsebino z AI v spletnem polju za vnos"
+      ],
+      "2_7_0": [
+        "Nariši sliko iz besedila",
+        "Narišite sliko iz referenčne slike"
+      ],
+      "2_6_0": [
+        "Sider podpira fiksno stransko vrstico – klepetate lahko med vsemi zavihki brez prekrivanja katere koli vsebine <br /> (na voljo v Chromu 114 ali novejšem)"
+      ],
+      "2_5_0": [
+        "YouTube povzetek! Oglejte si 1 uro YouTubovega videa v 1 minuti",
+        "Primerjajte odgovore ljudi in umetne inteligence na spletnih mestih z vprašanji in odgovori, kot so Quora, StackOverflow in Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Pametni spletni dostop</b>: Na podlagi vaše poizvedbe se bo Al odločil, ali potrebuje dostop do spleta.",
+        "Izboljšanje stabilnosti"
+      ],
+      "2_3_0": [
+        "Podprite brskanje in vtičnike za uporabnike Plus!",
+        "ChatGPT z dostopom do interneta za vse!"
+      ],
+      "2_2_0": [
+        "Sestavite poljubno sporočilo",
+        "Odgovor na e-pošto, tvit, komentar itd"
+      ],
+      "2_1_0": [
+        "Bližnjica za hitro iskanje",
+        "Spremenite velikost okna za hitro iskanje",
+        "Popravki napak in druge izboljšave UX"
+      ],
+      "2_0_0": [
+        "Podpora <b>GPT-4 </b>za vse uporabnike!",
+        "Povabite prijatelje in pridobite poizvedbe <b>GPT-4</b> za oba!",
+        "Popravki napak in druge izboljšave UX"
+      ],
+      "1_1_0": [
+        "Celoten klepet v <b>novem zavihku</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> skupaj!",
+        "Popravljene napake"
+      ],
+      "1_0_13": [
+        "Po postavljanju vprašanj nadaljujte s klepetom",
+        "Preklapljajte med GPT-4 in GPT-3.5 za uporabnike Plus",
+        "Preprost dostop do zgodovine klepetov in iskanje po njej"
+      ],
+      "1_0_12": [
+        "Sinhronizirajte nastavitve razširitve med računalniki",
+        "Dostopajte do svojih pozivov iz različnih prenosnikov",
+        "Shranite klepete za prihodnjo uporabo",
+        "Delite klepete prek povezave"
+      ],
+      "1_0_11": [
+        "Hitro dostopajte do dejanj prek pojavnega okna brez odpiranja stranske vrstice.",
+        "Dodajte podporo za dodatne jezike.",
+        "Pri uporabi funkcije prevajanja ohranite uporabnikove jezikovne nastavitve.",
+        "Rešite spore bližnjic na platformah, kot so GitHub in druge."
+      ],
+      "1_0_10": [
+        "Podprite 50+ jezikov zdaj!"
+      ],
+      "1_0_8": [
+        "Podprite GPT-4 za uporabnike Plus! Preverite stran z nastavitvami!"
+      ],
+      "1_0_7": [
+        "Zapomni si zadnjič uporabljen poziv",
+        "Optimizirajte položaj plošče chatGPT na iskalnih straneh",
+        "Dodajte možnost, da ikono stranske vrstice na strani postavite na levo stran",
+        "Optimizirajte velikost paketa",
+        "Dodajte temni način",
+        "Podprite svoj API url proxy"
+      ],
+      "1_0_6": [
+        "Izboljšajte funkcijo povzetka na strani Youtube"
+      ],
+      "1_0_5": [
+        "Zapomni si lokacijo ikone stranske vrstice",
+        "Izboljšajte tipke za bližnjice",
+        "Shranite predloge pozivov neposredno iz stranske vrstice"
+      ],
+      "1_0_4": [
+        "Preuredite elemente poziva na spustnem seznamu",
+        "Arhivirajte elemente poziva, ki jih ne boste uporabljali",
+        "Odgovor podpore v več kot 50 jezikih"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter za hitro »Pošlji«",
+        "Možnost skrivanja plošče na strani z rezultati iskanja",
+        "Podprite ESC za skrivanje stranske vrstice",
+        "Podpora za povzetek dolgega članka"
+      ],
+      "1_0_2": [
+        "Dodajte gumb za zaustavitev, da prenehate ustvarjati odgovor",
+        "Spremenite mesto gumba za strnitev"
+      ],
+      "1_0_1": [
+        "Izboljšajte funkcijo povzetka na strani Youtube",
+        "Odpravite nekatere napake, povezane s kopiranjem/lepljenjem in tiskanjem"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Glasujte za Product Hunt",
+    "sidebar2Banner1": "Glasujte za nas na <b>Product Hunt</b> ZDAJ, da razširite besedo.",
+    "sidebar2ModalTitle": "✨ Povzetek stranske vrstice 2.0",
+    "sidebar2ModalDesc": "• Zavihek Klepet\n  • Hitro iskanje za hitre poizvedbe\n  • Račun za pozive za sinhronizacijo\n  • Shranite in delite klepete\n  • Podpira več jezikov\n  • Podpora GPT-4",
+    "ios1Banner1": "Glasujte za ChitChat – aplikacijo ChatGPT za iOS 🎉",
+    "ios1Banner2": "Začnimo s pokom! 😄",
+    "ios1ModalTitle": "✨ Novo v aplikaciji ChitChat za iOS",
+    "ios1ModalDesc": "• Pridobite odgovore iz ChatGPT 3.5 in 4\n• Podporna skupina botov vam pomaga na enem mestu\n  • Spremenite svoj PDF v chatbota"
+  },
+  "searchTool": {
+    "questionMark": "Sprožite ChatGPT tako, da za svojo poizvedbo dodate vprašaj",
+    "askForQuery": "Vprašajte ChatGPT za to poizvedbo",
+    "fiveStart": "Vam je ta razširitev všeč? Dajte nam oceno 5 zvezdic v {{store}}",
+    "loginAndCloudflareCheck": "Prijavite se in opravite preverjanje Cloudflare na {{web}}",
+    "braveTrouble": "Še vedno ne deluje? Spremljajte {{url}}",
+    "cloudflareCheck": "OpenAI občasno zahteva varnostni pregled. Če se to ponavlja, spremenite ponudnika AI na OpenAI API v <i>možnostih razširitve</i>.",
+    "failedResponse": "Nalaganje odgovora iz ChatGPT ni uspelo:",
+    "waitResponse": "Čakanje na odgovor ChatGPT ..."
+  },
+  "sidepanel": {
+    "title": "Sider podpira fiksno stransko vrstico",
+    "tip": "Nasvet: Za boljšo izkušnjo ustrezno prilagodite širino stranske plošče.",
+    "benefit1": "Vaša stranska vrstica Sider <b>ne bo nikoli izginila</b>, če se pomaknete na novo stran.",
+    "benefit2": "Klepetate lahko med vsemi zavihki brez <b>prekrivanja katere koli vsebine</b>.",
+    "benefit3": "Na voljo samo v <b>Google Chromu 114 ali novejšem</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Cena {{num}} poizvedb",
+    "videoSummaryBtn": "Povzeti video",
+    "loginToSummary": "Prijavite se v Povzetek",
+    "noTranscriptTip": "{{APP_NAME}} ne more povzeti videoposnetkov brez podnapisov.",
+    "shownotes": "Ključni trenutki",
+    "freeLimitTips": "Vaše brezplačno preskusno obdobje je porabljeno, nadgradite zdaj, če želite še naprej uporabljati funkcijo video povzetka.",
+    "askQuestionBtn": "Postavi vprašanje",
+    "noQuestionTip": "{{APP_NAME}} ne more prikazati težave na strani."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "Vprašajte {{APP_NAME}} kar koli",
+    "defaultPlaceholder2": "Vprašajte {{APP_NAME}} z zgornjo vsebino",
+    "managePrompts": "Upravljanje pozivov",
+    "editSelectionGroup": "Uredite ali preglejte izbor",
+    "selectionGroup": "Ustvari iz izbora",
+    "draftGroup": "Osnutek z {{name}}",
+    "AIGenerating": "{{name}} ustvarja ...",
+    "pressToStop": "Za ustavitev pritisnite {{name}}",
+    "pressToClose": "Za zapiranje pritisnite {{name}}",
+    "disableOnce": "Skrij do naslednjega obiska",
+    "disableSite": "Onemogoči za to spletno mesto",
+    "disableGlobal": "Onemogoči globalno",
+    "continueImproving": "Nadaljujte z izboljšavami"
+  },
+  "msg": {
+    "supportedFileFormat": "Podprti formati datotek so {{formats}}",
+    "maxFileSize": "Največja velikost datoteke je {{size}}",
+    "enterAPIKey": "Vnesite ključ OpenAI API",
+    "selectModel": "Izberite veljaven model",
+    "changeSaved": "Spremembe shranjene",
+    "fiveStart": "Dajte nam 5 zvezdic",
+    "pleaseContactUs": "<a>Pišite nam</a>.",
+    "inviteTitle": "Povabila in nagrade",
+    "inviteEarn": "Zaslužite si <mx>{{num}} poizvedb</mx> za sebe in vaše prijatelje. <b>Več kot napotite, več zaslužite</b>.",
+    "inviteStep1": "Priporočite svoje prijatelje s povezavo za povabilo",
+    "inviteStep2": "Vaši prijatelji se prijavijo",
+    "inviteStep3": "Namestijo razširitev in se prijavijo. Zaslužene nagrade!",
+    "checkInvitation": "Preverite evidenco vabil",
+    "inviteFriendsEarn": "Povabite prijatelje in zaslužite poizvedbe GPT-4",
+    "inviteFriends": "Povabi prijatelje",
+    "inviteRewardsRecord": "Zapisi o nagradah:",
+    "invitedRewardObtained": "Pridobljene nagrade!",
+    "invitedWelcome": "Dobrodošli! Poizvedbe GPT so bile dodane v vaš račun!",
+    "invitedRewardTips": "Vaš prijatelj vas vabi in vsak od vas ima <mx>{{num}} poizvedb</mx> za uporabo",
+    "getMoreGPT4": "Pridobite več kvote GPT-4",
+    "errSiderApiLimit": "Porabili ste vse brezplačne kredite, ki smo jih zagotovili, sledite <i>navodilom tukaj</i>, da dobite API od OpenAI.",
+    "errSiderApiLimitDevice": "Porabili ste vse brezplačne kredite, ki smo jih zagotovili. <a>Prijavite se</a>, če želite pridobiti več brezplačnih kreditov.",
+    "errSiderApiLimitLogin": "Dosegli ste svojo kvoto. Če želite nadaljevati, razmislite o <a>nadgradnji na naš premium paket</a>. hvala",
+    "errSiderApiLimitLogin2": "Dosegli ste svojo kvoto. Če želite nadaljevati, razmislite o <a>nadgradnji na naš premium paket</a>. hvala",
+    "errSiderApiLimitPremium": "Porabili ste vse kredite, <a>nadgradite svoj načrt</a>.",
+    "errSiderPremiumRequired": "Za uporabo te funkcije <a>nadgradite na premium</a>.",
+    "errSiderHighTrafficError": "{{APP_NAME}} ima veliko prometa. Prosim poskusite kasneje.",
+    "errSiderHighTrafficTip": "Razmislite o <a>nadgradnji na premium račun</a> za stabilen dostop in podporo našemu razvoju.",
+    "errSiderDeviceBinded": "Če ga želite uporabiti, <a>se prijavite</a>.",
+    "errSiderApiHighLoad": "Omejitev zahtev je dosežena zaradi visoke obremenitve, poskusite znova pozneje.",
+    "errSiderGPT4HighLoad": "Omejitev GPT-4 je dosežena zaradi visoke obremenitve, poskusite znova pozneje.",
+    "errSiderGPT4LimitDevice": "Najprej se <b>prijavite</b> in <amb>povabite svoje prijatelje</amb> ali <ta>nadgradite na premium</ta>, da dobite naprednejšo kvoto besedila.",
+    "errSiderGPT4LimitLogin": "<t>Povabite svoje prijatelje</t> ali <a>nadgradite na premium</a>, da pridobite večjo kvoto naprednega besedila.",
+    "errSiderGPT4LimitPremium": "<tm>Povabite svoje prijatelje</tm> ali <dm>nadgradite svoj načrt</dm>, da dobite naprednejšo kvoto besedila.",
+    "errSiderNeedLogin": "<a>Prijavite se</a>.",
+    "goToSignIn": "Pojdite na prijavo",
+    "errSiderTimeout": "Časovna omejitev zahteve je potekla. Prosim poskusite ponovno.",
+    "errSiderProcessing": "Samo eno sporočilo naenkrat. Preden pošljete novo sporočilo, počakajte, da se dokonča kateri koli drug odgovor, ali počakajte trenutek.",
+    "errTrySiderAPI": "Preklopite na <i>ChatGPT Sidebar API</i> za stabilen dostop (za vse)",
+    "errTrySiderAPI2": "ALI uporabite svoj ključ API na <a>nastavitveni strani</a> (za razvijalce)",
+    "errChatGPTAuth": "<m>Kliknite povezavo za prijavo </m>na vašo spletno stran ChatGPT in pomagali vam jo bomo pripeti. Nato ga lahko uporabite v stranski vrstici.",
+    "errChatGPTAuthTipTitle": "Če ne deluje:",
+    "errChatGPTFailToFetch": "Od ChatGPT ni bilo mogoče dobiti odgovora.",
+    "errOpenaiFailToFetch": "Ne dobim odgovora od OpenAI prek ključa API.",
+    "errSiderBasicTextLimit": "Dosegli ste našo osnovno omejitev števila poizvedb. Trenutno velja omejitev {{N1}} sporočil vsakih {{NUM2}} minut. Lahko pa uporabite napredno besedilno poizvedbo in se vrnete pozneje.",
+    "errSiderAdvancedTextLimit": "Dosegli ste našo omejitev števila poizvedb za napredno besedilo. Trenutno velja omejitev {{N1}} sporočil vsakih {{NUM2}} minut. Lahko pa uporabite osnovno besedilno poizvedbo in se vrnete pozneje.",
+    "loginAndCloudflareCheck": "Preklopite na <a>API stranske vrstice</a> za stabilen dostop ALI se prijavite in opravite preverjanje Cloudflare na <i>chat.openai.com</i>",
+    "invalidApiKey": "Ključ API je neveljaven, pridobite drugega.",
+    "getApiKeyGuide": "Za delovanje potrebujete ključ OpenAI API. Za pridobitev ključa API sledite našemu vodniku.",
+    "thankForFeedback": "Hvala vam. Obrazec je bil uspešno oddan. V kratkem vas bomo kontaktirali.",
+    "writeSomething": "Prosim napiši kaj.",
+    "enterEmail": "Vnesite e-poštni naslov za prejemanje posodobitev o težavi.",
+    "emailRequired": "E-pošta je obvezna.",
+    "promptNameRequired": "Zahtevano je ime poziva.",
+    "titleRequired": "Naslov je obvezen.",
+    "nameYourPrompt": "Poimenujte svoj poziv",
+    "nameYourTitle": "Poimenujte svoj pogovor",
+    "promptTplRequired": "Potrebna je hitra vsebina.",
+    "deletePromptWarn": "Ali želite izbrisati ta poziv?",
+    "restorePromptWarn": "Ali želite obnoviti to predlogo poziva?",
+    "notValidEmail": "ni veljaven e-poštni naslov",
+    "pleaseSignin": "prosim prijavite se",
+    "signinTips": "Prijavite se, da sinhronizirate svoje pozive in nastavitve",
+    "signinAward": "Prijavite se, če želite prejemati {{num}} poizvedb na dan",
+    "signinAward2": "Poizvedbe so bile porabljene za neprijavljenega uporabnika. Lahko se prijavite in prejmete <b>{{num}} brezplačnih poizvedb na dan</b>.",
+    "signinAward3": "Prijavite se, če želite prejemati več poizvedb na dan",
+    "chatgptTabGuardTips": "Pustite ta zavihek odprt, zdaj se lahko vrnete v {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Nekaj je šlo narobe s ChatGPT. Ponovna povezava, počakajte ...",
+    "chatgptTabGuardRefreshingTips1": "Nekaj je šlo narobe s ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Ponovna povezava, počakajte ...",
+    "chatgptTabGuardSetupSuccessTips": "Popravljeno, poskusite znova",
+    "switchToSiderApiToContinue": "Ta funkcija trenutno podpira samo način API-ja {{APP_NAME}}, za nadaljevanje <a>preklopite na API {{APP_NAME}}</a>.",
+    "switchRequired": "Zahtevano stikalo",
+    "signInRequired": "Prijava je obvezna",
+    "useUpUpgrade": "Vaša kvota je bila porabljena. Prosimo, nadgradite jo, da pridobite več kvote.",
+    "webSearchSignIn": "Za uporabo te funkcije se prijavite.",
+    "featureLimit": "Omejitev funkcij",
+    "featureLimitTip": "Nadgradite za uporabo Claude in Bard.",
+    "featureUnavailableOnPage": "Ta funkcija na tej strani ni na voljo",
+    "featureBrowserLimit": "Zaradi omejitev brskalnika ta funkcija na tej strani ni na voljo. Spremenite stran in poskusite znova.",
+    "quotaModelContent": "Vaša omejitev poizvedb GPT-4/Claude-2 je dosežena. Nadgradite na paket Premium za večji dostop ali povabite prijatelje za brezplačna dodatna vprašanja.",
+    "signinFeature": "Za dostop do te funkcije se prijavite.",
+    "signinFeature2": "Za dostop do te funkcije se prijavite",
+    "dragImgTips": "Kliknite ali povlecite sliko, ki jo želite {{name}}",
+    "reEnableInSettings": "Ponovno lahko omogočite v <a>Nastavitve</a>",
+    "switchBarTip": "Razširite stransko ploščo, da pripnete navigacijsko vrstico.",
+    "upgradeSupport": "Nadgradite na premium paket, da nas podprete",
+    "imageSizeLimit": "Omejitev slike",
+    "imageSizeLimitTip": "Prepričajte se, da je slika manjša od 10 MB in njena širina ali višina ne presega 4096 slikovnih pik, nato poskusite znova.",
+    "errOpenAIFilter": "Odgovor je bil filtriran zaradi poziva, ki je sprožil politiko upravljanja vsebine OpenAI. Prosimo, spremenite svoj poziv in poskusite znova."
+  },
+  "options": {
+    "theme": {
+      "auto": "samodejno",
+      "light": "svetel način",
+      "dark": "temni način"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Nenehno",
+        "desc": "Pri vsakem iskanju vprašajte ChatGPT"
+      },
+      "questionMark": {
+        "title": "Vprašaj",
+        "desc": "Vprašajte ChatGPT, če se ključne besede končajo z vprašajem (?)"
+      },
+      "manually": {
+        "title": "Ročno",
+        "desc": "Vprašajte ChatGPT šele, ko kliknete gumb"
+      }
+    },
+    "sidebarLocation": {
+      "left": "leva stran",
+      "right": "desna stran"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Vprašajte ChatGPT",
+        "template": "Mi lahko poveste kaj o {{keywords}}? Če je možno, mi lahko daš nekaj povezav o tem? Če je {{keywords}} vprašanje, povezano s kodo, napišite kodo"
+      },
+      "list": {
+        "title": "Ključne besede za vprašanja",
+        "template": "Navedite 1 najbolj priljubljeno vprašanje o \"{{keywords}}\". Nato odgovorite na to vprašanje. Na koncu naštejte še 4 vprašanja."
+      },
+      "suggest": {
+        "title": "Pridobite povezane ključne besede",
+        "template": "{{keywords}} so moje ključne besede za iskanje v Googlu. Prosim, dajte mi 5 nizov povezanih ključnih besed."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Povzemite",
+        "template": "Povzemite to za učenca drugega razreda:"
+      },
+      "similar-pages": {
+        "title": "Podobne strani",
+        "template": "S povezavo poiščite 10 podobnih strani tej vsebini:"
+      },
+      "grammar": {
+        "title": "Slovnica",
+        "template": "Popravi to v standardno angleščino:"
+      },
+      "explain": {
+        "title": "Pojasni",
+        "template": "Pojasnite naslednjo vsebino:"
+      },
+      "explain-codes": {
+        "title": "Razloži kode",
+        "template": "Pojasnite naslednje kode:"
+      },
+      "rewrite": {
+        "title": "Prepisati",
+        "template": "Prepišite naslednjo vsebino:"
+      },
+      "translate": {
+        "title": "Prevesti",
+        "template": "Prevedite naslednjo vsebino v {{lang}} jezik:"
+      },
+      "qa": {
+        "title": "Vprašanja in odgovori",
+        "template": "Odgovorite na to vprašanje:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Brezplačni načrt",
+    "basic": "Osnovni načrt",
+    "pro": "Pro načrt",
+    "ultra": "Ultra načrt"
+  },
+  "queryNames": {
+    "fast": "Hitro besedilo",
+    "advanced": "Napredno besedilo",
+    "image": "Slika"
+  },
+  "upgradeModal": {
+    "desc": "Več poizvedb in več funkcij！",
+    "upgradeToUseXXX": "Nadgradite za uporabo <b>bota</b>",
+    "getWebAccess": "Nadgradite, da dobite spletni odgovor",
+    "gpt4Desc": "GPT-4 je bistveno pametnejši in vam lahko pomaga pri pridobivanju bolj logičnih in točnih odgovorov.",
+    "claude2Desc": "Claude-2 je bistveno pametnejši in vam lahko pomaga pri pridobivanju bolj logičnih in točnih odgovorov.",
+    "webAccessDesc": "Sider od Googla pridobi odgovore na vaša vprašanja in uporablja AI za jedrnato organizacijo in povzemanje.",
+    "features": {
+      "_0": "<b>Neomejene</b> hitre besedilne poizvedbe",
+      "0_desc": "Za GPT3.5, Bard & Claude Instant",
+      "_1": "<b>Neomejeno</b> naprednih besedilnih poizvedb",
+      "1_desc": "Za GPT4 in Claude V2",
+      "_2": "<b>1000/Mo</b> poizvedbe o slikah",
+      "2_desc": "Za slikarja, OCR in Vision"
+    }
+  }
+}

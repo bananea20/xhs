@@ -1,0 +1,6 @@
+2023/10/24-10:58:27.297 2750 Reusing MANIFEST D:\github\xhs\user_data\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2023/10/24-10:58:27.308 2750 Recovering log #7
+2023/10/24-10:58:27.318 2750 Reusing old log D:\github\xhs\user_data\Default\EdgeCoupons/coupons_data.db/000007.log 
+2023/10/24-10:58:30.353 68d8 Level-0 table #11: started
+2023/10/24-10:58:30.360 68d8 Level-0 table #11: 658199 bytes OK
+2023/10/24-10:58:30.366 68d8 Delete type=0 #7

@@ -1,0 +1,868 @@
+{
+  "sidebar": "Sidebar ||| {\"alias\": \"侧边栏\"}",
+  "shortcut": "Shortcut key",
+  "ask": "Ask",
+  "save": "Save ||| {\"alias\": \"Save it\"}",
+  "saved": "Saved",
+  "delete": "Delete",
+  "remove": "Remove",
+  "cancel": "Cancel",
+  "stop": "Stop",
+  "insert": "Insert",
+  "replace": "Replace ||| {\"zh_CN\": \"替换\"}",
+  "ok": "OK",
+  "submit": "Submit",
+  "attention": "Notice",
+  "send": "Send",
+  "copy": "Copy",
+  "copied": "Copied",
+  "clear": "Clear",
+  "quote": "Quote",
+  "collapse": "Collapse ||| {\"alias\": \"Collapse sidebar\", \"zh_CN\": \"收起侧边栏\"}",
+  "done": "Done",
+  "manage": "Manage",
+  "template": "template",
+  "edit": "Edit",
+  "add": "Add",
+  "feedback": "Feedback",
+  "tweetit": "Tweet it",
+  "fullPageChat": "Full page chat",
+  "whatNew": "What's New",
+  "gotIt": "Got it",
+  "settings": "Settings",
+  "signin": "Sign in",
+  "signinNow": "Sign in Now",
+  "unlimited": "Unlimited",
+  "share": "Share",
+  "myChats": "My Chats ||| {\"zh_CN\": \"聊天记录\"}",
+  "general": "General ||| {\"alias\": \"General configuration\"}",
+  "archive": "Archive ||| {\"alias\": \"归档\"}",
+  "unarchive": "Unarchive ||| {\"alias\": \"取消归档\"}",
+  "searchPage": "Search Page",
+  "addons": "Add-ons",
+  "webStore": "Web Store",
+  "webApp": "Webapp",
+  "webAccess": "Web Access",
+  "upgradeNow": "Upgrade Now",
+  "upgrade": "Upgrade",
+  "language": "Language",
+  "theme": "Theme",
+  "sendShortcut": "Send shortcut",
+  "model": "Model",
+  "version": "Version",
+  "more": "More",
+  "listen": "Listen",
+  "skip": "Skip",
+  "vote": "Vote",
+  "invite": "Invite",
+  "hide": "Hide",
+  "pin": "Pin ||| {\"alias\": \"钉住\"}",
+  "unpin": "Unpin ||| {\"alias\": \"取消固定\"}",
+  "showMore": "Show more",
+  "editTitle": "Edit title",
+  "summarize": "Summarize",
+  "summarizing": "Summarizing ||| {\"zh_CN\": \"总结中\"}",
+  "answering": "Answering ||| {\"zh_CN\": \"回答中\"}",
+  "productivity": "Productivity",
+  "modelUpdateSuccess": "Model updated successfully",
+  "modelUpdateFailed": "Model updated failed",
+  "customPrompt": "Custom prompt",
+  "currentTpl": "Current template: ",
+  "current": "Current ||| {\"zh_CN\": \"当前\"}",
+  "extra": "extra",
+  "editTpl": "Edit this template",
+  "delteTpl": "Delete this template",
+  "restoreTpl": "Restore this template",
+  "archiveTpl": "Archive this template",
+  "showTpl": "Show this template",
+  "prompts": "Prompts ||| {\"zh_CN\": \"提示词\"}",
+  "imageRetryTip": "Upload failed. Click to retry.",
+  "mentionBot": "Mention Bot",
+  "promptName": "Prompt Name",
+  "promptContent": "Prompt Content",
+  "contactUs": "Contact Us",
+  "webAssistant": "Web Assistant",
+  "quickAction": "Context Menu ||| {\"zh_CN\": \"智能菜单\"}",
+  "promptManage": "Prompt Manager||| {\"zh_CN\": \"提示词管理\"}",
+  "issueType": "Issue Type",
+  "pinExt": "Pin extension ||| {\"zh_CN\": \"固定扩展\"}",
+  "yourEmailAddress": "Your Email Address",
+  "troubleshooting": "Troubleshooting",
+  "openSidebar": "Open sidebar",
+  "pasteSelection": "Paste selection",
+  "pasteTextPage": "Paste text from page",
+  "getAnotherKey": "Get Another Key ||| {\"zh_CN\": \"获取另一个密钥\"}",
+  "showSearchPanel": "Show Search Panel",
+  "getItNow": "Get It Now",
+  "notNow": "Not Now",
+  "alwaysDisplay": "Always Display",
+  "queries": "Queries ||| {\"zh_CN\": \"查询额度\"}",
+  "total": "total ||| {\"zh_CN\": \"总计\"}",
+  "getMore": "Get more ||| {\"alias\": \"获取更多\"}",
+  "goPremium": "Go Premium ||| {\"alias\": \"upgrade to premium\", \"zh_CN\": \"升级会员\"}",
+  "goPremiumGetMore": "Go Premium to get more ||| {\"alias\": \"upgrade to premium to get more\", \"zh_CN\": \"升级会员以获得更多\"}",
+  "myAccount": "My Account",
+  "clickToAsk": "Click to ask ||| {\"zh_CN\": \"点击提问\"}",
+  "searchingFor": "Searching for: ||| {\"zh_CN\": \"正在搜索:\"}",
+  "searchedFor": "Searched for: ||| {\"zh_CN\": \"已搜索:\"}",
+  "using": "Using ||| {\"zh_CN\": \"正在使用:\"}",
+  "used": "Used ||| {\"zh_CN\": \"已使用:\"}",
+  "switchAndContinue": "Switch and continue ||| {\"zh_CN\": \"切换并继续\"}",
+  "ExtractText": "Extract text from image",
+  "describleImage": "Describe this image",
+  "pricePerDay": "Less than {{num}}/day",
+  "readingAssistant": "Reading Assistant",
+  "writingAssistant": "Writing Assistant",
+  "moreQueries": "More queries! ",
+  "newPlan": "New plan! ||| {\"zh_CN\": \"更多额度套餐！\"}",
+  "all": "All",
+  "success": "Success",
+  "usedIn": "Used in ||| {\"zh_CN\": \"适用于\"}",
+  "check": "Check",
+  "example": "Example",
+  "ChangeTone": "Change tone",
+  "screenshot": "Screenshot",
+  "uploadImage": "Upload an image",
+  "hideImage": "Hide image ||| {\"zh_CN\": \"隐藏图片\"}",
+  "showImage": "Show image ||| {\"zh_CN\": \"显示图片\"}",
+  "fullscreen": "Fullscreen",
+  "OR": "OR",
+  "refresh": "Refresh",
+  "phoneNumber": "Phone Number",
+  "recognizing": "Recognizing ||| {\"zh_CN\": \"识别中\"}",
+  "result": "Result",
+  "describeImage": "Describe this image",
+  "inviteFriendTip": "<a>Invite friends</a> to get extra queries ||| {\"zh_CN\": \"<a>邀请朋友</a>以获得更多额外查询\"}",
+  "resetTime": "Reset on <a>Aug 3, 2023</a>",
+  "imageQuoteTipTitle": "Ask the image again? You need to quote the image",
+  "imageQuoteTipContent": "To ask about the image again, simply quote it.",
+  "ocrEmptyMsg": "Sorry, I can't find text in this image.",
+  "imageInputHint": "Ask questions about this image",
+  "popupPage": {
+    "thank": "Thank you for using the {{APP_NAME}} extension!",
+    "desc": "The current page is a unique page and the sidebar feature is not available. However, you can open a full page to chat!",
+    "chatNow": "Chat now"
+  },
+  "setupPage": {
+    "loginSuccess": "Login successful",
+    "welcome": "Welcome to {{APP_NAME}}!",
+    "loginWith": "Sign in with {{name}}",
+    "pinTips": "<b>Pin {{APP_NAME}}</b>, easier access!",
+    "pinClickTip": "Click {{icon}} to pin {{APP_NAME}} ||| {\"zh_CN\": \"点击{{icon}}固定{{APP_NAME}}\"}",
+    "next": "Next ||| {\"zh_CN\": \"下一步\"}",
+    "pinGuideDesc": "To make accessing extension easier, please let it remain pinned by following steps below.\n1. Click the puzzle icon <b>ICON</b> next to your profile avatar.\n2. In the drop-down menu, find {{APP_NAME}}.\n3. Click the pushpin icon until it turns blue.",
+    "signInGuideTitle": "Sign in now to unlock the following:",
+    "signInGuideStep1": "Sync extension settings across computers",
+    "signInGuideStep2": "Access your prompts from different laptops",
+    "signInGuideStep3": "Save chats for future use",
+    "signInGuideStep4": "Share chats via link",
+    "welcomeGuide": "Welcome to {{APP_NAME}}",
+    "step1Label": "Step 1 ||| {\"zh_CN\": \"第一步\"}",
+    "step2Label": "Step 2 ||| {\"zh_CN\": \"第二步\"}",
+    "tryOut": "Have a try ||| {\"zh_CN\": \"立即使用\"}"
+  },
+  "getKeyPage": {
+    "welcome": " Welcome to {{APP_NAME}}! Here is your journey to begin:",
+    "stepTitle": "How to get an API key.",
+    "step1": "Step 1: Get API key",
+    "step1-1": "<i>Login your OpenAI account</i> If you don't have an account, Sign up <b>HERE</b>",
+    "step1-2": "Visit OpenAI API Key page",
+    "step1-3": "Create a new secret key and copy it as follow ||| {\"zh_CN\": \"创建一个新的密钥并按如下方式复制它\"}",
+    "step2": "Step 2: Paste API Key in the box below",
+    "step2-tips": "Don't worry. Your API key is only used locally within the ChatGPT extension. Using the API is more stable than directly using ChatGPT.",
+    "step3": "Step 3: Check your credits <i>here</i> ||| {\"zh_CN\": \"第 3 步：在<i>此处</i>查看您的积分\"}"
+  },
+  "optionPage": {
+    "howToAccess": "How to access ChatGPT and use it anywhere",
+    "howToAccessTip": "To make sure AI is accessible for everyone, we provide 3 ways to access ChatGPT and use it anywhere. |||  {\"zh_CN\": \"我们为大家提供了最全面的接入ChatGPT 方式，以帮助所有人都可以方便的使用AI。\"}",
+    "recommend4all": "(Recommended for everyone)",
+    "sidebarProvider": "The Sidebar uses the ChatGPT Premium API to ensure stable access. ||| {\"zh_CN\": \"Sidebar 通过接入 ChatGPT 官方提供的<b>付费，稳定版API</b>。无需任何设置，为大家提供<b>无需科学上网，稳定，快速的服务</b>。\"}",
+    "sidebarProviderGoPremium": "We offer {{num}} free daily queries to guarantee AI accessibility for all. <a>Upgrade to premium</a> to increase your daily query limit and support our mission to <b>provide Universal AI for everyone</b>. ||| {\"zh_CN\": \"为了让任何人都能使用AI，我们为所有人提供了每天{{num}}条免费查询额度。可<a>升级到为高级会员</a>以提升额度，同时支持我们 “<b>AI 普惠和平权</b>” 的使命。\"}",
+    "webappProvider": "The API powering ChatGPT webapp is free, but it may be unstable at times.",
+    "webappGPT4": "(ChatGPT Plus users can try it)",
+    "webappTip1": "If you are a ChatGPT Plus user, you now have the option to choose GPT-4. However, OpenAI may limit the number of messages you can send per day.",
+    "webappTip2": "Please <m>Pin the ChatGPT tab</m> and remain logged in on the ChatGPT website. However, this may not guarantee stability.  If you encounter any issues, visit <v>the ChatGPT website </v>and refresh the page.",
+    "GPT4Desc": "You must remain logged in to your ChatGPT account on the website. Stability may be inconsistent for both Plus users and free users because of OpenAI’s restriction. ||| {\"zh_CN\": \"由于OpenAI 的限制，这种方式需要时刻保持你的ChatGPT 账号处于登录状态。不稳定，可能需要经常刷新。\"}",
+    "apiKeyProviderTip": "(For developers with API key) ||| {\"zh_CN\": \"（推荐软件开发者使用）\"}",
+    "apiKeyProvider": "The official OpenAI API is more stable and charges are based on usage. ||| {\"zh_CN\": \"OpenAI 给软件开发者的官方API 密钥，稳定，需付费给OpenAI。\"}",
+    "apiKeyLocally": "Your API Key is stored locally on your browser and never sent anywhere else.",
+    "ownURL": "Use my own URL",
+    "apiKeyTip1": "Your free OpenAI API key might have expired. Please <a>check the API key expiration status here.</a>",
+    "apiKeyTip2": "If you use the free OpenAI API key, the access to ChatGPT may not be stable when it experiences high demand.",
+    "apiFreeGuide": "Follow the guide to get the API key.",
+    "apiKeyGpt4Tip": "The extension supports GPT-4 if you input a GPT-4 API key.",
+    "displaySearchRes": "Display ChatGPT response alongside search result pages",
+    "whenToAsk": "When to ask ChatGPT",
+    "promptTplForSearch": "Prompt template for Google and other search engines",
+    "addNewTplForSearch": "Add a new prompt template",
+    "launchSidebar": "Launch the sidebar",
+    "sidebarLocation": "Sidebar Location",
+    "sidebarLeftOrRight": "Place the sidebar on the left or right side",
+    "sidebarDisplayOption": "Sidebar Display Mode",
+    "sidebarDisplayOptionTip": "Choose how sidebar appear on the page",
+    "sidebarDisplayOptions": {
+      "overlay": "Overlay",
+      "expand": "Expanding"
+    },
+    "sidebarIcon": "Sidebar Icon",
+    "sidebarIconAccess": "Access the sidebar through the icon located in the lower right corner of the page. You can drag to move it up and down",
+    "easiestWayUse": "The easiest way to use {{APP_NAME}}",
+    "displayWhenSelect": "Display when text is selected",
+    "promptTplForSidebar": "Prompt template for sidebar",
+    "dragSidebarTpl": "Drag and drop to reorder template OR archive those you will not use",
+    "addNewTplForSidebar": "Add new prompt template",
+    "editSearchTplTip": "use {{keywords}} to refer your search keywords",
+    "editSearchTplPlaceholder": "{{keywords}} in the prompt content will be replaced with your search keywords automagically",
+    "editSidebarTplTip": "Paste or input content here",
+    "showOnList": "Show on the list",
+    "translatorNavTitle": "Quick Lookup",
+    "translatorTitle": "Quick Lookup Window",
+    "translatorFabTitle": "Quick Lookup icon",
+    "translatorFabDesc": "Access the quick lookup window through the icon.",
+    "translatorFabToggleLabel": "Display when text is selected",
+    "translatorTplTitle": "Prompt template for popup window",
+    "translatorTplDesc": "The first main template will be used as the default command for the popup window.",
+    "translatorPrimaryTemplates": "Main templates",
+    "translatorTemplatesNotes": "*This popup shares same templates with the sidebar. If you need to edit or add a template, please modify it in the <b>sidebar Settings</b>.",
+    "translatorIntroTitle": "🤔 What is Quick Lookup? ",
+    "translatorIntroDesc": "Quick Lookup is a quick action of {{APP_NAME}}, providing a range of useful tools. \n\nIt appears instantly when you select text. With just one click, you can quickly translate texts, rewrite them, get explanations, and much more. Additionally, you are able to rearrange the order of the tools and customize your own prompts. \n\nTo activate {{APP_NAME}}, all you need to do is click on the Quick Lookup icon.  ",
+    "translatorHostFabConfigLabel": "List of websites where Quick Lookup is disable ",
+    "translatorShortcutLabel": "Shortcut Key for Quick Lookup",
+    "quickAction": {
+      "shortcutDesc": "Activate {{name}} via shortcut",
+      "customPromptMenu": "Customize prompt for this menu ||| {\"zh_CN\": \"自定义此菜单的提示词\"}",
+      "readTitle": "Context menu for reading||| {\"zh_CN\": \"用于阅读的智能菜单\"}",
+      "selectionDesc": "Display the menu when you select any text",
+      "diabledSite": "List of websites where this feature is disabled",
+      "writeTitle": "Context menu for writing(input box) ||| {\"zh_CN\": \"用于写作的智能菜单（输入框）\"}",
+      "writeInputIconTitle": "Input box icon",
+      "writeInputIconDesc": "Display writing assistant icon in any input box ||| {\"zh_CN\": \"在任何输入框中显示写作助手图标\"}",
+      "triggerKeyword": "Trigger keywords",
+      "triggerKeywordDesc": "Activate {{name}} in all text inputs via keywords",
+      "whatisQuickAction": "🤔 What is {{name}}?",
+      "quickActionDesc": "{{name}} is a collection of valuable tools that are readily available when you choose text or use a shortcut key. With a single click, you can swiftly enhance your reading or writing. Additionally, you can activate the prompt input box to assist you in fulfilling your specific requirements while reading or writing. This includes tasks like creating an outline for a topic, brainstorming ideas, and rewriting paragraphs."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "YouTube Video Summary",
+        "desc": "When turned on, {{APP_NAME}} can help you summarize YouTube videos"
+      },
+      "webpage": {
+        "title": "Webpage Summary",
+        "desc": "When turned on, {{APP_NAME}} can help you summarize articles on webpage"
+      },
+      "qa": {
+        "title": "Q&A Assistant",
+        "desc": "When turned on, {{APP_NAME}} can answer the question on Quora, StackOverflow and other QA sites"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "New Prompt ||| {\"zh_CN\": \"新建提示词\"}",
+      "editPrompt": "Edit Prompt ||| {\"zh_CN\": \"编辑提示词\"}",
+      "checkPrompt": "Check Prompt ||| {\"zh_CN\": \"查看提示词\"}",
+      "archiveTips": "Archived prompts won't show in scenarios but can be searched ||| {\"zh_CN\": \"被存档的提示词不会在场景列表中显示，但可以搜索\"}",
+      "dragTips": "Drag and drop to reorder prompt OR archive those you will not use in the corresponding scenario ||| {\"zh_CN\": \"拖放来重新排序提示词或存档那些您不会在相应场景中使用的提示词\"}",
+      "howToWritePrompt": "How to write prompt ||| {\"zh_CN\": \"如何编写提示词\"}",
+      "howToVarTitle": "What variables can be included in the prompt? ||| {\"zh_CN\": \"提示词中可以包含哪些变量？\"}",
+      "howToVar1": "You can use this variable to represent the input or selected content. If the prompt does not include this variable, the input or selected content will be enclosed with triple quotes and placed at the very end of the prompt. ||| {\"zh_CN\": \"你可以使用这个变量来表示输入或者选中的内容，如果模板中没有包含该变量，输入或选中的内容会被三引号包围并放在模板的最后面\"}",
+      "howToVar2": "You can use this variable to represent the language you wish to use for output, based on the default language set in the settings. ||| {\"zh_CN\": \"你可以使用这个变量来表示你希望使用设置中的默认语言进行输出\"}",
+      "howToExample": "Please use the following topics or keywords to generate an outline that includes titles, chapters, and subsections.\nOutput it in Markdown format. Only give me the output and nothing else. The outline should be in {{lang}} language.\nTopics or keywords: {{content}}",
+      "clickToExpand": "Click to expand",
+      "clickToHide": "Click to hide"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Bug Report ||| {\"alias\": \"Problem Report\"}",
+        "title": {
+          "label": "Bug Summary ||| {\"alias\": \"Problem Summary\"}",
+          "tip": "Let us know what went wrong in a few words."
+        },
+        "detail": {
+          "label": "Bug Details ||| {\"alias\": \"Problem Details \"}",
+          "tip": "Please describe in detail what went wrong, any actions you took, and error messages you got."
+        }
+      },
+      "fr": {
+        "name": "Feature Request",
+        "title": {
+          "label": "Title",
+          "tip": "What's your request about?"
+        },
+        "detail": {
+          "label": "Description",
+          "tip": "Please provide a detailed description of new feature you want."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Ask ChatGPT: ",
+    "savePrompt": "Save prompt",
+    "saveNewPrompt": "Save as a new prompt",
+    "replacePrompt": "Replace the prompt",
+    "inputPlaceholder1": "Input prompt or choose from menu",
+    "inputPlaceholder2": "Paste or input content here",
+    "startNewLine": "Press {{shortcut}} to start a new line",
+    "inputPlaceholderCodes": "Paste or input codes here",
+    "inputPlaceholderQA": "Paste or input question here",
+    "pressToSubmit": "Press {{key}} to submit",
+    "response": "Response:",
+    "stopGenerating": "Stop generating",
+    "regenerate": "Regenerate response",
+    "askTabLabel": "Ask ||| {\"zh_CN\": \"提问\", \"zh_TW\": \"提問\"}",
+    "chatTabLabel": "Chat",
+    "composeTabLabel": "Write ||| {\"zh_CN\": \"写作\"}",
+    "ocrTabLabel": "OCR ||| {\"ignore\": true}",
+    "grammarTabLabel": "Grammar",
+    "queryLeft": "{{num}} queries left ||| {\"zh_CN\": \"剩余额度 {{num}}\"}",
+    "queryLeft2": "{{num}} left ||| {\"zh_CN\": \"剩余 {{num}}\"}",
+    "freePlan": "Free Plan",
+    "premiumPlan": "Premium Plan ||| {\"zh_CN\": \"高级计划\"}",
+    "extraQuota": "Extra Quota ||| {\"zh_CN\": \"额外额度\"}",
+    "submitOption": "Submit Option",
+    "painterLabel": "Painter ||| {\"zh_CN\": \"绘画大师\"}"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Very fast, great for most everyday tasks.",
+    "gpt-4": "Most capable model, best for complex tasks requiring advanced reasoning.",
+    "claude-instant": "The basic model from Anthropic, low latency, high throughput use cases.",
+    "claude2": "The best-in-class offering model from Anthropic, superior performance on tasks that require complex reasoning.",
+    "bard": "The model from Google (PaLM 2), performs well in advanced reasoning tasks."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Cost <m>1 Fast Text query</m>. ||| {\"zh_CN\": \"消耗<m>1条快速文字查询</m>\"}",
+    "gpt-4": "Cost <m>1 Advanced Text query</m>.||| {\"zh_CN\": \"消耗<m>1条高级文字查询</m>\"}"
+  },
+  "sidebarChatPanel": {
+    "newChat": "New Chat",
+    "chatHistory": "History",
+    "inputPlaceholder": "Type a message...",
+    "send": "Send",
+    "feedback": "Feedback",
+    "share": "Share",
+    "deleteConfirmTitle": "Delete this conversation?",
+    "deleteConfirmContent": "This action cannot be undone.",
+    "compareWeb": "Compare answer from the web",
+    "improveWithXXX": "Get smarter answer from <b>Bot</b>",
+    "improveWithXXX2": "Get comprehensive answer from <b>Bot</b>",
+    "compareWithXXX": "Compare answer from <b>Bot</b>",
+    "improveWithSearch": "Get web answer from Google",
+    "improveWithBoth": "Organize Google Answers with GPT-4",
+    "answerWithoutSearching": "Compare answer from original <b>Bot</b>",
+    "screenshot": "Screenshot",
+    "upload": "Upload",
+    "addImage": "Add an image",
+    "welcomeQues": [
+      {
+        "title": "🤔 Explain a complex concept",
+        "ques": "Tell me something about the Big Bang so that I can explain it to my 5-year-old child"
+      },
+      {
+        "title": "🧠 Brainstorm unprecedented ideas",
+        "ques": "Please provide me with 10 gift ideas for my friend's birthday"
+      },
+      {
+        "title": "💭 Get catchy titles instantly",
+        "ques": "Generate five catchy titles for my writing about the use case of ChatGPT"
+      }
+    ],
+    "textSelectedTip": "Text from your selection",
+    "ocrTextTip": "{{name}} Result",
+    "textSelectedSystemMsg": "What would you like to do with the text?",
+    "welcomeSystemMsg": "Hello! How can I assist you today?",
+    "chatActionTranslate": "Translate into {{lang}}",
+    "addAPrompt": "Add a prompt",
+    "search": "Search",
+    "continueInChat": "Continue in chat",
+    "userStopTip": "User canceled the request.",
+    "noChatHistory": "No chat history yet.",
+    "noSearchHistory": "No results found.",
+    "webAccessModalTitle": "{{APP_NAME}} Empowers ChatGPT to Access the Web!",
+    "webAccessModalContent": "Remember, ChatGPT has a knowledge cut-off in 2021! However, {{APP_NAME}} merges the sophisticated intelligence of ChatGPT with real-time web information. This feature requires a significant amount of tokens, so consider upgrading to support our efforts!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Compose ||| {\"zh_CN\": \"撰写\"}",
+    "reply": "Reply",
+    "writePlaceholder": "The topic you want to compose",
+    "replyPlaceholder1": "The original text to which you want to reply",
+    "replyPlaceholder2": "The general content of your reply to the above text",
+    "submitShortcut": "Press {{shortcut}} to generate draft",
+    "generate": "Generate draft",
+    "format": "Format",
+    "email": "Email ||| {\"zh_CN\": \"邮件\"}",
+    "idea": "Idea ||| {\"zh_CN\": \"想法\"}",
+    "outline": "Outline",
+    "essay": "Essay ||| {\"zh_CN\": \"文章\"}",
+    "paragraph": "Paragraph",
+    "blog": "Blog Post",
+    "ads": "Marketing Ads",
+    "twitter": "Twitter",
+    "comment": "Comment",
+    "message": "Message ||| {\"zh_CN\": \"消息\"}",
+    "tone": "Tone",
+    "professional": "Professional",
+    "formal": "Formal",
+    "casual": "Casual",
+    "enthusiastic": "Enthusiastic",
+    "informational": "Informational",
+    "funny": "Funny",
+    "length": "Length",
+    "short": "Short ||| {\"zh_CN\": \"短\"}",
+    "medium": "Medium ||| {\"zh_CN\": \"中等\"}",
+    "long": "Long ||| {\"zh_CN\": \"长\"}",
+    "preview": "Preview",
+    "regenerate": "Regenerate ||| {\"zh_CN\": \"重新生成\"}",
+    "addToSite": "Add to site",
+    "addToSiteTip": "Place your mouse cursor in the desired input box and click '{{name}}' to insert"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Fix Error",
+    "retry": "Retry",
+    "inputPlaceholder": "Ensure your English writing is mistake-free. Paste your text or start typing below to check for grammar, spelling, and punctuation errors.",
+    "checking": "Checking",
+    "checkFailed": "Check Failed",
+    "accept": "Accept",
+    "ignore": "Ignore",
+    "continueImproving": "Continue Improving",
+    "improveGuideText": "Click here to get  the improved text and reason!",
+    "improvedText": "Improved Text:",
+    "reasonForChanges": "Reason for the changes:"
+  },
+  "OCRPanel": {
+    "ocrTips": "Extract text, numbers, and equations from an image",
+    "ocrCost": "Each {{name}} will cost {{num}} image query",
+    "newOCR": "New {{ocr}} ||| {\"zh_CN\": \"新建{{ocr}}\"}",
+    "noText": "No text recognized ||| {\"zh_CN\": \"未识别到文字\"}"
+  },
+  "translator": {
+    "quickActions": "Quick lookups ",
+    "disableHostFabLabel": "Disable on this site ",
+    "disableFabLabel": "Disable on All sites "
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Love our extension?</b> Please rate us five stars on the web store to help us grow",
+    "newInVersion": "New in version {{versionId}} ||| {\"alias\": \"What's New in version {{versionId}}\"} ",
+    "learnToUse": "Learn how to use",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} became smarter",
+          "features": ["{{4+VISION}}", "1-click to answer the same question with different bots"]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Check grammar errors",
+            "Fix grammar errors",
+            "Improve the writing beyond grammar"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — ChatGPT sidebar with Vision",
+          "features": [
+            "Extract text from an image",
+            "Ask any question about the image",
+            "3 ways to send image to {{SIDERVISION}} <div><ol><li>Take a  screenshot</li><li>Drag & Drop an image to Chat window</li><li>Upload an image </li></ol></div>"
+          ]
+        },
+        {
+          "features": ["Extract text from an image"]
+        },
+        {
+          "features": ["Extract text from an image"]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "New pricing plan with 5x more GPT-4 queries",
+          "features": [
+            "Great news! Our updated pricing now gives you even more access to GPT-4 and Claude 2 queries.",
+            "If you're already a premium user, you'll be upgraded automatically. Plus, we've got a new 'Unlimited' plan for all you power users!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "More bot!",
+          "features": ["In addition to ChatGPT and Claude, Sider supports Bard now!"]
+        },
+        {
+          "title": "OCR: Extract text from any image and send it to ChatGPT",
+          "features": [
+            "Recognize 10+ major languages",
+            "Recognize handwritten in English",
+            "Recognize <b>math equations</b> in the text"
+          ]
+        },
+        {
+          "title": "Improve Painter ||| {\"zh_CN\": \"增强绘画大师\"}",
+          "features": ["Replace the whole background", "Remove selected area"]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": ["<b>More Chatbots</b>: Now Supporting Claude-instant, Claude 2!"]
+        },
+        { "features": ["<b>Group Chat</b>: Compare Answers Across Chatbots!"] },
+        {
+          "features": [
+            "<b>Mention</b>: Use '@' to effortlessly mention and interact with any chatbot in the conversation!"
+          ]
+        },
+        { "features": ["<b>Quick Prompt</b>: Just Type '/' and Go!"] },
+        {
+          "features": ["<b>Simple Design</b>: Make the design straightforward and easy to navigate"]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Enhanced prompt manager for ||| {\"zh_CN\": \"增强的提示词管理\"}",
+          "features": [
+            "Reading context menu ||| {\"zh_CN\": \"阅读智能菜单\"}",
+            "Writing context menu ||| {\"zh_CN\": \"写作智能菜单\"}"
+          ]
+        },
+        {
+          "title": "AI image editor ||| {\"zh_CN\": \"AI图像编辑器\"}",
+          "features": ["Remove background from any images", "Remove text from any images"]
+        }
+      ],
+      "2_8_0": [
+        "Reading Assistant: Use AI for fast understanding while reading web pages",
+        "Writing Assistant: Quickly generate content with AI in the web input box"
+      ],
+      "2_7_0": ["Draw picture from text", "Draw picture from a reference picture"],
+      "2_6_0": [
+        "Sider Supports Fixed Sidebar - You can chat between all tabs without overlapping any content <br /> (available in Chrome 114 or later)"
+      ],
+      "2_5_0": [
+        "YouTube Summary! Watch 1 hour of YouTube video in 1 minute",
+        "Compare the answers provided by humans and AI on Q&A sites such as Quora, StackOverflow, and Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Smart web access</b>: Based on your query, the Al will decide if it needs to access the web.",
+        "Stability improvement"
+      ],
+      "2_3_0": [
+        "Support Browsing and Plugins for Plus users!",
+        "ChatGPT with internet access for everyone!"
+      ],
+      "2_2_0": ["Compose any message", "Reply email, tweet, comment etc"],
+      "2_1_0": [
+        "Shortcut for Quick Lookup",
+        "Resize the Quick Lookup window",
+        "Bug fixes and other UX improvements"
+      ],
+      "2_0_0": [
+        "Support <b>GPT-4 </b>for all users!",
+        "Invite friends and gain <b>GPT-4</b> queries for both of you!",
+        "Bug fixes and other UX improvements"
+      ],
+      "1_1_0": [
+        "Full Chat in the <b>new tab</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> together!",
+        "Bug fixes"
+      ],
+      "1_0_13": [
+        "Continue the chat after asking questions",
+        "Switch between GPT-4 and GPT-3.5 for Plus users",
+        "Easily access and search chat history"
+      ],
+      "1_0_12": [
+        "Sync extension settings across computers",
+        "Access your prompts from different laptops",
+        "Save chats for future use",
+        "Share chats via link"
+      ],
+      "1_0_11": [
+        "Quickly access actions through a pop-up window without opening the sidebar.",
+        "Add support for additional languages.",
+        "Retain the user's language preference when using the translation feature.",
+        "Resolve shortcut conflicts on platforms like GitHub and others."
+      ],
+      "1_0_10": ["Support 50+ languages now!"],
+      "1_0_8": ["Support GPT-4 for Plus users! Check settings page!"],
+      "1_0_7": [
+        "Remember prompt used last time",
+        "Optimize the position of the chatGPT panel on search pages",
+        "Add an option to put the sidebar in-page icon on the left side",
+        "Optimize package size",
+        "Add dark mode",
+        "Support your API url proxy"
+      ],
+      "1_0_6": ["Improve summarize feature in Youtube page"],
+      "1_0_5": [
+        "Remember the location of sidebar icon",
+        "Improve shortcut keys",
+        "Save prompt templates from the sidebar directly"
+      ],
+      "1_0_4": [
+        "Re-order prompt items in the dropdown list",
+        "Archive prompt items you will not use",
+        "Support response in 50+ languages"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter to do quick “Submit”",
+        "Option to hide panel in the search results page",
+        "Support ESC to hide sidebar",
+        "Support summarize long article"
+      ],
+      "1_0_2": [
+        "Add stop button to stop generating response",
+        "Change the place of collapse button"
+      ],
+      "1_0_1": [
+        "Improve summarize feature in Youtube page",
+        "Fix some bugs related to copy/paste and print"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Vote on Product Hunt",
+    "sidebar2Banner1": "Vote for us on <b>Product Hunt</b> NOW to spread the word.",
+    "sidebar2ModalTitle": "✨ Summary of Sidebar 2.0",
+    "sidebar2ModalDesc": "• Chat tab  \n • Quick lookup for fast queries \n • An account to sync prompts\n • Save and share chats \n • Support more languages \n • Support GPT-4",
+    "ios1Banner1": "Vote for ChitChat – ChatGPT iOS app 🎉",
+    "ios1Banner2": "Let's kick things off with a bang! 😄",
+    "ios1ModalTitle": "✨ New on ChitChat iOS App",
+    "ios1ModalDesc": "• Get answers from ChatGPT 3.5 & 4 \n• A support team of bots assists you in one place \n • Turn your PDF into a chatbot "
+  },
+  "searchTool": {
+    "questionMark": "Trigger ChatGPT by appending a question mark after your query",
+    "askForQuery": "Ask ChatGPT for this query",
+    "fiveStart": "Enjoy this extension? Give us a 5-star rating at {{store}}",
+    "loginAndCloudflareCheck": "Please login and pass Cloudflare check at {{web}}",
+    "braveTrouble": "Still not working? Follow {{url}}",
+    "cloudflareCheck": "OpenAI requires passing a security check every once in a while. If this keeps happening, change AI provider to OpenAI API in the <i>extension options</i>.",
+    "failedResponse": "Failed to load response from ChatGPT:",
+    "waitResponse": "Waiting for ChatGPT response..."
+  },
+  "sidepanel": {
+    "title": "Sider Supports Fixed Sidebar",
+    "tip": "Tip: Adjust the width of the side panel appropriately for a better experience.",
+    "benefit1": "Your Sider sidebar will <b>never disappear</b> if you navigate to a new page.",
+    "benefit2": "You can chat between all tabs without <b>overlapping any content</b>.",
+    "benefit3": "Only available in <b>Google Chrome 114 or later</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Cost {{num}} queries",
+    "videoSummaryBtn": "Summarize Video",
+    "loginToSummary": "Sign in to Summarize",
+    "noTranscriptTip": "{{APP_NAME}} is unable to summarize videos without subtitles.",
+    "shownotes": "Key moments ||| {\"zh_CN\": \"关键时刻\"}",
+    "freeLimitTips": "Your free trial has been used up, upgrade now to continue using the video summary feature.",
+    "askQuestionBtn": "Ask Question ||| {\"zh_CN\": \"提问\"}",
+    "noQuestionTip": "{{APP_NAME}} is unable to get the problem on the page."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "Ask {{APP_NAME}} anything",
+    "defaultPlaceholder2": "Ask {{APP_NAME}} with the above content",
+    "managePrompts": "Manage Prompts ||| {\"zh_CN\": \"管理提示词\"}",
+    "editSelectionGroup": "Edit or review selection ||| {\"zh_CN\": \"优化选中内容\"}",
+    "selectionGroup": "Generate from selection ||| {\"zh_CN\": \"根据选中内容生成\"}",
+    "draftGroup": "Draft with {{name}} ||| {\"zh_CN\": \"生成草稿\"}",
+    "AIGenerating": "{{name}} is generating...",
+    "pressToStop": "Press {{name}} to stop",
+    "pressToClose": "Press {{name}} to close",
+    "disableOnce": "Hide until next visit",
+    "disableSite": "Disable for this site ||| {\"zh_CN\": \"此页面禁用\"}",
+    "disableGlobal": "Disable globally",
+    "continueImproving": "Continue Improving ||| {\"zh_CN\": \"继续优化\"}"
+  },
+  "msg": {
+    "supportedFileFormat": "Supported file formats are {{formats}}",
+    "maxFileSize": "Maximum file size is {{size}}",
+    "enterAPIKey": "Please enter your OpenAI API key",
+    "selectModel": "Please select a valid model",
+    "changeSaved": "Changes saved",
+    "fiveStart": "Give us a 5-star",
+    "pleaseContactUs": "Please <a>contact us</a>.",
+    "inviteTitle": "Invite & Rewards ||| {\"zh_CN\": \"邀请有奖\"}",
+    "inviteEarn": "Earn <mx>{{num}} queries</mx> for you and your friends. <b>The more you refer, the more you earn</b>. ||| {\"zh_CN\": \"邀请成功就送您和好友每人 <mx>{{num}}</mx> 查询额度。 <b>奖励无上限。</b>\"}",
+    "inviteStep1": "Refer your friends with Invitation link ||| {\"zh_CN\": \"复制下方邀请链接发送给好友\"}",
+    "inviteStep2": "Your friends sign up ||| {\"zh_CN\": \"好友注册账号\"}",
+    "inviteStep3": "They install extension & login. Rewards earned! ||| {\"zh_CN\": \"下载并登录插件，奖励到账！\"}",
+    "checkInvitation": "Check Invitation Records",
+    "inviteFriendsEarn": "Invite Friends & Earn GPT-4 queries ||| {\"zh_CN\": \"邀请朋友并领取 GPT-4 查询额度\"}",
+    "inviteFriends": "Invite Friends",
+    "inviteRewardsRecord": "Rewards Records: ",
+    "invitedRewardObtained": "Rewards Obtained!",
+    "invitedWelcome": "Welcome! The GPT queries have been added to your account! ||| {\"zh_CN\": \"欢迎！ GPT 查询额度已添加到您的帐户！\"}",
+    "invitedRewardTips": "Your friend invites you, and each of you has <mx>{{num}} queries</mx> to use ||| {\"zh_CN\": \"您的朋友邀请了您，你们每个人都有 <mx>{{num}} 个查询额度</mx> 可以使用\"}",
+    "getMoreGPT4": "Get more GPT-4 quota",
+    "errSiderApiLimit": "You have used all of the free credits provided by us, please follow the <i>instructions here</i> to get an API from OpenAI.",
+    "errSiderApiLimitDevice": "You have used all of the free credits provided by us. <a>Sign in</a> to get more free credits.",
+    "errSiderApiLimitLogin": "You've reached your quota. To continue, please consider <a>upgrading to our premium plan</a>. Thanks!",
+    "errSiderApiLimitLogin2": "You've reached your quota. To continue, please consider <a>upgrading to our premium plan</a>. Thanks!",
+    "errSiderApiLimitPremium": "You have used all of the credits, please <a>upgrade your plan</a>.",
+    "errSiderPremiumRequired": "Please <a>upgrade to premium</a> to  use this feature.",
+    "errSiderHighTrafficError": "{{APP_NAME}} faces high traffic. Please try again later.",
+    "errSiderHighTrafficTip": "Please consider <a>upgrading to a premium account</a> for stable access and to support our development.",
+    "errSiderDeviceBinded": "Please <a>sign in</a> to use it.",
+    "errSiderApiHighLoad": "Request limit reached due to high load, please try again later.",
+    "errSiderGPT4HighLoad": "GPT-4 limit reached due to high load, please try again later.",
+    "errSiderGPT4LimitDevice": "Please <b>sign in</b> first, and <amb>invite your friends</amb> or <ta>upgrade to premium</ta> to get more advanced text quota.",
+    "errSiderGPT4LimitLogin": "<t>Invite your friends</t> or <a>upgrade to premium</a> to get more Advanced Text quota.",
+    "errSiderGPT4LimitPremium": "<tm>Invite your friends</tm> or <dm>upgrade your plan</dm> to get more advanced text quota.",
+    "errSiderNeedLogin": "Please <a>sign in</a>.",
+    "goToSignIn": "Go to sign in",
+    "errSiderTimeout": "Request timed out. Please try again.",
+    "errSiderProcessing": "Only one message at a time. Please allow any other response to complete before sending another message, or wait a moment.",
+    "errTrySiderAPI": "Switch to <i>ChatGPT Sidebar API</i> to get stable access (for everyone)",
+    "errTrySiderAPI2": "OR use your own API key in the <a>setting page</a> (for developers)",
+    "errChatGPTAuth": "Please <m>click the link to sign in </m>to your ChatGPT webpage and we will help you pin it. Then you can use it in the sidebar.",
+    "errChatGPTAuthTipTitle": "If it doesn't work:",
+    "errChatGPTFailToFetch": "Fail to get response from ChatGPT.",
+    "errOpenaiFailToFetch": "Fail to get response from OpenAI via you API key.",
+    "errSiderBasicTextLimit": "You have reached our basic text rate query limit. At present, there is a restriction of {{N1}} messages every {{NUM2}} minutes. Alternatively, you can use advanced text query and return later.",
+    "errSiderAdvancedTextLimit": "You have reached our advanced text rate query limit. At present, there is a restriction of {{N1}} messages every {{NUM2}} minutes. Alternatively, you can use basic text query and return later.",
+    "loginAndCloudflareCheck": "Switch to the <a>Sidebar API</a> to get stable access OR sign in and pass Cloudflare check at <i>chat.openai.com</i>",
+    "invalidApiKey": "API key is invalid, please get another.",
+    "getApiKeyGuide": "You need an OpenAI API key to make it work. Follow our guide to get the API key.",
+    "thankForFeedback": "Thank you. The form was submitted successfully. We will contact you shortly.",
+    "writeSomething": "Please write something.",
+    "enterEmail": "Enter an email address to receive updates on the issue.",
+    "emailRequired": "Email is required.",
+    "promptNameRequired": "Prompt name is required.",
+    "titleRequired": "Title is required.",
+    "nameYourPrompt": "Name your prompt",
+    "nameYourTitle": "Name your conversation",
+    "promptTplRequired": "Prompt content is required.",
+    "deletePromptWarn": "Do you want to delete this prompt?",
+    "restorePromptWarn": "Do you want to restore this prompt template?",
+    "notValidEmail": "not a valid email",
+    "pleaseSignin": "Please sign in.",
+    "signinTips": "Sign in to sync your prompts & settings",
+    "signinAward": "Sign in to get {{num}} queries per day ||| {\"zh_CN\": \"登录以获得每天 {{num}} 个额度\"}",
+    "signinAward2": "The queries have been used up for unlogged user. You can sign in to get <b>{{num}} free queries per day</b>. ||| {\"zh_CN\": \"未登录用户的查询额度已用完。您可以登录以获得<b>每天 {{num}} 次免费额度</b>。\"}",
+    "signinAward3": "Sign in to get more queries per day ||| {\"zh_CN\": \"登录以获得每更多额度\"}",
+    "chatgptTabGuardTips": "Please keep this tab open, now you can go back to {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Something went wrong with ChatGPT. Reconnecting, please wait...",
+    "chatgptTabGuardRefreshingTips1": "Something went wrong with ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Reconnecting, please wait...",
+    "chatgptTabGuardSetupSuccessTips": "Fixed, pleace try again",
+    "switchToSiderApiToContinue": "This feature currently only supports {{APP_NAME}} API mode, please <a>switch to {{APP_NAME}} API</a> to continue.",
+    "switchRequired": "Switch Required",
+    "signInRequired": "Sign in Required",
+    "useUpUpgrade": "Your quota has been used up, please upgrade to get more quota.",
+    "webSearchSignIn": "Please sign in to use this feature.",
+    "featureLimit": "Feature Limit",
+    "featureLimitTip": "Please upgrade to use Claude and Bard.",
+    "featureUnavailableOnPage": "This feature is unavailable on this page",
+    "featureBrowserLimit": "Due to browser's restrictions, this feature is unavailable on this page. Please change a page and try again.",
+    "quotaModelContent": "Your GPT-4/Claude-2 query limit is reached. Upgrade to the Premium Plan for more access, or invite friends for free extra queries.",
+    "signinFeature": "Please sign in to access this feature.",
+    "signinFeature2": "Please sign in to access this feature",
+    "dragImgTips": "Click or drag an image you want to {{name}}",
+    "reEnableInSettings": "You can re-enable in <a>Settings</a>",
+    "switchBarTip": "Widen the side panel to pin the navigation bar.",
+    "upgradeSupport": "Upgrade to premium plan to support us",
+    "imageSizeLimit": "Image Limit",
+    "imageSizeLimitTip": "Please ensure the image is smaller than 10MB and its width or height does not exceed 4096 pixels, then try again.",
+    "errOpenAIFilter": "The response was filtered due to the prompt triggering OpenAI’s content management policy. Please modify your prompt and retry."
+  },
+  "options": {
+    "theme": {
+      "auto": "Auto ||| {\"alias\": \"自动\"}",
+      "light": "Light ||| {\"alias\": \"bright mode\"}",
+      "dark": "Dark ||| {\"alias\": \"dark mode\"}"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Always",
+        "desc": "Ask ChatGPT on every search"
+      },
+      "questionMark": {
+        "title": "Question Mark",
+        "desc": "Ask ChatGPT if the keywords ends with a question mark (?)"
+      },
+      "manually": {
+        "title": "Manually",
+        "desc": "Ask ChatGPT only when you click the button"
+      }
+    },
+    "sidebarLocation": {
+      "left": "Left ||| {\"alias\": \"left side\"}",
+      "right": "Right ||| {\"alias\": \"right side\"}"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Ask ChatGPT ||| {\"zh_CN\": \"询问ChatGPT\"}",
+        "template": "Can you tell me something about {{keywords}}? If possible, can you give me some links about it? If {{keywords}} is a code related question, please just write the code"
+      },
+      "list": {
+        "title": "Keywords to Questions",
+        "template": "List 1 most popular question about \"{{keywords}}\". Then, Answer this question. At last, list another 4 questions."
+      },
+      "suggest": {
+        "title": "Get related keywords",
+        "template": "{{keywords}} are my search keywords in Google. Please give me 5 sets of related keywords."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Summarize",
+        "template": "Summarize this for a second-grade student: "
+      },
+      "similar-pages": {
+        "title": "Similar pages",
+        "template": "Find 10 similar pages to the following content with link: "
+      },
+      "grammar": {
+        "title": "Grammar",
+        "template": "Correct this to standard English: "
+      },
+      "explain": {
+        "title": "Explain",
+        "template": "Explain the following content: "
+      },
+      "explain-codes": {
+        "title": "Explain Codes",
+        "template": "Explain the following codes: "
+      },
+      "rewrite": {
+        "title": "Rewrite",
+        "template": "Rewrite the following content: "
+      },
+      "translate": {
+        "title": "Translate",
+        "template": "Translate the following content to {{lang}} language: "
+      },
+      "qa": {
+        "title": "Q&A",
+        "template": "Answer this question: "
+      }
+    }
+  },
+  "planNames": {
+    "free": "Free Plan ||| {\"zh_CN\": \"入门版\"}",
+    "basic": "Basic Plan ||| {\"zh_CN\": \"基础版\"}",
+    "pro": "Pro Plan ||| {\"zh_CN\": \"高级版\"}",
+    "ultra": "Ultra Plan ||| {\"zh_CN\": \"至尊版\"}"
+  },
+  "queryNames": {
+    "fast": "Fast Text",
+    "advanced": "Advanced Text",
+    "image": "Image"
+  },
+  "upgradeModal": {
+    "desc": "More queries and more features！",
+    "upgradeToUseXXX": "Upgrade To Use <b>bot</b>",
+    "getWebAccess": "Upgrade to get web answer",
+    "gpt4Desc": "GPT-4 is significantly smarter and can assist you in obtaining more logical and accurate answers.",
+    "claude2Desc": "Claude-2 is significantly smarter and can assist you in obtaining more logical and accurate answers.",
+    "webAccessDesc": "Sider retrieves answers to your questions from Google and employs AI for concise organization and summarization.",
+    "features": {
+      "_0": "<b>Unlimited</b> Fast Text Queries",
+      "0_desc": "For GPT3.5, Bard & Claude Instant ||| {\"zh_CN\": \"GPT3.5，Bard 和 Claude-Instant\"}",
+      "_1": "<b>Unlimited</b> Advanced Text Queries",
+      "1_desc": "For GPT4 & Claude V2 ||| {\"zh_CN\": \"GPT4 和 Claude-2\"}",
+      "_2": "<b>1000/Mo</b> Image Queries",
+      "2_desc": "For painter, OCR and Vision"
+    }
+  }
+}

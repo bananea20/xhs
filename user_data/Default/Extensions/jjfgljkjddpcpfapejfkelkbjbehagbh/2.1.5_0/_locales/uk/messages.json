@@ -1,0 +1,242 @@
+{
+   "Acknowledgment": {
+      "message": "Підтвердження"
+   },
+   "BlackListStr": {
+      "message": "Список заборонених"
+   },
+   "OverwriteAriaNgRpcWarn": {
+      "message": "Налаштування RPC змінилися. Синхронізувати ці зміни з AriaNG?"
+   },
+   "Reset": {
+      "message": "Скинути"
+   },
+   "Save": {
+      "message": "Зберегти"
+   },
+   "WebUIOpenStyle1": {
+      "message": "Спливаюче вікно"
+   },
+   "WebUIOpenStyle2": {
+      "message": "Нова вкладка"
+   },
+   "WebUIOpenStyle3": {
+      "message": "Нове вікно"
+   },
+   "WebUIOpenStyleStr": {
+      "message": "AriaNG відкрити в"
+   },
+   "addToBlackListStr": {
+      "message": "Поточний URL -> Список заборонених"
+   },
+   "addToWhiteListStr": {
+      "message": "Поточний URL -> Список дозволених"
+   },
+   "allowExternalRequestDes": {
+      "message": "Отримуйте запит на завантаження з іншого розширення"
+   },
+   "allowNotificationDes": {
+      "message": "Сповіщення стану завданн"
+   },
+   "allowedExtsPlaceholderDes": {
+      "message": "Встановіть розширення файлів, які ви хочете захопити, одне розширення на рядок, * означає все.\n(Список дозволених має більший пріоритет)"
+   },
+   "allowedSitesPlaceholderDes": {
+      "message": "Встановіть домени, які ви хочете захопити, один веб-сайт на рядок, підтримує регулярні вирази.\n(Список дозволених має більший пріоритет)"
+   },
+   "appName": {
+      "message": "Aria2 Explorer"
+   },
+   "askBeforeDownloadDes": {
+      "message": "Питання детальних налаштувань перед автоматичним завантаженням"
+   },
+   "askBeforeExportDes": {
+      "message": "Питати налаштування деталей перед експортом"
+   },
+   "blockedExtsPlaceholderDes": {
+      "message": "Встановіть розширення файлів, які не потрібно захоплювати, один розширення на рядок, * означає все."
+   },
+   "blockedSitesPlaceholderDes": {
+      "message": "Встановіть домени, які ви не хочете захоплювати, один веб-сайт на рядок, підтримує регулярні вирази."
+   },
+   "captureMagnetDes": {
+      "message": "Захоплення магнітного посилання"
+   },
+   "captureMagnetWarn": {
+      "message": "Захоплення на рівні ОС, переконайтеся, що перед видаленням вимкнуто"
+   },
+   "configCloudSync": {
+      "message": "Хмарна синхронізація"
+   },
+   "configCloudSyncDes": {
+      "message": "Синхронізувати AriaNg та конфігурації розширення з поточним обліковим записом браузера"
+   },
+   "configPageTitle": {
+      "message": "Налаштування опцій розширення"
+   },
+   "connected": {
+      "message": "підключено"
+   },
+   "contextmenuDes": {
+      "message": "Експорт завдання з контекстного меню"
+   },
+   "contextmenuStr": {
+      "message": "Контекстне меню"
+   },
+   "contextmenuTitle": {
+      "message": "Експорт до "
+   },
+   "description": {
+      "message": "Прискорте завантаження з Aria2 та легко керуйте завданнями завантаження."
+   },
+   "disconnected": {
+      "message": "відключено"
+   },
+   "download": {
+      "message": "звантажити"
+   },
+   "downloadCaptureDes": {
+      "message": "Увімкнути автоматичне захоплення, коли розмір файлу завантаження"
+   },
+   "downloadCaptureStr": {
+      "message": "завантажити захоплення"
+   },
+   "downloadComplete": {
+      "message": "$rpcName$ завантаження завершено.",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadConfigFailed": {
+      "message": "Конфігурації не вдалося завантажити: Дані недійсні або відсутній зв'язок з мережею."
+   },
+   "downloadConfigSucceed": {
+      "message": "Конфігурації успішно завантажено"
+   },
+   "downloadError": {
+      "message": "$rpcName$ сталася помилка завантаження.",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadStart": {
+      "message": "$rpcName$ завантаження розпочато.",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "exportAllDes": {
+      "message": "експорт всіх посилань"
+   },
+   "exportAllFailedDes": {
+      "message": "Не знайдено дійсного посилання для завантаження."
+   },
+   "exportFailedDes": {
+      "message": "$rpcName$ не вдалося запустити завдання!",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportFailedStr": {
+      "message": "Експорт не вдався"
+   },
+   "exportSucceedDes": {
+      "message": "$rpcName$ почав завантаження.",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportSucceedStr": {
+      "message": "Експорт успішний"
+   },
+   "fileExtStr": {
+      "message": "Розширення файлу"
+   },
+   "finish": {
+      "message": "Завершено"
+   },
+   "keepAwakeDes": {
+      "message": "Зберігайте систему працювати під час завантаження"
+   },
+   "keepSilentDes": {
+      "message": "Зберігайте сповіщення мовчазними"
+   },
+   "monitorAllDes": {
+      "message": "Моніторинг всіх Aria2"
+   },
+   "monitorAllTips": {
+      "message": "Якщо встановлено декілька Aria2, слідкуйте за станом усіх та агрегуйте результати."
+   },
+   "monitorAria2Des": {
+      "message": "Монітор стану звантаження Aria2"
+   },
+   "monitorAria2Str": {
+      "message": "Монітор стану Aria2"
+   },
+   "openWebUIStr": {
+      "message": "Відкрити AriaNG"
+   },
+   "removeFromBlackListStr": {
+      "message": "Видалити зі списку заборонених"
+   },
+   "removeFromWhiteListStr": {
+      "message": "Видалити зі списку дозволених"
+   },
+   "review": {
+      "message": "оцінити"
+   },
+   "reviewDes": {
+      "message": "Оцініть нас!"
+   },
+   "selectDefaultRpcStr": {
+      "message": "типовий Aria2"
+   },
+   "startAria2Str": {
+      "message": "Запустіть Aria2"
+   },
+   "taskNotification": {
+      "message": "Сповіщення про завдання"
+   },
+   "toggleCapture": {
+      "message": "Перемикач захоплення завантаження"
+   },
+   "upload": {
+      "message": "Вивантажити"
+   },
+   "uploadConfigFailed": {
+      "message": "Конфігурації не вдалося завантажити: "
+   },
+   "uploadConfigSucceed": {
+      "message": "Конфігурації успішно завантажено"
+   },
+   "uploadConfigWarn": {
+      "message": "Неправильні або порожні дані локальної конфігурації, продовжувати?"
+   },
+   "wait": {
+      "message": "Очікування"
+   },
+   "websiteFilterStr": {
+      "message": "фільтрація веб-сайту"
+   },
+   "websiteStr": {
+      "message": "Веб-сайт"
+   },
+   "whiteListStr": {
+      "message": "Список дозволених"
+   }
+}

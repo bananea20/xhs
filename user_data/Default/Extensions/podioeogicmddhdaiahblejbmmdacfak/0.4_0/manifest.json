@@ -1,0 +1,30 @@
+{
+   "background": {
+      "page": "speakit.html"
+   },
+   "browser_action": {
+      "default_icon": "small_icon.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_title__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "images/icon.png",
+      "16": "small_icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArf6tGC/VakwBvGWZ+bsF0x7BwN9skmhUk/q1CLix7TvBMkos89ZyPKMHFNLMahKesohABbMp04pahgd292AMGdlmefU+4H3qEWwr7CkxuqMDA8sFmhNJ0qz5n3cPic2tV0QXHWmUtV1kp5/wIJAKorvTt74n5vmnnvfZ6lNL6+w7ZSxOq6N8aNqIxBUrq5PfxRoO00412nTRG1jj9qV+dOgsQax2skqEUjGCq3JAQrjbjvw5Rgx16PFG8Iz1U5nTXS3dLQqBm0DgNbjiWtBaEwaF4C9hQ5F9S0zlj75upbGGbRRYRa7aIl+F+4OU3y0ERQzIMGCSZBnDbQ5NuuJOfQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "14",
+   "name": "SpeakIt! - Text to speech for Microsoft Edge",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "ttsEngine", "tts", "activeTab", "https://translate.google.com/", "https://skechboy.com/" ],
+   "tts_engine": {
+      "voices": [ {
+         "event_types": [ "start", "marker", "end" ],
+         "voice_name": "SpeakIt!"
+      } ]
+   },
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.4"
+}

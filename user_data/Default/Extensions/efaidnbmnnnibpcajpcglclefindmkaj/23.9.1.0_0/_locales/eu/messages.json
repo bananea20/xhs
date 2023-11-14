@@ -1,0 +1,450 @@
+{
+   "ConvertVerbDescription": {
+      "message": "Bihurtu fitxategiak PDF-ra edo PDF-tik beste formatu batera."
+   },
+   "Disable": {
+      "message": "Desgaitu"
+   },
+   "EditVerbDescription": {
+      "message": "Berrantolatu, biratu edo ezabatu PDF-aren orrialdeak."
+   },
+   "Enable": {
+      "message": "Gaitu"
+   },
+   "LearnMoreURL": {
+      "message": "https://helpx.adobe.com/acrobat/kb/acrobat-pro-aip-for-chrome.html"
+   },
+   "LearnMoreURLEdge": {
+      "message": "https://helpx.adobe.com/acrobat/kb/acrobat-pro-aip-for-edge.html"
+   },
+   "SignVerbDescription": {
+      "message": "Bete eta sinatu PDFak, edo eskatu sinadurak."
+   },
+   "adobeYoloErrorMessage": {
+      "message": "Esteka hau baliogabea da"
+   },
+   "adobeYoloMessage": {
+      "message": "Acrobat-en saioa hasten…"
+   },
+   "analyticsOptinTitle": {
+      "message": "Bidali erabilerari buruzko datuak"
+   },
+   "appearancePrefDesc": {
+      "message": "Aldatu gai ilunaren eta argiaren artean"
+   },
+   "appearancePrefOp1": {
+      "message": "Erabili sistemaren ezarpena"
+   },
+   "appearancePrefOp2": {
+      "message": "Gai iluna"
+   },
+   "appearancePrefOp3": {
+      "message": "Gai argia"
+   },
+   "appearancePrefTitle": {
+      "message": "Gai ilunaren ezarpenak"
+   },
+   "convertMegaVerbText": {
+      "message": "Bihurtu"
+   },
+   "dcWebBookmarkTitle": {
+      "message": "Adobe Acrobat Home"
+   },
+   "editMegaVerbText": {
+      "message": "Editatu"
+   },
+   "extensionMenuTitle": {
+      "message": "Acrobat luzapena - Gehitu lasterbidea PDF tresna guztietara"
+   },
+   "fteOwnershipSideRedCardContent": {
+      "message": "Idatzi iruzkinak, bete eta sinatu inprimakiak, eta abar Chrome-ren bidez, Acrobat PDF ikustaile lehenetsi gisa ezartzen duzunean."
+   },
+   "fteSideCardPrimaryHeader": {
+      "message": "Erabili Acrobat"
+   },
+   "fteSideCardSecondaryHeader": {
+      "message": "Chrome-ren bidez"
+   },
+   "localFileOptionDesc": {
+      "message": "Eman Acrobat luzapenerako sarbidea fitxategi lokalen URLetarako PDF guztiak Chrome-ko Acrobat-en irekitzeko."
+   },
+   "localFileOptionTitle": {
+      "message": "PDF fitxategi lokalak Acrobat-en irekitzen"
+   },
+   "localFteContinue": {
+      "message": "Joan Ezarpenak atalera"
+   },
+   "localFteDescription": {
+      "message": "Atera etekinik handiena Acrobat luzapenari eta erabil ezazu PDF fitxategi guztiak irekitzeko. Aktibatu Onartu fitxategien URLetarako sarbidea luzapenaren ezarpenetan."
+   },
+   "localFteDontShowAgainText": {
+      "message": "Ez erakutsi hau berriro"
+   },
+   "localFteTitle": {
+      "message": "Aldatu Acrobat-era fitxategi lokalak irekitzeko"
+   },
+   "optionsFailurePrompt": {
+      "message": "Ezin ditugu gorde aldaketak. Saiatu berriro geroago."
+   },
+   "optionsSuccessPrompt": {
+      "message": "Gorde dira hobespenak"
+   },
+   "pdfOwnerShipDmbConfirmBtn": {
+      "message": "Jarraitu"
+   },
+   "pdfOwnerShipSideRedCardConfirmBtn": {
+      "message": "Jarraitu"
+   },
+   "pdfOwnershipDefSideCardcontent": {
+      "message": "Ikusi, idatzi iruzkinak, bete inprimakiak, sinatu eta abar Adobe Acrobat PDF ikustaile lehenetsi gisa ezartzen duzunean."
+   },
+   "pdfOwnershipExploreAcrobat": {
+      "message": "Erabili Acrobat Chrome-n"
+   },
+   "pdfOwnershipExploreAcrobatEdge": {
+      "message": "Erabili Acrobat Microsoft Edge-n"
+   },
+   "pdfOwnershipExploreOptionsDescription": {
+      "message": "Bihurtu Acrobat arakatzaileko PDF ikustaile lehenetsia iruzkinak idazteko, betetzeko, sinatzeko eta PDFarekin erlazionatutako tresna gehiago erabiltzeko."
+   },
+   "pdfOwnershipExploreOptionsTitle": {
+      "message": "Ireki PDFak Acrobat-en"
+   },
+   "pdfOwnershipPromptCancel": {
+      "message": "Orain ez"
+   },
+   "pdfOwnershipPromptContent": {
+      "message": "Egin gauza gehiago PDF fitxategiekin Chrome-n Adobe Acrobat ikustaile lehenetsi gisa ezarrita."
+   },
+   "pdfOwnershipPromptContent2": {
+      "message": "Ezarri Acrobat PDFen ikustaile lehenetsi gisa, Google Chrome-n PDFak ikusteko. Idatzi iruzkinak, bete eta sinatu inprimakiak, eta probatu bihurtzeko, konprimatzeko eta antzeko tresnak."
+   },
+   "pdfOwnershipPromptContentEdge": {
+      "message": "Egin gauza gehiago PDF fitxategiekin Microsfot Edge-n Adobe Acrobat ikustaile lehenetsi gisa ezarrita."
+   },
+   "pdfOwnershipPromptDeny": {
+      "message": "Ez, eskerrik asko"
+   },
+   "pdfOwnershipPromptOk": {
+      "message": "Ezarri lehenetsi gisa"
+   },
+   "pdfOwnershipPromptOkFullscreen": {
+      "message": "Probatu"
+   },
+   "popupNoConnection": {
+      "message": "Konexiorik ez"
+   },
+   "popupOfflineMessage": {
+      "message": "Jarri harremanetan administratzailearekin konexioari berrekiteko"
+   },
+   "saveLocationOp1": {
+      "message": "Galdetu beti"
+   },
+   "saveLocationOp2": {
+      "message": "Adobe-ko hodeiko biltegiratzea"
+   },
+   "saveLocationOp3": {
+      "message": "Nire ordenagailua"
+   },
+   "saveLocationPreferenceDescription": {
+      "message": "Ezarri fitxategiak gordetzeko kokalekua"
+   },
+   "saveLocationPreferenceTitle": {
+      "message": "Gorde fitxategiaren kokalekua"
+   },
+   "sharepointPreferenceMessage": {
+      "message": "Eman baimenak SharePoint-eko fitxategiak erabiltzeko Acrobat-en."
+   },
+   "signMegaVerbText": {
+      "message": "Sinatu"
+   },
+   "stripTextOpenAcrobat": {
+      "message": "Ireki Acrobat-en"
+   },
+   "stripTextOpenFillnSign": {
+      "message": "Bete eta sinatu Acrobat-en"
+   },
+   "userLocale": {
+      "message": "Erabiltzailearen kokapena"
+   },
+   "web2pdfAddButtonText": {
+      "message": "Gehitu lehendik dagoen PDFan..."
+   },
+   "web2pdfAlwaysShow": {
+      "message": "Erakutsi automatikoki PDF fitxategietarako"
+   },
+   "web2pdfAppendLinkContextMenu": {
+      "message": "Erantsi estekaren helburua lehendik dagoen PDFan"
+   },
+   "web2pdfAppendPageContextMenu": {
+      "message": "Gehitu web-orria lehendik dagoen PDFan..."
+   },
+   "web2pdfBadVersion": {
+      "message": "Chrome bertsio honek ez du onartzen Adobe Acrobat. Gutxienez $version$ bertsioa izan behar du.",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfBadVersionEdge": {
+      "message": "Edge-en bertsio honek ez du onartzen Adobe Acrobat. $version$ bertsioa erabili behar duzu gutxienez.",
+      "placeholders": {
+         "version": {
+            "content": "$1"
+         }
+      }
+   },
+   "web2pdfClickToOpen": {
+      "message": "Egin klik jarraian duzun estekan PDFa Acrobat-en irekitzeko."
+   },
+   "web2pdfCompressPDFText": {
+      "message": "Konprimitu PDFa"
+   },
+   "web2pdfConvertButtonText": {
+      "message": "Bihurtu web-orria PDF..."
+   },
+   "web2pdfConvertButtonToolTip": {
+      "message": "Acrobat Extension - Shortcut to all your PDF tools."
+   },
+   "web2pdfConvertButtonToolTipERPReader": {
+      "message": "Une honetan desgaituta dago Acrobat Reader luzapena. Jarri harremanetan IKT administratzailearekin."
+   },
+   "web2pdfConvertButtonToolTipReader": {
+      "message": "Ireki PDFa Acrobat Reader-en "
+   },
+   "web2pdfConvertLinkContextMenu": {
+      "message": "Bihurtu estekaren helburua Adobe PDF"
+   },
+   "web2pdfConvertPageContextMenu": {
+      "message": "Bihurtu web-orria Adobe PDF..."
+   },
+   "web2pdfCopyText": {
+      "message": "Acrobat-en kopiatzen"
+   },
+   "web2pdfCreatePDFText": {
+      "message": "Bihurtu PDF"
+   },
+   "web2pdfDestinationText": {
+      "message": "Helburuko karpeta:"
+   },
+   "web2pdfDoneButtonText": {
+      "message": "Eginda"
+   },
+   "web2pdfEditDeletePDFText": {
+      "message": "Ezabatu orrialdeak"
+   },
+   "web2pdfEditPDFText": {
+      "message": "Editatu PDF-a"
+   },
+   "web2pdfEditReorderPDFText": {
+      "message": "Berrantolatu orrialdeak"
+   },
+   "web2pdfEditRotatePDFText": {
+      "message": "Biratu orrialdeak"
+   },
+   "web2pdfExportPDFToExcelText": {
+      "message": "PDF-tik Excel-era "
+   },
+   "web2pdfExportPDFToJPGText": {
+      "message": "PDF-tik JPG-ra"
+   },
+   "web2pdfExportPDFToPPTText": {
+      "message": "PDF-tik PPT-ra"
+   },
+   "web2pdfExportPDFToWordText": {
+      "message": "PDF-tik Word-era"
+   },
+   "web2pdfExtnDescription": {
+      "message": "Erabili Acrobat arakatzaile batean PDFak ikusi, bihurtu, konprimatu eta sinatzeko"
+   },
+   "web2pdfExtnDescriptionBeta": {
+      "message": "Erabili Acrobat arakatzaile batean PDFak ikusi, bihurtu, konprimatu eta sinatzeko"
+   },
+   "web2pdfExtnDescriptionChrome": {
+      "message": "Egin gauza gehiago Google Chrome-n Adobe Acrobat-en PDFetarako tresnekin. Ikusi, bete, sinatu PDFak, utzi iruzkinak haietan eta probatu bihurtzeo eta konprimatzeko tresnak."
+   },
+   "web2pdfExtnDescriptionEdge": {
+      "message": "Egin gauza gehiago Microsoft Edge-n Adobe Acrobat-en PDFetarako tresnekin. Ikusi, bete, sinatu PDFak, utzi iruzkinak haietan eta probatu bihurtzeo eta konprimatzeko tresnak."
+   },
+   "web2pdfExtnName": {
+      "message": "Adobe Acrobat: PDFak editatzeko, bihurtzeko eta sinatzeko tresnak"
+   },
+   "web2pdfExtnNameBeta": {
+      "message": "Adobe Acrobat Beta"
+   },
+   "web2pdfExtnNameEdge": {
+      "message": "Adobe Acrobat: PDFak editatzeko, bihurtzeko eta sinatzeko tresnak"
+   },
+   "web2pdfExtnNameStage": {
+      "message": "Adobe Acrobat fasea"
+   },
+   "web2pdfFileLockedError": {
+      "message": "Ezin da fitxategia gorde, beste prozesu batean erabiltzen ari delako."
+   },
+   "web2pdfFilename": {
+      "message": "Fitxategiaren izena:"
+   },
+   "web2pdfFillSignAcrobatButtonText": {
+      "message": "Bete eta sinatu"
+   },
+   "web2pdfFillandSignText": {
+      "message": "Bete eta sinatu"
+   },
+   "web2pdfFrictionlessToggleDescription": {
+      "message": "Adobe Acrobat-eko luzapenak PDF-ko tresnak gomendatzen dizkizu atazak burutzen laguntzeko. Gure gomendioak egiten dituzun bilaketetan eta gailuan gertatzen denean oinarritzen da; bilaketak ez zaizkio Adobe-ri bidaltzen."
+   },
+   "web2pdfFrictionlessUrl": {
+      "message": "https://www.adobe.com/go/fl_chromeext_es"
+   },
+   "web2pdfFrictionlessUrlEdge": {
+      "message": "https://www.adobe.com/es/acrobat/online.html?x_api_client_id=edge_extension&x_api_client_location=trefoil&mv=other&mv2=edge_extension:trefoil&trackingid=HM85XB76"
+   },
+   "web2pdfGoToAOnlineButtonText": {
+      "message": "Joan Acrobat online zerbitzura"
+   },
+   "web2pdfHTMLJSError": {
+      "message": "Errore bat gertatu da web-orria prozesatzean."
+   },
+   "web2pdfHTMLTooLarge": {
+      "message": "HTML edukia handiegia da prozesatzeko."
+   },
+   "web2pdfInfoHoverPopup": {
+      "message": "Adobe Acrobat-eko luzapenak PDF-ko tresnak gomendatzen dizkizu atazak burutzen laguntzeko. Gure gomendioak egiten dituzun bilaketetan eta gailuan gertatzen denean oinarritzen da; bilaketak ez zaizkio Adobe-ri bidaltzen. Sakatu \u003Cspan class = \"tooltip-content-settings\">hau\u003C/span> eginbidea desgaitzeko."
+   },
+   "web2pdfLoaderTitle": {
+      "message": "Kargatzen…"
+   },
+   "web2pdfMissingMac": {
+      "message": "Chrome-rako Adobe Acrobat oraindik ez dago erabilgarri Mac gailuetarako"
+   },
+   "web2pdfMissingMacEdge": {
+      "message": "Microsoft Edge-rako Adobe Acrobat oraindik ez dago erabilgarri Mac gailuetarako"
+   },
+   "web2pdfNoFoldersText": {
+      "message": "Ez duzu karpetarik Acrobat DC biltegian."
+   },
+   "web2pdfNoWritePermissionOnSelectedFile": {
+      "message": "Ez duzu idazteko baimenik hautatutako fitxategian."
+   },
+   "web2pdfOpenButtonText": {
+      "message": "Ireki Acrobat-en"
+   },
+   "web2pdfOpenButtonTextOlder": {
+      "message": "Deskargatu Adobe PDF"
+   },
+   "web2pdfOpenButtonTextReader": {
+      "message": "Ireki Acrobat Reader-en"
+   },
+   "web2pdfOpenConvertedPDFDescription": {
+      "message": "Ireki automatikoki bihurtutako PDFa Acrobat-en web-orritik PDFrako bihurketa osatu denean."
+   },
+   "web2pdfOpenConvertedPDFTitle": {
+      "message": "Ireki automatikoki bihurtutako PDFak Acrobat-en"
+   },
+   "web2pdfOpenInDCButtonText": {
+      "message": "Ireki PDFa Acrobat-en"
+   },
+   "web2pdfOptOut": {
+      "message": "Produktuaren eginbideak hobetzeko asmoz, erabiltzen duzun moduari buruzko informazioa bidaltzen dio Adobe-ri luzapen honek."
+   },
+   "web2pdfOptOutDisabled": {
+      "message": "Zure erabilera-datuetako bat ere ez da partekatzen ari."
+   },
+   "web2pdfOptions": {
+      "message": "Aukerak"
+   },
+   "web2pdfOptionsTitle": {
+      "message": "Adobe Acrobat hobespenak"
+   },
+   "web2pdfPDFOpenFailed": {
+      "message": "Ezin izan da PDFa ireki"
+   },
+   "web2pdfPDFOpenFailedv2": {
+      "message": "Ezin izan da ireki"
+   },
+   "web2pdfPDFOpened": {
+      "message": "PDF irekita"
+   },
+   "web2pdfPDFOpening": {
+      "message": "PDFa irekitzen"
+   },
+   "web2pdfPreferencesButtonText": {
+      "message": "Hobespenak..."
+   },
+   "web2pdfPreferencesNewText": {
+      "message": "Bihurketaren ezarpenak..."
+   },
+   "web2pdfPrivacy": {
+      "message": "Adobe Acrobat-i buruz"
+   },
+   "web2pdfReplaceWarning": {
+      "message": "badago lehendik.\n Ordeztu nahi duzu?"
+   },
+   "web2pdfRequestSignaturesText": {
+      "message": "Eskatu sinatzeko"
+   },
+   "web2pdfSave": {
+      "message": "Gorde"
+   },
+   "web2pdfSaveButton": {
+      "message": "Gorde hobespenak"
+   },
+   "web2pdfShowPDFTools": {
+      "message": "Erakutsi Google-ko bilaketa-emaitzekin"
+   },
+   "web2pdfShowPDFViewerOption": {
+      "message": "Erabili Acrobat PDF fitxategien ikustaile lehenetsi gisa"
+   },
+   "web2pdfShowPersistentOpen": {
+      "message": "Erakutsi \"Ireki Acrobat-en\""
+   },
+   "web2pdfShowPersistentOpenAlways": {
+      "message": "Erakutsi beti \"Ireki Acrobat-en\""
+   },
+   "web2pdfShowPersistentOpenDescription": {
+      "message": "Erakutsi PDFa Acrobat-en irekitzeko aukera aldi bakoitzean."
+   },
+   "web2pdfStatusCancelled": {
+      "message": "Bihurketa bertan behera utzi da"
+   },
+   "web2pdfStatusComplete": {
+      "message": "Bihurketa behar bezala egin da"
+   },
+   "web2pdfStatusDownloading": {
+      "message": "Deskargatzen bihurtzeko..."
+   },
+   "web2pdfStatusDownloadingPDF": {
+      "message": "PDFa deskargatzen"
+   },
+   "web2pdfStatusFailure": {
+      "message": "Bihurketak huts egin du"
+   },
+   "web2pdfStatusInProgress": {
+      "message": "Bihurketa abian dago..."
+   },
+   "web2pdfStatusUnknownFailure": {
+      "message": "Hutsegite ezezaguna"
+   },
+   "web2pdfStatusWaiting": {
+      "message": "Bihurtzeko zain..."
+   },
+   "web2pdfTitle": {
+      "message": "Adobe Acrobat"
+   },
+   "web2pdfUnsupportedAcrobatVersion": {
+      "message": "Ezin izan da aurkitu Acrobat-en bertsio bateragarririk. Instalatu \u003Ca target='_blank' href='https://acrobat.adobe.com/es/es/free-trial-download.html?trackingid=29NMCS7T&mv=other'>7 eguneko doako probaldia\u003C/a>."
+   },
+   "web2pdfUntitledFileName": {
+      "message": "izengabea"
+   },
+   "web2pdfVisitButtonText": {
+      "message": "Sortu PDF bat linean"
+   },
+   "webpagePDFConversion": {
+      "message": "Web-orriak PDF bihurtzeko ezarpena"
+   },
+   "webpagePDFConversionDescription": {
+      "message": "Web-orriak PDF gisa gordetzean, marjinak, letra-tripoa eta bestelako diseinu-xehetasunak ezar ditzakezu"
+   }
+}

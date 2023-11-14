@@ -1,0 +1,907 @@
+{
+  "sidebar": "Bara laterală",
+  "shortcut": "Scurtătură",
+  "ask": "Cere",
+  "save": "Salvați-l",
+  "saved": "Salvat",
+  "delete": "Șterge",
+  "remove": "Elimina",
+  "cancel": "Anulare",
+  "stop": "Stop",
+  "insert": "Introduce",
+  "replace": "A inlocui",
+  "ok": "Bine",
+  "submit": "Trimite",
+  "attention": "Înștiințare",
+  "send": "Trimite",
+  "copy": "Copie",
+  "copied": "Copiat",
+  "clear": "clar",
+  "quote": "Citat",
+  "collapse": "Restrângeți bara laterală",
+  "done": "Terminat",
+  "manage": "Administra",
+  "template": "șablon",
+  "edit": "Editați | ×",
+  "add": "Adăuga",
+  "feedback": "Părere",
+  "tweetit": "Tweet",
+  "fullPageChat": "Chat pe întreaga pagină",
+  "whatNew": "Noi funcționalități",
+  "gotIt": "Am înţeles",
+  "settings": "Setări",
+  "signin": "Conectare",
+  "signinNow": "Inscrie-te acum",
+  "unlimited": "Nelimitat",
+  "share": "Acțiune",
+  "myChats": "Chaturile mele",
+  "general": "Configurație generală",
+  "archive": "Arhiva",
+  "unarchive": "dezarhivare",
+  "searchPage": "Pagina de căutare",
+  "addons": "Suplimente",
+  "webStore": "Magazin online",
+  "webApp": "Aplicația web",
+  "webAccess": "Acces Web",
+  "upgradeNow": "Imbunatateste acum",
+  "upgrade": "Actualizare",
+  "language": "Limba",
+  "theme": "Temă",
+  "sendShortcut": "Trimiteți comanda rapidă",
+  "model": "Model",
+  "version": "Versiune",
+  "more": "Mai mult",
+  "listen": "Asculta",
+  "skip": "Ocolire",
+  "vote": "Vot",
+  "invite": "A invita",
+  "hide": "Ascunde",
+  "pin": "ispititoare",
+  "unpin": "deblocați",
+  "showMore": "Afișați mai multe",
+  "editTitle": "Editați titlul",
+  "summarize": "Rezuma",
+  "summarizing": "Rezumând",
+  "answering": "Răspunzând",
+  "productivity": "Productivitate",
+  "modelUpdateSuccess": "Model actualizat cu succes",
+  "modelUpdateFailed": "Actualizarea modelului a eșuat",
+  "customPrompt": "Solicitare personalizată",
+  "currentTpl": "Șablon curent:",
+  "current": "Actual",
+  "extra": "suplimentar",
+  "editTpl": "Editați acest șablon",
+  "delteTpl": "Ștergeți acest șablon",
+  "restoreTpl": "Restaurați acest șablon",
+  "archiveTpl": "Arhivați acest șablon",
+  "showTpl": "Afișați acest șablon",
+  "prompts": "Îndemnuri",
+  "imageRetryTip": "Încărcare eșuată. Faceți clic pentru a reîncerca.",
+  "mentionBot": "Menționați Bot",
+  "promptName": "Nume prompt",
+  "promptContent": "Conținut prompt",
+  "contactUs": "Contactaţi-ne",
+  "webAssistant": "Asistent web",
+  "quickAction": "Meniul contextual",
+  "promptManage": "Manager prompt",
+  "issueType": "Tipul problemei",
+  "pinExt": "Extensie PIN",
+  "yourEmailAddress": "Adresa dvs. de e-mail",
+  "troubleshooting": "Depanare",
+  "openSidebar": "Deschideți bara laterală",
+  "pasteSelection": "Lipiți selecția",
+  "pasteTextPage": "Lipiți text din pagină",
+  "getAnotherKey": "Obțineți o altă cheie",
+  "showSearchPanel": "Afișați panoul de căutare",
+  "getItNow": "Ia-l acum",
+  "notNow": "Nu acum",
+  "alwaysDisplay": "Afișează întotdeauna",
+  "queries": "Întrebări",
+  "total": "total",
+  "getMore": "a lua mai mult",
+  "goPremium": "upgrade la premium",
+  "goPremiumGetMore": "faceți upgrade la premium pentru a obține mai mult",
+  "myAccount": "Contul meu",
+  "clickToAsk": "Faceți clic pentru a întreba",
+  "searchingFor": "Căutare de:",
+  "searchedFor": "S-a căutat:",
+  "using": "Folosind",
+  "used": "Folosit",
+  "switchAndContinue": "Comutați și continuați",
+  "ExtractText": "Extrageți text din imagine",
+  "describleImage": "Descrieți această imagine",
+  "pricePerDay": "Mai puțin de {{num}}/zi",
+  "readingAssistant": "Asistent de citire",
+  "writingAssistant": "Asistent de scriere",
+  "moreQueries": "Mai multe întrebări!",
+  "newPlan": "Plan nou!",
+  "all": "Toate",
+  "success": "Succes",
+  "usedIn": "Folosit in",
+  "check": "Verifica",
+  "example": "Exemplu",
+  "ChangeTone": "Schimbați tonul",
+  "screenshot": "Captură de ecran",
+  "uploadImage": "Încărcați o imagine",
+  "hideImage": "Ascunde imaginea",
+  "showImage": "Afișați imaginea",
+  "fullscreen": "Ecran complet",
+  "OR": "SAU",
+  "refresh": "Reîmprospăta",
+  "phoneNumber": "Număr de telefon",
+  "recognizing": "Recunoașterea",
+  "result": "Rezultat",
+  "describeImage": "Descrieți această imagine",
+  "inviteFriendTip": "<a>Invitați prieteni</a> pentru a primi interogări suplimentare",
+  "resetTime": "Resetați pe <a>3 august 2023</a>",
+  "imageQuoteTipTitle": "Mai întrebați imaginea? Trebuie să citați imaginea",
+  "imageQuoteTipContent": "Pentru a întreba din nou despre imagine, pur și simplu citați-o.",
+  "ocrEmptyMsg": "Îmi pare rău, nu găsesc text în această imagine.",
+  "imageInputHint": "Pune întrebări despre această imagine",
+  "popupPage": {
+    "thank": "Vă mulțumim că folosiți extensia {{APP_NAME}}!",
+    "desc": "Pagina curentă este o pagină unică, iar caracteristica barei laterale nu este disponibilă. Cu toate acestea, puteți deschide o pagină completă pentru a discuta!",
+    "chatNow": "Vorbeste acum"
+  },
+  "setupPage": {
+    "loginSuccess": "Autentificare reușită",
+    "welcome": "Bun venit la {{APP_NAME}}!",
+    "loginWith": "Conectați-vă cu {{name}}",
+    "pinTips": "<b>Fixați {{APP_NAME}}</b>, acces mai ușor!",
+    "pinClickTip": "Faceți clic pe {{icon}} pentru a fixa {{APP_NAME}}",
+    "next": "Următorul",
+    "pinGuideDesc": "Pentru a facilita accesarea extensiei, lăsați-o să rămână fixată urmând pașii de mai jos.\n1. Faceți clic pe pictograma puzzle <b>ICONA</b> de lângă avatarul profilului dvs.\n2. În meniul derulant, găsiți {{APP_NAME}}.\n3. Faceți clic pe pictograma ace până când devine albastră.",
+    "signInGuideTitle": "Conectați-vă acum pentru a debloca următoarele:",
+    "signInGuideStep1": "Sincronizați setările extensiilor pe computere",
+    "signInGuideStep2": "Accesați solicitările dvs. de pe diferite laptopuri",
+    "signInGuideStep3": "Salvați chat-urile pentru utilizare ulterioară",
+    "signInGuideStep4": "Partajați chat-uri prin link",
+    "welcomeGuide": "Bun venit la {{APP_NAME}}",
+    "step1Label": "primul pas",
+    "step2Label": "al doilea pas",
+    "tryOut": "încearcă"
+  },
+  "getKeyPage": {
+    "welcome": "Bun venit la {{APP_NAME}}! Iată călătoria ta pentru a începe:",
+    "stepTitle": "Cum să obțineți o cheie API.",
+    "step1": "Pasul 1: Obțineți cheia API",
+    "step1-1": "<i>Conectați-vă contul OpenAI</i> Dacă nu aveți un cont, înscrieți-vă <b>AICI</b>",
+    "step1-2": "Vizitați pagina OpenAI API Key",
+    "step1-3": "Creați o nouă cheie secretă și copiați-o după cum urmează",
+    "step2": "Pasul 2: inserați cheia API în caseta de mai jos",
+    "step2-tips": "Nu vă faceți griji. Cheia dvs. API este utilizată numai local în cadrul extensiei ChatGPT. Utilizarea API-ului este mai stabilă decât utilizarea directă a ChatGPT.",
+    "step3": "Pasul 3: verificați-vă creditele <i>aici</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Cum să accesezi ChatGPT și să-l folosești oriunde",
+    "howToAccessTip": "Pentru a ne asigura că AI este accesibilă pentru toată lumea, oferim 3 moduri de a accesa ChatGPT și de a-l folosi oriunde.",
+    "recommend4all": "(Recomandat tuturor)",
+    "sidebarProvider": "Bara laterală utilizează API-ul ChatGPT Premium pentru a asigura un acces stabil.",
+    "sidebarProviderGoPremium": "Oferim {{num}} interogări zilnice gratuite pentru a garanta accesibilitatea AI pentru toți. <a>Faceți upgrade la premium</a> pentru a vă crește limita zilnică de interogări și pentru a ne sprijini misiunea de <b>oferire IA universală pentru toată lumea</b>.",
+    "webappProvider": "API-ul care alimentează aplicația web ChatGPT este gratuit, dar poate fi instabil uneori.",
+    "webappGPT4": "(Utilizatorii ChatGPT Plus îl pot încerca)",
+    "webappTip1": "Dacă sunteți utilizator ChatGPT Plus, acum aveți opțiunea de a alege GPT-4. Cu toate acestea, OpenAI poate limita numărul de mesaje pe care le puteți trimite pe zi.",
+    "webappTip2": "Vă rugăm să <m>Fixați fila ChatGPT</m> și rămâneți conectat pe site-ul web ChatGPT. Cu toate acestea, acest lucru poate să nu garanteze stabilitatea. Dacă întâmpinați probleme, accesați <v>site-ul web ChatGPT </v>și reîmprospătați pagina.",
+    "GPT4Desc": "Trebuie să rămâneți conectat la contul dvs. ChatGPT de pe site. Stabilitatea poate fi inconsecventă atât pentru utilizatorii Plus, cât și pentru utilizatorii gratuiti, din cauza restricției OpenAI.",
+    "apiKeyProviderTip": "(Pentru dezvoltatorii cu cheie API)",
+    "apiKeyProvider": "API-ul oficial OpenAI este mai stabil și tarifele se bazează pe utilizare.",
+    "apiKeyLocally": "Cheia dvs. API este stocată local în browser și nu este trimisă nicăieri altundeva.",
+    "ownURL": "Folosește-mi propriul URL",
+    "apiKeyTip1": "Este posibil ca cheia dvs. API OpenAI să fi expirat. Vă rugăm <a>verificați aici starea de expirare a cheii API.</a>",
+    "apiKeyTip2": "Dacă utilizați cheia API OpenAI gratuită, este posibil ca accesul la ChatGPT să nu fie stabil atunci când are o cerere mare.",
+    "apiFreeGuide": "Urmați ghidul pentru a obține cheia API.",
+    "apiKeyGpt4Tip": "Extensia acceptă GPT-4 dacă introduceți o cheie API GPT-4.",
+    "displaySearchRes": "Afișați răspunsul ChatGPT alături de paginile cu rezultatele căutării",
+    "whenToAsk": "Când să întrebați ChatGPT",
+    "promptTplForSearch": "Șablon prompt pentru Google și alte motoare de căutare",
+    "addNewTplForSearch": "Adăugați un nou șablon de prompt",
+    "launchSidebar": "Lansați bara laterală",
+    "sidebarLocation": "Locația barei laterale",
+    "sidebarLeftOrRight": "Așezați bara laterală pe partea stângă sau dreaptă",
+    "sidebarDisplayOption": "Mod de afișare din bara laterală",
+    "sidebarDisplayOptionTip": "Alegeți cum va apărea bara laterală pe pagină",
+    "sidebarDisplayOptions": {
+      "overlay": "Acoperire",
+      "expand": "Extindere"
+    },
+    "sidebarIcon": "Pictograma bară laterală",
+    "sidebarIconAccess": "Accesați bara laterală prin pictograma situată în colțul din dreapta jos al paginii. Puteți trage pentru a o muta în sus și în jos",
+    "easiestWayUse": "Cel mai simplu mod de a folosi {{APP_NAME}}",
+    "displayWhenSelect": "Afișează când este selectat text",
+    "promptTplForSidebar": "Șablon prompt pentru bara laterală",
+    "dragSidebarTpl": "Trageți și plasați pentru a reordona șablonul SAU arhivați-le pe cele pe care nu le veți folosi",
+    "addNewTplForSidebar": "Adăugați un nou șablon de prompt",
+    "editSearchTplTip": "utilizați {{keywords}} pentru a trimite cuvintele cheie de căutare",
+    "editSearchTplPlaceholder": "{{keywords}} din conținutul promptului va fi înlocuit automat cu cuvintele cheie de căutare",
+    "editSidebarTplTip": "Lipiți sau introduceți conținut aici",
+    "showOnList": "Arată pe listă",
+    "translatorNavTitle": "Căutare rapidă",
+    "translatorTitle": "Fereastra de căutare rapidă",
+    "translatorFabTitle": "Pictograma Căutare rapidă",
+    "translatorFabDesc": "Accesați fereastra de căutare rapidă prin pictogramă.",
+    "translatorFabToggleLabel": "Afișează când este selectat text",
+    "translatorTplTitle": "Șablon de solicitare pentru fereastra pop-up",
+    "translatorTplDesc": "Primul șablon principal va fi folosit ca comandă implicită pentru fereastra pop-up.",
+    "translatorPrimaryTemplates": "Șabloane principale",
+    "translatorTemplatesNotes": "*Acest pop-up partajează aceleași șabloane cu bara laterală. Dacă trebuie să editați sau să adăugați un șablon, modificați-l în <b>Setări din bara laterală</b>.",
+    "translatorIntroTitle": "🤔 Ce este Căutarea rapidă?",
+    "translatorIntroDesc": "Căutare rapidă este o acțiune rapidă a {{APP_NAME}}, care oferă o serie de instrumente utile.\n\nApare instantaneu atunci când selectați text. Cu un singur clic, puteți traduce rapid texte, le rescrie, obține explicații și multe altele. În plus, puteți să rearanjați ordinea instrumentelor și să vă personalizați propriile solicitări.\n\nPentru a activa {{APP_NAME}}, tot ce trebuie să faceți este să faceți clic pe pictograma Căutare rapidă.",
+    "translatorHostFabConfigLabel": "Lista site-urilor web pe care Căutarea rapidă este dezactivată",
+    "translatorShortcutLabel": "Tasta de comandă rapidă pentru căutare rapidă",
+    "quickAction": {
+      "shortcutDesc": "Activați {{name}} prin intermediul comenzii rapide",
+      "customPromptMenu": "Personalizați promptul pentru acest meniu",
+      "readTitle": "Meniu contextual pentru citire",
+      "selectionDesc": "Afișați meniul când selectați orice text",
+      "diabledSite": "Lista site-urilor web pe care această funcție este dezactivată",
+      "writeTitle": "Meniu contextual pentru scriere (caseta de introducere)",
+      "writeInputIconTitle": "Pictograma casetei de intrare",
+      "writeInputIconDesc": "Afișează pictograma asistent de scriere în orice casetă de introducere",
+      "triggerKeyword": "Cuvinte cheie de declanșare",
+      "triggerKeywordDesc": "Activați {{name}} în toate intrările de text prin cuvinte cheie",
+      "whatisQuickAction": "🤔 Ce este {{name}}?",
+      "quickActionDesc": "{{name}} este o colecție de instrumente valoroase care sunt ușor disponibile atunci când alegeți text sau utilizați o tastă de comandă rapidă. Cu un singur clic, vă puteți îmbunătăți rapid citirea sau scrierea. În plus, puteți activa caseta de introducere promptă pentru a vă ajuta să vă îndepliniți cerințele specifice în timp ce citiți sau scrieți. Aceasta include sarcini precum crearea unei schițe pentru un subiect, brainstorming de idei și rescrierea paragrafelor."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "Rezumat video YouTube",
+        "desc": "Când este activată, {{APP_NAME}} vă poate ajuta să rezumați videoclipurile YouTube"
+      },
+      "webpage": {
+        "title": "Rezumatul paginii web",
+        "desc": "Când este activată, {{APP_NAME}} vă poate ajuta să rezumați articolele de pe pagina web"
+      },
+      "qa": {
+        "title": "Asistent pentru întrebări și răspunsuri",
+        "desc": "Când este pornită, {{APP_NAME}} poate răspunde la întrebare pe Quora, StackOverflow și alte site-uri QA"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Solicitare nouă",
+      "editPrompt": "Editare prompt",
+      "checkPrompt": "Verificați promptul",
+      "archiveTips": "Solicitările arhivate nu se vor afișa în scenarii, dar pot fi căutate",
+      "dragTips": "Trageți și plasați pentru a reordona promptul SAU arhivați-le pe cele pe care nu le veți folosi în scenariul corespunzător",
+      "howToWritePrompt": "Cum se scrie prompt",
+      "howToVarTitle": "Ce variabile pot fi incluse în prompt?",
+      "howToVar1": "Puteți utiliza această variabilă pentru a reprezenta intrarea sau conținutul selectat. Dacă promptul nu include această variabilă, intrarea sau conținutul selectat va fi închis cu ghilimele triple și plasat la sfârșitul promptului.",
+      "howToVar2": "Puteți utiliza această variabilă pentru a reprezenta limba pe care doriți să o utilizați pentru ieșire, pe baza limbii implicite stabilite în setări.",
+      "howToExample": "Vă rugăm să utilizați următoarele subiecte sau cuvinte cheie pentru a genera o schiță care să includă titluri, capitole și subsecțiuni.\nTrimiteți-l în format Markdown. Dă-mi doar rezultatul și nimic altceva. Conturul trebuie să fie în limba {{lang}}.\nSubiecte sau cuvinte cheie: {{content}}",
+      "clickToExpand": "Faceți clic pentru a extinde",
+      "clickToHide": "Faceți clic pentru a ascunde"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Raport de problemă",
+        "title": {
+          "label": "Rezumatul problemei",
+          "tip": "Spune-ne ce a mers prost în câteva cuvinte."
+        },
+        "detail": {
+          "label": "Detalii probleme",
+          "tip": "Descrieți în detaliu ce a mers prost, orice acțiuni pe care le-ați întreprins și mesajele de eroare pe care le-ați primit."
+        }
+      },
+      "fr": {
+        "name": "Solicitare caracteristică",
+        "title": {
+          "label": "Titlu",
+          "tip": "Despre ce este cererea ta?"
+        },
+        "detail": {
+          "label": "Descriere",
+          "tip": "Vă rugăm să furnizați o descriere detaliată a funcției noi pe care o doriți."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Întrebați ChatGPT:",
+    "savePrompt": "Salvați promptul",
+    "saveNewPrompt": "Salvați ca un prompt nou",
+    "replacePrompt": "Înlocuiți promptul",
+    "inputPlaceholder1": "Introduceți promptul sau alegeți din meniu",
+    "inputPlaceholder2": "Lipiți sau introduceți conținut aici",
+    "startNewLine": "Apăsați pe {{shortcut}} pentru a începe o nouă linie",
+    "inputPlaceholderCodes": "Lipiți sau introduceți coduri aici",
+    "inputPlaceholderQA": "Lipiți sau introduceți întrebarea aici",
+    "pressToSubmit": "Apăsați {{key}} pentru a trimite",
+    "response": "Raspuns:",
+    "stopGenerating": "Nu mai generați",
+    "regenerate": "Regenerați răspunsul",
+    "askTabLabel": "Cere",
+    "chatTabLabel": "conversație",
+    "composeTabLabel": "Scrie",
+    "ocrTabLabel": "OCR",
+    "grammarTabLabel": "Gramatică",
+    "queryLeft": "Au rămas {{num}} interogări",
+    "queryLeft2": "Au rămas {{num}}",
+    "freePlan": "Plan gratuit",
+    "premiumPlan": "Plan Premium",
+    "extraQuota": "Cotă suplimentară",
+    "submitOption": "Trimiteți opțiunea",
+    "painterLabel": "Pictor"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Foarte rapid, excelent pentru majoritatea sarcinilor de zi cu zi.",
+    "gpt-4": "Cel mai capabil model, cel mai bun pentru sarcini complexe care necesită raționament avansat.",
+    "claude-instant": "Modelul de bază de la Anthropic, cazuri de utilizare cu latență scăzută și debit mare.",
+    "claude2": "Cel mai bun model de ofertă de la Anthropic, performanță superioară la sarcini care necesită un raționament complex.",
+    "bard": "Modelul de la Google (PaLM 2), funcționează bine în sarcinile avansate de raționament."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Cost <m>1 interogare Fast Text</m>.",
+    "gpt-4": "Cost <m>1 interogare text avansată</m>."
+  },
+  "sidebarChatPanel": {
+    "newChat": "Chat nou",
+    "chatHistory": "Istorie",
+    "inputPlaceholder": "Scrie un mesaj...",
+    "send": "Trimite",
+    "feedback": "Părere",
+    "share": "Acțiune",
+    "deleteConfirmTitle": "Ștergeți această conversație?",
+    "deleteConfirmContent": "Această acțiune nu poate fi anulată.",
+    "compareWeb": "Comparați răspunsul de pe web",
+    "improveWithXXX": "Obțineți un răspuns mai inteligent de la <b>Bot</b>",
+    "improveWithXXX2": "Obțineți un răspuns cuprinzător de la <b>Bot</b>",
+    "compareWithXXX": "Comparați răspunsul de la <b>Bot</b>",
+    "improveWithSearch": "Obțineți răspuns web de la Google",
+    "improveWithBoth": "Organizați Google Answers cu GPT-4",
+    "answerWithoutSearching": "Comparați răspunsul de la <b>Bot</b> original",
+    "screenshot": "Captură de ecran",
+    "upload": "Încărcați",
+    "addImage": "Adăugați o imagine",
+    "welcomeQues": [
+      {
+        "title": "🤔 Explicați un concept complex",
+        "ques": "Spune-mi ceva despre Big Bang ca să-i pot explica copilului meu de 5 ani"
+      },
+      {
+        "title": "🧠 Faceți brainstorming idei fără precedent",
+        "ques": "Vă rog să-mi oferiți 10 idei de cadouri de ziua prietenului meu"
+      },
+      {
+        "title": "💭 Obțineți titluri captivante instantaneu",
+        "ques": "Generați cinci titluri captivante pentru scrisul meu despre cazul de utilizare al ChatGPT"
+      }
+    ],
+    "textSelectedTip": "Text din selecția dvs",
+    "ocrTextTip": "{{name}} Rezultat",
+    "textSelectedSystemMsg": "Ce ai vrea să faci cu textul?",
+    "welcomeSystemMsg": "Buna ziua! Cum te pot ajuta astăzi?",
+    "chatActionTranslate": "Traduceți în {{lang}}",
+    "addAPrompt": "Adăugați o solicitare",
+    "search": "Căutare",
+    "continueInChat": "Continuați în chat",
+    "userStopTip": "Utilizatorul a anulat cererea.",
+    "noChatHistory": "Încă nu există istoric de chat.",
+    "noSearchHistory": "Nici un rezultat gasit.",
+    "webAccessModalTitle": "{{APP_NAME}} permite ChatGPT să acceseze web!",
+    "webAccessModalContent": "Amintiți-vă, ChatGPT are o limită de cunoștințe în 2021! Cu toate acestea, {{APP_NAME}} îmbină inteligența sofisticată a ChatGPT cu informațiile web în timp real. Această funcție necesită o cantitate semnificativă de jetoane, așa că luați în considerare actualizarea pentru a ne sprijini eforturile!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Compune",
+    "reply": "Răspuns",
+    "writePlaceholder": "Subiectul pe care doriți să îl compuneți",
+    "replyPlaceholder1": "Textul original la care doriți să răspundeți",
+    "replyPlaceholder2": "Conținutul general al răspunsului dumneavoastră la textul de mai sus",
+    "submitShortcut": "Apăsați pe {{shortcut}} pentru a genera schița",
+    "generate": "Generați schița",
+    "format": "Format",
+    "email": "E-mail",
+    "idea": "Idee",
+    "outline": "Contur",
+    "essay": "Eseu",
+    "paragraph": "Paragraf",
+    "blog": "Postare pe blog",
+    "ads": "Reclame de marketing",
+    "twitter": "Stare de nervozitate",
+    "comment": "cometariu",
+    "message": "Mesaj",
+    "tone": "Ton",
+    "professional": "Profesional",
+    "formal": "Formal",
+    "casual": "Casual",
+    "enthusiastic": "Entuziast",
+    "informational": "Informațional",
+    "funny": "Amuzant",
+    "length": "Lungime",
+    "short": "Mic de statura",
+    "medium": "Mediu",
+    "long": "Lung",
+    "preview": "previzualizare",
+    "regenerate": "Regenera",
+    "addToSite": "Adăugați pe site",
+    "addToSiteTip": "Plasați cursorul mouse-ului în caseta de introducere dorită și faceți clic pe „{{name}}” pentru a introduce"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Remediați eroarea",
+    "retry": "Reîncercați",
+    "inputPlaceholder": "Asigurați-vă că scrisul în limba engleză este fără greșeli. Lipiți textul sau începeți să tastați mai jos pentru a verifica dacă există erori gramaticale, de ortografie și de punctuație.",
+    "checking": "Control",
+    "checkFailed": "Verificare eșuată",
+    "accept": "Accept",
+    "ignore": "Ignora",
+    "continueImproving": "Îmbunătățirea în continuare",
+    "improveGuideText": "Faceți clic aici pentru a obține textul îmbunătățit și motivul!",
+    "improvedText": "Text îmbunătățit:",
+    "reasonForChanges": "Motivul modificărilor:"
+  },
+  "OCRPanel": {
+    "ocrTips": "Extrageți text, numere și ecuații dintr-o imagine",
+    "ocrCost": "Fiecare {{name}} va costa {{num}} interogare de imagine",
+    "newOCR": "{{ocr}} nou",
+    "noText": "Niciun text recunoscut"
+  },
+  "translator": {
+    "quickActions": "Căutări rapide",
+    "disableHostFabLabel": "Dezactivați pe acest site",
+    "disableFabLabel": "Dezactivați pe Toate site-urile"
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Îți place extensia noastră?</b> Evaluează-ne cinci stele pe magazinul web pentru a ne ajuta să creștem",
+    "newInVersion": "Ce este nou în versiunea {{versionId}}",
+    "learnToUse": "Aflați cum să utilizați",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} a devenit mai inteligent",
+          "features": [
+            "{{4+VISION}}",
+            "1-clic pentru a răspunde la aceeași întrebare cu diferiți roboți"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Verificați erorile gramaticale",
+            "Remediați erorile gramaticale",
+            "Îmbunătățiți scrierea dincolo de gramatică"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Bara laterală ChatGPT cu Vision",
+          "features": [
+            "Extrageți text dintr-o imagine",
+            "Pune orice întrebare despre imagine",
+            "3 moduri de a trimite o imagine către {{SIDERVISION}} <div><ol><li>Faceți o captură de ecran</li><li>Trageți și plasați o imagine în fereastra de chat</li><li>Încărcați o imagine </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Extrageți text dintr-o imagine"
+          ]
+        },
+        {
+          "features": [
+            "Extrageți text dintr-o imagine"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Nou plan de prețuri cu de 5 ori mai multe interogări GPT-4",
+          "features": [
+            "Vesti bune! Prețurile noastre actualizate vă oferă acum și mai mult acces la interogările GPT-4 și Claude 2.",
+            "Dacă sunteți deja un utilizator premium, veți fi actualizat automat. În plus, avem un nou plan „Nelimitat” pentru toți utilizatorii puternici!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Mai mult bot!",
+          "features": [
+            "Pe lângă ChatGPT și Claude, Sider îl sprijină acum pe Bard!"
+          ]
+        },
+        {
+          "title": "OCR: extrageți text din orice imagine și trimiteți-l la ChatGPT",
+          "features": [
+            "Recunoașteți peste 10 limbi majore",
+            "Recunoașteți scrisul de mână în engleză",
+            "Recunoașteți <b>ecuațiile matematice</b> din text"
+          ]
+        },
+        {
+          "title": "Îmbunătățiți Painter",
+          "features": [
+            "Înlocuiți întregul fundal",
+            "Eliminați zona selectată"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Mai multe chatbots</b>: Acum acceptă Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Chat de grup</b>: comparați răspunsurile la chatbot!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Menționați</b>: folosiți „@” pentru a menționa și a interacționa fără efort cu orice chatbot din conversație!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Solicitare rapidă</b>: trebuie doar să tastați „/” și să mergeți!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Design simplu</b>: faceți designul simplu și ușor de navigat"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Manager prompt îmbunătățit pentru",
+          "features": [
+            "Citirea meniului contextual",
+            "Scrierea meniului contextual"
+          ]
+        },
+        {
+          "title": "Editor de imagini AI",
+          "features": [
+            "Eliminați fundalul din orice imagine",
+            "Eliminați textul din orice imagine"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Asistent de citire: Folosiți inteligența artificială pentru înțelegere rapidă în timp ce citiți pagini web",
+        "Asistent de scriere: generați rapid conținut cu AI în caseta de introducere web"
+      ],
+      "2_7_0": [
+        "Desenați o imagine din text",
+        "Desenați o imagine dintr-o imagine de referință"
+      ],
+      "2_6_0": [
+        "Sider acceptă bara laterală fixă - Puteți conversa prin chat între toate filele fără a suprapune niciun conținut <br /> (disponibil în Chrome 114 sau o versiune ulterioară)"
+      ],
+      "2_5_0": [
+        "Rezumat YouTube! Vizionați 1 oră de videoclip YouTube într-un minut",
+        "Comparați răspunsurile oferite de oameni și AI pe site-uri de întrebări și răspunsuri precum Quora, StackOverflow și Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Acces inteligent la web</b>: pe baza interogării dvs., AL va decide dacă trebuie să acceseze web.",
+        "Îmbunătățirea stabilității"
+      ],
+      "2_3_0": [
+        "Suportă navigare și pluginuri pentru utilizatorii Plus!",
+        "ChatGPT cu acces la internet pentru toată lumea!"
+      ],
+      "2_2_0": [
+        "Compune orice mesaj",
+        "Răspunde la e-mail, tweet, comentariu etc"
+      ],
+      "2_1_0": [
+        "Comandă rapidă pentru Căutare rapidă",
+        "Redimensionați fereastra Căutare rapidă",
+        "Remedieri de erori și alte îmbunătățiri UX"
+      ],
+      "2_0_0": [
+        "Suportă <b>GPT-4 </b>pentru toți utilizatorii!",
+        "Invitați prieteni și obțineți interogări <b>GPT-4</b> pentru amândoi!",
+        "Remedieri de erori și alte îmbunătățiri UX"
+      ],
+      "1_1_0": [
+        "Chat complet în <b>fila nouă</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> împreună!",
+        "Corectarea erorilor"
+      ],
+      "1_0_13": [
+        "Continuați conversația după ce ați pus întrebări",
+        "Comutați între GPT-4 și GPT-3.5 pentru utilizatorii Plus",
+        "Accesați și căutați cu ușurință istoricul chat-urilor"
+      ],
+      "1_0_12": [
+        "Sincronizați setările extensiilor pe computere",
+        "Accesați solicitările dvs. de pe diferite laptopuri",
+        "Salvați chat-urile pentru utilizare ulterioară",
+        "Partajați chat-uri prin link"
+      ],
+      "1_0_11": [
+        "Accesați rapid acțiunile printr-o fereastră pop-up fără a deschide bara laterală.",
+        "Adăugați suport pentru limbi suplimentare.",
+        "Păstrați preferința de limbă a utilizatorului atunci când utilizați funcția de traducere.",
+        "Rezolvați conflictele de comenzi rapide pe platforme precum GitHub și altele."
+      ],
+      "1_0_10": [
+        "Acceptă acum peste 50 de limbi!"
+      ],
+      "1_0_8": [
+        "Suportă GPT-4 pentru utilizatorii Plus! Verificați pagina de setări!"
+      ],
+      "1_0_7": [
+        "Amintiți-vă promptul folosit ultima dată",
+        "Optimizați poziția panoului chatGPT pe paginile de căutare",
+        "Adăugați o opțiune pentru a plasa pictograma din bara laterală în pagină în partea stângă",
+        "Optimizați dimensiunea pachetului",
+        "Adăugați modul întunecat",
+        "Acceptați proxy-ul dvs. URL API"
+      ],
+      "1_0_6": [
+        "Îmbunătățiți funcția de rezumat în pagina Youtube"
+      ],
+      "1_0_5": [
+        "Amintiți-vă locația pictogramei barei laterale",
+        "Îmbunătățiți tastele de comenzi rapide",
+        "Salvați șabloanele de solicitare direct din bara laterală"
+      ],
+      "1_0_4": [
+        "Reordonați elementele prompte din lista verticală",
+        "Arhivați elementele prompte pe care nu le veți folosi",
+        "Răspuns de asistență în peste 50 de limbi"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter pentru a face „Trimite” rapid",
+        "Opțiunea de a ascunde panoul în pagina cu rezultatele căutării",
+        "Suport ESC pentru a ascunde bara laterală",
+        "Suport articol lung"
+      ],
+      "1_0_2": [
+        "Adăugați butonul de oprire pentru a opri generarea de răspuns",
+        "Schimbați locul de restrângere a butonului"
+      ],
+      "1_0_1": [
+        "Îmbunătățiți funcția de rezumat în pagina Youtube",
+        "Remediați unele erori legate de copiere/lipire și imprimare"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Votați pentru vânătoarea de produse",
+    "sidebar2Banner1": "Votați-ne ACUM la <b>Product Hunt</b> pentru a răspândi vestea.",
+    "sidebar2ModalTitle": "✨ Rezumatul barei laterale 2.0",
+    "sidebar2ModalDesc": "• Fila Chat\n  • Căutare rapidă pentru interogări rapide\n  • Un cont pentru a sincroniza solicitările\n  • Salvați și partajați conversații\n  • Acceptă mai multe limbi\n  • Suport GPT-4",
+    "ios1Banner1": "Votează pentru ChitChat – aplicația ChatGPT iOS 🎉",
+    "ios1Banner2": "Să începem lucrurile cu explozie! 😄",
+    "ios1ModalTitle": "✨ Nou pe aplicația ChitChat iOS",
+    "ios1ModalDesc": "• Obțineți răspunsuri de la ChatGPT 3.5 și 4\n• O echipă de asistență formată din roboți vă ajută într-un singur loc\n  • Transformă PDF-ul într-un chatbot"
+  },
+  "searchTool": {
+    "questionMark": "Declanșează ChatGPT adăugând un semn de întrebare după interogare",
+    "askForQuery": "Întrebați ChatGPT pentru această interogare",
+    "fiveStart": "Vă place această extensie? Oferiți-ne o evaluare de 5 stele la {{store}}",
+    "loginAndCloudflareCheck": "Vă rugăm să vă conectați și să treceți verificarea Cloudflare la {{web}}",
+    "braveTrouble": "Încă nu funcționează? Urmăriți {{url}}",
+    "cloudflareCheck": "OpenAI necesită trecerea unui control de securitate din când în când. Dacă acest lucru continuă să se întâmple, schimbați furnizorul AI la OpenAI API în <i>opțiunile de extensie</i>.",
+    "failedResponse": "Nu s-a încărcat răspunsul de la ChatGPT:",
+    "waitResponse": "Se așteaptă răspunsul ChatGPT..."
+  },
+  "sidepanel": {
+    "title": "Sider suportă bară laterală fixă",
+    "tip": "Sfat: Reglați lățimea panoului lateral în mod corespunzător pentru o experiență mai bună.",
+    "benefit1": "Bara laterală Sider nu va <b>dispără niciodată</b> dacă navigați la o pagină nouă.",
+    "benefit2": "Puteți conversa prin chat între toate filele fără a <b>suprapune niciun conținut</b>.",
+    "benefit3": "Disponibil numai în <b>Google Chrome 114 sau o versiune ulterioară</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Cost {{num}} interogări",
+    "videoSummaryBtn": "Rezumat video",
+    "loginToSummary": "Conectați-vă la Rezumat",
+    "noTranscriptTip": "{{APP_NAME}} nu poate rezuma videoclipurile fără subtitrări.",
+    "shownotes": "Momente cheie",
+    "freeLimitTips": "Perioada de încercare gratuită a fost epuizată, faceți upgrade acum pentru a continua să utilizați funcția de rezumat video.",
+    "askQuestionBtn": "Cere întrebare",
+    "noQuestionTip": "{{APP_NAME}} nu poate găsi problema pe pagină."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "Întrebați {{APP_NAME}} orice",
+    "defaultPlaceholder2": "Întrebați {{APP_NAME}} cu conținutul de mai sus",
+    "managePrompts": "Gestionați solicitările",
+    "editSelectionGroup": "Editați sau revizuiți selecția",
+    "selectionGroup": "Generați din selecție",
+    "draftGroup": "Schiță cu {{name}}",
+    "AIGenerating": "{{name}} generează...",
+    "pressToStop": "Apăsați pe {{name}} pentru a opri",
+    "pressToClose": "Apăsați pe {{name}} pentru a închide",
+    "disableOnce": "Ascundeți până la următoarea vizită",
+    "disableSite": "Dezactivați pentru acest site",
+    "disableGlobal": "Dezactivați la nivel global",
+    "continueImproving": "Îmbunătățirea în continuare"
+  },
+  "msg": {
+    "supportedFileFormat": "Formatele de fișier acceptate sunt {{formats}}",
+    "maxFileSize": "Dimensiunea maximă a fișierului este {{size}}",
+    "enterAPIKey": "Vă rugăm să introduceți cheia dvs. API OpenAI",
+    "selectModel": "Vă rugăm să selectați un model valid",
+    "changeSaved": "schimbarile au fost salvate",
+    "fiveStart": "Oferă-ne un 5 stele",
+    "pleaseContactUs": "Vă rugăm să ne <a>contactați</a>.",
+    "inviteTitle": "Invitație și recompense",
+    "inviteEarn": "Câștigă <mx>{{num}} interogări</mx> pentru tine și prietenii tăi. <b>Cu cât vă referiți mai mult, cu atât câștigați mai mult</b>.",
+    "inviteStep1": "Recomandați-vă prietenii cu linkul de invitație",
+    "inviteStep2": "Prietenii tăi se înscriu",
+    "inviteStep3": "Ei instalează extensia și autentificare. Recompense câștigate!",
+    "checkInvitation": "Verificați înregistrările invitațiilor",
+    "inviteFriendsEarn": "Invitați prieteni și câștigați interogări GPT-4",
+    "inviteFriends": "Invita prieteni",
+    "inviteRewardsRecord": "Înregistrări de recompense:",
+    "invitedRewardObtained": "Recompense obținute!",
+    "invitedWelcome": "Bine ati venit! Interogările GPT au fost adăugate în contul dvs.!",
+    "invitedRewardTips": "Prietenul tău vă invită și fiecare dintre voi are <mx>{{num}} interogări</mx> de folosit",
+    "getMoreGPT4": "Obțineți mai multă cotă GPT-4",
+    "errSiderApiLimit": "Ați folosit toate creditele gratuite oferite de noi, vă rugăm să urmați <i>instrucțiunile de aici</i> pentru a obține un API de la OpenAI.",
+    "errSiderApiLimitDevice": "Ați folosit toate creditele gratuite oferite de noi. <a>Conectați-vă</a> pentru a obține mai multe credite gratuite.",
+    "errSiderApiLimitLogin": "Ai atins cota. Pentru a continua, vă rugăm să luați în considerare <a>trecerea la planul nostru premium</a>. Mulțumiri!",
+    "errSiderApiLimitLogin2": "Ai atins cota. Pentru a continua, vă rugăm să luați în considerare <a>trecerea la planul nostru premium</a>. Mulțumiri!",
+    "errSiderApiLimitPremium": "Ați folosit toate creditele, vă rugăm să <a>actualizați planul</a>.",
+    "errSiderPremiumRequired": "Vă rugăm să <a>treceți la premium</a> pentru a utiliza această funcție.",
+    "errSiderHighTrafficError": "{{APP_NAME}} se confruntă cu trafic ridicat. Vă rugăm să încercați din nou mai târziu.",
+    "errSiderHighTrafficTip": "Vă rugăm să luați în considerare <a>trecerea la un cont premium</a> pentru un acces stabil și pentru a ne sprijini dezvoltarea.",
+    "errSiderDeviceBinded": "Vă rugăm să <a>conectați-vă</a> pentru a-l utiliza.",
+    "errSiderApiHighLoad": "Limita de solicitare a fost atinsă din cauza încărcării mari, vă rugăm să încercați din nou mai târziu.",
+    "errSiderGPT4HighLoad": "Limita GPT-4 a fost atinsă din cauza încărcării mari, vă rugăm să încercați din nou mai târziu.",
+    "errSiderGPT4LimitDevice": "Vă rugăm să <b>conectați-vă</b> mai întâi și <amb>invită-ți prietenii</amb> sau <ta>treceți la premium</ta> pentru a obține o cotă de text mai avansată.",
+    "errSiderGPT4LimitLogin": "<t>Invitați-vă prietenii</t> sau <a>treceți la versiunea premium</a> pentru a obține mai multă cotă de text avansat.",
+    "errSiderGPT4LimitPremium": "<tm>Invitați-vă prietenii</tm> sau <dm>actualizați-vă planul</dm> pentru a obține o cotă de text mai avansată.",
+    "errSiderNeedLogin": "Vă rugăm să <a>conectați-vă</a>.",
+    "goToSignIn": "Accesați pentru a vă conecta",
+    "errSiderTimeout": "Cererea a expirat. Vă rugăm să încercați din nou.",
+    "errSiderProcessing": "Un singur mesaj la un moment dat. Vă rugăm să permiteți ca orice alt răspuns să fie finalizat înainte de a trimite un alt mesaj sau așteptați un moment.",
+    "errTrySiderAPI": "Comutați la <i>ChatGPT Sidebar API</i> pentru a obține acces stabil (pentru toată lumea)",
+    "errTrySiderAPI2": "SAU folosiți propria cheie API în <a>pagina de setări</a> (pentru dezvoltatori)",
+    "errChatGPTAuth": "Vă rugăm să <m>faceți clic pe link pentru a vă conecta </m>la pagina dvs. web ChatGPT și vă vom ajuta să o fixați. Apoi îl puteți folosi în bara laterală.",
+    "errChatGPTAuthTipTitle": "Daca nu merge:",
+    "errChatGPTFailToFetch": "Nu se obține răspuns de la ChatGPT.",
+    "errOpenaiFailToFetch": "Nu reușiți să primiți răspuns de la OpenAI prin cheia dvs. API.",
+    "errSiderBasicTextLimit": "Ați atins limita noastră de bază pentru interogări pentru rata de text. În prezent, există o restricție de {{N1}} mesaje la fiecare {{NUM2}} minute. Alternativ, puteți utiliza interogarea text avansată și puteți reveni mai târziu.",
+    "errSiderAdvancedTextLimit": "Ați atins limita noastră avansată de interogare pentru rata de text. În prezent, există o restricție de {{N1}} mesaje la fiecare {{NUM2}} minute. Alternativ, puteți utiliza interogarea text de bază și puteți reveni mai târziu.",
+    "loginAndCloudflareCheck": "Comutați la <a>API-ul Sidebar</a> pentru a obține acces stabil SAU conectați-vă și treceți verificarea Cloudflare la <i>chat.openai.com</i>",
+    "invalidApiKey": "Cheia API este nevalidă, vă rugăm să obțineți alta.",
+    "getApiKeyGuide": "Aveți nevoie de o cheie API OpenAI pentru a o face să funcționeze. Urmați ghidul nostru pentru a obține cheia API.",
+    "thankForFeedback": "Mulțumesc. Formularul a fost trimis cu succes. Vă vom contacta în scurt timp.",
+    "writeSomething": "Vă rog să scrieți ceva.",
+    "enterEmail": "Introdu o adresă de e-mail pentru a primi actualizări cu privire la problemă.",
+    "emailRequired": "E-mailul este necesar.",
+    "promptNameRequired": "Este necesar un nume prompt.",
+    "titleRequired": "Titlul este obligatoriu.",
+    "nameYourPrompt": "Denumiți solicitarea dvs",
+    "nameYourTitle": "Denumiți-vă conversația",
+    "promptTplRequired": "Este necesar un conținut prompt.",
+    "deletePromptWarn": "Doriți să ștergeți această solicitare?",
+    "restorePromptWarn": "Doriți să restaurați acest șablon de solicitare?",
+    "notValidEmail": "nu este un e-mail valid",
+    "pleaseSignin": "Vă rugăm să vă conectați la contul dvs.",
+    "signinTips": "Conectați-vă pentru a vă sincroniza solicitările și setările",
+    "signinAward": "Conectați-vă pentru a primi {{num}} interogări pe zi",
+    "signinAward2": "Interogările au fost utilizate pentru utilizatorul nelogat. Vă puteți conecta pentru a primi <b>{{num}} interogări gratuite pe zi</b>.",
+    "signinAward3": "Conectați-vă pentru a primi mai multe interogări pe zi",
+    "chatgptTabGuardTips": "Vă rugăm să păstrați această filă deschisă, acum puteți reveni la {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "A apărut o eroare cu ChatGPT. În curs de reconectare, așteptați...",
+    "chatgptTabGuardRefreshingTips1": "A apărut o eroare cu ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "În curs de reconectare, așteptați...",
+    "chatgptTabGuardSetupSuccessTips": "S-a rezolvat, vă rugăm să încercați din nou",
+    "switchToSiderApiToContinue": "În prezent, această funcție acceptă numai modul API {{APP_NAME}}. Vă rugăm <a>treceți la API-ul {{APP_NAME}}</a> pentru a continua.",
+    "switchRequired": "Comutator necesar",
+    "signInRequired": "Conectare obligatorie",
+    "useUpUpgrade": "Cota dvs. a fost epuizată, vă rugăm să faceți upgrade pentru a obține mai multă cotă.",
+    "webSearchSignIn": "Vă rugăm să vă conectați pentru a utiliza această funcție.",
+    "featureLimit": "Limită caracteristică",
+    "featureLimitTip": "Vă rugăm să faceți upgrade pentru a folosi Claude și Bard.",
+    "featureUnavailableOnPage": "Această funcție nu este disponibilă pe această pagină",
+    "featureBrowserLimit": "Din cauza restricțiilor browserului, această funcție nu este disponibilă pe această pagină. Schimbați o pagină și încercați din nou.",
+    "quotaModelContent": "Limita dvs. de interogări GPT-4/Claude-2 a fost atinsă. Faceți upgrade la Planul Premium pentru mai mult acces sau invitați prietenii pentru întrebări suplimentare gratuite.",
+    "signinFeature": "Vă rugăm să vă conectați pentru a accesa această funcție.",
+    "signinFeature2": "Vă rugăm să vă conectați pentru a accesa această funcție",
+    "dragImgTips": "Faceți clic sau trageți pe o imagine pe care doriți să o {{name}}",
+    "reEnableInSettings": "Puteți reactiva în <a>Setări</a>",
+    "switchBarTip": "Lărgiți panoul lateral pentru a fixa bara de navigare.",
+    "upgradeSupport": "Faceți upgrade la planul premium pentru a ne sprijini",
+    "imageSizeLimit": "Limită de imagine",
+    "imageSizeLimitTip": "Asigurați-vă că imaginea este mai mică de 10 MB și lățimea sau înălțimea sa nu depășește 4096 pixeli, apoi încercați din nou.",
+    "errOpenAIFilter": "Răspunsul a fost filtrat din cauza promptării declanșării politicii de gestionare a conținutului OpenAI. Modificați solicitarea și încercați din nou."
+  },
+  "options": {
+    "theme": {
+      "auto": "automat",
+      "light": "modul luminos",
+      "dark": "modul întunecat"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Mereu",
+        "desc": "Întrebați ChatGPT la fiecare căutare"
+      },
+      "questionMark": {
+        "title": "Semnul întrebării",
+        "desc": "Întrebați ChatGPT dacă cuvintele cheie se termină cu un semn de întrebare (?)"
+      },
+      "manually": {
+        "title": "Manual",
+        "desc": "Întrebați ChatGPT numai când faceți clic pe butonul"
+      }
+    },
+    "sidebarLocation": {
+      "left": "partea stanga",
+      "right": "partea dreapta"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Întrebați ChatGPT",
+        "template": "Îmi puteți spune ceva despre {{keywords}}? Dacă este posibil, îmi puteți da câteva link-uri despre asta? Dacă {{keywords}} este o întrebare legată de cod, vă rugăm să scrieți codul"
+      },
+      "list": {
+        "title": "Cuvinte cheie la întrebări",
+        "template": "Listați 1 întrebare cea mai populară despre „{{keywords}}”. Apoi, Răspunde la această întrebare. În cele din urmă, enumerați alte 4 întrebări."
+      },
+      "suggest": {
+        "title": "Obțineți cuvinte cheie asemănătoare",
+        "template": "{{keywords}} sunt cuvintele mele cheie de căutare în Google. Vă rog să-mi oferiți 5 seturi de cuvinte cheie similare."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Rezuma",
+        "template": "Rezumați acest lucru pentru un elev de clasa a doua:"
+      },
+      "similar-pages": {
+        "title": "Pagini similare",
+        "template": "Găsiți 10 pagini similare cu următorul conținut cu link:"
+      },
+      "grammar": {
+        "title": "Gramatică",
+        "template": "Corectați acest lucru în limba engleză standard:"
+      },
+      "explain": {
+        "title": "Explica",
+        "template": "Explicați următorul conținut:"
+      },
+      "explain-codes": {
+        "title": "Explicați codurile",
+        "template": "Explicați următoarele coduri:"
+      },
+      "rewrite": {
+        "title": "Rescrie",
+        "template": "Rescrie următorul conținut:"
+      },
+      "translate": {
+        "title": "Traduceți",
+        "template": "Traduceți următorul conținut în limba {{lang}}:"
+      },
+      "qa": {
+        "title": "Întrebări și răspunsuri",
+        "template": "Raspunde la intrebare:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Plan gratuit",
+    "basic": "Plan de bază",
+    "pro": "Plan Pro",
+    "ultra": "Ultra Plan"
+  },
+  "queryNames": {
+    "fast": "Text rapid",
+    "advanced": "Text avansat",
+    "image": "Imagine"
+  },
+  "upgradeModal": {
+    "desc": "Mai multe interogări și mai multe funcții!",
+    "upgradeToUseXXX": "Faceți upgrade pentru a utiliza <b>bot</b>",
+    "getWebAccess": "Faceți upgrade pentru a obține răspuns web",
+    "gpt4Desc": "GPT-4 este semnificativ mai inteligent și vă poate ajuta să obțineți răspunsuri mai logice și mai precise.",
+    "claude2Desc": "Claude-2 este semnificativ mai inteligent și vă poate ajuta să obțineți răspunsuri mai logice și mai precise.",
+    "webAccessDesc": "Sider preia răspunsuri la întrebările dvs. de la Google și folosește inteligența artificială pentru organizarea și rezumatul concis.",
+    "features": {
+      "_0": "<b>Nelimitat</b> Interogări rapide de text",
+      "0_desc": "Pentru GPT3.5, Bard & Claude Instant",
+      "_1": "Interogări text avansate <b>Nelimitate</b>",
+      "1_desc": "Pentru GPT4 și Claude V2",
+      "_2": "<b>1000/lună</b> interogări de imagine",
+      "2_desc": "Pentru pictor, OCR și Vision"
+    }
+  }
+}

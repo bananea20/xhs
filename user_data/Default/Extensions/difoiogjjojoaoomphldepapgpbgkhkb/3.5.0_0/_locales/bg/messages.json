@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "Страничната лента на ChatGPT като ваш AI асистент на всяка страница"
+   },
+   "appDescEdge": {
+      "message": "Sider -- AI странична лента, захранвана от ChatGPT на OpenAI"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

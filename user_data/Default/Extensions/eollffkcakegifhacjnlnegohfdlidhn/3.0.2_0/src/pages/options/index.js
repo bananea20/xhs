@@ -1,0 +1,1 @@
+import{c as t}from"../../../assets/js/client.a03654a4.js";import{j as o}from"../../../assets/js/jsx-runtime.48969444.js";const r=()=>o("div",{className:"container text-lime-400",children:"Options"});function e(){const n=document.querySelector("#app-container");if(!n)throw new Error("Can not find #app-container");t(n).render(o(r,{}))}e();

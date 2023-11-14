@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ЦхатГПТ бочна трака као ваш АИ асистент на било којој страници"
+   },
+   "appDescEdge": {
+      "message": "Сидер -- АИ бочна трака коју покреће ЦхатГПТ од ОпенАИ"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

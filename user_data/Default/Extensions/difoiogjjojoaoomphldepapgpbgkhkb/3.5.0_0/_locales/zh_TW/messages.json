@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT 側邊欄 -- 幫助你在任何頁面，都可使用ChatGPT, GPT-4, Claude, Bard"
+   },
+   "appDescEdge": {
+      "message": "Sider 是一款由OpenAI的ChatGPT提供支持的側邊欄"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT側邊欄+ Vision 眼睛, GPT-4, 聯網, 繪圖"
+   },
+   "appNameEdge": {
+      "message": "Sider -- GPT-4 側邊欄"
+   }
+}

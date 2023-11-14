@@ -1,0 +1,907 @@
+{
+  "sidebar": "Sidebar",
+  "shortcut": "Shortcut key",
+  "ask": "Magtanong",
+  "save": "I-save ito",
+  "saved": "Nai-save",
+  "delete": "Tanggalin",
+  "remove": "Alisin",
+  "cancel": "Kanselahin",
+  "stop": "Tumigil ka",
+  "insert": "Ipasok",
+  "replace": "Palitan",
+  "ok": "OK",
+  "submit": "Ipasa",
+  "attention": "Pansinin",
+  "send": "Ipadala",
+  "copy": "Kopya",
+  "copied": "Kinopya",
+  "clear": "Maaliwalas",
+  "quote": "Quote",
+  "collapse": "I-collapse ang sidebar",
+  "done": "Tapos na",
+  "manage": "Pamahalaan",
+  "template": "template",
+  "edit": "I-edit",
+  "add": "Idagdag",
+  "feedback": "Feedback",
+  "tweetit": "Mag-Tweet",
+  "fullPageChat": "Buong page chat",
+  "whatNew": "Mga Bagong Tampok",
+  "gotIt": "Nakuha ko",
+  "settings": "Mga setting",
+  "signin": "Mag-sign in",
+  "signinNow": "Mag-sign in ngayon",
+  "unlimited": "Walang limitasyon",
+  "share": "Ibahagi",
+  "myChats": "Aking Mga Chat",
+  "general": "Pangkalahatang pagsasaayos",
+  "archive": "archive",
+  "unarchive": "alisin sa archive",
+  "searchPage": "Pahina ng Paghahanap",
+  "addons": "Mga add-on",
+  "webStore": "Web Store",
+  "webApp": "Web App",
+  "webAccess": "Pag-access sa Web",
+  "upgradeNow": "Mag-upgrade na ngayon",
+  "upgrade": "Mag-upgrade",
+  "language": "Wika",
+  "theme": "Tema",
+  "sendShortcut": "Magpadala ng shortcut",
+  "model": "Modelo",
+  "version": "Bersyon",
+  "more": "Higit pa",
+  "listen": "Makinig ka",
+  "skip": "Laktawan",
+  "vote": "Bumoto",
+  "invite": "Mag-anyaya",
+  "hide": "Tago",
+  "pin": "i-pin up",
+  "unpin": "i-unpin",
+  "showMore": "Magpakita ng higit pa",
+  "editTitle": "I-edit ang pamagat",
+  "summarize": "Ibuod",
+  "summarizing": "Pagbubuod",
+  "answering": "Sumasagot",
+  "productivity": "Produktibidad",
+  "modelUpdateSuccess": "Matagumpay na na-update ang modelo",
+  "modelUpdateFailed": "Nabigo ang pag-update ng modelo",
+  "customPrompt": "Custom na prompt",
+  "currentTpl": "Kasalukuyang template:",
+  "current": "Kasalukuyan",
+  "extra": "dagdag",
+  "editTpl": "I-edit ang template na ito",
+  "delteTpl": "Tanggalin ang template na ito",
+  "restoreTpl": "Ibalik ang template na ito",
+  "archiveTpl": "I-archive ang template na ito",
+  "showTpl": "Ipakita ang template na ito",
+  "prompts": "Mga senyales",
+  "imageRetryTip": "Nabigo ang pag-upload. I-click upang subukang muli.",
+  "mentionBot": "Banggitin mo si Bot",
+  "promptName": "Pangalan ng Prompt",
+  "promptContent": "Maagap na Nilalaman",
+  "contactUs": "Makipag-ugnayan sa amin",
+  "webAssistant": "Web Assistant",
+  "quickAction": "Menu ng Konteksto",
+  "promptManage": "Prompt Manager",
+  "issueType": "Uri ng Issue",
+  "pinExt": "Pin extension",
+  "yourEmailAddress": "Ang iyong email address",
+  "troubleshooting": "Pag-troubleshoot",
+  "openSidebar": "Buksan ang sidebar",
+  "pasteSelection": "I-paste ang seleksyon",
+  "pasteTextPage": "I-paste ang teksto mula sa pahina",
+  "getAnotherKey": "Kumuha ng Isa pang Susi",
+  "showSearchPanel": "Ipakita ang Search Panel",
+  "getItNow": "Kunin Ito Ngayon",
+  "notNow": "Hindi ngayon",
+  "alwaysDisplay": "Laging Display",
+  "queries": "Mga tanong",
+  "total": "kabuuan",
+  "getMore": "kuha pa",
+  "goPremium": "mag-upgrade sa premium",
+  "goPremiumGetMore": "mag-upgrade sa premium para makakuha ng higit pa",
+  "myAccount": "Aking Account",
+  "clickToAsk": "I-click para magtanong",
+  "searchingFor": "Naghahanap para sa:",
+  "searchedFor": "Hinanap para sa:",
+  "using": "Gamit",
+  "used": "Ginamit",
+  "switchAndContinue": "Lumipat at magpatuloy",
+  "ExtractText": "I-extract ang text mula sa larawan",
+  "describleImage": "Ilarawan ang larawang ito",
+  "pricePerDay": "Mas mababa sa {{num}}/araw",
+  "readingAssistant": "Katulong sa Pagbasa",
+  "writingAssistant": "Katulong sa Pagsulat",
+  "moreQueries": "Higit pang mga query!",
+  "newPlan": "Bagong plano!",
+  "all": "Lahat",
+  "success": "Tagumpay",
+  "usedIn": "Ginamit sa",
+  "check": "Suriin",
+  "example": "Halimbawa",
+  "ChangeTone": "Baguhin ang tono",
+  "screenshot": "Screenshot",
+  "uploadImage": "Mag-upload ng larawan",
+  "hideImage": "Itago ang larawan",
+  "showImage": "Ipakita ang larawan",
+  "fullscreen": "Fullscreen",
+  "OR": "O",
+  "refresh": "Refresh",
+  "phoneNumber": "Numero ng telepono",
+  "recognizing": "Kinikilala",
+  "result": "Resulta",
+  "describeImage": "Ilarawan ang larawang ito",
+  "inviteFriendTip": "<a>Mag-imbita ng mga kaibigan</a> upang makakuha ng mga karagdagang query",
+  "resetTime": "I-reset sa <a>Ago 3, 2023</a>",
+  "imageQuoteTipTitle": "Tanungin muli ang larawan? Kailangan mong i-quote ang larawan",
+  "imageQuoteTipContent": "Upang magtanong muli tungkol sa larawan, i-quote lang ito.",
+  "ocrEmptyMsg": "Paumanhin, hindi ko mahanap ang teksto sa larawang ito.",
+  "imageInputHint": "Magtanong tungkol sa larawang ito",
+  "popupPage": {
+    "thank": "Salamat sa paggamit ng {{APP_NAME}} extension!",
+    "desc": "Ang kasalukuyang pahina ay isang natatanging pahina at ang tampok na sidebar ay hindi magagamit. Gayunpaman, maaari kang magbukas ng isang buong pahina upang makipag-chat!",
+    "chatNow": "Makipag-usap ngayon"
+  },
+  "setupPage": {
+    "loginSuccess": "Matagumpay ang pag-log in",
+    "welcome": "Maligayang pagdating sa {{APP_NAME}}!",
+    "loginWith": "Mag-sign in gamit si {{name}}",
+    "pinTips": "<b>I-pin ang {{APP_NAME}}</b>, mas madaling access!",
+    "pinClickTip": "I-click ang {{icon}} para i-pin ang {{APP_NAME}}",
+    "next": "Susunod",
+    "pinGuideDesc": "Upang gawing mas madali ang pag-access sa extension, mangyaring hayaan itong manatiling naka-pin sa pamamagitan ng pagsunod sa mga hakbang sa ibaba.\n1. I-click ang icon ng puzzle na <b>ICON</b> sa tabi ng iyong avatar ng profile.\n2. Sa drop-down na menu, hanapin ang {{APP_NAME}}.\n3. I-click ang icon ng pushpin hanggang sa maging asul ito.",
+    "signInGuideTitle": "Mag-sign in ngayon upang i-unlock ang sumusunod:",
+    "signInGuideStep1": "I-sync ang mga setting ng extension sa mga computer",
+    "signInGuideStep2": "I-access ang iyong mga prompt mula sa iba't ibang mga laptop",
+    "signInGuideStep3": "I-save ang mga chat para magamit sa hinaharap",
+    "signInGuideStep4": "Ibahagi ang mga chat sa pamamagitan ng link",
+    "welcomeGuide": "Maligayang pagdating sa {{APP_NAME}}",
+    "step1Label": "unang hakbang",
+    "step2Label": "Pangalawang hakbang",
+    "tryOut": "subukan"
+  },
+  "getKeyPage": {
+    "welcome": "Maligayang pagdating sa {{APP_NAME}}! Narito ang iyong paglalakbay upang magsimula:",
+    "stepTitle": "Paano kumuha ng API key.",
+    "step1": "Hakbang 1: Kunin ang API key",
+    "step1-1": "<i>Mag-login sa iyong OpenAI account</i> Kung wala kang account, Mag-sign up <b>DITO</b>",
+    "step1-2": "Bisitahin ang pahina ng OpenAI API Key",
+    "step1-3": "Gumawa ng bagong lihim na key at kopyahin ito bilang sumusunod",
+    "step2": "Hakbang 2: I-paste ang API Key sa kahon sa ibaba",
+    "step2-tips": "Huwag kang mag-alala. Ginagamit lang ang iyong API key sa loob ng extension ng ChatGPT. Ang paggamit ng API ay mas matatag kaysa sa direktang paggamit ng ChatGPT.",
+    "step3": "Hakbang 3: Tingnan ang iyong mga kredito <i>dito</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Paano ma-access ang ChatGPT at gamitin ito kahit saan",
+    "howToAccessTip": "Upang matiyak na ang AI ay naa-access para sa lahat, nagbibigay kami ng 3 paraan upang ma-access ang ChatGPT at gamitin ito kahit saan.",
+    "recommend4all": "(Inirerekomenda para sa lahat)",
+    "sidebarProvider": "Ginagamit ng Sidebar ang ChatGPT Premium API upang matiyak ang matatag na pag-access.",
+    "sidebarProviderGoPremium": "Nag-aalok kami ng {{num}} na libreng pang-araw-araw na query para magarantiya ang pagiging naa-access ng AI para sa lahat. <a>Mag-upgrade sa premium</a> upang madagdagan ang iyong pang-araw-araw na limitasyon sa query at suportahan ang aming misyon na <b>magbigay ng Universal AI para sa lahat</b>.",
+    "webappProvider": "Ang API na nagpapagana sa ChatGPT webapp ay libre, ngunit maaaring hindi ito matatag kung minsan.",
+    "webappGPT4": "(Maaaring subukan ito ng mga gumagamit ng ChatGPT Plus)",
+    "webappTip1": "Kung ikaw ay gumagamit ng ChatGPT Plus, mayroon ka na ngayong opsyon na pumili ng GPT-4. Gayunpaman, maaaring limitahan ng OpenAI ang bilang ng mga mensahe na maaari mong ipadala bawat araw.",
+    "webappTip2": "Mangyaring <m>I-pin ang tab na ChatGPT</m> at manatiling naka-log in sa website ng ChatGPT. Gayunpaman, maaaring hindi nito ginagarantiyahan ang katatagan. Kung makatagpo ka ng anumang mga isyu, bisitahin ang <v>ang website ng ChatGPT </v>at i-refresh ang pahina.",
+    "GPT4Desc": "Dapat kang manatiling naka-log in sa iyong ChatGPT account sa website. Maaaring hindi pare-pareho ang katatagan para sa parehong mga gumagamit ng Plus at mga libreng user dahil sa paghihigpit ng OpenAI.",
+    "apiKeyProviderTip": "(Para sa mga developer na may API key)",
+    "apiKeyProvider": "Ang opisyal na OpenAI API ay mas matatag at ang mga singil ay batay sa paggamit.",
+    "apiKeyLocally": "Ang iyong API Key ay lokal na nakaimbak sa iyong browser at hindi na ipinadala kahit saan pa.",
+    "ownURL": "Gamitin ang sarili kong URL",
+    "apiKeyTip1": "Maaaring nag-expire na ang iyong libreng OpenAI API key. Mangyaring <a>suriin ang status ng expiration ng API key dito.</a>",
+    "apiKeyTip2": "Kung gagamitin mo ang libreng OpenAI API key, maaaring hindi stable ang access sa ChatGPT kapag nakakaranas ito ng mataas na demand.",
+    "apiFreeGuide": "Sundin ang gabay para makuha ang API key.",
+    "apiKeyGpt4Tip": "Sinusuportahan ng extension ang GPT-4 kung nag-input ka ng GPT-4 API key.",
+    "displaySearchRes": "Ipakita ang tugon ng ChatGPT sa tabi ng mga pahina ng resulta ng paghahanap",
+    "whenToAsk": "Kailan magtatanong sa ChatGPT",
+    "promptTplForSearch": "Prompt na template para sa Google at iba pang mga search engine",
+    "addNewTplForSearch": "Magdagdag ng bagong prompt template",
+    "launchSidebar": "Ilunsad ang sidebar",
+    "sidebarLocation": "Lokasyon ng Sidebar",
+    "sidebarLeftOrRight": "Ilagay ang sidebar sa kaliwa o kanang bahagi",
+    "sidebarDisplayOption": "Sidebar Display Mode",
+    "sidebarDisplayOptionTip": "Piliin kung paano lalabas ang sidebar sa page",
+    "sidebarDisplayOptions": {
+      "overlay": "Overlay",
+      "expand": "Lumalawak"
+    },
+    "sidebarIcon": "Icon ng Sidebar",
+    "sidebarIconAccess": "I-access ang sidebar sa pamamagitan ng icon na matatagpuan sa kanang sulok sa ibaba ng page. Maaari mong i-drag upang ilipat ito pataas at pababa",
+    "easiestWayUse": "Ang pinakamadaling paraan upang gamitin ang {{APP_NAME}}",
+    "displayWhenSelect": "Ipakita kapag pinili ang teksto",
+    "promptTplForSidebar": "Prompt na template para sa sidebar",
+    "dragSidebarTpl": "I-drag at i-drop upang muling isaayos ang template O i-archive ang mga hindi mo gagamitin",
+    "addNewTplForSidebar": "Magdagdag ng bagong prompt template",
+    "editSearchTplTip": "gumamit ng {{keywords}} upang i-refer ang iyong mga keyword sa paghahanap",
+    "editSearchTplPlaceholder": "Ang {{keywords}} sa prompt na nilalaman ay awtomatikong papalitan ng iyong mga keyword sa paghahanap",
+    "editSidebarTplTip": "I-paste o i-input ang nilalaman dito",
+    "showOnList": "Ipakita sa listahan",
+    "translatorNavTitle": "Mabilis na Paghahanap",
+    "translatorTitle": "Quick Lookup Window",
+    "translatorFabTitle": "Icon ng Mabilisang Paghahanap",
+    "translatorFabDesc": "I-access ang quick lookup window sa pamamagitan ng icon.",
+    "translatorFabToggleLabel": "Ipakita kapag pinili ang teksto",
+    "translatorTplTitle": "Prompt na template para sa popup window",
+    "translatorTplDesc": "Ang unang pangunahing template ay gagamitin bilang default na command para sa popup window.",
+    "translatorPrimaryTemplates": "Mga pangunahing template",
+    "translatorTemplatesNotes": "*Ang popup na ito ay nagbabahagi ng parehong mga template sa sidebar. Kung kailangan mong mag-edit o magdagdag ng template, mangyaring baguhin ito sa <b>Mga Setting ng sidebar</b>.",
+    "translatorIntroTitle": "🤔 Ano ang Quick Lookup?",
+    "translatorIntroDesc": "Ang Quick Lookup ay isang mabilis na pagkilos ng {{APP_NAME}}, na nagbibigay ng hanay ng mga kapaki-pakinabang na tool.\n\nLumilitaw ito kaagad kapag pinili mo ang teksto. Sa isang pag-click lang, maaari mong mabilis na isalin ang mga teksto, muling isulat ang mga ito, makakuha ng mga paliwanag, at marami pang iba. Bukod pa rito, nagagawa mong muling ayusin ang pagkakasunud-sunod ng mga tool at i-customize ang sarili mong mga prompt.\n\nUpang i-activate ang {{APP_NAME}}, ang kailangan mo lang gawin ay mag-click sa icon ng Quick Lookup.",
+    "translatorHostFabConfigLabel": "Listahan ng mga website kung saan hindi pinagana ang Quick Lookup",
+    "translatorShortcutLabel": "Shortcut Key para sa Mabilis na Paghahanap",
+    "quickAction": {
+      "shortcutDesc": "I-activate ang {{name}} sa pamamagitan ng shortcut",
+      "customPromptMenu": "I-customize ang prompt para sa menu na ito",
+      "readTitle": "Menu ng konteksto para sa pagbabasa",
+      "selectionDesc": "Ipakita ang menu kapag pumili ka ng anumang teksto",
+      "diabledSite": "Listahan ng mga website kung saan naka-disable ang feature na ito",
+      "writeTitle": "Menu ng konteksto para sa pagsulat (kahon ng input)",
+      "writeInputIconTitle": "Icon ng kahon ng input",
+      "writeInputIconDesc": "Ipakita ang writing assistant icon sa anumang input box",
+      "triggerKeyword": "Mag-trigger ng mga keyword",
+      "triggerKeywordDesc": "I-activate ang {{name}} sa lahat ng text input sa pamamagitan ng mga keyword",
+      "whatisQuickAction": "🤔 Ano ang {{name}}?",
+      "quickActionDesc": "Ang {{name}} ay isang koleksyon ng mga mahahalagang tool na madaling magagamit kapag pinili mo ang teksto o gumamit ng shortcut key. Sa isang pag-click, maaari mong mabilis na mapahusay ang iyong pagbabasa o pagsusulat. Bukod pa rito, maaari mong i-activate ang prompt input box para tulungan ka sa pagtupad sa iyong mga partikular na pangangailangan habang nagbabasa o nagsusulat. Kabilang dito ang mga gawain tulad ng paggawa ng outline para sa isang paksa, brainstorming ng mga ideya, at muling pagsusulat ng mga talata."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "Buod ng Video sa YouTube",
+        "desc": "Kapag naka-on, matutulungan ka ng {{APP_NAME}} na buod ng mga video sa YouTube"
+      },
+      "webpage": {
+        "title": "Buod ng Webpage",
+        "desc": "Kapag naka-on, matutulungan ka ng {{APP_NAME}} na buod ng mga artikulo sa webpage"
+      },
+      "qa": {
+        "title": "Q&A Assistant",
+        "desc": "Kapag naka-on, masasagot ng {{APP_NAME}} ang tanong sa Quora, StackOverflow at iba pang QA site"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Bagong Prompt",
+      "editPrompt": "I-edit ang Prompt",
+      "checkPrompt": "Suriin ang Prompt",
+      "archiveTips": "Ang mga naka-archive na prompt ay hindi lalabas sa mga sitwasyon ngunit maaaring hanapin",
+      "dragTips": "I-drag at i-drop upang muling isaayos ang prompt O i-archive ang mga hindi mo gagamitin sa kaukulang senaryo",
+      "howToWritePrompt": "Paano magsulat ng prompt",
+      "howToVarTitle": "Anong mga variable ang maaaring isama sa prompt?",
+      "howToVar1": "Maaari mong gamitin ang variable na ito upang kumatawan sa input o napiling nilalaman. Kung hindi kasama sa prompt ang variable na ito, ang input o napiling content ay kalakip ng triple quotes at ilalagay sa pinakadulo ng prompt.",
+      "howToVar2": "Maaari mong gamitin ang variable na ito upang kumatawan sa wikang nais mong gamitin para sa output, batay sa default na wika na itinakda sa mga setting.",
+      "howToExample": "Mangyaring gamitin ang mga sumusunod na paksa o keyword upang bumuo ng isang balangkas na kinabibilangan ng mga pamagat, kabanata, at mga subseksiyon.\nI-output ito sa Markdown na format. Ibigay mo lang sa akin ang output at wala nang iba pa. Ang balangkas ay dapat nasa {{lang}} na wika.\nMga paksa o keyword: {{content}}",
+      "clickToExpand": "I-click upang palawakin",
+      "clickToHide": "I-click upang itago"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Ulat ng Problema",
+        "title": {
+          "label": "Buod ng Problema",
+          "tip": "Ipaalam sa amin kung ano ang naging mali sa ilang salita."
+        },
+        "detail": {
+          "label": "Mga Detalye ng Problema",
+          "tip": "Pakilarawan nang detalyado kung ano ang naging mali, anumang mga pagkilos na ginawa mo, at mga mensahe ng error na nakuha mo."
+        }
+      },
+      "fr": {
+        "name": "Kahilingan sa Tampok",
+        "title": {
+          "label": "Pamagat",
+          "tip": "Tungkol saan ang iyong kahilingan?"
+        },
+        "detail": {
+          "label": "Paglalarawan",
+          "tip": "Mangyaring magbigay ng isang detalyadong paglalarawan ng bagong tampok na gusto mo."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Tanungin ang ChatGPT:",
+    "savePrompt": "I-save ang prompt",
+    "saveNewPrompt": "I-save bilang bagong prompt",
+    "replacePrompt": "Palitan ang prompt",
+    "inputPlaceholder1": "Mag-input ng prompt o pumili mula sa menu",
+    "inputPlaceholder2": "I-paste o i-input ang nilalaman dito",
+    "startNewLine": "Pindutin ang {{shortcut}} upang magsimula ng bagong linya",
+    "inputPlaceholderCodes": "I-paste o i-input ang mga code dito",
+    "inputPlaceholderQA": "I-paste o ipasok ang tanong dito",
+    "pressToSubmit": "Pindutin ang {{key}} upang isumite",
+    "response": "Tugon:",
+    "stopGenerating": "Itigil ang pagbuo",
+    "regenerate": "I-regenerate ang tugon",
+    "askTabLabel": "Magtanong",
+    "chatTabLabel": "Chat",
+    "composeTabLabel": "Sumulat",
+    "ocrTabLabel": "OCR",
+    "grammarTabLabel": "Gramatika",
+    "queryLeft": "{{num}} query ang natitira",
+    "queryLeft2": "{{num}} ang natitira",
+    "freePlan": "Libreng Plano",
+    "premiumPlan": "Premium na Plano",
+    "extraQuota": "Dagdag Quota",
+    "submitOption": "Isumite ang Opsyon",
+    "painterLabel": "Pintor"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Napakabilis, mahusay para sa karamihan ng mga pang-araw-araw na gawain.",
+    "gpt-4": "Pinakamahusay na modelo, pinakamainam para sa mga kumplikadong gawain na nangangailangan ng advanced na pangangatwiran.",
+    "claude-instant": "Ang pangunahing modelo mula sa Anthropic, mababang latency, high throughput na mga kaso ng paggamit.",
+    "claude2": "Ang pinakamahusay sa klase na nag-aalok ng modelo mula sa Anthropic, mahusay na pagganap sa mga gawain na nangangailangan ng kumplikadong pangangatwiran.",
+    "bard": "Ang modelo mula sa Google (PaLM 2), ay mahusay na gumaganap sa mga advanced na gawain sa pangangatwiran."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Gastos <m>1 Mabilis na Text query</m>.",
+    "gpt-4": "Gastos <m>1 Advanced Text query</m>."
+  },
+  "sidebarChatPanel": {
+    "newChat": "Bagong Chat",
+    "chatHistory": "Kasaysayan",
+    "inputPlaceholder": "Mag-type ng mensahe...",
+    "send": "Ipadala",
+    "feedback": "Feedback",
+    "share": "Ibahagi",
+    "deleteConfirmTitle": "Tanggalin ang pag-uusap na ito?",
+    "deleteConfirmContent": "Ang gawaing ito ay hindi pwedeng baguhin.",
+    "compareWeb": "Ihambing ang sagot mula sa web",
+    "improveWithXXX": "Kumuha ng mas matalinong sagot mula sa <b>Bot</b>",
+    "improveWithXXX2": "Kumuha ng kumpletong sagot mula sa <b>Bot</b>",
+    "compareWithXXX": "Ihambing ang sagot mula sa <b>Bot</b>",
+    "improveWithSearch": "Kumuha ng sagot sa web mula sa Google",
+    "improveWithBoth": "Ayusin ang Google Answers gamit ang GPT-4",
+    "answerWithoutSearching": "Ihambing ang sagot mula sa orihinal na <b>Bot</b>",
+    "screenshot": "Screenshot",
+    "upload": "Mag-upload",
+    "addImage": "Magdagdag ng larawan",
+    "welcomeQues": [
+      {
+        "title": "🤔 Ipaliwanag ang isang kumplikadong konsepto",
+        "ques": "Sabihin sa akin ang tungkol sa Big Bang upang maipaliwanag ko ito sa aking 5 taong gulang na anak"
+      },
+      {
+        "title": "🧠 Mag-brainstorm ng mga hindi pa nagagawang ideya",
+        "ques": "Mangyaring bigyan ako ng 10 ideya ng regalo para sa kaarawan ng aking kaibigan"
+      },
+      {
+        "title": "💭 Kumuha agad ng mga kaakit-akit na pamagat",
+        "ques": "Bumuo ng limang kaakit-akit na pamagat para sa aking pagsusulat tungkol sa kaso ng paggamit ng ChatGPT"
+      }
+    ],
+    "textSelectedTip": "Teksto mula sa iyong pinili",
+    "ocrTextTip": "{{name}} Resulta",
+    "textSelectedSystemMsg": "Ano ang gusto mong gawin sa teksto?",
+    "welcomeSystemMsg": "Kamusta! Paano kita matutulungan ngayon?",
+    "chatActionTranslate": "Isalin sa {{lang}}",
+    "addAPrompt": "Magdagdag ng prompt",
+    "search": "Maghanap",
+    "continueInChat": "Magpatuloy sa chat",
+    "userStopTip": "Kinansela ng user ang kahilingan.",
+    "noChatHistory": "Wala pang history ng chat.",
+    "noSearchHistory": "Walang nahanap na resulta.",
+    "webAccessModalTitle": "Binibigyan ng {{APP_NAME}} ng kapangyarihan ang ChatGPT na I-access ang Web!",
+    "webAccessModalContent": "Tandaan, ang ChatGPT ay may cut-off ng kaalaman sa 2021! Gayunpaman, pinagsasama ng {{APP_NAME}} ang sopistikadong katalinuhan ng ChatGPT sa real-time na impormasyon sa web. Ang tampok na ito ay nangangailangan ng malaking halaga ng mga token, kaya isaalang-alang ang pag-upgrade upang suportahan ang aming mga pagsisikap!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Mag-compose",
+    "reply": "Sumagot",
+    "writePlaceholder": "Ang paksang nais mong buuin",
+    "replyPlaceholder1": "Ang orihinal na text kung saan mo gustong tumugon",
+    "replyPlaceholder2": "Ang pangkalahatang nilalaman ng iyong tugon sa teksto sa itaas",
+    "submitShortcut": "Pindutin ang {{shortcut}} upang bumuo ng draft",
+    "generate": "Bumuo ng draft",
+    "format": "Format",
+    "email": "Email",
+    "idea": "Idea",
+    "outline": "Balangkas",
+    "essay": "Sanaysay",
+    "paragraph": "Talata",
+    "blog": "Blog Post",
+    "ads": "Mga Ad sa Marketing",
+    "twitter": "Twitter",
+    "comment": "Magkomento",
+    "message": "Mensahe",
+    "tone": "tono",
+    "professional": "Propesyonal",
+    "formal": "Pormal",
+    "casual": "Kaswal",
+    "enthusiastic": "Masigasig",
+    "informational": "Pang-impormasyon",
+    "funny": "Nakakatawa",
+    "length": "Ang haba",
+    "short": "Maikli",
+    "medium": "Katamtaman",
+    "long": "Mahaba",
+    "preview": "Silipin",
+    "regenerate": "Magbagong-buhay",
+    "addToSite": "Idagdag sa site",
+    "addToSiteTip": "Ilagay ang iyong mouse cursor sa nais na input box at i-click ang '{{name}}' upang ipasok"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Ayusin ang mali",
+    "retry": "Subukan muli",
+    "inputPlaceholder": "Tiyakin na ang iyong pagsusulat sa Ingles ay walang pagkakamali. I-paste ang iyong teksto o magsimulang mag-type sa ibaba upang tingnan kung may mga error sa grammar, spelling, at bantas.",
+    "checking": "Sinusuri",
+    "checkFailed": "Nabigo ang pagsuri",
+    "accept": "Tanggapin",
+    "ignore": "Huwag pansinin",
+    "continueImproving": "Magpatuloy sa Pagbuti",
+    "improveGuideText": "Mag-click dito upang makuha ang pinahusay na teksto at dahilan!",
+    "improvedText": "Pinahusay na Teksto:",
+    "reasonForChanges": "Dahilan ng mga pagbabago:"
+  },
+  "OCRPanel": {
+    "ocrTips": "I-extract ang text, numero, at equation mula sa isang imahe",
+    "ocrCost": "Ang bawat {{name}} ay nagkakahalaga ng {{num}} query ng larawan",
+    "newOCR": "Bagong {{ocr}}",
+    "noText": "Walang nakilalang teksto"
+  },
+  "translator": {
+    "quickActions": "Mabilis na paghahanap",
+    "disableHostFabLabel": "Huwag paganahin sa site na ito",
+    "disableFabLabel": "Huwag paganahin sa Lahat ng mga site"
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Nagustuhan mo ba ang aming extension?</b> Paki-rate kami ng limang bituin sa web store upang matulungan kaming lumago",
+    "newInVersion": "Ano ang Bago sa bersyon {{versionId}}",
+    "learnToUse": "Alamin kung paano gamitin",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "Ang {{SIDERVISION}} ay naging mas matalino",
+          "features": [
+            "{{4+VISION}}",
+            "1-click upang sagutin ang parehong tanong sa iba't ibang mga bot"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Suriin ang mga error sa grammar",
+            "Ayusin ang mga error sa grammar",
+            "Pagbutihin ang pagsulat nang higit sa gramatika"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — ChatGPT sidebar na may Vision",
+          "features": [
+            "I-extract ang text mula sa isang imahe",
+            "Magtanong ng anumang katanungan tungkol sa larawan",
+            "3 paraan upang magpadala ng larawan sa {{SIDERVISION}} <div><ol><li>Kumuha ng screenshot</li><li>Mag-drag at Mag-drop ng larawan sa Chat window</li><li>Mag-upload ng larawan </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "I-extract ang text mula sa isang imahe"
+          ]
+        },
+        {
+          "features": [
+            "I-extract ang text mula sa isang imahe"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Bagong plano sa pagpepresyo na may 5x pang GPT-4 na mga query",
+          "features": [
+            "Magandang balita! Ang aming na-update na pagpepresyo ngayon ay nagbibigay sa iyo ng higit pang access sa GPT-4 at Claude 2 na mga query.",
+            "Kung isa ka nang premium na user, awtomatiko kang maa-upgrade. Dagdag pa, mayroon kaming bagong 'Unlimited' na plano para sa lahat ng power user!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Higit pang bot!",
+          "features": [
+            "Bilang karagdagan sa ChatGPT at Claude, sinusuportahan ni Sider si Bard ngayon!"
+          ]
+        },
+        {
+          "title": "OCR: I-extract ang text mula sa anumang larawan at ipadala ito sa ChatGPT",
+          "features": [
+            "Kilalanin ang 10+ pangunahing wika",
+            "Kilalanin ang sulat-kamay sa Ingles",
+            "Kilalanin ang <b>math equation</b> sa text"
+          ]
+        },
+        {
+          "title": "Pagbutihin ang Pintor",
+          "features": [
+            "Palitan ang buong background",
+            "Alisin ang napiling lugar"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Higit pang mga Chatbot</b>: Sinusuportahan Ngayon si Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Group Chat</b>: Paghambingin ang Mga Sagot sa Chatbots!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Pagbanggit</b>: Gamitin ang '@' para walang kahirap-hirap na banggitin at makipag-ugnayan sa anumang chatbot sa pag-uusap!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Quick Prompt</b>: I-type lang ang '/' at Go!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Simple Design</b>: Gawing diretso at madaling i-navigate ang disenyo"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Pinahusay na prompt manager para sa",
+          "features": [
+            "Binabasa ang menu ng konteksto",
+            "Pagsusulat ng menu ng konteksto"
+          ]
+        },
+        {
+          "title": "Editor ng imahe ng AI",
+          "features": [
+            "Alisin ang background mula sa anumang mga larawan",
+            "Alisin ang teksto mula sa anumang mga larawan"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Reading Assistant: Gumamit ng AI para sa mabilis na pag-unawa habang nagbabasa ng mga web page",
+        "Writing Assistant: Mabilis na bumuo ng content gamit ang AI sa web input box"
+      ],
+      "2_7_0": [
+        "Gumuhit ng larawan mula sa teksto",
+        "Gumuhit ng larawan mula sa isang sangguniang larawan"
+      ],
+      "2_6_0": [
+        "Sinusuportahan ng Sider ang Nakapirming Sidebar - Maaari kang makipag-chat sa pagitan ng lahat ng mga tab nang hindi nagsasapawan ng anumang nilalaman <br /> (available sa Chrome 114 o mas bago)"
+      ],
+      "2_5_0": [
+        "Buod ng YouTube! Manood ng 1 oras ng YouTube video sa loob ng 1 minuto",
+        "Ihambing ang mga sagot na ibinigay ng mga tao at AI sa mga site ng Q&A gaya ng Quora, StackOverflow, at Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Smart web access</b>: Batay sa iyong query, ang Al ang magpapasya kung kailangan nitong i-access ang web.",
+        "Pagpapabuti ng katatagan"
+      ],
+      "2_3_0": [
+        "Suportahan ang Pag-browse at Mga Plugin para sa mga gumagamit ng Plus!",
+        "ChatGPT na may internet access para sa lahat!"
+      ],
+      "2_2_0": [
+        "Gumawa ng anumang mensahe",
+        "Tumugon sa email, tweet, komento atbp"
+      ],
+      "2_1_0": [
+        "Shortcut para sa Quick Lookup",
+        "Baguhin ang laki ng Quick Lookup window",
+        "Mga pag-aayos ng bug at iba pang pagpapahusay sa UX"
+      ],
+      "2_0_0": [
+        "Suportahan ang <b>GPT-4 </b>para sa lahat ng user!",
+        "Mag-imbita ng mga kaibigan at makakuha ng <b>GPT-4</b> na mga query para sa inyong dalawa!",
+        "Mga pag-aayos ng bug at iba pang pagpapahusay sa UX"
+      ],
+      "1_1_0": [
+        "Buong Chat sa <b>bagong tab</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> magkasama!",
+        "Mga pag-aayos ng bug"
+      ],
+      "1_0_13": [
+        "Ipagpatuloy ang chat pagkatapos magtanong",
+        "Lumipat sa pagitan ng GPT-4 at GPT-3.5 para sa mga user ng Plus",
+        "Madaling ma-access at maghanap sa kasaysayan ng chat"
+      ],
+      "1_0_12": [
+        "I-sync ang mga setting ng extension sa mga computer",
+        "I-access ang iyong mga prompt mula sa iba't ibang mga laptop",
+        "I-save ang mga chat para magamit sa hinaharap",
+        "Ibahagi ang mga chat sa pamamagitan ng link"
+      ],
+      "1_0_11": [
+        "Mabilis na i-access ang mga aksyon sa pamamagitan ng isang pop-up window nang hindi binubuksan ang sidebar.",
+        "Magdagdag ng suporta para sa mga karagdagang wika.",
+        "Panatilihin ang kagustuhan sa wika ng gumagamit kapag ginagamit ang tampok na pagsasalin.",
+        "Lutasin ang mga salungatan sa shortcut sa mga platform tulad ng GitHub at iba pa."
+      ],
+      "1_0_10": [
+        "Suportahan ang 50+ wika ngayon!"
+      ],
+      "1_0_8": [
+        "Suportahan ang GPT-4 para sa mga gumagamit ng Plus! Suriin ang pahina ng mga setting!"
+      ],
+      "1_0_7": [
+        "Tandaang ginamit noong nakaraang beses ang prompt",
+        "I-optimize ang posisyon ng panel ng chatGPT sa mga pahina ng paghahanap",
+        "Magdagdag ng opsyon upang ilagay ang icon ng sidebar sa pahina sa kaliwang bahagi",
+        "I-optimize ang laki ng package",
+        "Magdagdag ng dark mode",
+        "Suportahan ang iyong API url proxy"
+      ],
+      "1_0_6": [
+        "Pagbutihin ang tampok na buod sa pahina ng Youtube"
+      ],
+      "1_0_5": [
+        "Tandaan ang lokasyon ng icon ng sidebar",
+        "Pagbutihin ang mga shortcut key",
+        "Direktang i-save ang mga prompt template mula sa sidebar"
+      ],
+      "1_0_4": [
+        "Muling mag-order ng mga prompt na item sa dropdown na listahan",
+        "I-archive ang mga prompt na item na hindi mo gagamitin",
+        "Suporta sa tugon sa 50+ wika"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter para gawin ang mabilisang “Isumite”",
+        "Pagpipilian upang itago ang panel sa pahina ng mga resulta ng paghahanap",
+        "Suportahan ang ESC upang itago ang sidebar",
+        "Suporta sa pagbubuod ng mahabang artikulo"
+      ],
+      "1_0_2": [
+        "Magdagdag ng stop button upang ihinto ang pagbuo ng tugon",
+        "Baguhin ang lugar ng pindutan ng pag-collapse"
+      ],
+      "1_0_1": [
+        "Pagbutihin ang tampok na buod sa pahina ng Youtube",
+        "Ayusin ang ilang mga bug na nauugnay sa pagkopya/pag-paste at pag-print"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Bumoto sa Product Hunt",
+    "sidebar2Banner1": "Bumoto para sa amin sa <b>Product Hunt</b> NGAYON upang maikalat ang salita.",
+    "sidebar2ModalTitle": "✨ Buod ng Sidebar 2.0",
+    "sidebar2ModalDesc": "• Tab ng chat\n  • Mabilis na paghahanap para sa mabilis na mga query\n  • Isang account upang i-sync ang mga prompt\n  • I-save at ibahagi ang mga chat\n  • Suportahan ang higit pang mga wika\n  • Suportahan ang GPT-4",
+    "ios1Banner1": "Bumoto para sa ChitChat – ChatGPT iOS app 🎉",
+    "ios1Banner2": "Simulan natin ang mga bagay sa isang putok! 😄",
+    "ios1ModalTitle": "✨ Bago sa ChitChat iOS App",
+    "ios1ModalDesc": "• Kumuha ng mga sagot mula sa ChatGPT 3.5 at 4\n• Isang koponan ng suporta ng mga bot ang tumutulong sa iyo sa isang lugar\n  • Gawing chatbot ang iyong PDF"
+  },
+  "searchTool": {
+    "questionMark": "I-trigger ang ChatGPT sa pamamagitan ng pagdaragdag ng tandang pananong pagkatapos ng iyong query",
+    "askForQuery": "Tanungin ang ChatGPT para sa query na ito",
+    "fiveStart": "Masiyahan sa extension na ito? Bigyan kami ng 5-star na rating sa {{store}}",
+    "loginAndCloudflareCheck": "Mangyaring mag-login at ipasa ang Cloudflare check sa {{web}}",
+    "braveTrouble": "Hindi pa rin gumagana? Sundin ang {{url}}",
+    "cloudflareCheck": "Ang OpenAI ay nangangailangan ng pagpasa ng isang security check paminsan-minsan. Kung patuloy itong nangyayari, baguhin ang AI provider sa OpenAI API sa <i>mga opsyon sa extension</i>.",
+    "failedResponse": "Nabigong i-load ang tugon mula sa ChatGPT:",
+    "waitResponse": "Naghihintay ng tugon ng ChatGPT..."
+  },
+  "sidepanel": {
+    "title": "Sinusuportahan ng Sider ang Nakapirming Sidebar",
+    "tip": "Tip: Ayusin ang lapad ng side panel nang naaangkop para sa mas magandang karanasan.",
+    "benefit1": "Ang iyong Sider sidebar ay <b>hindi kailanman mawawala</b> kung magna-navigate ka sa isang bagong pahina.",
+    "benefit2": "Maaari kang makipag-chat sa pagitan ng lahat ng mga tab nang walang <b>nagpapatong ng anumang nilalaman</b>.",
+    "benefit3": "Available lang sa <b>Google Chrome 114 o mas bago</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Gastos ng {{num}} na mga query",
+    "videoSummaryBtn": "Ibuod ang Video",
+    "loginToSummary": "Mag-sign in sa Summarize",
+    "noTranscriptTip": "Hindi magawang buod ng {{APP_NAME}} ang mga video nang walang mga subtitle.",
+    "shownotes": "Mga mahahalagang sandali",
+    "freeLimitTips": "Naubos na ang iyong libreng pagsubok, mag-upgrade ngayon upang magpatuloy sa paggamit ng feature na buod ng video.",
+    "askQuestionBtn": "Magtanong",
+    "noQuestionTip": "Hindi makuha ng {{APP_NAME}} ang problema sa page."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "Magtanong ng kahit ano sa {{APP_NAME}}.",
+    "defaultPlaceholder2": "Tanungin ang {{APP_NAME}} na may nilalaman sa itaas",
+    "managePrompts": "Pamahalaan ang Mga Prompt",
+    "editSelectionGroup": "I-edit o suriin ang pagpili",
+    "selectionGroup": "Bumuo mula sa pagpili",
+    "draftGroup": "Draft na may {{name}}",
+    "AIGenerating": "Si {{name}} ay bumubuo...",
+    "pressToStop": "Pindutin ang {{name}} para huminto",
+    "pressToClose": "Pindutin ang {{name}} upang isara",
+    "disableOnce": "Itago hanggang sa susunod na pagbisita",
+    "disableSite": "Huwag paganahin para sa site na ito",
+    "disableGlobal": "I-disable sa buong mundo",
+    "continueImproving": "Magpatuloy sa Pagbuti"
+  },
+  "msg": {
+    "supportedFileFormat": "Ang mga sinusuportahang format ng file ay {{formats}}",
+    "maxFileSize": "Ang maximum na laki ng file ay {{size}}",
+    "enterAPIKey": "Pakilagay ang iyong OpenAI API key",
+    "selectModel": "Mangyaring pumili ng wastong modelo",
+    "changeSaved": "Nai-save ang mga Pagbabago",
+    "fiveStart": "Bigyan kami ng 5-star",
+    "pleaseContactUs": "Mangyaring <a>makipag-ugnayan sa amin</a>.",
+    "inviteTitle": "Mag-imbita at Mga Gantimpala",
+    "inviteEarn": "Makakuha ng <mx>{{num}} query</mx> para sa iyo at sa iyong mga kaibigan. <b>Kung mas maraming nagre-refer ka, mas malaki ang iyong kinikita</b>.",
+    "inviteStep1": "I-refer ang iyong mga kaibigan gamit ang link ng Imbitasyon",
+    "inviteStep2": "Nag-sign up ang iyong mga kaibigan",
+    "inviteStep3": "Nag-install sila ng extension at pag-login. Mga reward na nakuha!",
+    "checkInvitation": "Suriin ang Mga Talaan ng Imbitasyon",
+    "inviteFriendsEarn": "Mag-imbita ng Mga Kaibigan at Makakuha ng mga query sa GPT-4",
+    "inviteFriends": "Mag-imbita ng mga kaibigan",
+    "inviteRewardsRecord": "Rewards Records:",
+    "invitedRewardObtained": "Mga Gantimpala na Nakuha!",
+    "invitedWelcome": "Maligayang pagdating! Ang mga query sa GPT ay naidagdag na sa iyong account!",
+    "invitedRewardTips": "Iniimbitahan ka ng iyong kaibigan, at bawat isa sa iyo ay may <mx>{{num}} query</mx> na gagamitin",
+    "getMoreGPT4": "Makakuha ng higit pang GPT-4 na quota",
+    "errSiderApiLimit": "Nagamit mo na ang lahat ng libreng kredito na ibinigay namin, mangyaring sundin ang <i>mga tagubilin dito</i> upang makakuha ng API mula sa OpenAI.",
+    "errSiderApiLimitDevice": "Nagamit mo na ang lahat ng libreng kredito na ibinigay namin. <a>Mag-sign in</a> upang makakuha ng higit pang mga libreng kredito.",
+    "errSiderApiLimitLogin": "Naabot mo na ang iyong quota. Upang magpatuloy, mangyaring isaalang-alang ang <a>pag-upgrade sa aming premium na plano</a>. Salamat!",
+    "errSiderApiLimitLogin2": "Naabot mo na ang iyong quota. Upang magpatuloy, mangyaring isaalang-alang ang <a>pag-upgrade sa aming premium na plano</a>. Salamat!",
+    "errSiderApiLimitPremium": "Nagamit mo na ang lahat ng mga kredito, mangyaring <a>i-upgrade ang iyong plano</a>.",
+    "errSiderPremiumRequired": "Mangyaring <a>mag-upgrade sa premium</a> upang magamit ang tampok na ito.",
+    "errSiderHighTrafficError": "Ang {{APP_NAME}} ay nahaharap sa mataas na trapiko. Subukang muli mamaya.",
+    "errSiderHighTrafficTip": "Mangyaring isaalang-alang ang <a>pag-upgrade sa isang premium na account</a> para sa matatag na pag-access at upang suportahan ang aming pag-unlad.",
+    "errSiderDeviceBinded": "Mangyaring <a>mag-sign in</a> upang magamit ito.",
+    "errSiderApiHighLoad": "Naabot ang limitasyon ng kahilingan dahil sa mataas na pag-load, pakisubukang muli sa ibang pagkakataon.",
+    "errSiderGPT4HighLoad": "Naabot na ang limitasyon ng GPT-4 dahil sa mataas na pagkarga, pakisubukang muli sa ibang pagkakataon.",
+    "errSiderGPT4LimitDevice": "Mangyaring <b>mag-sign in</b> muna, at <amb>imbitahan ang iyong mga kaibigan</amb> o <ta>mag-upgrade sa premium</ta> upang makakuha ng mas advanced na text quota.",
+    "errSiderGPT4LimitLogin": "<t>Imbitahan ang iyong mga kaibigan</t> o <a>mag-upgrade sa premium</a> upang makakuha ng higit pang Advanced na Text quota.",
+    "errSiderGPT4LimitPremium": "<tm>Imbitahan ang iyong mga kaibigan</tm> o <dm>i-upgrade ang iyong plano</dm> upang makakuha ng mas advanced na text quota.",
+    "errSiderNeedLogin": "Mangyaring <a>mag-sign in</a>.",
+    "goToSignIn": "Pumunta para mag-sign in",
+    "errSiderTimeout": "Nag-time out ang kahilingan. Pakisubukang muli.",
+    "errSiderProcessing": "Isang mensahe lang sa isang pagkakataon. Mangyaring payagan ang anumang iba pang tugon na makumpleto bago magpadala ng isa pang mensahe, o maghintay ng ilang sandali.",
+    "errTrySiderAPI": "Lumipat sa <i>ChatGPT Sidebar API</i> para makakuha ng stable na access (para sa lahat)",
+    "errTrySiderAPI2": "O gamitin ang sarili mong API key sa <a>page ng setting</a> (para sa mga developer)",
+    "errChatGPTAuth": "Mangyaring <m>i-click ang link upang mag-sign in </m>sa iyong ChatGPT webpage at tutulungan ka naming i-pin ito. Pagkatapos ay magagamit mo ito sa sidebar.",
+    "errChatGPTAuthTipTitle": "Kung hindi ito gumana:",
+    "errChatGPTFailToFetch": "Nabigong makakuha ng tugon mula sa ChatGPT.",
+    "errOpenaiFailToFetch": "Nabigong makakuha ng tugon mula sa OpenAI sa pamamagitan ng iyong API key.",
+    "errSiderBasicTextLimit": "Naabot mo na ang aming pangunahing limitasyon sa query ng text rate. Sa kasalukuyan, mayroong paghihigpit ng {{N1}} mga mensahe bawat {{NUM2}} minuto. Bilang kahalili, maaari mong gamitin ang advanced na text query at bumalik sa ibang pagkakataon.",
+    "errSiderAdvancedTextLimit": "Naabot mo na ang aming advanced na limitasyon sa query ng text rate. Sa kasalukuyan, mayroong paghihigpit ng {{N1}} mga mensahe bawat {{NUM2}} minuto. Bilang kahalili, maaari mong gamitin ang pangunahing text query at bumalik sa ibang pagkakataon.",
+    "loginAndCloudflareCheck": "Lumipat sa <a>Sidebar API</a> para makakuha ng matatag na access O mag-sign in at ipasa ang Cloudflare check sa <i>chat.openai.com</i>",
+    "invalidApiKey": "Di-wasto ang API key, mangyaring kumuha ng isa pa.",
+    "getApiKeyGuide": "Kailangan mo ng OpenAI API key para gumana ito. Sundin ang aming gabay para makuha ang API key.",
+    "thankForFeedback": "Salamat. Matagumpay na naisumite ang form. Makikipag-ugnayan kami sa iyo sa ilang sandali.",
+    "writeSomething": "Mangyaring sumulat ng isang bagay.",
+    "enterEmail": "Maglagay ng email address para makatanggap ng mga update sa isyu.",
+    "emailRequired": "Kinakailangan ang email.",
+    "promptNameRequired": "Kinakailangan ang prompt na pangalan.",
+    "titleRequired": "Kinakailangan ang pamagat.",
+    "nameYourPrompt": "Pangalanan ang iyong prompt",
+    "nameYourTitle": "Pangalanan ang iyong pag-uusap",
+    "promptTplRequired": "Kinakailangan ang agarang nilalaman.",
+    "deletePromptWarn": "Gusto mo bang tanggalin ang prompt na ito?",
+    "restorePromptWarn": "Gusto mo bang ibalik ang prompt na template na ito?",
+    "notValidEmail": "hindi isang wastong email",
+    "pleaseSignin": "Mangyaring mag-sign in.",
+    "signinTips": "Mag-sign in para i-sync ang iyong mga prompt at setting",
+    "signinAward": "Mag-sign in upang makakuha ng {{num}} na mga query bawat araw",
+    "signinAward2": "Naubos na ang mga query para sa hindi naka-log na user. Maaari kang mag-sign in upang makakuha ng <b>{{num}} libreng query bawat araw</b>.",
+    "signinAward3": "Mag-sign in upang makakuha ng higit pang mga query bawat araw",
+    "chatgptTabGuardTips": "Mangyaring panatilihing bukas ang tab na ito, maaari ka na ngayong bumalik sa {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Nagkaproblema sa ChatGPT. Kumokonekta muli, mangyaring maghintay...",
+    "chatgptTabGuardRefreshingTips1": "Nagkaproblema sa ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Kumokonekta muli, mangyaring maghintay...",
+    "chatgptTabGuardSetupSuccessTips": "Naayos na, pakisubukang muli",
+    "switchToSiderApiToContinue": "Ang tampok na ito ay kasalukuyang sumusuporta lamang sa {{APP_NAME}} API mode, mangyaring <a>lumipat sa {{APP_NAME}} API</a> upang magpatuloy.",
+    "switchRequired": "Kinakailangan ang Lumipat",
+    "signInRequired": "Kailangang mag-sign in",
+    "useUpUpgrade": "Naubos na ang iyong quota, mangyaring mag-upgrade para makakuha ng higit pang quota.",
+    "webSearchSignIn": "Mangyaring mag-sign in upang magamit ang tampok na ito.",
+    "featureLimit": "Limitasyon ng Tampok",
+    "featureLimitTip": "Mangyaring mag-upgrade upang magamit sina Claude at Bard.",
+    "featureUnavailableOnPage": "Ang tampok na ito ay hindi magagamit sa pahinang ito",
+    "featureBrowserLimit": "Dahil sa mga paghihigpit ng browser, hindi available ang feature na ito sa page na ito. Mangyaring baguhin ang isang pahina at subukang muli.",
+    "quotaModelContent": "Naabot na ang iyong limitasyon sa query sa GPT-4/Claude-2. Mag-upgrade sa Premium Plan para sa higit pang access, o mag-imbita ng mga kaibigan para sa mga libreng karagdagang query.",
+    "signinFeature": "Mangyaring mag-sign in upang ma-access ang tampok na ito.",
+    "signinFeature2": "Mangyaring mag-sign in upang ma-access ang tampok na ito",
+    "dragImgTips": "I-click o i-drag ang isang larawan na gusto mong {{name}}",
+    "reEnableInSettings": "Maaari mong muling paganahin sa <a>Mga Setting</a>",
+    "switchBarTip": "Palawakin ang side panel para i-pin ang navigation bar.",
+    "upgradeSupport": "Mag-upgrade sa premium na plano para suportahan kami",
+    "imageSizeLimit": "Limitasyon ng Larawan",
+    "imageSizeLimitTip": "Pakitiyak na ang larawan ay mas maliit sa 10MB at ang lapad o taas nito ay hindi lalampas sa 4096 pixels, pagkatapos ay subukang muli.",
+    "errOpenAIFilter": "Na-filter ang tugon dahil sa mabilisang pag-trigger sa patakaran sa pamamahala ng nilalaman ng OpenAI. Mangyaring baguhin ang iyong prompt at subukang muli."
+  },
+  "options": {
+    "theme": {
+      "auto": "awtomatiko",
+      "light": "maliwanag na mode",
+      "dark": "madilim na mode"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Laging",
+        "desc": "Magtanong sa ChatGPT sa bawat paghahanap"
+      },
+      "questionMark": {
+        "title": "Tandang pananong",
+        "desc": "Tanungin ang ChatGPT kung ang mga keyword ay nagtatapos sa isang tandang pananong (?)"
+      },
+      "manually": {
+        "title": "Manu-manong",
+        "desc": "Magtanong lamang sa ChatGPT kapag na-click mo ang button"
+      }
+    },
+    "sidebarLocation": {
+      "left": "kaliwang bahagi",
+      "right": "kanang bahagi"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Tanungin ang ChatGPT",
+        "template": "Maaari mo bang sabihin sa akin ang tungkol sa {{keywords}}? Kung maaari, maaari mo ba akong bigyan ng ilang mga link tungkol dito? Kung ang {{keywords}} ay isang tanong na may kaugnayan sa code, mangyaring isulat lamang ang code"
+      },
+      "list": {
+        "title": "Mga Keyword sa Mga Tanong",
+        "template": "Maglista ng 1 pinakasikat na tanong tungkol sa \"{{keywords}}\". Pagkatapos, Sagutin ang tanong na ito. Sa wakas, maglista ng isa pang 4 na tanong."
+      },
+      "suggest": {
+        "title": "Kumuha ng mga nauugnay na keyword",
+        "template": "Ang {{keywords}} ay ang aking mga keyword sa paghahanap sa Google. Mangyaring bigyan ako ng 5 set ng mga kaugnay na keyword."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Ibuod",
+        "template": "Ibuod ito para sa isang mag-aaral sa ikalawang baitang:"
+      },
+      "similar-pages": {
+        "title": "Mga katulad na pahina",
+        "template": "Maghanap ng 10 katulad na pahina sa sumusunod na nilalaman na may link:"
+      },
+      "grammar": {
+        "title": "Gramatika",
+        "template": "Iwasto ito sa karaniwang Ingles:"
+      },
+      "explain": {
+        "title": "Ipaliwanag",
+        "template": "Ipaliwanag ang sumusunod na nilalaman:"
+      },
+      "explain-codes": {
+        "title": "Ipaliwanag ang mga Code",
+        "template": "Ipaliwanag ang mga sumusunod na code:"
+      },
+      "rewrite": {
+        "title": "Isulat muli",
+        "template": "Isulat muli ang sumusunod na nilalaman:"
+      },
+      "translate": {
+        "title": "Isalin",
+        "template": "Isalin ang sumusunod na nilalaman sa {{lang}} na wika:"
+      },
+      "qa": {
+        "title": "Q&A",
+        "template": "Sagutin ang tanong na ito:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Libreng Plano",
+    "basic": "Pangunahing Plano",
+    "pro": "Pro Plan",
+    "ultra": "Ultra Plano"
+  },
+  "queryNames": {
+    "fast": "Mabilis na Teksto",
+    "advanced": "Advanced na Teksto",
+    "image": "Imahe"
+  },
+  "upgradeModal": {
+    "desc": "Higit pang mga query at higit pang mga tampok!",
+    "upgradeToUseXXX": "Mag-upgrade Upang Gamitin ang <b>bot</b>",
+    "getWebAccess": "Mag-upgrade para makakuha ng sagot sa web",
+    "gpt4Desc": "Ang GPT-4 ay higit na matalino at makakatulong sa iyo na makakuha ng mas lohikal at tumpak na mga sagot.",
+    "claude2Desc": "Ang Claude-2 ay higit na matalino at makakatulong sa iyo na makakuha ng mas lohikal at tumpak na mga sagot.",
+    "webAccessDesc": "Kinukuha ni Sider ang mga sagot sa iyong mga tanong mula sa Google at gumamit ng AI para sa maigsi na organisasyon at pagbubuod.",
+    "features": {
+      "_0": "<b>Walang limitasyon</b> Mabilis na Mga Query sa Teksto",
+      "0_desc": "Para sa GPT3.5, Bard at Claude Instant",
+      "_1": "<b>Walang limitasyon</b> Mga Advanced na Query sa Teksto",
+      "1_desc": "Para sa GPT4 at Claude V2",
+      "_2": "<b>1000/Mo</b> Mga Query sa Larawan",
+      "2_desc": "Para sa pintor, OCR at Vision"
+    }
+  }
+}

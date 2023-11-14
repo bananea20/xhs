@@ -1,0 +1,263 @@
+[
+  {
+    "t": [
+      "Browsing History",
+      "Important",
+      "Attention",
+      "History",
+      "Settings",
+      "Apps",
+      "Warning",
+      "Private Data At Risk",
+      "Too many records found …",
+      "Safe Browsing"
+    ],
+    "d": "You haven't run a clean up on your browsing history for a while. This could put your private data at risk!",
+    "b": "Review My Browsing History …",
+    "l": "More than VALUE records found!",
+    "u": "clear-browsing-history"
+  }, {
+    "t": [
+      "Private data at risk",
+      "It's Time to Renew!",
+      "Safe Browsing",
+      "Settings",
+      "Important",
+      "You're using an old Chrome version",
+      "Your Chrome is out of date!",
+      "An old version detected!",
+      " Attention ",
+      " Warning "
+    ],
+    "d": "You are using an outdated version of Chrome. This could put your private data at risk!",
+    "b": "Scan for a new version …",
+    "l": "You have version: VALUE",
+    "u": "browser-update-scanner"
+  }, {
+    "t": [
+      "Important",
+      "Security and Privacy",
+      "Important",
+      "Safe Browsing"
+    ],
+    "d": "A new article has been added to the ultimate guide about security and privacy online.",
+    "b": "Adjust Your Privacy …",
+    "u": "privacy-and-security-news"
+  }, {
+    "t": [
+      "New version installed",
+      "Apps",
+      "Extensions",
+      "Components"
+    ],
+    "d": "An updated version of Click&Clean has been installed successfully!",
+    "b": "Show me more details …",
+    "l": "Installed version: EXT_VER",
+    "u": "privacy-and-security-news"
+  }, {
+    "i18": "msg3",
+    "u": "improve-your-google-account-security"
+  }, {
+    "i18": "msg3",
+    "u": "protect-your-privacy-and-security-on-facebook"
+  }, {
+    "i18": "msg3",
+    "u": "make-your-twitter-account-more-secure"
+  }, {
+    "t": [
+      "Security and Privacy",
+      "Privacy and Security",
+      "History"
+    ],
+    "d": "Did you know? You can easily save your browsing history before deleting!",
+    "b": "Save My Browsing History …",
+    "l": "Links are a uniquely portable history…",
+    "u": "how-to-save-your-browsing-history-before-deleting"
+  }, {
+    "t": [
+      "Security and Privacy",
+      "Privacy and Security",
+      "Extensions",
+      "Safe Browsing"
+    ],
+    "d": "You haven't run a scan for unwanted software for a while. This could put your privacy online at risk!",
+    "b": "Scan for Unwanted Software …",
+    "l": "Prevent malware from infecting your browser!",
+    "u": "scan-for-malicious-and-unwanted-apps"
+  }, {
+    "t": [
+      "Internet Privacy",
+      "Apps",
+      "Settings",
+      "Security and Privacy",
+      "Safe Browsing"
+    ],
+    "d": "Are you sure that your private data remain private and secure? Discover more about security and privacy online.",
+    "b": "Security and Privacy …",
+    "u": ""
+  }, {
+    "t": [
+      "Private data at risk",
+      "Security and Privacy",
+      "Your version is out of date",
+      "Apps",
+      "Settings",
+      "Security and Privacy",
+      "Safe Browsing"
+    ],
+    "d": "You are using an outdated version of Click&Clean. This could put your private data at risk!",
+    "b": "Check for a new vesrion …",
+    "l": "You have version: EXT_VER",
+    "u": "how-to-manually-update-extensions"
+  }, {
+    "t": [
+      "Privacy and Security",
+      "Important Test",
+      "The Phishing Test …",
+      "Please take the test …",
+      "Essential Test",
+      "Safe Browsing",
+      "Important"
+    ],
+    "d": "Try the eight-question phishing test and find out if you can spot all the fakes!",
+    "b": "Take the Phishing Test …",
+    "l": "About phishing test …",
+    "u": "how-to-spot-and-avoid-phishing-scams"
+  }, {
+    "t": [
+      "Privacy and Security ",
+      "Control Your Activity",
+      "A new feature found …",
+      "About Your Activity",
+      "Settings",
+      "Safe Browsing",
+      "Important"
+    ],
+    "d": "A new privacy-focused feature available. You can remove your account activity data automatically.",
+    "b": "Manage Your Activity Online …",
+    "l": "About your account activity …",
+    "u": "auto-delete-activity-data-from-your-google-account"
+  }, {
+    "t": [
+      "Secure Your Account ",
+      "Privacy and Security ",
+      "Apps",
+      "Settings",
+      "Safe Browsing"
+    ],
+    "d": "Secure your Microsoft Account by revoking access from untrusted third-party applications.",
+    "b": "CHECK THIRD-PARTY APPS …",
+    "l": "Apps with access to your account …",
+    "u": "how-to-secure-your-microsoft-account"
+  }, {
+    "t": [
+      "Secure Your Account",
+      "LinkedIn Account",
+      "Safe Browsing"
+    ],
+    "d": "Secure your LinkedIn Account by revoking access from untrusted third-party applications.",
+    "b": "CHECK THIRD-PARTY APPS …",
+    "l": "Apps with access to your account …",
+    "u": "protect-your-personal-data-on-linkedin"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Important"
+    ],
+    "d": "Your privacy and security are important! Protect your privacy and secure your personal information.",
+    "b": "ADJUST MY PRIVACY …",
+    "l": "Keep safe while browsing online …",
+    "u": "keep-safe-while-browsing-online"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "The New Feature"
+    ],
+    "d": "Your privacy are important. Increase your online privacy using commands from the context menu.",
+    "b": "ADJUST PRIVACY SETTINGS …",
+    "l": "Keep safe while browsing online!",
+    "u": "security-features-using-the-context-menu"
+  }, {
+    "t": [
+      "Safe Browsing ",
+      "A New Cleaner for Edge"
+    ],
+    "d": "Have you tried Click&ampClean for a new Microsoft Edge? Now is a good time to do it!",
+    "b": "GET CLEANER FOR EDGE …",
+    "l": "It's Free, Fast and Safe!",
+    "u": "how-to-install-and-use-clickclean-with-microsoft-edge-browser"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Secure Your Webcam",
+      "Security Checkup"
+    ],
+    "d": "Prevent malware to access your webcam. Keep spying eyes and ears away.",
+    "b": "SECURE YOUR WEBCAM …",
+    "l": "Keep your webcam safe!",
+    "u": "how-to-keep-your-webcam-secure"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Protect Your Login"
+    ],
+    "d": "Protect your accounts from fraudulent activity. Make your Login data more secure.",
+    "b": "Get the Secure Password …",
+    "l": "About Login data …",
+    "u": "tips-for-creating-secure-and-easy-to-remember-passwords"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Privacy and Security"
+    ],
+    "d": "Review your Smart TV privacy settings. Keep spying eyes and ears away.",
+    "b": "SECURE YOUR SMART TV …",
+    "l": "Keep your Smart TV safe!",
+    "u": "how-to-protect-and-secure-your-smart-tv"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Security and Privacy"
+    ],
+    "d": "Protect your private data. Scan suspicious links for malware without actually clicking them.",
+    "b": "SCAN FILES & LINKS …",
+    "l": "Scan files and links for viruses …",
+    "u": "how-to-check-link-safety-before-clicking-on-it"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Secure Your Wi-Fi"
+    ],
+    "d": "Prevent hackers from stealing your private data at public places!",
+    "b": "SECURE YOUR WI-FI …",
+    "l": "Your network connections …",
+    "u": "how-to-stay-safe-using-public-wi-fi-networks"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Secure Your Phone"
+    ],
+    "d": "Protect your mobile phone privacy. Prevent access to calls, SMS and location data.",
+    "b": "SECURE YOUR PHONE …",
+    "l": "Check what your apps can access …",
+    "u": "protect-your-smartfone-from-spying"
+  }, {
+    "t": [
+      "Safe Browsing",
+      "Scan Your Computer"
+    ],
+    "d": "Happy New Year! Let's begin this year with a fresh, clean start.",
+    "b": "SCAN YOUR COMPUTER …",
+    "l": "Keep your information private",
+    "u": "begin-the-new-year-with-a-fresh-clean-start"
+  }, {
+    "t": [
+      "History Cleaner for Edge!",
+      "Free Cleaner for Edge!"
+    ],
+    "d": "Speed up your computer, protect your privacy online and update outdated software!",
+    "b": "Free Download Now …",
+    "l": "Free Cleaner for Microsoft Edge!",
+    "u": "clickclean-for-microsoft-edge"
+  }
+]

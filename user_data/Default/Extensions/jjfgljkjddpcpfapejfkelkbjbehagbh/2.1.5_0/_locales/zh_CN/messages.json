@@ -1,0 +1,242 @@
+{
+   "Acknowledgment": {
+      "message": "致谢"
+   },
+   "BlackListStr": {
+      "message": "黑名单"
+   },
+   "OverwriteAriaNgRpcWarn": {
+      "message": "RPC设置已更改，同步到AriaNG并覆盖？"
+   },
+   "Reset": {
+      "message": "重置"
+   },
+   "Save": {
+      "message": "保存"
+   },
+   "WebUIOpenStyle1": {
+      "message": "弹窗"
+   },
+   "WebUIOpenStyle2": {
+      "message": "新标签页"
+   },
+   "WebUIOpenStyle3": {
+      "message": "新窗口"
+   },
+   "WebUIOpenStyleStr": {
+      "message": "AriaNG打开方式"
+   },
+   "addToBlackListStr": {
+      "message": "当前网站->黑名单"
+   },
+   "addToWhiteListStr": {
+      "message": "当前网站->白名单"
+   },
+   "allowExternalRequestDes": {
+      "message": "接受来自其他扩展的下载请求"
+   },
+   "allowNotificationDes": {
+      "message": "任务状态通知"
+   },
+   "allowedExtsPlaceholderDes": {
+      "message": "设置需要拦截的文件扩展名，\n每行一个扩展名，* 代表所有。\n（白名单优先）"
+   },
+   "allowedSitesPlaceholderDes": {
+      "message": "设置需要拦截的域名，每行一个网站，支持正则表达式。\n（白名单优先）"
+   },
+   "appName": {
+      "message": "Aria2 Explorer"
+   },
+   "askBeforeDownloadDes": {
+      "message": "自动下载前询问参数设置"
+   },
+   "askBeforeExportDes": {
+      "message": "导出前询问详细参数设置"
+   },
+   "blockedExtsPlaceholderDes": {
+      "message": "设置不需要拦截的文件扩展名，\n每行一个扩展名，* 代表所有。"
+   },
+   "blockedSitesPlaceholderDes": {
+      "message": "设置不需要拦截的域名，每行一个网站，支持正则表达式。"
+   },
+   "captureMagnetDes": {
+      "message": "拦截磁力链接"
+   },
+   "captureMagnetWarn": {
+      "message": "系统级拦截，卸载前请确保关闭"
+   },
+   "configCloudSync": {
+      "message": "配置云端同步"
+   },
+   "configCloudSyncDes": {
+      "message": "同步AriaNG和扩展配置到当前浏览器登陆的账号"
+   },
+   "configPageTitle": {
+      "message": "扩展配置页面"
+   },
+   "connected": {
+      "message": "已连接"
+   },
+   "contextmenuDes": {
+      "message": "右键导出下载"
+   },
+   "contextmenuStr": {
+      "message": "右键菜单"
+   },
+   "contextmenuTitle": {
+      "message": "导出到 "
+   },
+   "description": {
+      "message": "让Aria2无缝接管下载，加速下载体验，内置Aria2前端，任务管理更方便。"
+   },
+   "disconnected": {
+      "message": "已断开"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "downloadCaptureDes": {
+      "message": "自动拦截下载任务到Aria2，当文件大小"
+   },
+   "downloadCaptureStr": {
+      "message": "下载拦截"
+   },
+   "downloadComplete": {
+      "message": "$rpcName$ 下载完成",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadConfigFailed": {
+      "message": "下载配置失败：云端数据无效或无网络连接"
+   },
+   "downloadConfigSucceed": {
+      "message": "下载配置成功"
+   },
+   "downloadError": {
+      "message": "$rpcName$ 下载出错",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadStart": {
+      "message": "$rpcName$ 下载开始",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "exportAllDes": {
+      "message": "导出所有链接"
+   },
+   "exportAllFailedDes": {
+      "message": "没有找到有效的下载链接。"
+   },
+   "exportFailedDes": {
+      "message": "$rpcName$ 无法开始下载！",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportFailedStr": {
+      "message": "导出失败"
+   },
+   "exportSucceedDes": {
+      "message": "$rpcName$ 已经开始下载。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportSucceedStr": {
+      "message": "导出成功"
+   },
+   "fileExtStr": {
+      "message": "扩展名"
+   },
+   "finish": {
+      "message": "结束"
+   },
+   "keepAwakeDes": {
+      "message": "下载时保持系统唤醒"
+   },
+   "keepSilentDes": {
+      "message": "保持通知静音"
+   },
+   "monitorAllDes": {
+      "message": "监测所有Aria2"
+   },
+   "monitorAllTips": {
+      "message": "当设置了多个Aria2时，监测所有Aria2状态，并聚合显示监测结果。"
+   },
+   "monitorAria2Des": {
+      "message": "监测Aria2下载状态"
+   },
+   "monitorAria2Str": {
+      "message": "监测Aria2状态"
+   },
+   "openWebUIStr": {
+      "message": "打开AriaNG"
+   },
+   "removeFromBlackListStr": {
+      "message": "移出黑名单"
+   },
+   "removeFromWhiteListStr": {
+      "message": "移出白名单"
+   },
+   "review": {
+      "message": "评分"
+   },
+   "reviewDes": {
+      "message": "为我们评分！"
+   },
+   "selectDefaultRpcStr": {
+      "message": "默认Aria2"
+   },
+   "startAria2Str": {
+      "message": "启动Aria2"
+   },
+   "taskNotification": {
+      "message": "任务通知"
+   },
+   "toggleCapture": {
+      "message": "开关下载自动拦截"
+   },
+   "upload": {
+      "message": "上传"
+   },
+   "uploadConfigFailed": {
+      "message": "上传配置失败: "
+   },
+   "uploadConfigSucceed": {
+      "message": "上传配置成功"
+   },
+   "uploadConfigWarn": {
+      "message": "本地配置为空或无效，仍然继续？"
+   },
+   "wait": {
+      "message": "等待"
+   },
+   "websiteFilterStr": {
+      "message": "网站过滤"
+   },
+   "websiteStr": {
+      "message": "网站"
+   },
+   "whiteListStr": {
+      "message": "白名单"
+   }
+}

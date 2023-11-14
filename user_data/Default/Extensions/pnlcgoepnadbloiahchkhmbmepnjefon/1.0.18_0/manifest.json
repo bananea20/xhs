@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "./js/background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "./js/content_script.js" ],
+      "matches": [ "*://*.1.com/*", "*://*.2.com/*", "*://*.3.com/*", "*://*.4.com/*", "*://*.5.com/*", "*://*.6.com/*", "*://*.7.com/*", "*://*.baidu.com/*", "*://*.weibo.com/*", "*://*.qq.com/*", "*://*.taobao.com/*", "*://*.tmall.com/*", "*://*.jd.com/*", "*://*.suning.com/*", "*://*.vip.com/*", "*://*.bilibili.com/*" ]
+   } ],
+   "description": "安装之后播放页最左边会多出一个下载按钮，点击就能下载",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy43VxgVJr0jFjYzSqiKZSlbS548spNRyHppcIrulr2g9Bc4RPZGDy8n/xMj4NkUHP1bLg5DgSxFJegrt4afGw4jBPGUWUEGdAA1XNldvs2mmx8moyd0hbR+rRje6SnmDzg8L9Bob4tmyGX4zN4RNEgSyLq87fEPRhlQ6+XM8YvM8C2y1U45d9k8iHULmfqcQm71aL6aO6s8BIY86zOhFbu4qAcJjzKdbafP3HH+z9TBu2TlXAE5tUTtebyX2DMAgqs6TBPwBpkzllsf+zv4MAy89JmOKQZx5mRfB9X/oIB5WoybVZrK5HbhVED+pU/on3N8/YuWtwTN061TtJmJhIQIDAQAB",
+   "manifest_version": 2,
+   "name": "B站视频下载",
+   "page_action": {
+      "default_icon": "icon.png"
+   },
+   "permissions": [ "storage", "*://*.1.com/*", "*://*.2.com/*", "*://*.3.com/*", "*://*.4.com/*", "*://*.5.com/*", "*://*.6.com/*", "*://*.7.com/*", "*://*.baidu.com/*", "*://*.weibo.com/*", "*://*.qq.com/*", "*://*.taobao.com/*", "*://*.tmall.com/*", "*://*.jd.com/*", "*://*.suning.com/*", "*://*.vip.com/*", "*://*.bilibili.com/*" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.0.18",
+   "web_accessible_resources": [ "js/page.js" ]
+}

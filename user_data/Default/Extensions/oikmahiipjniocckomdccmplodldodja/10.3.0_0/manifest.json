@@ -1,0 +1,89 @@
+{
+   "background": {
+      "scripts": [ "917.js", "251.js", "805.js", "823.js", "659.js", "426.js", "204.js", "885.js", "b.js" ]
+   },
+   "browser_action": {
+      "default_icon": "logodark.png",
+      "default_popup": "popup.html"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Q",
+            "mac": "MacCtrl+Q"
+         }
+      },
+      "hoverTranslate": {
+         "description": "__MSG_commonds_hoverTranslate__"
+      },
+      "page": {
+         "description": "__MSG_commonds_page__"
+      },
+      "pageSwitchMode": {
+         "description": "__MSG_commonds_pageSwitchMode__"
+      },
+      "panel": {
+         "description": "__MSG_commonds_panel__",
+         "global": true,
+         "suggested_key": {
+            "default": "Ctrl+Shift+1"
+         }
+      },
+      "play": {
+         "description": "__MSG_commonds_play__"
+      },
+      "screenshot": {
+         "description": "__MSG_commonds_screenshot__"
+      },
+      "switchWeb": {
+         "description": "__MSG_commonds_switchWeb__"
+      },
+      "translate": {
+         "description": "__MSG_commands_translate__",
+         "suggested_key": {
+            "default": "Alt+A"
+         }
+      },
+      "translateWithPopup": {
+         "description": "__MSG_commonds_translateWithPopup__",
+         "suggested_key": {
+            "default": "Alt+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "917.js", "251.js", "692.js", "369.js", "805.js", "664.js", "501.js", "100.js", "426.js", "523.js", "508.js", "885.js", "704.js", "68.js", "26.js", "c.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "917.js", "251.js", "805.js", "361.js", "426.js", "523.js", "204.js", "68.js", "ca.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'wasm-eval'; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_description__",
+   "homepage_url": "https://hcfy.app",
+   "icons": {
+      "128": "logodark.png",
+      "16": "logodark.png",
+      "48": "logodark.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmRH4nZp6/coE4NmhrNnMcXT11F9t84OJbdRzoUhemNbgxlmZdNtk9SnoGDOVtNVY8nvE1/aiMdTp9MV8Ymgf4qTpIizzdWDgMx+KlrJH44FfpxoLWabaZLioIft+w4VnH6Jc9/tkXn8aX2QxXRHP0DLJJjCp9J8ba3MiiMGPBD0AIDr5/OCXcfrVTXAmjwhjBE3qbVoRxL4ouq3wCu73Z+kUpLSl0WxI2LElLXW85mh2H5CfSrSe5ORLZtLiWA7y5A2BQ6eZ/vpLshvr8FxcPjkY05lYFmrtHJCkWdJU9V0yhfdlJqFqMpPkgSqf9BjAZSCfE3V+BQT6c9L8+bcQHQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "omnibox": {
+      "keyword": "hcfy"
+   },
+   "optional_permissions": [ "notifications", "background" ],
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "settings.html"
+   },
+   "permissions": [ "\u003Call_urls>", "contextMenus", "storage", "clipboardWrite", "clipboardRead", "webRequest", "webRequestBlocking", "alarms" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "10.3.0",
+   "web_accessible_resources": [ "normalize.css", "cropper.css", "blueprint.css", "blueprint-select.css", "youdao.ico", "hs.png", "baidu.ico", "google.ico", "deepl.png", "alilogo.png", "bing.ico", "qq.ico", "sogou.ico", "xiaoyilogo.png", "chatgpt.jpg", "yandex.png", "logo.png", "logodark.png", "logowhite36.png", "pdf-viewer/*", "panel.html", "917.js", "251.js", "692.js", "369.js", "426.js", "523.js", "508.js", "204.js", "885.js", "704.js", "23.js", "pn.css", "pn.js" ]
+}

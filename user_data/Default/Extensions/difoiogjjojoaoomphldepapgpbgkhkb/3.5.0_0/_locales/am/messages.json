@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "በማንኛውም ገጽ ላይ እንደ የእርስዎ AI ረዳት ሆነው ጂፒቲ የጎን አሞሌን ይወያዩ"
+   },
+   "appDescEdge": {
+      "message": "Sider -- AI የጎን አሞሌ በChatGPT of OpenAI የተጎላበተ"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

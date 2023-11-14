@@ -1,0 +1,19 @@
+{
+   "edgeWorkspaceCacheVersion": 1,
+   "workspaces": [ {
+      "accent": false,
+      "active": false,
+      "color": 0,
+      "connectionUrl": "https://home.microsoftpersonalcontent.com/contentstorage/6CznihN3v0uy1zK5FrRCbw67b674b23d8e173aworkspaces?driveId=b!pyQnnBAsWEmsfXJ-Qkitl-l8-bboqj1Ci7vrQOMKgiY227w3iwQ_QL1xVoKpEdt9&itemId=01JBOFBP5HKE62UXDVKBHZVIBME4I5JJWL&path=",
+      "count": 1,
+      "edgeWorkspaceVersion": 2,
+      "id": "a35c34fd-080b-41b2-90cb-ab7ae7ab5afd",
+      "invitee_list": [  ],
+      "isOwner": true,
+      "isolated": false,
+      "menuSubtitle": "1 个选项卡",
+      "name": "Workspace 1",
+      "shared": false,
+      "workspaceFluidStatus": 0
+   } ]
+}

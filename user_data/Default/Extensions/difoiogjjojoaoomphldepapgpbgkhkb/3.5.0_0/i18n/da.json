@@ -1,0 +1,907 @@
+{
+  "sidebar": "Sidebjælke",
+  "shortcut": "Genvejstast",
+  "ask": "Spørg",
+  "save": "Gem det",
+  "saved": "Gemt",
+  "delete": "Slet",
+  "remove": "Fjerne",
+  "cancel": "Afbestille",
+  "stop": "Hold op",
+  "insert": "Indsæt",
+  "replace": "Erstatte",
+  "ok": "Okay",
+  "submit": "Indsend",
+  "attention": "Varsel",
+  "send": "Sende",
+  "copy": "Kopi",
+  "copied": "Kopieret",
+  "clear": "Klar",
+  "quote": "Citere",
+  "collapse": "Skjul sidebjælken",
+  "done": "Færdig",
+  "manage": "Styre",
+  "template": "skabelon",
+  "edit": "Redigere",
+  "add": "Tilføje",
+  "feedback": "Feedback",
+  "tweetit": "Tweete",
+  "fullPageChat": "Chat på fuld side",
+  "whatNew": "Nyheder",
+  "gotIt": "Forstået",
+  "settings": "Indstillinger",
+  "signin": "Log ind",
+  "signinNow": "Log ind nu",
+  "unlimited": "Ubegrænset",
+  "share": "Del",
+  "myChats": "Mine chats",
+  "general": "Generel konfiguration",
+  "archive": "arkiv",
+  "unarchive": "afarkivere",
+  "searchPage": "Søgeside",
+  "addons": "Tilføjelser",
+  "webStore": "Webbutik",
+  "webApp": "Web App",
+  "webAccess": "Webadgang",
+  "upgradeNow": "Opgrader nu",
+  "upgrade": "Opgrader",
+  "language": "Sprog",
+  "theme": "Tema",
+  "sendShortcut": "Send genvej",
+  "model": "Model",
+  "version": "Version",
+  "more": "Mere",
+  "listen": "Hør efter",
+  "skip": "Springe",
+  "vote": "Stemme",
+  "invite": "Invitere",
+  "hide": "Skjule",
+  "pin": "pin op",
+  "unpin": "løsne",
+  "showMore": "Vis mere",
+  "editTitle": "Rediger titel",
+  "summarize": "Sammenfatte",
+  "summarizing": "Opsummerende",
+  "answering": "Svarer",
+  "productivity": "Produktivitet",
+  "modelUpdateSuccess": "Modellen blev opdateret",
+  "modelUpdateFailed": "Modellen blev ikke opdateret",
+  "customPrompt": "Brugerdefineret prompt",
+  "currentTpl": "Nuværende skabelon:",
+  "current": "Nuværende",
+  "extra": "ekstra",
+  "editTpl": "Rediger denne skabelon",
+  "delteTpl": "Slet denne skabelon",
+  "restoreTpl": "Gendan denne skabelon",
+  "archiveTpl": "Arkiver denne skabelon",
+  "showTpl": "Vis denne skabelon",
+  "prompts": "Spørger",
+  "imageRetryTip": "Upload fejlede. Klik for at prøve igen.",
+  "mentionBot": "Nævn Bot",
+  "promptName": "Spørgsmålsnavn",
+  "promptContent": "Spørg indhold",
+  "contactUs": "Kontakt os",
+  "webAssistant": "Webassistent",
+  "quickAction": "Kontekstmenu",
+  "promptManage": "Spørg manager",
+  "issueType": "Problemtype",
+  "pinExt": "Pin forlængelse",
+  "yourEmailAddress": "Din email adresse",
+  "troubleshooting": "Fejlfinding",
+  "openSidebar": "Åbn sidepanelet",
+  "pasteSelection": "Indsæt markering",
+  "pasteTextPage": "Indsæt tekst fra side",
+  "getAnotherKey": "Få en anden nøgle",
+  "showSearchPanel": "Vis søgepanel",
+  "getItNow": "Hent den nu",
+  "notNow": "Ikke nu",
+  "alwaysDisplay": "Vis altid",
+  "queries": "Forespørgsler",
+  "total": "Total",
+  "getMore": "få mere",
+  "goPremium": "opgradere til premium",
+  "goPremiumGetMore": "opgrader til premium for at få mere",
+  "myAccount": "Min konto",
+  "clickToAsk": "Klik for at spørge",
+  "searchingFor": "Leder efter:",
+  "searchedFor": "Ledte efter:",
+  "using": "Ved brug af",
+  "used": "Brugt",
+  "switchAndContinue": "Skift og fortsæt",
+  "ExtractText": "Udtræk tekst fra billedet",
+  "describleImage": "Beskriv dette billede",
+  "pricePerDay": "Mindre end {{num}}/dag",
+  "readingAssistant": "Læseassistent",
+  "writingAssistant": "Skriveassistent",
+  "moreQueries": "Flere forespørgsler!",
+  "newPlan": "Ny plan!",
+  "all": "Alle",
+  "success": "Succes",
+  "usedIn": "Brugt i",
+  "check": "Kontrollere",
+  "example": "Eksempel",
+  "ChangeTone": "Skift tone",
+  "screenshot": "Skærmbillede",
+  "uploadImage": "Upload et billede",
+  "hideImage": "Skjul billede",
+  "showImage": "Vis billede",
+  "fullscreen": "Fuld skærm",
+  "OR": "ELLER",
+  "refresh": "Opdater",
+  "phoneNumber": "Telefonnummer",
+  "recognizing": "Genkendende",
+  "result": "Resultat",
+  "describeImage": "Beskriv dette billede",
+  "inviteFriendTip": "<a>Inviter venner</a> for at få ekstra forespørgsler",
+  "resetTime": "Nulstil <a>3. august 2023</a>",
+  "imageQuoteTipTitle": "Spørg billedet igen? Du skal citere billedet",
+  "imageQuoteTipContent": "Hvis du vil spørge om billedet igen, skal du blot citere det.",
+  "ocrEmptyMsg": "Beklager, jeg kan ikke finde tekst i dette billede.",
+  "imageInputHint": "Stil spørgsmål om dette billede",
+  "popupPage": {
+    "thank": "Tak, fordi du bruger {{APP_NAME}}-udvidelsen!",
+    "desc": "Den aktuelle side er en unik side, og sidebjælkefunktionen er ikke tilgængelig. Du kan dog åbne en hel side for at chatte!",
+    "chatNow": "Chat nu"
+  },
+  "setupPage": {
+    "loginSuccess": "Login lykkedes",
+    "welcome": "Velkommen til {{APP_NAME}}!",
+    "loginWith": "Log ind med {{name}}",
+    "pinTips": "<b>Fastgør {{APP_NAME}}</b>, nemmere adgang!",
+    "pinClickTip": "Klik på {{icon}} for at fastgøre {{APP_NAME}}",
+    "next": "Næste",
+    "pinGuideDesc": "For at gøre det nemmere at få adgang til udvidelsen skal du lade den forblive fastgjort ved at følge trinene nedenfor.\n1. Klik på puslespilsikonet <b>IKON</b> ud for din profilavatar.\n2. Find {{APP_NAME}} i rullemenuen.\n3. Klik på knappenålsikonet, indtil det bliver blåt.",
+    "signInGuideTitle": "Log ind nu for at låse op for følgende:",
+    "signInGuideStep1": "Synkroniser udvidelsesindstillinger på tværs af computere",
+    "signInGuideStep2": "Få adgang til dine prompter fra forskellige bærbare computere",
+    "signInGuideStep3": "Gem chats til fremtidig brug",
+    "signInGuideStep4": "Del chats via link",
+    "welcomeGuide": "Velkommen til {{APP_NAME}}",
+    "step1Label": "første skridt",
+    "step2Label": "andet trin",
+    "tryOut": "prøve det"
+  },
+  "getKeyPage": {
+    "welcome": "Velkommen til {{APP_NAME}}! Her er din rejse at begynde:",
+    "stepTitle": "Sådan får du en API-nøgle.",
+    "step1": "Trin 1: Hent API-nøgle",
+    "step1-1": "<i>Log på din OpenAI-konto</i> Hvis du ikke har en konto, skal du tilmelde dig <b>HER</b>",
+    "step1-2": "Besøg OpenAI API Key-siden",
+    "step1-3": "Opret en ny hemmelig nøgle og kopier den som følger",
+    "step2": "Trin 2: Indsæt API-nøgle i boksen nedenfor",
+    "step2-tips": "Bare rolig. Din API-nøgle bruges kun lokalt i ChatGPT-udvidelsen. Brug af API er mere stabilt end direkte brug af ChatGPT.",
+    "step3": "Trin 3: Tjek dine kreditter <i>her</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Sådan får du adgang til ChatGPT og bruger det hvor som helst",
+    "howToAccessTip": "For at sikre, at AI er tilgængelig for alle, tilbyder vi 3 måder at få adgang til ChatGPT og bruge det hvor som helst.",
+    "recommend4all": "(Anbefales til alle)",
+    "sidebarProvider": "Sidebjælken bruger ChatGPT Premium API til at sikre stabil adgang.",
+    "sidebarProviderGoPremium": "Vi tilbyder {{num}} gratis daglige forespørgsler for at garantere AI-tilgængelighed for alle. <a>Opgrader til premium</a> for at øge din daglige forespørgselsgrænse og understøtte vores mission om at <b>levere Universal AI til alle</b>.",
+    "webappProvider": "API'en, der driver ChatGPT-webappen, er gratis, men den kan til tider være ustabil.",
+    "webappGPT4": "(ChatGPT Plus-brugere kan prøve det)",
+    "webappTip1": "Hvis du er en ChatGPT Plus-bruger, har du nu mulighed for at vælge GPT-4. OpenAI kan dog begrænse antallet af beskeder, du kan sende pr. dag.",
+    "webappTip2": "Venligst <m>Fastgør fanen ChatGPT</m> og forbliv logget ind på ChatGPT-webstedet. Dette garanterer dog muligvis ikke stabilitet. Hvis du støder på problemer, skal du besøge <v>ChatGPT-webstedet </v>og opdatere siden.",
+    "GPT4Desc": "Du skal forblive logget ind på din ChatGPT-konto på hjemmesiden. Stabilitet kan være inkonsekvent for både Plus-brugere og gratisbrugere på grund af OpenAIs begrænsning.",
+    "apiKeyProviderTip": "(For udviklere med API-nøgle)",
+    "apiKeyProvider": "Den officielle OpenAI API er mere stabil, og afgifter er baseret på brug.",
+    "apiKeyLocally": "Din API-nøgle gemmes lokalt i din browser og sendes aldrig andre steder.",
+    "ownURL": "Brug min egen URL",
+    "apiKeyTip1": "Din gratis OpenAI API-nøgle er muligvis udløbet. Venligst <a>tjek API-nøglens udløbsstatus her.</a>",
+    "apiKeyTip2": "Hvis du bruger den gratis OpenAI API-nøgle, er adgangen til ChatGPT muligvis ikke stabil, når den oplever stor efterspørgsel.",
+    "apiFreeGuide": "Følg vejledningen for at få API-nøglen.",
+    "apiKeyGpt4Tip": "Udvidelsen understøtter GPT-4, hvis du indtaster en GPT-4 API-nøgle.",
+    "displaySearchRes": "Vis ChatGPT-svar sammen med søgeresultatsider",
+    "whenToAsk": "Hvornår skal man spørge ChatGPT",
+    "promptTplForSearch": "Spørg skabelon til Google og andre søgemaskiner",
+    "addNewTplForSearch": "Tilføj en ny promptskabelon",
+    "launchSidebar": "Start sidebjælken",
+    "sidebarLocation": "Sidebjælkeplacering",
+    "sidebarLeftOrRight": "Placer sidebjælken på venstre eller højre side",
+    "sidebarDisplayOption": "Sidebjælkevisningstilstand",
+    "sidebarDisplayOptionTip": "Vælg, hvordan sidebjælken skal vises på siden",
+    "sidebarDisplayOptions": {
+      "overlay": "Overlejring",
+      "expand": "Udvider"
+    },
+    "sidebarIcon": "Sidebar-ikon",
+    "sidebarIconAccess": "Få adgang til sidebjælken via ikonet i nederste højre hjørne af siden. Du kan trække for at flytte den op og ned",
+    "easiestWayUse": "Den nemmeste måde at bruge {{APP_NAME}}",
+    "displayWhenSelect": "Vises, når tekst er valgt",
+    "promptTplForSidebar": "Spørg skabelon til sidebjælke",
+    "dragSidebarTpl": "Træk og slip for at omarrangere skabelonen ELLER arkivere dem, du ikke vil bruge",
+    "addNewTplForSidebar": "Tilføj ny promptskabelon",
+    "editSearchTplTip": "brug {{keywords}} til at henvise til dine søgeord",
+    "editSearchTplPlaceholder": "{{keywords}} i promptens indhold vil automatisk blive erstattet med dine søgeord",
+    "editSidebarTplTip": "Indsæt eller indtast indhold her",
+    "showOnList": "Vis på listen",
+    "translatorNavTitle": "Hurtigt opslag",
+    "translatorTitle": "Hurtigt opslagsvindue",
+    "translatorFabTitle": "Hurtigt opslag-ikon",
+    "translatorFabDesc": "Få adgang til hurtigopslagsvinduet via ikonet.",
+    "translatorFabToggleLabel": "Vises, når tekst er valgt",
+    "translatorTplTitle": "Spørg skabelon til popup-vindue",
+    "translatorTplDesc": "Den første hovedskabelon vil blive brugt som standardkommando for popup-vinduet.",
+    "translatorPrimaryTemplates": "Hovedskabeloner",
+    "translatorTemplatesNotes": "*Denne popup deler de samme skabeloner med sidebjælken. Hvis du har brug for at redigere eller tilføje en skabelon, bedes du ændre den i <b>sidebjælkeindstillingerne</b>.",
+    "translatorIntroTitle": "🤔 Hvad er Quick Lookup?",
+    "translatorIntroDesc": "Hurtigt opslag er en hurtig handling fra {{APP_NAME}}, der giver en række nyttige værktøjer.\n\nDet vises med det samme, når du vælger tekst. Med blot et enkelt klik kan du hurtigt oversætte tekster, omskrive dem, få forklaringer og meget mere. Derudover er du i stand til at omarrangere rækkefølgen af værktøjerne og tilpasse dine egne prompter.\n\nFor at aktivere {{APP_NAME}} skal du blot klikke på ikonet Hurtigt opslag.",
+    "translatorHostFabConfigLabel": "Liste over websteder, hvor Hurtigt opslag er deaktiveret",
+    "translatorShortcutLabel": "Genvejstast til hurtigt opslag",
+    "quickAction": {
+      "shortcutDesc": "Aktiver {{name}} via genvej",
+      "customPromptMenu": "Tilpas prompt til denne menu",
+      "readTitle": "Genvejsmenu til læsning",
+      "selectionDesc": "Vis menuen, når du vælger en tekst",
+      "diabledSite": "Liste over websteder, hvor denne funktion er deaktiveret",
+      "writeTitle": "Genvejsmenu til skrivning (inputboks)",
+      "writeInputIconTitle": "Indtastningsfeltikon",
+      "writeInputIconDesc": "Vis skriveassistentikonet i enhver inputboks",
+      "triggerKeyword": "Udløs søgeord",
+      "triggerKeywordDesc": "Aktiver {{name}} i alle tekstinput via søgeord",
+      "whatisQuickAction": "🤔 Hvad er {{name}}?",
+      "quickActionDesc": "{{name}} er en samling af værdifulde værktøjer, der er let tilgængelige, når du vælger tekst eller bruger en genvejstast. Med et enkelt klik kan du hurtigt forbedre din læsning eller skrivning. Derudover kan du aktivere promptindtastningsfeltet for at hjælpe dig med at opfylde dine specifikke krav, mens du læser eller skriver. Dette inkluderer opgaver som at lave en disposition for et emne, brainstorme ideer og omskrive afsnit."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "YouTube-videooversigt",
+        "desc": "Når aktiveret, kan {{APP_NAME}} hjælpe dig med at opsummere YouTube-videoer"
+      },
+      "webpage": {
+        "title": "Websideoversigt",
+        "desc": "Når aktiveret, kan {{APP_NAME}} hjælpe dig med at opsummere artikler på websiden"
+      },
+      "qa": {
+        "title": "Q&A assistent",
+        "desc": "Når den er aktiveret, kan {{APP_NAME}} besvare spørgsmålet på Quora, StackOverflow og andre QA-websteder"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Ny prompt",
+      "editPrompt": "Rediger prompt",
+      "checkPrompt": "Tjek Spørg",
+      "archiveTips": "Arkiverede meddelelser vises ikke i scenarier, men kan søges",
+      "dragTips": "Træk og slip for at omarrangere prompten ELLER arkiver dem, du ikke vil bruge i det tilsvarende scenarie",
+      "howToWritePrompt": "Hvordan man skriver prompt",
+      "howToVarTitle": "Hvilke variabler kan inkluderes i prompten?",
+      "howToVar1": "Du kan bruge denne variabel til at repræsentere input eller valgt indhold. Hvis prompten ikke inkluderer denne variabel, vil inputtet eller det valgte indhold blive omgivet af tredobbelte anførselstegn og placeret i slutningen af prompten.",
+      "howToVar2": "Du kan bruge denne variabel til at repræsentere det sprog, du ønsker at bruge til output, baseret på standardsproget angivet i indstillingerne.",
+      "howToExample": "Brug venligst følgende emner eller nøgleord til at generere en disposition, der inkluderer titler, kapitler og underafsnit.\nUdskriv det i Markdown-format. Giv mig kun output og intet andet. Omridset skal være på {{lang}} sprog.\nEmner eller søgeord: {{content}}",
+      "clickToExpand": "Klik for at udvide",
+      "clickToHide": "Klik for at skjule"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Problemrapport",
+        "title": {
+          "label": "Problemoversigt",
+          "tip": "Fortæl os med et par ord, hvad der gik galt."
+        },
+        "detail": {
+          "label": "Problemdetaljer",
+          "tip": "Beskriv venligst i detaljer, hvad der gik galt, eventuelle handlinger, du foretog, og fejlmeddelelser, du fik."
+        }
+      },
+      "fr": {
+        "name": "Funktionsanmodning",
+        "title": {
+          "label": "Titel",
+          "tip": "Hvad handler din anmodning om?"
+        },
+        "detail": {
+          "label": "Beskrivelse",
+          "tip": "Angiv en detaljeret beskrivelse af den nye funktion, du ønsker."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Spørg ChatGPT:",
+    "savePrompt": "Gem prompt",
+    "saveNewPrompt": "Gem som en ny prompt",
+    "replacePrompt": "Udskift prompten",
+    "inputPlaceholder1": "Indtast prompt eller vælg fra menuen",
+    "inputPlaceholder2": "Indsæt eller indtast indhold her",
+    "startNewLine": "Tryk på {{shortcut}} for at starte en ny linje",
+    "inputPlaceholderCodes": "Indsæt eller indtast koder her",
+    "inputPlaceholderQA": "Indsæt eller indtast spørgsmål her",
+    "pressToSubmit": "Tryk på {{key}} for at sende",
+    "response": "Respons:",
+    "stopGenerating": "Stop med at generere",
+    "regenerate": "Gendan respons",
+    "askTabLabel": "Spørg",
+    "chatTabLabel": "Snak",
+    "composeTabLabel": "Skrive",
+    "ocrTabLabel": "OCR",
+    "grammarTabLabel": "Grammatik",
+    "queryLeft": "{{num}} forespørgsler tilbage",
+    "queryLeft2": "{{num}} tilbage",
+    "freePlan": "Gratis plan",
+    "premiumPlan": "Premium-plan",
+    "extraQuota": "Ekstra kvote",
+    "submitOption": "Indsend mulighed",
+    "painterLabel": "Maler"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Meget hurtig, fantastisk til de fleste hverdagsopgaver.",
+    "gpt-4": "Mest dygtig model, bedst til komplekse opgaver, der kræver avanceret ræsonnement.",
+    "claude-instant": "Grundmodellen fra Anthropic, brugssager med lav latens, høj gennemløb.",
+    "claude2": "Klassens bedste tilbudsmodel fra Anthropic, overlegen ydeevne på opgaver, der kræver kompleks begrundelse.",
+    "bard": "Modellen fra Google (PaLM 2), klarer sig godt i avancerede ræsonnementopgaver."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Pris <m>1 hurtig tekstforespørgsel</m>.",
+    "gpt-4": "Pris <m>1 avanceret tekstforespørgsel</m>."
+  },
+  "sidebarChatPanel": {
+    "newChat": "Ny chat",
+    "chatHistory": "Historie",
+    "inputPlaceholder": "Skriv en besked...",
+    "send": "Sende",
+    "feedback": "Feedback",
+    "share": "Del",
+    "deleteConfirmTitle": "Vil du slette denne samtale?",
+    "deleteConfirmContent": "Denne handling kan ikke fortrydes.",
+    "compareWeb": "Sammenlign svar fra nettet",
+    "improveWithXXX": "Få et smartere svar fra <b>Bot</b>",
+    "improveWithXXX2": "Få et omfattende svar fra <b>Bot</b>",
+    "compareWithXXX": "Sammenlign svar fra <b>Bot</b>",
+    "improveWithSearch": "Få websvar fra Google",
+    "improveWithBoth": "Organiser Google Answers med GPT-4",
+    "answerWithoutSearching": "Sammenlign svar fra original <b>Bot</b>",
+    "screenshot": "Skærmbillede",
+    "upload": "Upload",
+    "addImage": "Tilføj et billede",
+    "welcomeQues": [
+      {
+        "title": "🤔 Forklar et komplekst koncept",
+        "ques": "Fortæl mig noget om Big Bang, så jeg kan forklare det til mit 5-årige barn"
+      },
+      {
+        "title": "🧠 Brainstorm hidtil usete ideer",
+        "ques": "Giv mig venligst 10 gaveideer til min vens fødselsdag"
+      },
+      {
+        "title": "💭 Få fængende titler med det samme",
+        "ques": "Generer fem iørefaldende titler til mit forfatterskab om brugen af ChatGPT"
+      }
+    ],
+    "textSelectedTip": "Tekst fra dit valg",
+    "ocrTextTip": "{{name}} Resultat",
+    "textSelectedSystemMsg": "Hvad vil du gerne med teksten?",
+    "welcomeSystemMsg": "Hej! Hvordan kan jeg hjælpe dig i dag?",
+    "chatActionTranslate": "Oversæt til {{lang}}",
+    "addAPrompt": "Tilføj en prompt",
+    "search": "Søg",
+    "continueInChat": "Fortsæt i chatten",
+    "userStopTip": "Brugeren annullerede anmodningen.",
+    "noChatHistory": "Ingen chathistorik endnu.",
+    "noSearchHistory": "Ingen resultater fundet.",
+    "webAccessModalTitle": "{{APP_NAME}} giver ChatGPT adgang til internettet!",
+    "webAccessModalContent": "Husk, at ChatGPT har en vidensgrænse i 2021! Men {{APP_NAME}} kombinerer den sofistikerede intelligens fra ChatGPT med webinformation i realtid. Denne funktion kræver en betydelig mængde tokens, så overvej at opgradere for at støtte vores indsats!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Skriv",
+    "reply": "Svar",
+    "writePlaceholder": "Det emne, du vil skrive",
+    "replyPlaceholder1": "Den originale tekst, som du vil svare på",
+    "replyPlaceholder2": "Det generelle indhold af dit svar på ovenstående tekst",
+    "submitShortcut": "Tryk på {{shortcut}} for at generere kladde",
+    "generate": "Generer kladde",
+    "format": "Format",
+    "email": "E-mail",
+    "idea": "Ide",
+    "outline": "Omrids",
+    "essay": "Historie",
+    "paragraph": "Afsnit",
+    "blog": "Blogindlæg",
+    "ads": "Marketing annoncer",
+    "twitter": "Twitter",
+    "comment": "Kommentar",
+    "message": "Besked",
+    "tone": "Tone",
+    "professional": "Professionel",
+    "formal": "Formel",
+    "casual": "Afslappet",
+    "enthusiastic": "Entusiastisk",
+    "informational": "Oplysende",
+    "funny": "Sjov",
+    "length": "Længde",
+    "short": "Kort",
+    "medium": "Medium",
+    "long": "Lang",
+    "preview": "Forhåndsvisning",
+    "regenerate": "Regenerer",
+    "addToSite": "Tilføj til websted",
+    "addToSiteTip": "Placer din musemarkør i det ønskede inputfelt og klik på '{{name}}' for at indsætte"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Ret fejl",
+    "retry": "Prøve igen",
+    "inputPlaceholder": "Sørg for, at din engelske skrivning er fejlfri. Indsæt din tekst eller begynd at skrive nedenfor for at tjekke for grammatik-, stave- og tegnsætningsfejl.",
+    "checking": "Tjekker",
+    "checkFailed": "Check mislykkedes",
+    "accept": "Acceptere",
+    "ignore": "Ignorere",
+    "continueImproving": "Fortsæt med at forbedre",
+    "improveGuideText": "Klik her for at få den forbedrede tekst og begrundelse!",
+    "improvedText": "Forbedret tekst:",
+    "reasonForChanges": "Årsag til ændringerne:"
+  },
+  "OCRPanel": {
+    "ocrTips": "Uddrag tekst, tal og ligninger fra et billede",
+    "ocrCost": "Hver {{name}} vil koste {{num}} billedforespørgsel",
+    "newOCR": "Ny {{ocr}}",
+    "noText": "Ingen tekst genkendt"
+  },
+  "translator": {
+    "quickActions": "Hurtige opslag",
+    "disableHostFabLabel": "Deaktiver på denne side",
+    "disableFabLabel": "Deaktiver på alle websteder"
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Elsker du vores udvidelse?</b> Bedøm os venligst fem stjerner i webbutikken for at hjælpe os med at vokse",
+    "newInVersion": "Hvad er nyt i version {{versionId}}",
+    "learnToUse": "Lær hvordan du bruger",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} blev klogere",
+          "features": [
+            "{{4+VISION}}",
+            "1-klik for at besvare det samme spørgsmål med forskellige bots"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider grammatik widget",
+          "features": [
+            "Kontroller grammatikfejl",
+            "Ret grammatikfejl",
+            "Forbedre skrivningen ud over grammatikken"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — ChatGPT-sidebjælke med Vision",
+          "features": [
+            "Udtræk tekst fra et billede",
+            "Stil ethvert spørgsmål om billedet",
+            "3 måder at sende billede til {{SIDERVISION}} <div><ol><li>Tag et skærmbillede</li><li>Træk og slip et billede til chatvinduet</li><li>Upload et billede </li> li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Udtræk tekst fra et billede"
+          ]
+        },
+        {
+          "features": [
+            "Udtræk tekst fra et billede"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Ny prisplan med 5 gange flere GPT-4-forespørgsler",
+          "features": [
+            "Gode ​​nyheder! Vores opdaterede priser giver dig nu endnu mere adgang til GPT-4- og Claude 2-forespørgsler.",
+            "Hvis du allerede er premium-bruger, bliver du automatisk opgraderet. Plus, vi har en ny 'Ubegrænset' plan for alle jer superbrugere!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Mere bot!",
+          "features": [
+            "Ud over ChatGPT og Claude støtter Sider Bard nu!"
+          ]
+        },
+        {
+          "title": "OCR: Udtræk tekst fra ethvert billede og send det til ChatGPT",
+          "features": [
+            "Genkend 10+ større sprog",
+            "Genkend håndskrevne på engelsk",
+            "Genkend <b>matematiske ligninger</b> i teksten"
+          ]
+        },
+        {
+          "title": "Forbedre maleren",
+          "features": [
+            "Udskift hele baggrunden",
+            "Fjern det valgte område"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Flere chatbots</b>: Støtter nu Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Gruppechat</b>: Sammenlign svar på tværs af chatbots!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Omtale</b>: Brug '@' til ubesværet at nævne og interagere med enhver chatbot i samtalen!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Hurtig meddelelse</b>: Bare skriv '/' og gå!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Simpelt design</b>: Gør designet ligetil og nemt at navigere"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Forbedret prompt manager for",
+          "features": [
+            "Læser kontekstmenu",
+            "Skrive kontekstmenu"
+          ]
+        },
+        {
+          "title": "AI billedredigeringsprogram",
+          "features": [
+            "Fjern baggrund fra alle billeder",
+            "Fjern tekst fra alle billeder"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Læseassistent: Brug AI til hurtig forståelse, mens du læser websider",
+        "Skriveassistent: Generer hurtigt indhold med AI i webinputfeltet"
+      ],
+      "2_7_0": [
+        "Tegn billede fra tekst",
+        "Tegn billede fra et referencebillede"
+      ],
+      "2_6_0": [
+        "Sider understøtter fast sidepanel - Du kan chatte mellem alle faner uden at overlappe noget indhold <br /> (tilgængelig i Chrome 114 eller nyere)"
+      ],
+      "2_5_0": [
+        "YouTube-oversigt! Se 1 times YouTube-video på 1 minut",
+        "Sammenlign svarene fra mennesker og AI på Q&A-websteder som Quora, StackOverflow og Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Smart webadgang</b>: Baseret på din forespørgsel vil Al'en beslutte, om den skal have adgang til internettet.",
+        "Stabilitetsforbedring"
+      ],
+      "2_3_0": [
+        "Support browsing og plugins for Plus-brugere!",
+        "ChatGPT med internetadgang for alle!"
+      ],
+      "2_2_0": [
+        "Skriv en hvilken som helst besked",
+        "Besvar e-mail, tweet, kommentar osv"
+      ],
+      "2_1_0": [
+        "Genvej til Hurtigt opslag",
+        "Tilpas størrelsen på vinduet Hurtigt opslag",
+        "Fejlrettelser og andre UX-forbedringer"
+      ],
+      "2_0_0": [
+        "Support <b>GPT-4 </b>for alle brugere!",
+        "Inviter venner og få <b>GPT-4</b>-forespørgsler til jer begge!",
+        "Fejlrettelser og andre UX-forbedringer"
+      ],
+      "1_1_0": [
+        "Fuld chat i den <b>nye fane</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> sammen!",
+        "Fejlrettelser"
+      ],
+      "1_0_13": [
+        "Fortsæt chatten efter at have stillet spørgsmål",
+        "Skift mellem GPT-4 og GPT-3.5 for Plus-brugere",
+        "Få nemt adgang til og søg i chathistorik"
+      ],
+      "1_0_12": [
+        "Synkroniser udvidelsesindstillinger på tværs af computere",
+        "Få adgang til dine prompter fra forskellige bærbare computere",
+        "Gem chats til fremtidig brug",
+        "Del chats via link"
+      ],
+      "1_0_11": [
+        "Få hurtigt adgang til handlinger gennem et pop op-vindue uden at åbne sidebjælken.",
+        "Tilføj understøttelse af yderligere sprog.",
+        "Bevar brugerens sprogpræference, når du bruger oversættelsesfunktionen.",
+        "Løs genvejskonflikter på platforme som GitHub og andre."
+      ],
+      "1_0_10": [
+        "Understøtter 50+ sprog nu!"
+      ],
+      "1_0_8": [
+        "Support GPT-4 for Plus-brugere! Tjek indstillingssiden!"
+      ],
+      "1_0_7": [
+        "Husk prompt brugt sidste gang",
+        "Optimer placeringen af chatGPT-panelet på søgesider",
+        "Tilføj en mulighed for at placere sidebjælkeikonet i venstre side",
+        "Optimer pakkestørrelsen",
+        "Tilføj mørk tilstand",
+        "Understøtte din API url proxy"
+      ],
+      "1_0_6": [
+        "Forbedre opsummeringsfunktionen på Youtube-siden"
+      ],
+      "1_0_5": [
+        "Husk placeringen af sidebjælkeikonet",
+        "Forbedre genvejstaster",
+        "Gem promptskabeloner direkte fra sidebjælken"
+      ],
+      "1_0_4": [
+        "Genbestil prompt-elementer i rullelisten",
+        "Arkiver prompt elementer, du ikke vil bruge",
+        "Supportsvar på mere end 50 sprog"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter for at gøre hurtig \"Send\"",
+        "Mulighed for at skjule panelet på søgeresultatsiden",
+        "Understøtte ESC for at skjule sidebjælken",
+        "Support opsummere lang artikel"
+      ],
+      "1_0_2": [
+        "Tilføj stop-knap for at stoppe med at generere svar",
+        "Skift sted for skjul-knap"
+      ],
+      "1_0_1": [
+        "Forbedre opsummeringsfunktionen på Youtube-siden",
+        "Ret nogle fejl relateret til copy/paste og print"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Stem på produktjagt",
+    "sidebar2Banner1": "Stem på os på <b>Produktjagt</b> NU for at sprede budskabet.",
+    "sidebar2ModalTitle": "✨ Oversigt over Sidebar 2.0",
+    "sidebar2ModalDesc": "• Chat-fanen\n  • Hurtigt opslag for hurtige forespørgsler\n  • En konto til at synkronisere prompter\n  • Gem og del chats\n  • Understøtte flere sprog\n  • Understøtter GPT-4",
+    "ios1Banner1": "Stem på ChitChat – ChatGPT iOS-app 🎉",
+    "ios1Banner2": "Lad os sætte gang i tingene med et brag! 😄",
+    "ios1ModalTitle": "✨ Nyt på ChitChat iOS-appen",
+    "ios1ModalDesc": "• Få svar fra ChatGPT 3.5 & 4\n• Et supportteam af bots hjælper dig ét sted\n  • Gør din PDF til en chatbot"
+  },
+  "searchTool": {
+    "questionMark": "Udløs ChatGPT ved at tilføje et spørgsmålstegn efter din forespørgsel",
+    "askForQuery": "Spørg ChatGPT om denne forespørgsel",
+    "fiveStart": "Nyder du denne udvidelse? Giv os en 5-stjernet vurdering hos {{store}}",
+    "loginAndCloudflareCheck": "Log ind og bestå Cloudflare-tjek på {{web}}",
+    "braveTrouble": "Virker stadig ikke? Følg {{url}}",
+    "cloudflareCheck": "OpenAI kræver en gang imellem at bestå et sikkerhedstjek. Hvis dette bliver ved med at ske, skal du ændre AI-udbyder til OpenAI API i <i>udvidelsesmulighederne</i>.",
+    "failedResponse": "Kunne ikke indlæse svar fra ChatGPT:",
+    "waitResponse": "Venter på ChatGPT-svar..."
+  },
+  "sidepanel": {
+    "title": "Sider understøtter fast sidepanel",
+    "tip": "Tip: Juster bredden af sidepanelet passende for en bedre oplevelse.",
+    "benefit1": "Din sidebjælke forsvinder <b>aldrig</b>, hvis du navigerer til en ny side.",
+    "benefit2": "Du kan chatte mellem alle faner uden at <b>overlappe noget indhold</b>.",
+    "benefit3": "Kun tilgængelig i <b>Google Chrome 114 eller nyere</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Kostede {{num}} forespørgsler",
+    "videoSummaryBtn": "Opsummer video",
+    "loginToSummary": "Log ind for at opsummere",
+    "noTranscriptTip": "{{APP_NAME}} er ikke i stand til at opsummere videoer uden undertekster.",
+    "shownotes": "Nøglemomenter",
+    "freeLimitTips": "Din gratis prøveperiode er brugt op. Opgrader nu for at fortsætte med at bruge videooversigtsfunktionen.",
+    "askQuestionBtn": "Stil spørgsmål",
+    "noQuestionTip": "{{APP_NAME}} kan ikke finde problemet på siden."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "Spørg {{APP_NAME}} om hvad som helst",
+    "defaultPlaceholder2": "Spørg {{APP_NAME}} med ovenstående indhold",
+    "managePrompts": "Administrer prompter",
+    "editSelectionGroup": "Rediger eller gennemgå valg",
+    "selectionGroup": "Generer fra udvalg",
+    "draftGroup": "Kladde med {{name}}",
+    "AIGenerating": "{{name}} genererer...",
+    "pressToStop": "Tryk på {{name}} for at stoppe",
+    "pressToClose": "Tryk på {{name}} for at lukke",
+    "disableOnce": "Skjul indtil næste besøg",
+    "disableSite": "Deaktiver for dette websted",
+    "disableGlobal": "Deaktiver globalt",
+    "continueImproving": "Fortsæt med at forbedre"
+  },
+  "msg": {
+    "supportedFileFormat": "Understøttede filformater er {{formats}}",
+    "maxFileSize": "Maksimal filstørrelse er {{size}}",
+    "enterAPIKey": "Indtast venligst din OpenAI API-nøgle",
+    "selectModel": "Vælg venligst en gyldig model",
+    "changeSaved": "Ændringer gemt",
+    "fiveStart": "Giv os et 5-stjernet",
+    "pleaseContactUs": "Venligst <a>kontakt os</a>.",
+    "inviteTitle": "Inviter og belønninger",
+    "inviteEarn": "Få <mx>{{num}} forespørgsler</mx> til dig og dine venner. <b>Jo mere du henviser, jo mere tjener du</b>.",
+    "inviteStep1": "Henvis dine venner med invitationslink",
+    "inviteStep2": "Dine venner tilmelder sig",
+    "inviteStep3": "De installerer udvidelse og login. Belønninger optjent!",
+    "checkInvitation": "Tjek invitationsposter",
+    "inviteFriendsEarn": "Inviter venner og optjen GPT-4-forespørgsler",
+    "inviteFriends": "Inviter venner",
+    "inviteRewardsRecord": "Belønningsrekorder:",
+    "invitedRewardObtained": "Belønninger opnået!",
+    "invitedWelcome": "Velkommen! GPT-forespørgslerne er blevet tilføjet til din konto!",
+    "invitedRewardTips": "Din ven inviterer dig, og hver af jer har <mx>{{num}} forespørgsler</mx> at bruge",
+    "getMoreGPT4": "Få mere GPT-4-kvote",
+    "errSiderApiLimit": "Du har brugt alle de gratis kreditter, vi har leveret, følg venligst <i>instruktionerne her</i> for at få en API fra OpenAI.",
+    "errSiderApiLimitDevice": "Du har brugt alle de gratis kreditter, vi har leveret. <a>Log ind</a> for at få flere gratis kreditter.",
+    "errSiderApiLimitLogin": "Du har nået din kvote. For at fortsætte skal du overveje at <a>opgradere til vores premium-plan</a>. Tak!",
+    "errSiderApiLimitLogin2": "Du har nået din kvote. For at fortsætte skal du overveje at <a>opgradere til vores premium-plan</a>. Tak!",
+    "errSiderApiLimitPremium": "Du har brugt alle kreditterne, venligst <a>opgrader din plan</a>.",
+    "errSiderPremiumRequired": "Venligst <a>opgrader til premium</a> for at bruge denne funktion.",
+    "errSiderHighTrafficError": "{{APP_NAME}} står over for høj trafik. Prøv igen senere.",
+    "errSiderHighTrafficTip": "Overvej venligst at <a>opgradere til en premium-konto</a> for stabil adgang og for at understøtte vores udvikling.",
+    "errSiderDeviceBinded": "<a>Log ind</a> for at bruge det.",
+    "errSiderApiHighLoad": "Anmodningsgrænsen er nået på grund af høj belastning. Prøv venligst igen senere.",
+    "errSiderGPT4HighLoad": "GPT-4-grænsen nået på grund af høj belastning. Prøv venligst igen senere.",
+    "errSiderGPT4LimitDevice": "<b>Log ind</b> først, og <amb>inviter dine venner</amb> eller <ta>opgrader til premium</ta> for at få mere avanceret tekstkvote.",
+    "errSiderGPT4LimitLogin": "<t>Inviter dine venner</t> eller <a>opgrader til premium</a> for at få mere Avanceret tekst-kvote.",
+    "errSiderGPT4LimitPremium": "<tm>Inviter dine venner</tm> eller <dm>opgrader din plan</dm> for at få mere avanceret tekstkvote.",
+    "errSiderNeedLogin": "<a>Log ind</a>.",
+    "goToSignIn": "Gå til log ind",
+    "errSiderTimeout": "Anmodningen fik timeout. Prøv igen.",
+    "errSiderProcessing": "Kun én besked ad gangen. Tillad venligst ethvert andet svar at fuldføre, før du sender en anden besked, eller vent et øjeblik.",
+    "errTrySiderAPI": "Skift til <i>ChatGPT Sidebar API</i> for at få stabil adgang (for alle)",
+    "errTrySiderAPI2": "ELLER brug din egen API-nøgle på <a>indstillingssiden</a> (for udviklere)",
+    "errChatGPTAuth": "Venligst <m>klik på linket for at logge ind </m> på din ChatGPT-webside, så hjælper vi dig med at fastgøre den. Så kan du bruge det i sidebjælken.",
+    "errChatGPTAuthTipTitle": "Hvis det ikke virker:",
+    "errChatGPTFailToFetch": "Kunne ikke få svar fra ChatGPT.",
+    "errOpenaiFailToFetch": "Får ikke svar fra OpenAI via din API-nøgle.",
+    "errSiderBasicTextLimit": "Du har nået vores grundlæggende teksthastighedsforespørgselsgrænse. På nuværende tidspunkt er der en begrænsning på {{N1}} beskeder hvert {{NUM2}} minut. Alternativt kan du bruge avanceret tekstforespørgsel og returnere senere.",
+    "errSiderAdvancedTextLimit": "Du har nået vores avancerede teksthastighedsforespørgselsgrænse. På nuværende tidspunkt er der en begrænsning på {{N1}} beskeder hvert {{NUM2}} minut. Alternativt kan du bruge grundlæggende tekstforespørgsel og returnere senere.",
+    "loginAndCloudflareCheck": "Skift til <a>Sidebar API</a> for at få stabil adgang ELLER log ind og bestå Cloudflare-tjek på <i>chat.openai.com</i>",
+    "invalidApiKey": "API-nøgle er ugyldig. Hent venligst en anden.",
+    "getApiKeyGuide": "Du skal bruge en OpenAI API-nøgle for at få det til at fungere. Følg vores guide for at få API-nøglen.",
+    "thankForFeedback": "Tak skal du have. Formularen blev indsendt. Vi kontakter dig snarest.",
+    "writeSomething": "Skriv venligst noget.",
+    "enterEmail": "Indtast en e-mailadresse for at modtage opdateringer om problemet.",
+    "emailRequired": "E-mail er påkrævet.",
+    "promptNameRequired": "Spørgsmålsnavn er påkrævet.",
+    "titleRequired": "Titel er påkrævet.",
+    "nameYourPrompt": "Navngiv din prompt",
+    "nameYourTitle": "Navngiv din samtale",
+    "promptTplRequired": "Hurtigt indhold er påkrævet.",
+    "deletePromptWarn": "Vil du slette denne prompt?",
+    "restorePromptWarn": "Vil du gendanne denne promptskabelon?",
+    "notValidEmail": "ikke en gyldig e-mail",
+    "pleaseSignin": "Log venligst ind.",
+    "signinTips": "Log ind for at synkronisere dine prompter og indstillinger",
+    "signinAward": "Log ind for at få {{num}} forespørgsler om dagen",
+    "signinAward2": "Forespørgslerne er brugt op for uloggede brugere. Du kan logge ind for at få <b>{{num}} gratis forespørgsler om dagen</b>.",
+    "signinAward3": "Log ind for at få flere forespørgsler om dagen",
+    "chatgptTabGuardTips": "Hold venligst denne fane åben, nu kan du gå tilbage til {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Noget gik galt med ChatGPT. Opretter forbindelse igen, vent venligst...",
+    "chatgptTabGuardRefreshingTips1": "Noget gik galt med ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Opretter forbindelse igen, vent venligst...",
+    "chatgptTabGuardSetupSuccessTips": "Rettet, prøv venligst igen",
+    "switchToSiderApiToContinue": "Denne funktion understøtter i øjeblikket kun {{APP_NAME}} API-tilstand. <a>skift venligst til {{APP_NAME}} API</a> for at fortsætte.",
+    "switchRequired": "Switch påkrævet",
+    "signInRequired": "Log ind påkrævet",
+    "useUpUpgrade": "Din kvote er brugt op. Opgrader venligst for at få mere kvote.",
+    "webSearchSignIn": "Log venligst ind for at bruge denne funktion.",
+    "featureLimit": "Funktionsgrænse",
+    "featureLimitTip": "Opgrader venligst til at bruge Claude og Bard.",
+    "featureUnavailableOnPage": "Denne funktion er ikke tilgængelig på denne side",
+    "featureBrowserLimit": "På grund af browserens begrænsninger er denne funktion ikke tilgængelig på denne side. Skift venligst en side og prøv igen.",
+    "quotaModelContent": "Din GPT-4/Claude-2-forespørgselsgrænse er nået. Opgrader til Premium-abonnementet for at få mere adgang, eller inviter venner for gratis ekstra forespørgsler.",
+    "signinFeature": "Log venligst ind for at få adgang til denne funktion.",
+    "signinFeature2": "Log venligst ind for at få adgang til denne funktion",
+    "dragImgTips": "Klik eller træk et billede, du vil {{name}}",
+    "reEnableInSettings": "Du kan genaktivere i <a>Indstillinger</a>",
+    "switchBarTip": "Udvid sidepanelet for at fastgøre navigationslinjen.",
+    "upgradeSupport": "Opgrader til premium-plan for at støtte os",
+    "imageSizeLimit": "Billedgrænse",
+    "imageSizeLimitTip": "Sørg for, at billedet er mindre end 10 MB, og at dets bredde eller højde ikke overstiger 4096 pixels, og prøv derefter igen.",
+    "errOpenAIFilter": "Svaret blev filtreret på grund af prompten, der udløste OpenAIs indholdsstyringspolitik. Rediger venligst din prompt og prøv igen."
+  },
+  "options": {
+    "theme": {
+      "auto": "automatisk",
+      "light": "lys tilstand",
+      "dark": "mørk tilstand"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Altid",
+        "desc": "Spørg ChatGPT ved hver søgning"
+      },
+      "questionMark": {
+        "title": "Spørgsmålstegn",
+        "desc": "Spørg ChatGPT, hvis søgeordene slutter med et spørgsmålstegn (?)"
+      },
+      "manually": {
+        "title": "Manuelt",
+        "desc": "Spørg kun ChatGPT, når du klikker på knappen"
+      }
+    },
+    "sidebarLocation": {
+      "left": "venstre side",
+      "right": "højre side"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Spørg ChatGPT",
+        "template": "Kan du fortælle mig noget om {{keywords}}? Hvis det er muligt, kan du give mig nogle links om det? Hvis {{keywords}} er et koderelateret spørgsmål, skal du blot skrive koden"
+      },
+      "list": {
+        "title": "Nøgleord til spørgsmål",
+        "template": "Angiv 1 mest populære spørgsmål om \"{{keywords}}\". Så svar på dette spørgsmål. Skriv endelig yderligere 4 spørgsmål."
+      },
+      "suggest": {
+        "title": "Få relaterede søgeord",
+        "template": "{{keywords}} er mine søgeord i Google. Giv mig venligst 5 sæt relaterede søgeord."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Sammenfatte",
+        "template": "Opsummer dette for en elev i anden klasse:"
+      },
+      "similar-pages": {
+        "title": "Lignende sider",
+        "template": "Find 10 sider, der ligner følgende indhold med link:"
+      },
+      "grammar": {
+        "title": "Grammatik",
+        "template": "Ret dette til standard engelsk:"
+      },
+      "explain": {
+        "title": "Forklare",
+        "template": "Forklar følgende indhold:"
+      },
+      "explain-codes": {
+        "title": "Forklar koder",
+        "template": "Forklar følgende koder:"
+      },
+      "rewrite": {
+        "title": "Omskriv",
+        "template": "Omskriv følgende indhold:"
+      },
+      "translate": {
+        "title": "Oversætte",
+        "template": "Oversæt følgende indhold til sproget {{lang}}:"
+      },
+      "qa": {
+        "title": "Spørgsmål og svar",
+        "template": "Besvar dette spørgsmål:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Gratis plan",
+    "basic": "Grundplan",
+    "pro": "Pro Plan",
+    "ultra": "Ultra Plan"
+  },
+  "queryNames": {
+    "fast": "Hurtig tekst",
+    "advanced": "Avanceret tekst",
+    "image": "Billede"
+  },
+  "upgradeModal": {
+    "desc": "Flere forespørgsler og flere funktioner!",
+    "upgradeToUseXXX": "Opgrader for at bruge <b>bot</b>",
+    "getWebAccess": "Opgrader for at få websvar",
+    "gpt4Desc": "GPT-4 er betydeligt smartere og kan hjælpe dig med at få mere logiske og præcise svar.",
+    "claude2Desc": "Claude-2 er betydeligt klogere og kan hjælpe dig med at få mere logiske og præcise svar.",
+    "webAccessDesc": "Sider henter svar på dine spørgsmål fra Google og anvender AI til kortfattet organisering og opsummering.",
+    "features": {
+      "_0": "<b>Ubegrænset</b> hurtige tekstforespørgsler",
+      "0_desc": "Til GPT3.5, Bard & Claude Instant",
+      "_1": "<b>Ubegrænset</b> avancerede tekstforespørgsler",
+      "1_desc": "Til GPT4 & Claude V2",
+      "_2": "<b>1000/Mo</b> billedforespørgsler",
+      "2_desc": "Til maler, OCR og Vision"
+    }
+  }
+}

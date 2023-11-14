@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT-sidofältet som din AI-assistent på vilken sida som helst"
+   },
+   "appDescEdge": {
+      "message": "Sider -- AI-sidofältet drivs av ChatGPT från OpenAI"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

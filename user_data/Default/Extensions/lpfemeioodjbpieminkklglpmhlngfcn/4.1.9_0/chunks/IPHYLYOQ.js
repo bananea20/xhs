@@ -1,0 +1,1 @@
+import{$ as t}from"./I77YJK47.js";import{c as r}from"./UTGLRY7A.js";var n=r(e=>{"use strict";Object.defineProperty(e,"__esModule",{value:!0});Object.defineProperty(e,"default",{enumerable:!0,get:function(){return u.createSvgIcon}});var u=t()});export{n as a};

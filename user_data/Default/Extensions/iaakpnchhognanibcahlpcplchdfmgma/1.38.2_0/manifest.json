@@ -1,0 +1,66 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "commands": {
+      "open-app": {
+         "description": "Open ChatHub app",
+         "suggested_key": {
+            "default": "Alt+J",
+            "linux": "Alt+J",
+            "mac": "Command+J",
+            "windows": "Alt+J"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "assets/chatgpt-inpage-proxy.ts-loader-57184508.js" ],
+      "matches": [ "https://chat.openai.com/*" ]
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_bing",
+         "path": "src/rules/bing.json"
+      }, {
+         "enabled": true,
+         "id": "ruleset_ddg",
+         "path": "src/rules/ddg.json"
+      }, {
+         "enabled": true,
+         "id": "ruleset_qianwen",
+         "path": "src/rules/qianwen.json"
+      }, {
+         "enabled": true,
+         "id": "ruleset_baichuan",
+         "path": "src/rules/baichuan.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "host_permissions": [ "https://*.bing.com/", "https://*.openai.com/", "https://bard.google.com/", "https://*.chathub.gg/", "https://*.duckduckgo.com/", "https://*.poe.com/", "https://*.anthropic.com/", "https://*.claude.ai/" ],
+   "icons": {
+      "128": "src/assets/icon.png",
+      "16": "src/assets/icon.png",
+      "32": "src/assets/icon.png",
+      "48": "src/assets/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyfpGmb94cbHsgY6+iSBQET31rNdlCOgDoSLfQh2dfX4+UqRcfjmDraTUmv7TsZqcGXkqTA951YwimMVPEMSClZjb6QBjHydCEPPfuv26VJfJMAQmswm0FPJGM8KEauqOro3KURmyGhhEE+/r4giEqyipifNLfPrbnhFGWDI1Er7HhyT8fpLB7ZJ3jyR8x040iAE1FZVRFGXPpVeMh1qV0zzaCc/nl1b8TkyZxNm7iYtrbcIQb9ftLDF8cJwgNXnMlOsxcgtX8cvM5UKvuWBXOMma3+BXG2XA1cG0U+ErK7qQVG9Bybu79j2Iqs2BrwTJTubRFqMTuqG72WHc44FB9QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "optional_host_permissions": [ "https://*/*", "wss://*/*" ],
+   "permissions": [ "storage", "unlimitedStorage", "sidePanel", "declarativeNetRequestWithHostAccess" ],
+   "side_panel": {
+      "default_path": "sidepanel.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.38.2",
+   "web_accessible_resources": [ {
+      "matches": [ "https://chat.openai.com/*" ],
+      "resources": [ "assets/browser-polyfill-5e752e65.js", "assets/proxy-fetch-95bcdef2.js", "assets/chatgpt-inpage-proxy.ts-33515ce3.js" ],
+      "use_dynamic_url": true
+   } ]
+}

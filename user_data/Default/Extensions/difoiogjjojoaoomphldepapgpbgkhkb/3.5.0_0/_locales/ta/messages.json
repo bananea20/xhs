@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "எந்தப் பக்கத்திலும் உங்கள் AI உதவியாளராக ChatGPT பக்கப்பட்டி"
+   },
+   "appDescEdge": {
+      "message": "சைடர் -- AI பக்கப்பட்டி OpenAI இன் ChatGPT மூலம் இயக்கப்படுகிறது"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

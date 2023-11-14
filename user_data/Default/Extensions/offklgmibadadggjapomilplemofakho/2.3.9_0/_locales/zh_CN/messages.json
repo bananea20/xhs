@@ -1,0 +1,233 @@
+{
+   "assistant_another_element": {
+      "message": "选择其它元素"
+   },
+   "assistant_apply_rule_to_all_sites": {
+      "message": "应用此规则到各网站\u003Cinput id='oneDomainRadio' type='checkbox' class='checkbox'>"
+   },
+   "assistant_block": {
+      "message": "拦截"
+   },
+   "assistant_block_by_reference": {
+      "message": "经由 URL 拦截元素\u003Cinput id='blockByUrl' type='checkbox' class='checkbox'>"
+   },
+   "assistant_block_class": {
+      "message": "通过class拦截\u003Cinput id='blockClass' type='checkbox' class='checkbox'>"
+   },
+   "assistant_block_element": {
+      "message": "过滤元素"
+   },
+   "assistant_block_element_explain": {
+      "message": "元素过滤选择器"
+   },
+   "assistant_block_similar": {
+      "message": "拦截类似的元素\u003Cinput id='blockSimilar' type='checkbox' class='checkbox'>"
+   },
+   "assistant_extended_settings": {
+      "message": "高级设置..."
+   },
+   "assistant_preview": {
+      "message": "预览"
+   },
+   "assistant_preview_end": {
+      "message": "完成预览"
+   },
+   "assistant_preview_header": {
+      "message": "过滤元素 - 效果预览"
+   },
+   "assistant_preview_header_info": {
+      "message": "如果你认为效果不是很满意可以点击选择其他元素按钮进行重新选择！"
+   },
+   "assistant_preview_start": {
+      "message": "预览"
+   },
+   "assistant_rule_parameters": {
+      "message": "规则参数"
+   },
+   "assistant_select_element": {
+      "message": "选择模式"
+   },
+   "assistant_select_element_cancel": {
+      "message": "取消选择模式"
+   },
+   "assistant_select_element_ext": {
+      "message": "移动鼠标到页面任意元素后点击鼠标左键完成过滤元素选择!"
+   },
+   "assistant_slider_explain": {
+      "message": "使用滑动条微调已选择的过滤元素："
+   },
+   "assistant_slider_if_hide": {
+      "message": "过滤器将包含拦截所选元素的规则"
+   },
+   "assistant_slider_max": {
+      "message": "较大"
+   },
+   "assistant_slider_min": {
+      "message": "较小"
+   },
+   "context_open_block": {
+      "message": "屏蔽元素"
+   },
+   "context_open_log": {
+      "message": "屏蔽Url"
+   },
+   "description": {
+      "message": "免费高效的广告过滤工具：可以过滤烦人的视频广告、弹窗广告、大横幅广告等网页广告，让你清爽浏览网页。参考广告终结者，修改自广告净化器，支持视频去广告"
+   },
+   "filtering_clear_tab_events": {
+      "message": "清除"
+   },
+   "filtering_log_in_whitelist": {
+      "message": "网站属于白名单"
+   },
+   "filtering_log_search_string": {
+      "message": "输入搜索字符串"
+   },
+   "filtering_log_tab": {
+      "message": "标签："
+   },
+   "filtering_log_title": {
+      "message": "过滤日志"
+   },
+   "filtering_modal_add_rule": {
+      "message": "添加规则"
+   },
+   "filtering_modal_add_title": {
+      "message": "添加规则"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "应用规则到所有网站"
+   },
+   "filtering_modal_block": {
+      "message": "拦截"
+   },
+   "filtering_modal_exception_title": {
+      "message": "添加例外"
+   },
+   "filtering_modal_filter": {
+      "message": "过滤器："
+   },
+   "filtering_modal_info_title": {
+      "message": "要求详细信息"
+   },
+   "filtering_modal_match_case": {
+      "message": "考虑此情况"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "于新标签页打开"
+   },
+   "filtering_modal_options": {
+      "message": "选项"
+   },
+   "filtering_modal_patterns": {
+      "message": "方案"
+   },
+   "filtering_modal_remove_user": {
+      "message": "从用户过滤器移除"
+   },
+   "filtering_modal_remove_whitelist": {
+      "message": "从白名单过滤器移除"
+   },
+   "filtering_modal_rule": {
+      "message": "规则："
+   },
+   "filtering_modal_rule_text": {
+      "message": "规则文本"
+   },
+   "filtering_modal_source": {
+      "message": "源："
+   },
+   "filtering_modal_third_party": {
+      "message": "仅应用到第三方请求"
+   },
+   "filtering_modal_type": {
+      "message": "类型："
+   },
+   "filtering_modal_unblock": {
+      "message": "取消拦截"
+   },
+   "filtering_refresh_tab": {
+      "message": "刷新页面"
+   },
+   "filtering_table_empty_row": {
+      "message": "此页的日志为空。请\u003Ca href='#' class='reloadTab'>重载页面\u003C/a>以查看日志。"
+   },
+   "filtering_table_rule": {
+      "message": "过滤规则"
+   },
+   "filtering_table_source": {
+      "message": "源"
+   },
+   "filtering_table_time": {
+      "message": "时间"
+   },
+   "filtering_table_type": {
+      "message": "类型"
+   },
+   "filtering_type_all": {
+      "message": "全部"
+   },
+   "install_title": {
+      "message": "广告净化器"
+   },
+   "name": {
+      "message": "广告拦截神器"
+   },
+   "options": {
+      "message": "设置"
+   },
+   "options_addfilter_Modal": {
+      "message": "添加订阅组"
+   },
+   "options_addfilter_small": {
+      "message": "可以自行添加第三方订阅组，默认订阅组无法删除，但可以停用！"
+   },
+   "options_default": {
+      "message": "\u003Ci class='icon-list-alt'>\u003C/i> 过滤清单"
+   },
+   "options_modifyfilter_Modal": {
+      "message": "添加订阅组备注"
+   },
+   "options_passDomain": {
+      "message": "\u003Ci class='icon-ban-circle'>\u003C/i> 排除域名"
+   },
+   "options_passDomain_head_text": {
+      "message": "排除域名---下方输入不过滤的域名，输入www与不输入www有区别！"
+   },
+   "options_passdomain_search_placeholder": {
+      "message": "输入需要排除的域名，回车添加！"
+   },
+   "options_settings": {
+      "message": "\u003Ci class='icon-cogs''>\u003C/i> 常规设置"
+   },
+   "options_settings_text": {
+      "message": "设置项"
+   },
+   "options_title": {
+      "message": "广告拦截神器"
+   },
+   "options_update_all": {
+      "message": "更新所有订阅组"
+   },
+   "options_userFilters": {
+      "message": "\u003Ci class='icon-pencil'>\u003C/i> 订阅组排除规则"
+   },
+   "options_userFilters_head_text": {
+      "message": "订阅组排除规则"
+   },
+   "options_userRules": {
+      "message": "\u003Ci class='icon-pencil'>\u003C/i> 自定义过滤"
+   },
+   "options_userRules_head_text": {
+      "message": "自定义过滤规则---下方输入框为搜索添加综合输入框！"
+   },
+   "options_userfilter": {
+      "message": "用户过滤器"
+   },
+   "options_userfilter_search_placeholder": {
+      "message": "输入需要搜索/添加的规则"
+   },
+   "options_whitelist": {
+      "message": "白名单"
+   }
+}

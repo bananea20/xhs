@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT-sivupalkki AI-avustajana millä tahansa sivulla"
+   },
+   "appDescEdge": {
+      "message": "Sider -- AI-sivupalkki, jota tarjoaa OpenAI:n ChatGPT"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

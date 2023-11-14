@@ -1,0 +1,46 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "images/icon16.png",
+         "24": "images/icon24.png",
+         "32": "images/icon32.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Web Scraper"
+   },
+   "background": {
+      "service_worker": "background_script.js"
+   },
+   "content_scripts": [ {
+      "js": [ "content_script.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "Web data extraction tool with an easy point-and-click interface for modern web",
+   "devtools_page": "devtools_init_page.html",
+   "externally_connectable": {
+      "matches": [ "https://cloud.webscraper.io/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq2wstWi+D3FpfYx4xZXorWkcyFuQlYfvWHC82FLHF7SniT5Da/dUCKjXabMpP1fV6p89f2mSEMZp8GXpGSvlBULTj0PvL+XnVmnHQH2DTZ4NlNrXnHdH5HpPO86YieP4iJ3KMps4k6XKQZw5ne5UNsifs2Ug/s+npwDIaFDHVzXugUfANNYjG6TVdbLiLjjcjlIsOgH7HudxzBGdFGzbacUxtaHV/zlzSL+A9uN03STumTvRr/zwyjmLqAmdKkoXb8N34ieurTe0ZM9me5jr1ZI26+P0KFt7AT8xhTXaGyV4AWWVq7fIJ1/feruGvyOrxvsqR93ycmrE+Aztd/q15wIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "100",
+   "name": "Web Scraper - Free Web Scraping",
+   "optional_permissions": [ "webRequest" ],
+   "options_page": "options.html",
+   "permissions": [ "tabs", "notifications", "storage", "unlimitedStorage" ],
+   "short_name": "Web Scraper",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.29.66",
+   "web_accessible_resources": [ {
+      "matches": [ "https://cloud.webscraper.io/*" ],
+      "resources": [ "images/icon16.png", "images/icon24.png", "images/icon32.png", "images/icon48.png", "images/icon128.png" ]
+   } ]
+}

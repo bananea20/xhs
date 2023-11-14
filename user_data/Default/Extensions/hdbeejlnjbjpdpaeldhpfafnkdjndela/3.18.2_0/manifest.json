@@ -1,0 +1,68 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "/image/logo.png",
+         "38": "/image/logo.png"
+      },
+      "default_popup": "/popup.html"
+   },
+   "commands": {
+      "sc-audio": {
+         "description": "__MSG_extListenCommandDescription__",
+         "suggested_key": {
+            "default": "Alt+X"
+         }
+      },
+      "sc-call-out": {
+         "description": "__MSG_extCallOutCommandDescription__",
+         "suggested_key": {
+            "default": "Alt+C"
+         }
+      },
+      "sc-close": {
+         "description": "__MSG_extCloseCommandDescription__"
+      },
+      "sc-open-separate-window": {
+         "description": "__MSG_extOpenSeparateWindowDescription__"
+      },
+      "sc-toggle-auto-insert-result": {
+         "description": "__MSG_extToggleAutoInsertResultDescription__"
+      },
+      "sc-translate": {
+         "description": "__MSG_extTranslateCommandDescription__",
+         "suggested_key": {
+            "default": "Alt+Z"
+         }
+      },
+      "sc-translate-current-page": {
+         "description": "__MSG_extTranslateCurrentPageDescription__"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "/static/js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "image/logo.png",
+      "16": "image/logo.png",
+      "48": "image/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0JDFGv65tmQyBj74gBlu+AdDiesWdGuFbPMLTXVQF9GRcFh9Ja/YKabu3RUArDeNsdrj85z6aFLE/pBOaWMeT3nmS29YbfCfqfpIO6jNP/egvqfgvDjSD4VSyguuueTS1vPZ6Z9Az4CGIJul/X/Sjh8JqhoLY/AeMtN/9fCpQXRFB7UyBCc6kGEL5jZAGNvBZW+8s8Q72qZG4pebpNThDysOVILEMDpOLPOwa23PB3VU3l3uSlmnrybO4eLGdyiFedxsEUeExwRNb0mJmn345ZE3cm2a99So51rd6+ze00hCerrI06/QXb7bWiDx+MdYbgnUd9viePIUx3MmJXRRUQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "contextMenus", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.18.2",
+   "web_accessible_resources": [ "/pdf-vierer/web/viewer.html", "/static/css/content.css" ]
+}

@@ -1,0 +1,66 @@
+{
+   "background": {
+      "scripts": [ "assets/background-ffc24c3e.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "ModHeader"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+H"
+         }
+      },
+      "switch_to_profile_1": {
+         "description": "Switch to 1st profile"
+      },
+      "switch_to_profile_2": {
+         "description": "Switch to 2nd profile"
+      },
+      "switch_to_profile_3": {
+         "description": "Switch to 3rd profile"
+      },
+      "switch_to_profile_4": {
+         "description": "Switch to 4th profile"
+      },
+      "toggle_pause": {
+         "description": "Toggle pause/resume",
+         "suggested_key": {
+            "default": "Alt+Shift+P"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "assets/common-4aa3a322.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "assets/theCard-746d34e6.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Modify HTTP request headers, response headers, and redirect URLs",
+   "externally_connectable": {
+      "matches": [ "*://modheader.com/*" ]
+   },
+   "homepage_url": "https://modheader.com/",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "48": "images/icon_48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRbg/YGjnooTbGDnwXqcwWaFwY1SFby0PQa2WlT8Dvq1OFqLQBJcikRQUA9GnEKZNKInUocQdlvxwvbMccBIZTYXuP+RMEi+yWqsH/x+D1w87fWnVtspKVqCia4a6DTsqxOW+JJFb1ufWZuvSeDVdToRUm/zG5WxXWyg7nQirY5QIDAQAB",
+   "manifest_version": 2,
+   "name": "ModHeader - Modify HTTP headers",
+   "permissions": [ "alarms", "contextMenus", "webRequest", "storage", "webRequestBlocking", "\u003Call_urls>" ],
+   "short_name": "ModHeader",
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.0.7",
+   "web_accessible_resources": [ "profile-hook-16b7af3f.js", "commonjsHelpers-c9e3b764.js", "App-5c84c998.js", "js/tool/common.js", "js/tool/theCard.js" ]
+}

@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "どのページでも AI アシスタントとしての ChatGPT サイドバー"
+   },
+   "appDescEdge": {
+      "message": "Sider -- OpenAI の ChatGPT を利用した AI サイドバー"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

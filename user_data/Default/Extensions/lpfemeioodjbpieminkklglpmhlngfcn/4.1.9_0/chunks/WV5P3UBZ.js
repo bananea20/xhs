@@ -1,0 +1,1 @@
+import{b as r}from"./QP6KKUXB.js";import{j as n,k as i}from"./FRD2ED6S.js";import{d as a}from"./KSUL2YLK.js";var I=()=>{let[h,s]=a(r);return{searchWithAISettings:h,setSearchWithAISettings:async t=>{try{if(t instanceof Function){let e=await n(),S=t(e);s(c=>({...c,...S})),await i(S)}else s(e=>({...e,...t})),await i(t);return!0}catch{return!1}}}},f=I;export{f as a};

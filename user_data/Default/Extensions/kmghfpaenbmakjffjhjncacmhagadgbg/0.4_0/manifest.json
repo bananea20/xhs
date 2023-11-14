@@ -1,0 +1,23 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "css/global.css" ],
+      "js": [ "js/content.bundle.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq8Xberw+oy7N8dmaXd6A36zE/Y8+fsfewxT5VAhOUSu/zsZj44pdfPs3FgOE1ckz1f8mBqjnK/XYkCPZSIQxU4TaIc6HONtxkGFjulSeZvWiFSr05NwNmRI8R7SLQ7ontqIQar20J25o+MEwLby1oEN8BcoXjYLOiLk51ccP/b0fgt30bhhBoSIsRnnTHQBee7A1fEnlG3n73mN+1RTJQS47XKeYtjqz2vtsWYenN4D2nOOkvcVJomSvsZoBo9s8LlyoNshjG3ndkpQk3cgL0rwNI6HdenIXvk4RveDQYBssAfbMSt959WHEUztAP3rb+X9eJaqnPVuYUeBrASLeRQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "activeTab", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4",
+   "web_accessible_resources": [ "icon.png", "panel.html" ]
+}

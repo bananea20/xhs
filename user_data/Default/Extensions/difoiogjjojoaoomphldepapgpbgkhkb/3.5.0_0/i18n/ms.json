@@ -1,0 +1,907 @@
+{
+  "sidebar": "Bar sisi",
+  "shortcut": "Kekunci pintasan",
+  "ask": "Tanya",
+  "save": "Simpanlah",
+  "saved": "Disimpan",
+  "delete": "Padam",
+  "remove": "Alih keluar",
+  "cancel": "Batal",
+  "stop": "Berhenti",
+  "insert": "Sisipkan",
+  "replace": "Gantikan",
+  "ok": "okey",
+  "submit": "Hantar",
+  "attention": "Notis",
+  "send": "Hantar",
+  "copy": "Salinan",
+  "copied": "disalin",
+  "clear": "Jelas",
+  "quote": "sebut harga",
+  "collapse": "Runtuhkan bar sisi",
+  "done": "Selesai",
+  "manage": "Mengurus",
+  "template": "templat",
+  "edit": "Sunting",
+  "add": "Tambah",
+  "feedback": "Maklum balas",
+  "tweetit": "Tweet",
+  "fullPageChat": "Sembang halaman penuh",
+  "whatNew": "Ciri-ciri baru",
+  "gotIt": "faham",
+  "settings": "tetapan",
+  "signin": "Log masuk",
+  "signinNow": "Log masuk Sekarang",
+  "unlimited": "Tidak terhad",
+  "share": "Kongsi",
+  "myChats": "Sembang Saya",
+  "general": "Konfigurasi umum",
+  "archive": "arkib",
+  "unarchive": "nyahrkib",
+  "searchPage": "Halaman Carian",
+  "addons": "Alat tambah",
+  "webStore": "Kedai Web",
+  "webApp": "Apl Web",
+  "webAccess": "Akses Web",
+  "upgradeNow": "Menaiktaraf sekarang",
+  "upgrade": "Naik taraf",
+  "language": "Bahasa",
+  "theme": "Tema",
+  "sendShortcut": "Hantar pintasan",
+  "model": "Model",
+  "version": "Versi",
+  "more": "Lagi",
+  "listen": "Dengar",
+  "skip": "Langkau",
+  "vote": "Undi",
+  "invite": "Jemput",
+  "hide": "Sembunyi",
+  "pin": "sematkan",
+  "unpin": "nyahpin",
+  "showMore": "Tunjukkan lagi",
+  "editTitle": "Edit tajuk",
+  "summarize": "rumuskan",
+  "summarizing": "Merumuskan",
+  "answering": "Menjawab",
+  "productivity": "Produktiviti",
+  "modelUpdateSuccess": "Model berjaya dikemas kini",
+  "modelUpdateFailed": "Model gagal dikemas kini",
+  "customPrompt": "Gesaan tersuai",
+  "currentTpl": "Templat semasa:",
+  "current": "semasa",
+  "extra": "tambahan",
+  "editTpl": "Edit templat ini",
+  "delteTpl": "Padamkan templat ini",
+  "restoreTpl": "Pulihkan templat ini",
+  "archiveTpl": "Arkibkan templat ini",
+  "showTpl": "Tunjukkan templat ini",
+  "prompts": "Gesaan",
+  "imageRetryTip": "Muatnaik gagal. Klik untuk mencuba semula.",
+  "mentionBot": "Sebut Bot",
+  "promptName": "Nama Gesaan",
+  "promptContent": "Kandungan Gesa",
+  "contactUs": "Hubungi Kami",
+  "webAssistant": "Pembantu Web",
+  "quickAction": "Menu Konteks",
+  "promptManage": "Pengurus Segera",
+  "issueType": "Jenis Isu",
+  "pinExt": "Sambungan pin",
+  "yourEmailAddress": "Alamat E-mel anda",
+  "troubleshooting": "Penyelesaian masalah",
+  "openSidebar": "Buka bar sisi",
+  "pasteSelection": "Tampal pilihan",
+  "pasteTextPage": "Tampal teks daripada halaman",
+  "getAnotherKey": "Dapatkan Kunci Lain",
+  "showSearchPanel": "Tunjukkan Panel Carian",
+  "getItNow": "Dapatkannya sekarang",
+  "notNow": "Bukan sekarang",
+  "alwaysDisplay": "Sentiasa Paparkan",
+  "queries": "Pertanyaan",
+  "total": "jumlah",
+  "getMore": "mendapatkan lebih banyak",
+  "goPremium": "naik taraf kepada premium",
+  "goPremiumGetMore": "naik taraf kepada premium untuk mendapatkan lebih banyak",
+  "myAccount": "Akaun saya",
+  "clickToAsk": "Klik untuk bertanya",
+  "searchingFor": "Mencari:",
+  "searchedFor": "Dicari untuk:",
+  "using": "menggunakan",
+  "used": "terpakai",
+  "switchAndContinue": "Tukar dan teruskan",
+  "ExtractText": "Ekstrak teks daripada imej",
+  "describleImage": "Terangkan imej ini",
+  "pricePerDay": "Kurang daripada {{num}}/hari",
+  "readingAssistant": "Pembantu Membaca",
+  "writingAssistant": "Pembantu Penulisan",
+  "moreQueries": "Lagi pertanyaan!",
+  "newPlan": "Pelan baru!",
+  "all": "Semua",
+  "success": "Kejayaan",
+  "usedIn": "Digunakan dalam",
+  "check": "Semak",
+  "example": "Contoh",
+  "ChangeTone": "Tukar nada",
+  "screenshot": "Tangkapan skrin",
+  "uploadImage": "Muat naik imej",
+  "hideImage": "Sembunyikan imej",
+  "showImage": "Tunjukkan imej",
+  "fullscreen": "Skrin penuh",
+  "OR": "ATAU",
+  "refresh": "Segarkan semula",
+  "phoneNumber": "Nombor telefon",
+  "recognizing": "Mengenali",
+  "result": "Hasilnya",
+  "describeImage": "Terangkan imej ini",
+  "inviteFriendTip": "<a>Jemput rakan</a> untuk mendapatkan pertanyaan tambahan",
+  "resetTime": "Tetapkan semula pada <a>3 Ogos 2023</a>",
+  "imageQuoteTipTitle": "Tanya gambar lagi? Anda perlu memetik gambar",
+  "imageQuoteTipContent": "Untuk bertanya tentang imej itu sekali lagi, petik sahaja.",
+  "ocrEmptyMsg": "Maaf, saya tidak menemui teks dalam imej ini.",
+  "imageInputHint": "Tanya soalan tentang imej ini",
+  "popupPage": {
+    "thank": "Terima kasih kerana menggunakan sambungan {{APP_NAME}}!",
+    "desc": "Halaman semasa ialah halaman unik dan ciri bar sisi tidak tersedia. Walau bagaimanapun, anda boleh membuka halaman penuh untuk bersembang!",
+    "chatNow": "Berbual sekarang"
+  },
+  "setupPage": {
+    "loginSuccess": "Log masuk berjaya",
+    "welcome": "Selamat datang ke {{APP_NAME}}!",
+    "loginWith": "Log masuk dengan {{name}}",
+    "pinTips": "<b>Semat {{APP_NAME}}</b>, akses lebih mudah!",
+    "pinClickTip": "Klik {{icon}} untuk menyematkan {{APP_NAME}}",
+    "next": "Seterusnya",
+    "pinGuideDesc": "Untuk memudahkan akses sambungan, sila biarkan sambungan itu kekal disematkan dengan mengikuti langkah di bawah.\n1. Klik ikon teka-teki <b>IKON</b> di sebelah avatar profil anda.\n2. Dalam menu lungsur, cari {{APP_NAME}}.\n3. Klik ikon pushpin sehingga ia bertukar menjadi biru.",
+    "signInGuideTitle": "Log masuk sekarang untuk membuka kunci yang berikut:",
+    "signInGuideStep1": "Segerakkan tetapan sambungan merentas komputer",
+    "signInGuideStep2": "Akses gesaan anda daripada komputer riba yang berbeza",
+    "signInGuideStep3": "Simpan sembang untuk kegunaan masa hadapan",
+    "signInGuideStep4": "Kongsi sembang melalui pautan",
+    "welcomeGuide": "Selamat datang ke {{APP_NAME}}",
+    "step1Label": "langkah pertama",
+    "step2Label": "langkah kedua",
+    "tryOut": "Cubalah"
+  },
+  "getKeyPage": {
+    "welcome": "Selamat datang ke {{APP_NAME}}! Inilah perjalanan anda untuk bermula:",
+    "stepTitle": "Bagaimana untuk mendapatkan kunci API.",
+    "step1": "Langkah 1: Dapatkan kunci API",
+    "step1-1": "<i>Log masuk akaun OpenAI anda</i> Jika anda tidak mempunyai akaun, Daftar <b>DI SINI</b>",
+    "step1-2": "Lawati halaman Kunci API OpenAI",
+    "step1-3": "Buat kunci rahsia baharu dan salinnya seperti berikut",
+    "step2": "Langkah 2: Tampal Kunci API dalam kotak di bawah",
+    "step2-tips": "jangan risau. Kunci API anda hanya digunakan secara setempat dalam sambungan ChatGPT. Menggunakan API adalah lebih stabil daripada secara langsung menggunakan ChatGPT.",
+    "step3": "Langkah 3: Semak kredit anda <i>di sini</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Bagaimana untuk mengakses ChatGPT dan menggunakannya di mana-mana sahaja",
+    "howToAccessTip": "Untuk memastikan AI boleh diakses oleh semua orang, kami menyediakan 3 cara untuk mengakses ChatGPT dan menggunakannya di mana-mana sahaja.",
+    "recommend4all": "(Disyorkan untuk semua orang)",
+    "sidebarProvider": "Bar Sisi menggunakan API Premium ChatGPT untuk memastikan akses yang stabil.",
+    "sidebarProviderGoPremium": "Kami menawarkan {{num}} pertanyaan harian percuma untuk menjamin kebolehcapaian AI untuk semua. <a>Tingkatkan kepada premium</a> untuk meningkatkan had pertanyaan harian anda dan menyokong misi kami untuk <b>menyediakan AI Universal untuk semua orang</b>.",
+    "webappProvider": "Aplikasi web ChatGPT yang menjanakan API adalah percuma, tetapi kadangkala ia mungkin tidak stabil.",
+    "webappGPT4": "(Pengguna ChatGPT Plus boleh mencubanya)",
+    "webappTip1": "Jika anda pengguna ChatGPT Plus, anda kini mempunyai pilihan untuk memilih GPT-4. Walau bagaimanapun, OpenAI mungkin mengehadkan bilangan mesej yang boleh anda hantar setiap hari.",
+    "webappTip2": "Sila <m>Sematkan tab ChatGPT</m> dan kekal log masuk di tapak web ChatGPT. Walau bagaimanapun, ini mungkin tidak menjamin kestabilan. Jika anda menghadapi sebarang isu, lawati <v>tapak web ChatGPT </v>dan muat semula halaman tersebut.",
+    "GPT4Desc": "Anda mesti kekal log masuk ke akaun ChatGPT anda di tapak web. Kestabilan mungkin tidak konsisten untuk pengguna Plus dan pengguna percuma kerana sekatan OpenAI.",
+    "apiKeyProviderTip": "(Untuk pembangun dengan kunci API)",
+    "apiKeyProvider": "API OpenAI rasmi adalah lebih stabil dan caj adalah berdasarkan penggunaan.",
+    "apiKeyLocally": "Kunci API anda disimpan secara setempat pada penyemak imbas anda dan tidak pernah dihantar ke tempat lain.",
+    "ownURL": "Gunakan URL saya sendiri",
+    "apiKeyTip1": "Kunci API OpenAI percuma anda mungkin telah tamat tempoh. Sila <a>semak status tamat tempoh kunci API di sini.</a>",
+    "apiKeyTip2": "Jika anda menggunakan kunci API OpenAI percuma, akses kepada ChatGPT mungkin tidak stabil apabila ia mengalami permintaan yang tinggi.",
+    "apiFreeGuide": "Ikuti panduan untuk mendapatkan kunci API.",
+    "apiKeyGpt4Tip": "Sambungan menyokong GPT-4 jika anda memasukkan kunci API GPT-4.",
+    "displaySearchRes": "Paparkan respons ChatGPT bersama halaman hasil carian",
+    "whenToAsk": "Bila nak tanya ChatGPT",
+    "promptTplForSearch": "Templat gesaan untuk Google dan enjin carian lain",
+    "addNewTplForSearch": "Tambahkan templat gesaan baharu",
+    "launchSidebar": "Lancarkan bar sisi",
+    "sidebarLocation": "Lokasi Bar sisi",
+    "sidebarLeftOrRight": "Letakkan bar sisi di sebelah kiri atau kanan",
+    "sidebarDisplayOption": "Mod Paparan Bar Sisi",
+    "sidebarDisplayOptionTip": "Pilih cara bar sisi muncul pada halaman",
+    "sidebarDisplayOptions": {
+      "overlay": "Tindanan",
+      "expand": "Mengembangkan"
+    },
+    "sidebarIcon": "Ikon Bar sisi",
+    "sidebarIconAccess": "Akses bar sisi melalui ikon yang terletak di sudut kanan bawah halaman. Anda boleh seret untuk menggerakkannya ke atas dan ke bawah",
+    "easiestWayUse": "Cara paling mudah untuk menggunakan {{APP_NAME}}",
+    "displayWhenSelect": "Paparkan apabila teks dipilih",
+    "promptTplForSidebar": "Templat gesaan untuk bar sisi",
+    "dragSidebarTpl": "Seret dan lepaskan untuk menyusun semula templat ATAU arkibkan yang anda tidak akan gunakan",
+    "addNewTplForSidebar": "Tambahkan templat gesaan baharu",
+    "editSearchTplTip": "gunakan {{keywords}} untuk merujuk kata kunci carian anda",
+    "editSearchTplPlaceholder": "{{keywords}} dalam kandungan segera akan digantikan dengan kata kunci carian anda secara automatik",
+    "editSidebarTplTip": "Tampal atau masukkan kandungan di sini",
+    "showOnList": "Tunjukkan pada senarai",
+    "translatorNavTitle": "Carian Pantas",
+    "translatorTitle": "Tetingkap Carian Pantas",
+    "translatorFabTitle": "Ikon Carian Pantas",
+    "translatorFabDesc": "Akses tetingkap carian pantas melalui ikon.",
+    "translatorFabToggleLabel": "Paparkan apabila teks dipilih",
+    "translatorTplTitle": "Templat gesaan untuk tetingkap timbul",
+    "translatorTplDesc": "Templat utama pertama akan digunakan sebagai arahan lalai untuk tetingkap pop timbul.",
+    "translatorPrimaryTemplates": "Templat utama",
+    "translatorTemplatesNotes": "*Timbul timbul ini berkongsi templat yang sama dengan bar sisi. Jika anda perlu mengedit atau menambah templat, sila ubah suainya dalam <b>Tetapan bar sisi</b>.",
+    "translatorIntroTitle": "🤔 Apakah Carian Pantas?",
+    "translatorIntroDesc": "Carian Pantas ialah tindakan pantas {{APP_NAME}}, menyediakan pelbagai alatan berguna.\n\nIa muncul serta-merta apabila anda memilih teks. Dengan hanya satu klik, anda boleh menterjemah teks dengan cepat, menulis semula, mendapatkan penjelasan dan banyak lagi. Selain itu, anda boleh menyusun semula susunan alatan dan menyesuaikan gesaan anda sendiri.\n\nUntuk mengaktifkan {{APP_NAME}}, anda hanya perlu klik pada ikon Carian Pantas.",
+    "translatorHostFabConfigLabel": "Senarai tapak web yang Carian Pantas dilumpuhkan",
+    "translatorShortcutLabel": "Kekunci Pintasan untuk Carian Pantas",
+    "quickAction": {
+      "shortcutDesc": "Aktifkan {{name}} melalui pintasan",
+      "customPromptMenu": "Sesuaikan gesaan untuk menu ini",
+      "readTitle": "Menu konteks untuk membaca",
+      "selectionDesc": "Paparkan menu apabila anda memilih mana-mana teks",
+      "diabledSite": "Senarai tapak web yang ciri ini dilumpuhkan",
+      "writeTitle": "Menu konteks untuk menulis (kotak input)",
+      "writeInputIconTitle": "Ikon kotak input",
+      "writeInputIconDesc": "Paparkan ikon pembantu menulis dalam mana-mana kotak input",
+      "triggerKeyword": "Kata kunci pencetus",
+      "triggerKeywordDesc": "Aktifkan {{name}} dalam semua input teks melalui kata kunci",
+      "whatisQuickAction": "🤔 Apakah {{name}}?",
+      "quickActionDesc": "{{name}} ialah koleksi alatan berharga yang sedia tersedia apabila anda memilih teks atau menggunakan kekunci pintasan. Dengan satu klik, anda boleh meningkatkan bacaan atau penulisan anda dengan pantas. Selain itu, anda boleh mengaktifkan kotak input segera untuk membantu anda memenuhi keperluan khusus anda semasa membaca atau menulis. Ini termasuk tugas seperti membuat garis besar untuk topik, sumbang saran idea dan menulis semula perenggan."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "Ringkasan Video YouTube",
+        "desc": "Apabila dihidupkan, {{APP_NAME}} boleh membantu anda meringkaskan video YouTube"
+      },
+      "webpage": {
+        "title": "Ringkasan halaman web",
+        "desc": "Apabila dihidupkan, {{APP_NAME}} boleh membantu anda meringkaskan artikel di halaman web"
+      },
+      "qa": {
+        "title": "Pembantu Soal Jawab",
+        "desc": "Apabila dihidupkan, {{APP_NAME}} boleh menjawab soalan di Quora, StackOverflow dan tapak QA yang lain"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Gesaan Baharu",
+      "editPrompt": "Edit Prompt",
+      "checkPrompt": "Semak Prompt",
+      "archiveTips": "Gesaan yang diarkibkan tidak akan ditunjukkan dalam senario tetapi boleh dicari",
+      "dragTips": "Seret dan lepas untuk menyusun semula gesaan ATAU arkibkan yang anda tidak akan gunakan dalam senario yang sepadan",
+      "howToWritePrompt": "Cara menulis segera",
+      "howToVarTitle": "Apakah pembolehubah yang boleh disertakan dalam gesaan?",
+      "howToVar1": "Anda boleh menggunakan pembolehubah ini untuk mewakili input atau kandungan yang dipilih. Jika gesaan tidak menyertakan pembolehubah ini, input atau kandungan yang dipilih akan disertakan dengan petikan tiga kali ganda dan diletakkan pada penghujung gesaan.",
+      "howToVar2": "Anda boleh menggunakan pembolehubah ini untuk mewakili bahasa yang anda ingin gunakan untuk output, berdasarkan bahasa lalai yang ditetapkan dalam tetapan.",
+      "howToExample": "Sila gunakan topik atau kata kunci berikut untuk menjana garis besar yang merangkumi tajuk, bab dan subbahagian.\nKeluarkannya dalam format Markdown. Hanya berikan saya output dan tidak ada yang lain. Garis besar hendaklah dalam bahasa {{lang}}.\nTopik atau kata kunci: {{content}}",
+      "clickToExpand": "Klik untuk mengembangkan",
+      "clickToHide": "Klik untuk menyembunyikan"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Laporan Masalah",
+        "title": {
+          "label": "Ringkasan Masalah",
+          "tip": "Beritahu kami apa yang salah dalam beberapa perkataan."
+        },
+        "detail": {
+          "label": "Butiran Masalah",
+          "tip": "Sila terangkan secara terperinci perkara yang salah, sebarang tindakan yang anda ambil dan mesej ralat yang anda dapat."
+        }
+      },
+      "fr": {
+        "name": "Permintaan Ciri",
+        "title": {
+          "label": "Tajuk",
+          "tip": "Apakah permintaan anda?"
+        },
+        "detail": {
+          "label": "Penerangan",
+          "tip": "Sila berikan penerangan terperinci tentang ciri baharu yang anda inginkan."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Tanya ChatGPT:",
+    "savePrompt": "Simpan segera",
+    "saveNewPrompt": "Simpan sebagai gesaan baharu",
+    "replacePrompt": "Gantikan gesaan",
+    "inputPlaceholder1": "Masukkan gesaan atau pilih daripada menu",
+    "inputPlaceholder2": "Tampal atau masukkan kandungan di sini",
+    "startNewLine": "Tekan {{shortcut}} untuk memulakan baris baharu",
+    "inputPlaceholderCodes": "Tampal atau masukkan kod di sini",
+    "inputPlaceholderQA": "Tampal atau masukkan soalan di sini",
+    "pressToSubmit": "Tekan {{key}} untuk menyerahkan",
+    "response": "jawapan:",
+    "stopGenerating": "Berhenti menjana",
+    "regenerate": "Menjana semula tindak balas",
+    "askTabLabel": "Tanya",
+    "chatTabLabel": "Sembang",
+    "composeTabLabel": "tulis",
+    "ocrTabLabel": "OCR",
+    "grammarTabLabel": "Tatabahasa",
+    "queryLeft": "{{num}} pertanyaan yang tinggal",
+    "queryLeft2": "{{num}} tinggal",
+    "freePlan": "Pelan Percuma",
+    "premiumPlan": "Pelan Premium",
+    "extraQuota": "Kuota Tambahan",
+    "submitOption": "Pilihan Hantar",
+    "painterLabel": "Pelukis"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Sangat pantas, bagus untuk kebanyakan tugas harian.",
+    "gpt-4": "Model yang paling berkebolehan, terbaik untuk tugas kompleks yang memerlukan penaakulan lanjutan.",
+    "claude-instant": "Model asas daripada Anthropic, kependaman rendah, kes penggunaan throughput tinggi.",
+    "claude2": "Model penawaran terbaik dalam kelas daripada Anthropic, prestasi unggul pada tugasan yang memerlukan penaakulan yang kompleks.",
+    "bard": "Model daripada Google (PaLM 2), berfungsi dengan baik dalam tugasan penaakulan lanjutan."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Kos <m>1 pertanyaan Teks Pantas</m>.",
+    "gpt-4": "Kos <m>1 pertanyaan Teks Lanjutan</m>."
+  },
+  "sidebarChatPanel": {
+    "newChat": "Sembang Baharu",
+    "chatHistory": "Sejarah",
+    "inputPlaceholder": "Taip mesej...",
+    "send": "Hantar",
+    "feedback": "Maklum balas",
+    "share": "Kongsi",
+    "deleteConfirmTitle": "Padamkan perbualan ini?",
+    "deleteConfirmContent": "Tindakan ini tidak boleh dibuat asal.",
+    "compareWeb": "Bandingkan jawapan dari web",
+    "improveWithXXX": "Dapatkan jawapan yang lebih bijak daripada <b>Bot</b>",
+    "improveWithXXX2": "Dapatkan jawapan komprehensif daripada <b>Bot</b>",
+    "compareWithXXX": "Bandingkan jawapan daripada <b>Bot</b>",
+    "improveWithSearch": "Dapatkan jawapan web daripada Google",
+    "improveWithBoth": "Susun Jawapan Google dengan GPT-4",
+    "answerWithoutSearching": "Bandingkan jawapan daripada <b>Bot</b> asal",
+    "screenshot": "Tangkapan skrin",
+    "upload": "Muat naik",
+    "addImage": "Tambah imej",
+    "welcomeQues": [
+      {
+        "title": "🤔 Terangkan konsep yang kompleks",
+        "ques": "Beritahu saya sesuatu tentang Big Bang supaya saya boleh menerangkannya kepada anak saya yang berumur 5 tahun"
+      },
+      {
+        "title": "🧠 Sumbang saran idea yang belum pernah terjadi sebelumnya",
+        "ques": "Sila berikan saya 10 idea hadiah untuk hari lahir rakan saya"
+      },
+      {
+        "title": "💭 Dapatkan tajuk yang menarik serta-merta",
+        "ques": "Hasilkan lima tajuk menarik untuk penulisan saya tentang kes penggunaan ChatGPT"
+      }
+    ],
+    "textSelectedTip": "Teks daripada pilihan anda",
+    "ocrTextTip": "{{name}} Keputusan",
+    "textSelectedSystemMsg": "Apakah yang anda ingin lakukan dengan teks tersebut?",
+    "welcomeSystemMsg": "helo! Bagaimanakah saya boleh membantu anda hari ini?",
+    "chatActionTranslate": "Terjemah ke dalam {{lang}}",
+    "addAPrompt": "Tambah gesaan",
+    "search": "Cari",
+    "continueInChat": "Teruskan dalam sembang",
+    "userStopTip": "Pengguna membatalkan permintaan.",
+    "noChatHistory": "Tiada sejarah sembang lagi.",
+    "noSearchHistory": "Tiada keputusan dijumpai.",
+    "webAccessModalTitle": "{{APP_NAME}} Memperkasakan ChatGPT untuk Mengakses Web!",
+    "webAccessModalContent": "Ingat, ChatGPT mempunyai potongan pengetahuan pada tahun 2021! Walau bagaimanapun, {{APP_NAME}} menggabungkan kecerdasan canggih ChatGPT dengan maklumat web masa nyata. Ciri ini memerlukan sejumlah besar token, jadi pertimbangkan untuk meningkatkan untuk menyokong usaha kami!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Karang",
+    "reply": "Balas",
+    "writePlaceholder": "Topik yang ingin anda karang",
+    "replyPlaceholder1": "Teks asal yang ingin anda balas",
+    "replyPlaceholder2": "Kandungan umum balasan anda kepada teks di atas",
+    "submitShortcut": "Tekan {{shortcut}} untuk menjana draf",
+    "generate": "Hasilkan draf",
+    "format": "Format",
+    "email": "E-mel",
+    "idea": "Idea",
+    "outline": "Garis besar",
+    "essay": "Esei",
+    "paragraph": "Perenggan",
+    "blog": "Catatan Blog",
+    "ads": "Iklan Pemasaran",
+    "twitter": "Twitter",
+    "comment": "Komen",
+    "message": "Mesej",
+    "tone": "nada",
+    "professional": "Profesional",
+    "formal": "Rasmi",
+    "casual": "Santai",
+    "enthusiastic": "Bersemangat",
+    "informational": "Bermaklumat",
+    "funny": "kelakar",
+    "length": "Panjang",
+    "short": "Pendek",
+    "medium": "Sederhana",
+    "long": "Panjang",
+    "preview": "Pratonton",
+    "regenerate": "Menjana semula",
+    "addToSite": "Tambahkan ke tapak",
+    "addToSiteTip": "Letakkan kursor tetikus anda dalam kotak input yang dikehendaki dan klik '{{name}}' untuk memasukkan"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Betulkan Ralat",
+    "retry": "Cuba semula",
+    "inputPlaceholder": "Pastikan penulisan Bahasa Inggeris anda bebas daripada kesilapan. Tampal teks anda atau mula menaip di bawah untuk menyemak ralat tatabahasa, ejaan dan tanda baca.",
+    "checking": "Menyemak",
+    "checkFailed": "Semakan Gagal",
+    "accept": "Terima",
+    "ignore": "Abai",
+    "continueImproving": "Teruskan Penambahbaikan",
+    "improveGuideText": "Klik di sini untuk mendapatkan teks dan alasan yang dipertingkatkan!",
+    "improvedText": "Teks yang Diperbaiki:",
+    "reasonForChanges": "Sebab perubahan:"
+  },
+  "OCRPanel": {
+    "ocrTips": "Ekstrak teks, nombor dan persamaan daripada imej",
+    "ocrCost": "Setiap {{name}} akan menelan belanja {{num}} pertanyaan imej",
+    "newOCR": "{{ocr}} baharu",
+    "noText": "Tiada teks yang dikenali"
+  },
+  "translator": {
+    "quickActions": "Pencarian pantas",
+    "disableHostFabLabel": "Lumpuhkan pada tapak ini",
+    "disableFabLabel": "Lumpuhkan pada Semua tapak"
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>Suka sambungan kami?</b> Sila nilaikan kami lima bintang di kedai web untuk membantu kami berkembang",
+    "newInVersion": "Apa yang Baharu dalam versi {{versionId}}",
+    "learnToUse": "Ketahui cara menggunakan",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} menjadi lebih bijak",
+          "features": [
+            "{{4+VISION}}",
+            "1-klik untuk menjawab soalan yang sama dengan bot yang berbeza"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Widget Tatabahasa Sider",
+          "features": [
+            "Semak kesilapan tatabahasa",
+            "Betulkan kesilapan tatabahasa",
+            "Perbaiki penulisan melebihi tatabahasa"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}} — Bar sisi ChatGPT dengan Vision",
+          "features": [
+            "Ekstrak teks daripada imej",
+            "Tanya sebarang soalan tentang imej",
+            "3 cara untuk menghantar imej ke {{SIDERVISION}} <div><ol><li>Ambil tangkapan skrin</li><li>Seret & Lepaskan imej ke tetingkap Sembang</li><li>Muat naik imej </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Ekstrak teks daripada imej"
+          ]
+        },
+        {
+          "features": [
+            "Ekstrak teks daripada imej"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Pelan harga baharu dengan 5x lebih pertanyaan GPT-4",
+          "features": [
+            "Berita baik! Harga kami yang dikemas kini kini memberi anda lebih banyak akses kepada pertanyaan GPT-4 dan Claude 2.",
+            "Jika anda sudah menjadi pengguna premium, anda akan dinaik taraf secara automatik. Selain itu, kami mempunyai pelan 'Tanpa Had' baharu untuk semua pengguna berkuasa anda!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Lagi bot!",
+          "features": [
+            "Selain ChatGPT dan Claude, Sider menyokong Bard sekarang!"
+          ]
+        },
+        {
+          "title": "OCR: Ekstrak teks daripada mana-mana imej dan hantar ke ChatGPT",
+          "features": [
+            "Kenali 10+ bahasa utama",
+            "Kenali tulisan tangan dalam bahasa Inggeris",
+            "Kenali <b>persamaan matematik</b> dalam teks"
+          ]
+        },
+        {
+          "title": "Meningkatkan Pelukis",
+          "features": [
+            "Gantikan keseluruhan latar belakang",
+            "Alih keluar kawasan yang dipilih"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Lagi Chatbots</b>: Kini Menyokong Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Sembang Kumpulan</b>: Bandingkan Jawapan Merentas Chatbots!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Sebut</b>: Gunakan '@' untuk menyebut dan berinteraksi dengan mudah dengan mana-mana chatbot dalam perbualan!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Gesaan Pantas</b>: Hanya Taip '/' dan Pergi!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Reka Bentuk Mudah</b>: Jadikan reka bentuk mudah dan mudah dinavigasi"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Pengurus segera dipertingkatkan untuk",
+          "features": [
+            "Menu konteks membaca",
+            "Menu konteks menulis"
+          ]
+        },
+        {
+          "title": "Editor imej AI",
+          "features": [
+            "Alih keluar latar belakang daripada sebarang imej",
+            "Alih keluar teks daripada sebarang imej"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Pembantu Membaca: Gunakan AI untuk pemahaman pantas semasa membaca halaman web",
+        "Pembantu Penulisan: Cepat menjana kandungan dengan AI dalam kotak input web"
+      ],
+      "2_7_0": [
+        "Lukis gambar daripada teks",
+        "Lukis gambar daripada gambar rujukan"
+      ],
+      "2_6_0": [
+        "Sider Menyokong Bar Sisi Tetap - Anda boleh bersembang antara semua tab tanpa bertindih sebarang kandungan <br /> (tersedia dalam Chrome 114 atau lebih baru)"
+      ],
+      "2_5_0": [
+        "Ringkasan YouTube! Tonton 1 jam video YouTube dalam 1 minit",
+        "Bandingkan jawapan yang diberikan oleh manusia dan AI di tapak Soal Jawab seperti Quora, StackOverflow dan Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Akses web pintar</b>: Berdasarkan pertanyaan anda, Al akan memutuskan sama ada ia perlu mengakses web.",
+        "Peningkatan kestabilan"
+      ],
+      "2_3_0": [
+        "Menyokong Penyemakan Imbas dan Pemalam untuk pengguna Plus!",
+        "ChatGPT dengan akses internet untuk semua orang!"
+      ],
+      "2_2_0": [
+        "Karang sebarang mesej",
+        "Balas e-mel, tweet, komen dll"
+      ],
+      "2_1_0": [
+        "Pintasan untuk Carian Pantas",
+        "Ubah saiz tetingkap Carian Pantas",
+        "Pembetulan pepijat dan peningkatan UX yang lain"
+      ],
+      "2_0_0": [
+        "Sokong <b>GPT-4 </b>untuk semua pengguna!",
+        "Jemput rakan dan dapatkan pertanyaan <b>GPT-4</b> untuk anda berdua!",
+        "Pembetulan pepijat dan peningkatan UX yang lain"
+      ],
+      "1_1_0": [
+        "Sembang Penuh dalam <b>tab baharu</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> bersama-sama!",
+        "Pembetulan pepijat"
+      ],
+      "1_0_13": [
+        "Teruskan sembang selepas bertanya soalan",
+        "Beralih antara GPT-4 dan GPT-3.5 untuk pengguna Plus",
+        "Akses dan cari sejarah sembang dengan mudah"
+      ],
+      "1_0_12": [
+        "Segerakkan tetapan sambungan merentas komputer",
+        "Akses gesaan anda daripada komputer riba yang berbeza",
+        "Simpan sembang untuk kegunaan masa hadapan",
+        "Kongsi sembang melalui pautan"
+      ],
+      "1_0_11": [
+        "Akses tindakan dengan pantas melalui tetingkap pop timbul tanpa membuka bar sisi.",
+        "Tambahkan sokongan untuk bahasa tambahan.",
+        "Kekalkan pilihan bahasa pengguna apabila menggunakan ciri terjemahan.",
+        "Selesaikan konflik pintasan pada platform seperti GitHub dan lain-lain."
+      ],
+      "1_0_10": [
+        "Sokong 50+ bahasa sekarang!"
+      ],
+      "1_0_8": [
+        "Sokong GPT-4 untuk pengguna Plus! Semak halaman tetapan!"
+      ],
+      "1_0_7": [
+        "Ingat gesaan yang digunakan kali terakhir",
+        "Optimumkan kedudukan panel chatGPT pada halaman carian",
+        "Tambahkan pilihan untuk meletakkan ikon bar sisi dalam halaman di sebelah kiri",
+        "Optimumkan saiz pakej",
+        "Tambah mod gelap",
+        "Sokong proksi url API anda"
+      ],
+      "1_0_6": [
+        "Tingkatkan ciri ringkasan dalam halaman Youtube"
+      ],
+      "1_0_5": [
+        "Ingat lokasi ikon bar sisi",
+        "Perbaiki kekunci pintasan",
+        "Simpan templat segera dari bar sisi secara langsung"
+      ],
+      "1_0_4": [
+        "Susun semula item gesaan dalam senarai lungsur turun",
+        "Arkibkan item gesaan yang anda tidak akan gunakan",
+        "Respons sokongan dalam 50+ bahasa"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Enter untuk melakukan \"Serah\" pantas",
+        "Pilihan untuk menyembunyikan panel dalam halaman hasil carian",
+        "Sokong ESC untuk menyembunyikan bar sisi",
+        "Sokongan meringkaskan artikel panjang"
+      ],
+      "1_0_2": [
+        "Tambah butang henti untuk berhenti menjana respons",
+        "Tukar tempat butang runtuh"
+      ],
+      "1_0_1": [
+        "Tingkatkan ciri ringkasan dalam halaman Youtube",
+        "Betulkan beberapa pepijat yang berkaitan dengan salin/tampal dan cetak"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Undi pada Product Hunt",
+    "sidebar2Banner1": "Undi kami di <b>Product Hunt</b> SEKARANG untuk menyebarkan berita.",
+    "sidebar2ModalTitle": "✨ Ringkasan Sidebar 2.0",
+    "sidebar2ModalDesc": "• Tab sembang\n  • Carian pantas untuk pertanyaan pantas\n  • Akaun untuk menyegerakkan gesaan\n  • Simpan dan kongsi sembang\n  • Menyokong lebih banyak bahasa\n  • Menyokong GPT-4",
+    "ios1Banner1": "Undi untuk ChitChat – apl iOS ChatGPT 🎉",
+    "ios1Banner2": "Mari kita mulakan sesuatu dengan hebat! 😄",
+    "ios1ModalTitle": "✨ Baharu di Apl iOS ChitChat",
+    "ios1ModalDesc": "• Dapatkan jawapan daripada ChatGPT 3.5 & 4\n• Pasukan sokongan bot membantu anda di satu tempat\n  • Tukar PDF anda menjadi chatbot"
+  },
+  "searchTool": {
+    "questionMark": "Cetuskan ChatGPT dengan menambahkan tanda soal selepas pertanyaan anda",
+    "askForQuery": "Tanya ChatGPT untuk pertanyaan ini",
+    "fiveStart": "Nikmati sambungan ini? Beri kami rating 5 bintang di {{store}}",
+    "loginAndCloudflareCheck": "Sila log masuk dan lulus semakan Cloudflare di {{web}}",
+    "braveTrouble": "Masih tidak berfungsi? Ikuti {{url}}",
+    "cloudflareCheck": "OpenAI memerlukan lulus pemeriksaan keselamatan sekali-sekala. Jika ini terus berlaku, tukar penyedia AI kepada OpenAI API dalam <i>pilihan sambungan</i>.",
+    "failedResponse": "Gagal memuatkan respons daripada ChatGPT:",
+    "waitResponse": "Menunggu respons ChatGPT..."
+  },
+  "sidepanel": {
+    "title": "Sider Menyokong Bar Sisi Tetap",
+    "tip": "Petua: Laraskan lebar panel sisi dengan sewajarnya untuk pengalaman yang lebih baik.",
+    "benefit1": "Bar sisi Sider anda <b>tidak akan hilang</b> jika anda menavigasi ke halaman baharu.",
+    "benefit2": "Anda boleh bersembang antara semua tab tanpa <b>bertindih mana-mana kandungan</b>.",
+    "benefit3": "Hanya tersedia dalam <b>Google Chrome 114 atau lebih baru</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Kos {{num}} pertanyaan",
+    "videoSummaryBtn": "Ringkaskan Video",
+    "loginToSummary": "Log masuk ke Ringkaskan",
+    "noTranscriptTip": "{{APP_NAME}} tidak dapat meringkaskan video tanpa sari kata.",
+    "shownotes": "Detik penting",
+    "freeLimitTips": "Percubaan percuma anda telah habis, tingkatkan sekarang untuk terus menggunakan ciri ringkasan video.",
+    "askQuestionBtn": "Tanya Soalan",
+    "noQuestionTip": "{{APP_NAME}} tidak dapat mendapatkan masalah pada halaman."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "Tanya {{APP_NAME}} apa-apa sahaja",
+    "defaultPlaceholder2": "Tanya {{APP_NAME}} dengan kandungan di atas",
+    "managePrompts": "Urus Gesaan",
+    "editSelectionGroup": "Edit atau semak pilihan",
+    "selectionGroup": "Hasilkan daripada pemilihan",
+    "draftGroup": "Draf dengan {{name}}",
+    "AIGenerating": "{{name}} sedang menjana...",
+    "pressToStop": "Tekan {{name}} untuk berhenti",
+    "pressToClose": "Tekan {{name}} untuk menutup",
+    "disableOnce": "Sembunyi sehingga lawatan seterusnya",
+    "disableSite": "Lumpuhkan untuk tapak ini",
+    "disableGlobal": "Lumpuhkan secara global",
+    "continueImproving": "Teruskan Penambahbaikan"
+  },
+  "msg": {
+    "supportedFileFormat": "Format fail yang disokong ialah {{formats}}",
+    "maxFileSize": "Saiz fail maksimum ialah {{size}}",
+    "enterAPIKey": "Sila masukkan kunci API OpenAI anda",
+    "selectModel": "Sila pilih model yang sah",
+    "changeSaved": "Perubahan disimpan",
+    "fiveStart": "Beri kami 5 bintang",
+    "pleaseContactUs": "Sila <a>hubungi kami</a>.",
+    "inviteTitle": "Jemputan & Ganjaran",
+    "inviteEarn": "Dapatkan <mx>{{num}} pertanyaan</mx> untuk anda dan rakan anda. <b>Semakin banyak anda merujuk, semakin banyak yang anda perolehi</b>.",
+    "inviteStep1": "Rujuk rakan anda dengan pautan Jemputan",
+    "inviteStep2": "Rakan anda mendaftar",
+    "inviteStep3": "Mereka memasang sambungan & log masuk. Ganjaran diperoleh!",
+    "checkInvitation": "Semak Rekod Jemputan",
+    "inviteFriendsEarn": "Jemput Rakan & Dapatkan pertanyaan GPT-4",
+    "inviteFriends": "Menjemput kawan-kawan",
+    "inviteRewardsRecord": "Rekod Ganjaran:",
+    "invitedRewardObtained": "Ganjaran Diperolehi!",
+    "invitedWelcome": "Selamat datang! Pertanyaan GPT telah ditambahkan pada akaun anda!",
+    "invitedRewardTips": "Rakan anda menjemput anda dan setiap daripada anda mempunyai <mx>{{num}} pertanyaan</mx> untuk digunakan",
+    "getMoreGPT4": "Dapatkan lebih kuota GPT-4",
+    "errSiderApiLimit": "Anda telah menggunakan semua kredit percuma yang kami berikan, sila ikuti <i>arahan di sini</i> untuk mendapatkan API daripada OpenAI.",
+    "errSiderApiLimitDevice": "Anda telah menggunakan semua kredit percuma yang kami berikan. <a>Log masuk</a> untuk mendapatkan lebih banyak kredit percuma.",
+    "errSiderApiLimitLogin": "Anda telah mencapai kuota anda. Untuk meneruskan, sila pertimbangkan <a>menaik taraf kepada pelan premium kami</a>. Terima kasih!",
+    "errSiderApiLimitLogin2": "Anda telah mencapai kuota anda. Untuk meneruskan, sila pertimbangkan <a>menaik taraf kepada pelan premium kami</a>. Terima kasih!",
+    "errSiderApiLimitPremium": "Anda telah menggunakan semua kredit, sila <a>tingkatkan pelan anda</a>.",
+    "errSiderPremiumRequired": "Sila <a>tingkatkan kepada premium</a> untuk menggunakan ciri ini.",
+    "errSiderHighTrafficError": "{{APP_NAME}} menghadapi trafik yang tinggi. Sila cuba sebentar lagi.",
+    "errSiderHighTrafficTip": "Sila pertimbangkan <a>menaik taraf kepada akaun premium</a> untuk akses yang stabil dan untuk menyokong pembangunan kami.",
+    "errSiderDeviceBinded": "Sila <a>log masuk</a> untuk menggunakannya.",
+    "errSiderApiHighLoad": "Had permintaan dicapai kerana beban yang tinggi, sila cuba sebentar lagi.",
+    "errSiderGPT4HighLoad": "Had GPT-4 dicapai kerana beban yang tinggi, sila cuba sebentar lagi.",
+    "errSiderGPT4LimitDevice": "Sila <b>log masuk</b> dahulu dan <amb>jemput rakan anda</amb> atau <ta>tingkatkan kepada premium</ta> untuk mendapatkan kuota teks yang lebih lanjut.",
+    "errSiderGPT4LimitLogin": "<t>Jemput rakan anda</t> atau <a>tingkatkan kepada premium</a> untuk mendapatkan lebih banyak kuota Teks Lanjutan.",
+    "errSiderGPT4LimitPremium": "<tm>Jemput rakan anda</tm> atau <dm>tingkatkan rancangan anda</dm> untuk mendapatkan lebih kuota teks lanjutan.",
+    "errSiderNeedLogin": "Sila <a>log masuk</a>.",
+    "goToSignIn": "Pergi untuk log masuk",
+    "errSiderTimeout": "Permintaan tamat masa. Sila cuba lagi.",
+    "errSiderProcessing": "Hanya satu mesej pada satu masa. Sila benarkan sebarang respons lain dilengkapkan sebelum menghantar mesej lain, atau tunggu sebentar.",
+    "errTrySiderAPI": "Tukar kepada <i>API Bar Sisi ChatGPT</i> untuk mendapatkan akses yang stabil (untuk semua orang)",
+    "errTrySiderAPI2": "ATAU gunakan kunci API anda sendiri dalam <a>halaman tetapan</a> (untuk pembangun)",
+    "errChatGPTAuth": "Sila <m>klik pautan untuk log masuk </m>ke halaman web ChatGPT anda dan kami akan membantu anda menyematkannya. Kemudian anda boleh menggunakannya di bar sisi.",
+    "errChatGPTAuthTipTitle": "Jika ia tidak berfungsi:",
+    "errChatGPTFailToFetch": "Gagal mendapat respons daripada ChatGPT.",
+    "errOpenaiFailToFetch": "Gagal mendapat respons daripada OpenAI melalui kunci API anda.",
+    "errSiderBasicTextLimit": "Anda telah mencapai had pertanyaan kadar teks asas kami. Pada masa ini, terdapat sekatan sebanyak {{N1}} mesej setiap {{NUM2}} minit. Sebagai alternatif, anda boleh menggunakan pertanyaan teks lanjutan dan kembali kemudian.",
+    "errSiderAdvancedTextLimit": "Anda telah mencapai had pertanyaan kadar teks lanjutan kami. Pada masa ini, terdapat sekatan sebanyak {{N1}} mesej setiap {{NUM2}} minit. Sebagai alternatif, anda boleh menggunakan pertanyaan teks asas dan kembali kemudian.",
+    "loginAndCloudflareCheck": "Beralih kepada <a>API Bar Sisi</a> untuk mendapatkan akses yang stabil ATAU log masuk dan lulus semakan Cloudflare di <i>chat.openai.com</i>",
+    "invalidApiKey": "Kunci API tidak sah, sila dapatkan satu lagi.",
+    "getApiKeyGuide": "Anda memerlukan kunci API OpenAI untuk menjadikannya berfungsi. Ikuti panduan kami untuk mendapatkan kunci API.",
+    "thankForFeedback": "Terima kasih. Borang telah berjaya diserahkan. Kami akan menghubungi anda sebentar lagi.",
+    "writeSomething": "Tolong tulis sesuatu.",
+    "enterEmail": "Masukkan alamat e-mel untuk menerima kemas kini tentang isu tersebut.",
+    "emailRequired": "E-mel diperlukan.",
+    "promptNameRequired": "Nama segera diperlukan.",
+    "titleRequired": "Tajuk diperlukan.",
+    "nameYourPrompt": "Namakan gesaan anda",
+    "nameYourTitle": "Namakan perbualan anda",
+    "promptTplRequired": "Kandungan segera diperlukan.",
+    "deletePromptWarn": "Adakah anda mahu memadamkan gesaan ini?",
+    "restorePromptWarn": "Adakah anda mahu memulihkan templat gesaan ini?",
+    "notValidEmail": "bukan e-mel yang sah",
+    "pleaseSignin": "Sila log masuk.",
+    "signinTips": "Log masuk untuk menyegerakkan gesaan & tetapan anda",
+    "signinAward": "Log masuk untuk mendapatkan {{num}} pertanyaan setiap hari",
+    "signinAward2": "Pertanyaan telah digunakan untuk pengguna yang tidak dilog masuk. Anda boleh log masuk untuk mendapatkan <b>{{num}} pertanyaan percuma setiap hari</b>.",
+    "signinAward3": "Log masuk untuk mendapatkan lebih banyak pertanyaan setiap hari",
+    "chatgptTabGuardTips": "Sila pastikan tab ini dibuka, kini anda boleh kembali ke {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "Sesuatu telah berlaku dengan ChatGPT. Menyambung semula, sila tunggu...",
+    "chatgptTabGuardRefreshingTips1": "Sesuatu telah berlaku dengan ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "Menyambung semula, sila tunggu...",
+    "chatgptTabGuardSetupSuccessTips": "Dibetulkan, sila cuba lagi",
+    "switchToSiderApiToContinue": "Ciri ini pada masa ini hanya menyokong mod API {{APP_NAME}}, sila <a>tukar kepada API {{APP_NAME}}</a> untuk meneruskan.",
+    "switchRequired": "Suis Diperlukan",
+    "signInRequired": "Log masuk Diperlukan",
+    "useUpUpgrade": "Kuota anda telah habis, sila tingkatkan untuk mendapatkan lebih kuota.",
+    "webSearchSignIn": "Sila log masuk untuk menggunakan ciri ini.",
+    "featureLimit": "Had Ciri",
+    "featureLimitTip": "Sila tingkatkan untuk menggunakan Claude dan Bard.",
+    "featureUnavailableOnPage": "Ciri ini tidak tersedia pada halaman ini",
+    "featureBrowserLimit": "Disebabkan sekatan penyemak imbas, ciri ini tidak tersedia pada halaman ini. Sila tukar halaman dan cuba lagi.",
+    "quotaModelContent": "Had pertanyaan GPT-4/Claude-2 anda telah dicapai. Tingkatkan kepada Pelan Premium untuk mendapatkan lebih banyak akses, atau jemput rakan untuk pertanyaan tambahan percuma.",
+    "signinFeature": "Sila log masuk untuk mengakses ciri ini.",
+    "signinFeature2": "Sila log masuk untuk mengakses ciri ini",
+    "dragImgTips": "Klik atau seret imej yang anda mahu {{name}}",
+    "reEnableInSettings": "Anda boleh mendayakan semula dalam <a>Tetapan</a>",
+    "switchBarTip": "Luaskan panel sisi untuk menyemat bar navigasi.",
+    "upgradeSupport": "Naik taraf kepada pelan premium untuk menyokong kami",
+    "imageSizeLimit": "Had Imej",
+    "imageSizeLimitTip": "Sila pastikan imej itu lebih kecil daripada 10MB dan lebar atau tingginya tidak melebihi 4096 piksel, kemudian cuba lagi.",
+    "errOpenAIFilter": "Sambutan telah ditapis kerana dasar pengurusan kandungan OpenAI yang mencetuskan segera. Sila ubah suai gesaan anda dan cuba semula."
+  },
+  "options": {
+    "theme": {
+      "auto": "automatik",
+      "light": "mod terang",
+      "dark": "mod gelap"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Sentiasa",
+        "desc": "Tanya ChatGPT pada setiap carian"
+      },
+      "questionMark": {
+        "title": "Tanda soal",
+        "desc": "Tanya ChatGPT jika kata kunci berakhir dengan tanda soal (?)"
+      },
+      "manually": {
+        "title": "Secara manual",
+        "desc": "Tanya ChatGPT hanya apabila anda mengklik butang"
+      }
+    },
+    "sidebarLocation": {
+      "left": "sebelah kiri",
+      "right": "sebelah kanan"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Tanya ChatGPT",
+        "template": "Bolehkah anda memberitahu saya sesuatu tentang {{keywords}}? Jika boleh, bolehkah anda memberi saya beberapa pautan mengenainya? Jika {{keywords}} ialah soalan berkaitan kod, sila tulis kod tersebut"
+      },
+      "list": {
+        "title": "Kata kunci kepada Soalan",
+        "template": "Senaraikan 1 soalan paling popular tentang \"{{keywords}}\". Kemudian, Jawab soalan ini. Akhir sekali, senaraikan 4 soalan lagi."
+      },
+      "suggest": {
+        "title": "Dapatkan kata kunci yang berkaitan",
+        "template": "{{keywords}} ialah kata kunci carian saya di Google. Tolong berikan saya 5 set kata kunci yang berkaitan."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "rumuskan",
+        "template": "Ringkaskan ini untuk pelajar darjah dua:"
+      },
+      "similar-pages": {
+        "title": "Muka surat yang serupa",
+        "template": "Cari 10 halaman yang serupa dengan kandungan berikut dengan pautan:"
+      },
+      "grammar": {
+        "title": "Tatabahasa",
+        "template": "Betulkan ini kepada bahasa Inggeris standard:"
+      },
+      "explain": {
+        "title": "Terangkan",
+        "template": "Jelaskan kandungan berikut:"
+      },
+      "explain-codes": {
+        "title": "Terangkan Kod",
+        "template": "Terangkan kod berikut:"
+      },
+      "rewrite": {
+        "title": "Tulis semula",
+        "template": "Tulis semula kandungan berikut:"
+      },
+      "translate": {
+        "title": "Terjemah",
+        "template": "Terjemahkan kandungan berikut kepada bahasa {{lang}}:"
+      },
+      "qa": {
+        "title": "Soal Jawab",
+        "template": "Jawab soalan ini:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Pelan Percuma",
+    "basic": "Pelan Asas",
+    "pro": "Pelan Pro",
+    "ultra": "Pelan Ultra"
+  },
+  "queryNames": {
+    "fast": "Teks Cepat",
+    "advanced": "Teks Lanjutan",
+    "image": "Gambar"
+  },
+  "upgradeModal": {
+    "desc": "Lebih banyak pertanyaan dan lebih banyak ciri！",
+    "upgradeToUseXXX": "Tingkatkan Untuk Menggunakan <b>bot</b>",
+    "getWebAccess": "Tingkatkan untuk mendapatkan jawapan web",
+    "gpt4Desc": "GPT-4 jauh lebih bijak dan boleh membantu anda mendapatkan jawapan yang lebih logik dan tepat.",
+    "claude2Desc": "Claude-2 jauh lebih bijak dan boleh membantu anda mendapatkan jawapan yang lebih logik dan tepat.",
+    "webAccessDesc": "Sider mendapatkan jawapan kepada soalan anda daripada Google dan menggunakan AI untuk penyusunan ringkas dan ringkasan.",
+    "features": {
+      "_0": "<b>Tidak terhad</b> Pertanyaan Teks Pantas",
+      "0_desc": "Untuk GPT3.5, Bard & Claude Instant",
+      "_1": "<b>Tidak terhad</b> Pertanyaan Teks Lanjutan",
+      "1_desc": "Untuk GPT4 & Claude V2",
+      "_2": "<b>1000/Bulan</b> Pertanyaan Imej",
+      "2_desc": "Untuk pelukis, OCR dan Visi"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+   "extDescription": {
+      "message": "腾讯翻译是腾讯发布的一款浏览器扩展，支持划词翻译、网页翻译、双语对照等功能。"
+   },
+   "extName": {
+      "message": "腾讯翻译"
+   },
+   "translateImage": {
+      "message": "翻译此图片"
+   },
+   "translateSelectionText": {
+      "message": "翻译“%s”"
+   },
+   "translateWebPage": {
+      "message": "翻译为 $1",
+      "placeholder": {
+         "targetLang": {
+            "content": "$1",
+            "example": "中文"
+         }
+      }
+   }
+}

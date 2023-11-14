@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "message": "ChatGPT külgriba on teie tehisintellekti abiline igal lehel"
+   },
+   "appDescEdge": {
+      "message": "Sider -- AI külgriba, mida toetab OpenAI ChatGPT"
+   },
+   "appName": {
+      "message": "Sider: ChatGPT Sidebar + Vision & GPT-4"
+   },
+   "appNameEdge": {
+      "message": "Sider -- AI Sidebar"
+   }
+}

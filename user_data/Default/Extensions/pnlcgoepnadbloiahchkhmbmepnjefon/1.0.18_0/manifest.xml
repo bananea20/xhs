@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+    <id>cn.wuhaolin.bilidown</id>
+    <name>B站视频下载</name>
+    <show_icon>false</show_icon>
+    <description>安装之后播放页视频下方就有下载按钮，点击就能下载</description>
+    <version>1.0.2</version>
+    <request_api_version>1</request_api_version>
+    <author>hal</author>
+    <content_scripts>
+        <content_script>
+            <match>*://*.bilibili.com/*</match>
+            <match>*://*.taobao.com/*</match>
+            <match>*://*.tmall.com/*</match>
+            <match>*://*.jd.com/*</match>
+            <js>./js/content_script.js</js>
+        </content_script>
+    </content_scripts>
+    <background>
+        <background>
+            <scripts>./js/background.js</scripts>
+        </background>
+    </background>
+    <permissions>
+        <permission>storage</permission>
+        <match>*://*.bilibili.com/*</match>
+        <permission>*://*.taobao.com/*</permission>
+        <permission>*://*.tmall.com/*</permission>
+        <permission>*://*.jd.com/*</permission>
+        <permission>*://*.manmanbuy.com/*</permission>
+    </permissions>
+</extension>

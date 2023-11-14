@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/icons/convertio-128x128.png",
+         "16": "images/icons/convertio-16x16.png",
+         "32": "images/icons/convertio-32x32.png",
+         "48": "images/icons/convertio-48x48.png"
+      },
+      "default_popup": "index.html",
+      "default_title": "__MSG_appDefaultTitle__"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/icons/convertio-128x128.png",
+      "16": "images/icons/convertio-16x16.png",
+      "32": "images/icons/convertio-32x32.png",
+      "48": "images/icons/convertio-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk+bMo0fHHv+OYNn0GnsYBd/nTEgRTyHe/omUNFmpOEMlyetUAiBaJkypE8zQc/4epCmYmH367Nqjkrdsd8IuLJESsi6yiuifvHRjodARehCrieVqJnNkiKUv30FAnctr1A9p38eu63B99vwB3+3Rrfhd9h63ysXBBKWxxS4V5uulYH54FBcwrAjnmYdBqbZw5zVPrGuOYvjN34c2/KpnvAG2teGZnq38SVsnlrvsEc2UOMkVy+rRFSvhmapSzrd8dezucDcQBbrfKPOgD1SMm6vgj/tWFeO5H0VKQ/RIvvIqfpOzCr3XeTaz94ej3o/nvUGsvt9gvnBQhVc+A0762QIDAQAB",
+   "manifest_version": 2,
+   "name": "Convertio 万能格式转化器",
+   "permissions": [ "storage", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.0.4"
+}

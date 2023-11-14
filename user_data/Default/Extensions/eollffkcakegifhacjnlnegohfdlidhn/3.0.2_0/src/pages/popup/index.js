@@ -1,0 +1,1 @@
+import{c as r}from"../../../assets/js/client.a03654a4.js";import{P as n}from"../../../assets/js/Popup.ca031a61.js";import{j as t}from"../../../assets/js/jsx-runtime.48969444.js";function e(){const o=document.querySelector("#app-container");if(!o)throw new Error("Can not find #app-container");r(o).render(t(n,{}))}e();

@@ -1,0 +1,23 @@
+{
+   "extDescription": {
+      "message": "Support selected text translation, web page translation, web page has a variety of display modes."
+   },
+   "extName": {
+      "message": "TranSmart"
+   },
+   "translateImage": {
+      "message": "Translate this image"
+   },
+   "translateSelectionText": {
+      "message": "Translate for '%s'"
+   },
+   "translateWebPage": {
+      "message": "Translate to $1",
+      "placeholder": {
+         "targetLang": {
+            "content": "$1",
+            "example": "English"
+         }
+      }
+   }
+}

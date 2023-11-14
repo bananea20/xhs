@@ -1,0 +1,907 @@
+{
+  "sidebar": "Barra lateral",
+  "shortcut": "Tecla de drecera",
+  "ask": "Pregunta",
+  "save": "Guarda-ho",
+  "saved": "Desat",
+  "delete": "Suprimeix",
+  "remove": "Eliminar",
+  "cancel": "Cancel · lar",
+  "stop": "Atura",
+  "insert": "Insereix",
+  "replace": "Substitueix",
+  "ok": "D'acord",
+  "submit": "Presentar",
+  "attention": "Avís",
+  "send": "Enviar",
+  "copy": "Còpia",
+  "copied": "Copiat",
+  "clear": "Clar",
+  "quote": "Cita",
+  "collapse": "Replega la barra lateral",
+  "done": "Fet",
+  "manage": "Gestionar",
+  "template": "plantilla",
+  "edit": "Edita",
+  "add": "Afegeix",
+  "feedback": "Feedback",
+  "tweetit": "Tuitejar",
+  "fullPageChat": "Xat de pàgina sencera",
+  "whatNew": "Novetats",
+  "gotIt": "Ho tinc",
+  "settings": "Configuració",
+  "signin": "Inicia sessió",
+  "signinNow": "Inicia sessió ara",
+  "unlimited": "Il·limitat",
+  "share": "Compartir",
+  "myChats": "Els meus xats",
+  "general": "Configuració general",
+  "archive": "Arxiu",
+  "unarchive": "desarxivar",
+  "searchPage": "Pàgina de cerca",
+  "addons": "Complements",
+  "webStore": "Botiga web",
+  "webApp": "Aplicació web",
+  "webAccess": "Accés web",
+  "upgradeNow": "Actualitza ara",
+  "upgrade": "Actualitza",
+  "language": "Llenguatge",
+  "theme": "Tema",
+  "sendShortcut": "Envia la drecera",
+  "model": "Model",
+  "version": "Versió",
+  "more": "Més",
+  "listen": "Escolta",
+  "skip": "Omet",
+  "vote": "Vota",
+  "invite": "Convidar",
+  "hide": "Amaga",
+  "pin": "pin up",
+  "unpin": "desenganxa",
+  "showMore": "Mostra més",
+  "editTitle": "Edita el títol",
+  "summarize": "Resumir",
+  "summarizing": "Resumint",
+  "answering": "Responent",
+  "productivity": "Productivitat",
+  "modelUpdateSuccess": "El model s'ha actualitzat correctament",
+  "modelUpdateFailed": "No s'ha actualitzat el model",
+  "customPrompt": "Sol·licitud personalitzada",
+  "currentTpl": "Plantilla actual:",
+  "current": "Actual",
+  "extra": "extra",
+  "editTpl": "Editeu aquesta plantilla",
+  "delteTpl": "Suprimeix aquesta plantilla",
+  "restoreTpl": "Restaura aquesta plantilla",
+  "archiveTpl": "Arxiva aquesta plantilla",
+  "showTpl": "Mostra aquesta plantilla",
+  "prompts": "Indicacions",
+  "imageRetryTip": "La càrrega ha fallat. Feu clic per tornar-ho a provar.",
+  "mentionBot": "Esmenta Bot",
+  "promptName": "Nom del missatge",
+  "promptContent": "Contingut prompte",
+  "contactUs": "Contacta amb nosaltres",
+  "webAssistant": "Assistent web",
+  "quickAction": "Menú contextual",
+  "promptManage": "Gestor de promptes",
+  "issueType": "Tipus de problema",
+  "pinExt": "Extensió de pin",
+  "yourEmailAddress": "La teva adreça de correu electrònic",
+  "troubleshooting": "Resolució de problemes",
+  "openSidebar": "Obre la barra lateral",
+  "pasteSelection": "Enganxa la selecció",
+  "pasteTextPage": "Enganxa el text de la pàgina",
+  "getAnotherKey": "Obteniu una altra clau",
+  "showSearchPanel": "Mostra el panell de cerca",
+  "getItNow": "Agafa-ho ara",
+  "notNow": "Ara no",
+  "alwaysDisplay": "Mostra sempre",
+  "queries": "Consultes",
+  "total": "total",
+  "getMore": "obtenir més",
+  "goPremium": "actualitzeu a premium",
+  "goPremiumGetMore": "actualitzeu a premium per obtenir-ne més",
+  "myAccount": "El meu compte",
+  "clickToAsk": "Feu clic per preguntar",
+  "searchingFor": "Buscant:",
+  "searchedFor": "S'ha cercat:",
+  "using": "Utilitzant",
+  "used": "Usat",
+  "switchAndContinue": "Canvia i continua",
+  "ExtractText": "Extreu text de la imatge",
+  "describleImage": "Descriu aquesta imatge",
+  "pricePerDay": "Menys de {{num}}/dia",
+  "readingAssistant": "Auxiliar de lectura",
+  "writingAssistant": "Auxiliar d'escriptura",
+  "moreQueries": "Més consultes!",
+  "newPlan": "Nou pla!",
+  "all": "Tots",
+  "success": "Èxit",
+  "usedIn": "Utilitzat en",
+  "check": "Comproveu",
+  "example": "Exemple",
+  "ChangeTone": "Canvia el to",
+  "screenshot": "Captura de pantalla",
+  "uploadImage": "Carregueu una imatge",
+  "hideImage": "Amaga la imatge",
+  "showImage": "Mostra la imatge",
+  "fullscreen": "Pantalla completa",
+  "OR": "O",
+  "refresh": "Actualització",
+  "phoneNumber": "Número de telèfon",
+  "recognizing": "Reconeixent",
+  "result": "Resultat",
+  "describeImage": "Descriu aquesta imatge",
+  "inviteFriendTip": "<a>Convida amics</a> per rebre consultes addicionals",
+  "resetTime": "Restableix el <a>3 d'agost de 2023</a>",
+  "imageQuoteTipTitle": "Tornar a preguntar la imatge? Cal citar la imatge",
+  "imageQuoteTipContent": "Per tornar a preguntar sobre la imatge, només cal citar-la.",
+  "ocrEmptyMsg": "Ho sento, no trobo text en aquesta imatge.",
+  "imageInputHint": "Fes preguntes sobre aquesta imatge",
+  "popupPage": {
+    "thank": "Gràcies per utilitzar l'extensió {{APP_NAME}}!",
+    "desc": "La pàgina actual és una pàgina única i la funció de barra lateral no està disponible. Tanmateix, podeu obrir una pàgina completa per xatejar!",
+    "chatNow": "Xateja ara"
+  },
+  "setupPage": {
+    "loginSuccess": "Inici de sessió correcte",
+    "welcome": "Benvingut a {{APP_NAME}}!",
+    "loginWith": "Inicia la sessió amb {{name}}",
+    "pinTips": "<b>Fix {{APP_NAME}}</b>, accés més fàcil!",
+    "pinClickTip": "Feu clic a {{icon}} per fixar {{APP_NAME}}",
+    "next": "Pròxim",
+    "pinGuideDesc": "Per facilitar l'accés a l'extensió, deixeu-la fixar seguint els passos següents.\n1. Feu clic a la icona del trencaclosques <b>ICONA</b> al costat del vostre avatar de perfil.\n2. Al menú desplegable, cerqueu {{APP_NAME}}.\n3. Feu clic a la icona de la xinxeta fins que es torni blava.",
+    "signInGuideTitle": "Inicieu la sessió ara per desbloquejar el següent:",
+    "signInGuideStep1": "Sincronitza la configuració de l'extensió entre ordinadors",
+    "signInGuideStep2": "Accediu a les vostres instruccions des de diferents ordinadors portàtils",
+    "signInGuideStep3": "Desa els xats per a un ús futur",
+    "signInGuideStep4": "Comparteix xats mitjançant un enllaç",
+    "welcomeGuide": "Benvingut a {{APP_NAME}}",
+    "step1Label": "primer pas",
+    "step2Label": "segon pas",
+    "tryOut": "Intenta-ho"
+  },
+  "getKeyPage": {
+    "welcome": "Benvingut a {{APP_NAME}}! Aquí teniu el vostre viatge per començar:",
+    "stepTitle": "Com obtenir una clau API.",
+    "step1": "Pas 1: obteniu la clau API",
+    "step1-1": "<i>Inicieu la sessió al vostre compte d'OpenAI</i> Si no teniu cap compte, registreu-vos <b>AQUÍ</b>",
+    "step1-2": "Visiteu la pàgina de claus de l'API d'OpenAI",
+    "step1-3": "Creeu una nova clau secreta i copieu-la de la següent manera",
+    "step2": "Pas 2: enganxeu la clau de l'API al quadre següent",
+    "step2-tips": "No et preocupis. La vostra clau d'API només s'utilitza localment a l'extensió ChatGPT. L'ús de l'API és més estable que l'ús directe de ChatGPT.",
+    "step3": "Pas 3: comproveu els vostres crèdits <i>aquí</i>"
+  },
+  "optionPage": {
+    "howToAccess": "Com accedir a ChatGPT i utilitzar-lo a qualsevol lloc",
+    "howToAccessTip": "Per assegurar-nos que la IA sigui accessible per a tothom, oferim 3 maneres d'accedir a ChatGPT i utilitzar-la a qualsevol lloc.",
+    "recommend4all": "(Recomanat per a tothom)",
+    "sidebarProvider": "La barra lateral utilitza l'API ChatGPT Premium per garantir un accés estable.",
+    "sidebarProviderGoPremium": "Oferim {{num}} consultes diàries gratuïtes per garantir l'accessibilitat de l'IA per a tothom. <a>Actualitzeu a premium</a> per augmentar el vostre límit de consultes diàries i donar suport a la nostra missió de <b>proporcionar IA universal per a tothom</b>.",
+    "webappProvider": "L'API que alimenta l'aplicació web ChatGPT és gratuïta, però de vegades pot ser inestable.",
+    "webappGPT4": "(els usuaris de ChatGPT Plus poden provar-ho)",
+    "webappTip1": "Si sou un usuari de ChatGPT Plus, ara teniu l'opció de triar GPT-4. Tanmateix, OpenAI pot limitar el nombre de missatges que podeu enviar al dia.",
+    "webappTip2": "Si us plau, <m>fixeu la pestanya ChatGPT</m> i mantingueu la sessió iniciada al lloc web de ChatGPT. Tanmateix, això pot no garantir l'estabilitat. Si trobeu algun problema, visiteu <v>el lloc web de ChatGPT </v>i actualitzeu la pàgina.",
+    "GPT4Desc": "Heu de mantenir la sessió iniciada al vostre compte de ChatGPT al lloc web. L'estabilitat pot ser inconsistent tant per als usuaris Plus com per als usuaris gratuïts a causa de la restricció d'OpenAI.",
+    "apiKeyProviderTip": "(Per a desenvolupadors amb clau API)",
+    "apiKeyProvider": "L'API oficial d'OpenAI és més estable i els càrrecs es basen en l'ús.",
+    "apiKeyLocally": "La vostra clau d'API s'emmagatzema localment al vostre navegador i mai no s'envia a cap altre lloc.",
+    "ownURL": "Utilitzeu el meu propi URL",
+    "apiKeyTip1": "És possible que la vostra clau de l'API d'OpenAI gratuïta hagi caducat. <a>Comproveu aquí l'estat de caducitat de la clau de l'API.</a>",
+    "apiKeyTip2": "Si utilitzeu la clau de l'API d'OpenAI gratuïta, és possible que l'accés a ChatGPT no sigui estable quan té una gran demanda.",
+    "apiFreeGuide": "Seguiu la guia per obtenir la clau API.",
+    "apiKeyGpt4Tip": "L'extensió admet GPT-4 si introduïu una clau d'API GPT-4.",
+    "displaySearchRes": "Mostra la resposta de ChatGPT al costat de les pàgines de resultats de la cerca",
+    "whenToAsk": "Quan demanar a ChatGPT",
+    "promptTplForSearch": "Plantilla de sol·licitud per a Google i altres motors de cerca",
+    "addNewTplForSearch": "Afegiu una nova plantilla de sol·licitud",
+    "launchSidebar": "Inicieu la barra lateral",
+    "sidebarLocation": "Ubicació de la barra lateral",
+    "sidebarLeftOrRight": "Col·loqueu la barra lateral al costat esquerre o dret",
+    "sidebarDisplayOption": "Mode de visualització de la barra lateral",
+    "sidebarDisplayOptionTip": "Trieu com apareix la barra lateral a la pàgina",
+    "sidebarDisplayOptions": {
+      "overlay": "Superposició",
+      "expand": "En expansió"
+    },
+    "sidebarIcon": "Icona de la barra lateral",
+    "sidebarIconAccess": "Accediu a la barra lateral mitjançant la icona situada a l'extrem inferior dret de la pàgina. Podeu arrossegar-lo per moure'l cap amunt i cap avall",
+    "easiestWayUse": "La manera més fàcil d'utilitzar {{APP_NAME}}",
+    "displayWhenSelect": "Mostra quan se selecciona el text",
+    "promptTplForSidebar": "Plantilla de sol·licitud per a la barra lateral",
+    "dragSidebarTpl": "Arrossegueu i deixeu anar per reordenar la plantilla O arxivar aquelles que no utilitzareu",
+    "addNewTplForSidebar": "Afegeix una nova plantilla de sol·licitud",
+    "editSearchTplTip": "utilitzeu {{keywords}} per fer referència a les vostres paraules clau de cerca",
+    "editSearchTplPlaceholder": "{{keywords}} al contingut de la sol·licitud se substituirà automàticament per les vostres paraules clau de cerca",
+    "editSidebarTplTip": "Enganxeu o introduïu contingut aquí",
+    "showOnList": "Mostra a la llista",
+    "translatorNavTitle": "Cerca ràpida",
+    "translatorTitle": "Finestra de cerca ràpida",
+    "translatorFabTitle": "Icona de cerca ràpida",
+    "translatorFabDesc": "Accediu a la finestra de cerca ràpida mitjançant la icona.",
+    "translatorFabToggleLabel": "Mostra quan se selecciona el text",
+    "translatorTplTitle": "Plantilla de sol·licitud per a la finestra emergent",
+    "translatorTplDesc": "La primera plantilla principal s'utilitzarà com a comanda predeterminada per a la finestra emergent.",
+    "translatorPrimaryTemplates": "Plantilles principals",
+    "translatorTemplatesNotes": "*Aquesta finestra emergent comparteix les mateixes plantilles amb la barra lateral. Si necessiteu editar o afegir una plantilla, modifiqueu-la a la <b>Configuració de la barra lateral</b>.",
+    "translatorIntroTitle": "🤔 Què és la cerca ràpida?",
+    "translatorIntroDesc": "La cerca ràpida és una acció ràpida de {{APP_NAME}}, que ofereix una sèrie d'eines útils.\n\nApareix a l'instant quan seleccioneu text. Amb només un clic, podeu traduir textos ràpidament, reescriure-los, obtenir explicacions i molt més. A més, podeu reorganitzar l'ordre de les eines i personalitzar les vostres pròpies indicacions.\n\nPer activar {{APP_NAME}}, tot el que heu de fer és fer clic a la icona de cerca ràpida.",
+    "translatorHostFabConfigLabel": "Llista de llocs web on la cerca ràpida està desactivada",
+    "translatorShortcutLabel": "Tecla de drecera per a la cerca ràpida",
+    "quickAction": {
+      "shortcutDesc": "Activa {{name}} mitjançant la drecera",
+      "customPromptMenu": "Personalitza la sol·licitud d'aquest menú",
+      "readTitle": "Menú contextual per llegir",
+      "selectionDesc": "Mostra el menú quan seleccioneu qualsevol text",
+      "diabledSite": "Llista de llocs web on aquesta funció està desactivada",
+      "writeTitle": "Menú contextual per escriure (quadre d'entrada)",
+      "writeInputIconTitle": "Icona del quadre d'entrada",
+      "writeInputIconDesc": "Mostra la icona de l'assistent d'escriptura a qualsevol quadre d'entrada",
+      "triggerKeyword": "Activar paraules clau",
+      "triggerKeywordDesc": "Activeu {{name}} a totes les entrades de text mitjançant paraules clau",
+      "whatisQuickAction": "🤔 Què és {{name}}?",
+      "quickActionDesc": "{{name}} és una col·lecció d'eines valuoses que estan fàcilment disponibles quan trieu text o utilitzeu una tecla de drecera. Amb un sol clic, podeu millorar ràpidament la vostra lectura o escriptura. A més, podeu activar el quadre d'entrada de sol·licitud per ajudar-vos a complir els vostres requisits específics mentre llegiu o escriviu. Això inclou tasques com la creació d'un esquema per a un tema, la pluja d'idees i la reescriptura de paràgrafs."
+    },
+    "webAssistant": {
+      "vidoe": {
+        "title": "Resum del vídeo de YouTube",
+        "desc": "Quan està activada, {{APP_NAME}} us pot ajudar a resumir vídeos de YouTube"
+      },
+      "webpage": {
+        "title": "Resum de la pàgina web",
+        "desc": "Quan està activada, {{APP_NAME}} us pot ajudar a resumir articles a la pàgina web"
+      },
+      "qa": {
+        "title": "Assistent de preguntes i respostes",
+        "desc": "Quan està activada, {{APP_NAME}} pot respondre la pregunta a Quora, StackOverflow i altres llocs de control de qualitat"
+      }
+    },
+    "promptManage": {
+      "newPrompt": "Nova indicació",
+      "editPrompt": "Petició d'edició",
+      "checkPrompt": "Comproveu el missatge",
+      "archiveTips": "Les sol·licituds arxivades no es mostraran als escenaris, però es poden cercar",
+      "dragTips": "Arrossegueu i deixeu anar per reordenar el missatge O arxivar aquells que no utilitzareu en l'escenari corresponent",
+      "howToWritePrompt": "Com escriure un missatge",
+      "howToVarTitle": "Quines variables es poden incloure al prompt?",
+      "howToVar1": "Podeu utilitzar aquesta variable per representar l'entrada o el contingut seleccionat. Si la sol·licitud no inclou aquesta variable, l'entrada o el contingut seleccionat s'adjuntarà entre cometes triples i es col·locarà al final de la sol·licitud.",
+      "howToVar2": "Podeu utilitzar aquesta variable per representar l'idioma que voleu utilitzar per a la sortida, segons l'idioma predeterminat establert a la configuració.",
+      "howToExample": "Utilitzeu els temes o paraules clau següents per generar un esquema que inclogui títols, capítols i subseccions.\nEscriviu-lo en format Markdown. Doneu-me només la sortida i res més. L'esquema hauria d'estar en {{lang}}.\nTemes o paraules clau: {{content}}",
+      "clickToExpand": "Feu clic per ampliar",
+      "clickToHide": "Feu clic per amagar"
+    },
+    "feedbackTypes": {
+      "bug": {
+        "name": "Informe de problemes",
+        "title": {
+          "label": "Resum del problema",
+          "tip": "Feu-nos saber què ha fallat en poques paraules."
+        },
+        "detail": {
+          "label": "Detalls del problema",
+          "tip": "Si us plau, descriu amb detall què ha fallat, les accions que heu fet i els missatges d'error que heu rebut."
+        }
+      },
+      "fr": {
+        "name": "Sol·licitud de funció",
+        "title": {
+          "label": "Títol",
+          "tip": "De què va la teva petició?"
+        },
+        "detail": {
+          "label": "Descripció",
+          "tip": "Proporcioneu una descripció detallada de la funció nova que voleu."
+        }
+      }
+    }
+  },
+  "sidebarPanel": {
+    "askChatGPT": "Pregunta a ChatGPT:",
+    "savePrompt": "Desa el missatge",
+    "saveNewPrompt": "Desa com a sol·licitud nova",
+    "replacePrompt": "Substituïu el missatge",
+    "inputPlaceholder1": "Introduïu la sol·licitud o trieu del menú",
+    "inputPlaceholder2": "Enganxeu o introduïu contingut aquí",
+    "startNewLine": "Premeu {{shortcut}} per començar una línia nova",
+    "inputPlaceholderCodes": "Enganxeu o introduïu codis aquí",
+    "inputPlaceholderQA": "Enganxeu o introduïu la pregunta aquí",
+    "pressToSubmit": "Premeu {{key}} per enviar",
+    "response": "Resposta:",
+    "stopGenerating": "Deixar de generar",
+    "regenerate": "Resposta regenerada",
+    "askTabLabel": "Pregunta",
+    "chatTabLabel": "Xatejar",
+    "composeTabLabel": "Escriu",
+    "ocrTabLabel": "OCR",
+    "grammarTabLabel": "Gramàtica",
+    "queryLeft": "Queden {{num}} consultes",
+    "queryLeft2": "Queden {{num}}",
+    "freePlan": "Pla gratuït",
+    "premiumPlan": "Pla Premium",
+    "extraQuota": "Quota extra",
+    "submitOption": "Opció d'enviament",
+    "painterLabel": "Pintor"
+  },
+  "modelDesc": {
+    "gpt-3.5": "Molt ràpid, ideal per a la majoria de les tasques quotidianes.",
+    "gpt-4": "Model més capaç, millor per a tasques complexes que requereixen un raonament avançat.",
+    "claude-instant": "El model bàsic d'Anthropic, casos d'ús de baixa latència i alt rendiment.",
+    "claude2": "El millor model d'oferta d'Anthropic, rendiment superior en tasques que requereixen un raonament complex.",
+    "bard": "El model de Google (PaLM 2), funciona bé en tasques de raonament avançades."
+  },
+  "modelCountTip": {
+    "gpt-3.5": "Cost <m>1 consulta de text ràpid</m>.",
+    "gpt-4": "Cost <m>1 consulta de text avançat</m>."
+  },
+  "sidebarChatPanel": {
+    "newChat": "Xat nou",
+    "chatHistory": "Història",
+    "inputPlaceholder": "Escriu un missatge...",
+    "send": "Enviar",
+    "feedback": "Feedback",
+    "share": "Compartir",
+    "deleteConfirmTitle": "Vols suprimir aquesta conversa?",
+    "deleteConfirmContent": "Aquesta acció no es pot desfer.",
+    "compareWeb": "Compara la resposta de la web",
+    "improveWithXXX": "Obteniu una resposta més intel·ligent de <b>Bot</b>",
+    "improveWithXXX2": "Obteniu una resposta completa de <b>Bot</b>",
+    "compareWithXXX": "Compara la resposta de <b>Bot</b>",
+    "improveWithSearch": "Obteniu resposta web de Google",
+    "improveWithBoth": "Organitzeu Google Answers amb GPT-4",
+    "answerWithoutSearching": "Compara la resposta del <b>Bot</b> original",
+    "screenshot": "Captura de pantalla",
+    "upload": "Carrega",
+    "addImage": "Afegeix una imatge",
+    "welcomeQues": [
+      {
+        "title": "🤔 Explica un concepte complex",
+        "ques": "Explica'm alguna cosa sobre el Big Bang perquè pugui explicar-ho al meu fill de 5 anys"
+      },
+      {
+        "title": "🧠 Fes una pluja d'idees sense precedents",
+        "ques": "Si us plau, proporciona'm 10 idees de regals per a l'aniversari del meu amic"
+      },
+      {
+        "title": "💭 Aconsegueix títols enganxosos a l'instant",
+        "ques": "Genereu cinc títols enganxosos per al meu escrit sobre el cas d'ús de ChatGPT"
+      }
+    ],
+    "textSelectedTip": "Text de la vostra selecció",
+    "ocrTextTip": "{{name}} Resultat",
+    "textSelectedSystemMsg": "Què t'agradaria fer amb el text?",
+    "welcomeSystemMsg": "Hola! Com puc ajudar-te avui?",
+    "chatActionTranslate": "Tradueix a {{lang}}",
+    "addAPrompt": "Afegeix una indicació",
+    "search": "Cerca",
+    "continueInChat": "Continua al xat",
+    "userStopTip": "L'usuari ha cancel·lat la sol·licitud.",
+    "noChatHistory": "Encara no hi ha historial de xat.",
+    "noSearchHistory": "Sense resultats.",
+    "webAccessModalTitle": "{{APP_NAME}} permet a ChatGPT accedir al web!",
+    "webAccessModalContent": "Recordeu que ChatGPT té un tall de coneixement el 2021! Tanmateix, {{APP_NAME}} combina la intel·ligència sofisticada de ChatGPT amb informació web en temps real. Aquesta funció requereix una quantitat important de fitxes, així que penseu a actualitzar per donar suport als nostres esforços!"
+  },
+  "sidebarComposePanel": {
+    "compose": "Composar",
+    "reply": "Respon",
+    "writePlaceholder": "El tema que voleu compondre",
+    "replyPlaceholder1": "El text original al qual voleu respondre",
+    "replyPlaceholder2": "El contingut general de la vostra resposta al text anterior",
+    "submitShortcut": "Premeu {{shortcut}} per generar esborrany",
+    "generate": "Generar esborrany",
+    "format": "Format",
+    "email": "Correu electrònic",
+    "idea": "Idea",
+    "outline": "Esquema",
+    "essay": "Assaig",
+    "paragraph": "Paràgraf",
+    "blog": "Publicació del blog",
+    "ads": "Anuncis de màrqueting",
+    "twitter": "Twitter",
+    "comment": "Comenta",
+    "message": "Missatge",
+    "tone": "To",
+    "professional": "Professional",
+    "formal": "Formal",
+    "casual": "Casual",
+    "enthusiastic": "Entusiasta",
+    "informational": "Informatiu",
+    "funny": "Divertida",
+    "length": "Llargada",
+    "short": "Curt",
+    "medium": "Mitjana",
+    "long": "Llarg",
+    "preview": "Vista prèvia",
+    "regenerate": "Regenerar",
+    "addToSite": "Afegeix al lloc",
+    "addToSiteTip": "Col·loqueu el cursor del ratolí al quadre d'entrada desitjat i feu clic a \"{{name}}\" per inserir-lo"
+  },
+  "sidebarGrammarPanel": {
+    "fixError": "Corregir l'error",
+    "retry": "Torna-ho a provar",
+    "inputPlaceholder": "Assegureu-vos que la vostra escriptura en anglès estigui lliure d'errors. Enganxeu el text o comenceu a escriure a continuació per comprovar si hi ha errors gramaticals, ortogràfics i de puntuació.",
+    "checking": "Comprovació",
+    "checkFailed": "La comprovació ha fallat",
+    "accept": "Acceptar",
+    "ignore": "Ignorar",
+    "continueImproving": "Continuar millorant",
+    "improveGuideText": "Feu clic aquí per obtenir el text millorat i la raó!",
+    "improvedText": "Text millorat:",
+    "reasonForChanges": "Motiu dels canvis:"
+  },
+  "OCRPanel": {
+    "ocrTips": "Extreu text, números i equacions d'una imatge",
+    "ocrCost": "Cada {{name}} costarà {{num}} consulta d'imatge",
+    "newOCR": "Nou {{ocr}}",
+    "noText": "No s'ha reconegut cap text"
+  },
+  "translator": {
+    "quickActions": "Recerques ràpides",
+    "disableHostFabLabel": "Desactiva en aquest lloc",
+    "disableFabLabel": "Desactiva a Tots els llocs"
+  },
+  "changeLogPage": {
+    "rate5Star": "<b>T'agrada la nostra extensió?</b> Valoreu-nos amb cinc estrelles a la botiga web per ajudar-nos a créixer",
+    "newInVersion": "Novetats a la versió {{versionId}}",
+    "learnToUse": "Aprèn a utilitzar",
+    "logs": {
+      "3_5_0": [
+        {
+          "title": "{{SIDERVISION}} es va fer més intel·ligent",
+          "features": [
+            "{{4+VISION}}",
+            "1 clic per respondre la mateixa pregunta amb diferents bots"
+          ]
+        }
+      ],
+      "3_4_0": [
+        {
+          "title": "Sider Grammar Widget",
+          "features": [
+            "Comproveu els errors gramaticals",
+            "Corregir errors gramaticals",
+            "Millora l'escriptura més enllà de la gramàtica"
+          ]
+        }
+      ],
+      "3_3_0": [
+        {
+          "title": "{{SIDERVISION}}: barra lateral de ChatGPT amb Vision",
+          "features": [
+            "Extreu text d'una imatge",
+            "Fes qualsevol pregunta sobre la imatge",
+            "3 maneres d'enviar una imatge a {{SIDERVISION}} <div><ol><li>Fes una captura de pantalla</li><li>Arrossegar i deixar anar una imatge a la finestra de xat</li><li>Penjar una imatge </li></ol></div>"
+          ]
+        },
+        {
+          "features": [
+            "Extreu text d'una imatge"
+          ]
+        },
+        {
+          "features": [
+            "Extreu text d'una imatge"
+          ]
+        }
+      ],
+      "3_2_0": [
+        {
+          "title": "Nou pla de preus amb 5 vegades més consultes GPT-4",
+          "features": [
+            "Una gran notícia! Els nostres preus actualitzats ara us ofereixen encara més accés a les consultes GPT-4 i Claude 2.",
+            "Si ja sou un usuari premium, se us actualitzarà automàticament. A més, tenim un nou pla \"Il·limitat\" per a tots els usuaris avançats!"
+          ]
+        }
+      ],
+      "3_1_0": [
+        {
+          "title": "Més bot!",
+          "features": [
+            "A més de ChatGPT i Claude, Sider és compatible amb Bard ara!"
+          ]
+        },
+        {
+          "title": "OCR: extreu text de qualsevol imatge i envieu-lo a ChatGPT",
+          "features": [
+            "Reconeix més de 10 idiomes principals",
+            "Reconèixer l'escrit a mà en anglès",
+            "Reconeix les <b>equacions matemàtiques</b> al text"
+          ]
+        },
+        {
+          "title": "Millorar el pintor",
+          "features": [
+            "Substituïu tot el fons",
+            "Elimina l'àrea seleccionada"
+          ]
+        }
+      ],
+      "3_0_0": [
+        {
+          "features": [
+            "<b>Més Chatbots</b>: ara admet Claude-instant, Claude 2!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Xat de grup</b>: compara les respostes entre els chatbots!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Menciona</b>: fes servir \"@\" per esmentar i interactuar sense esforç amb qualsevol bot de xat de la conversa!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Informació ràpida</b>: només cal que escriviu \"/\" i seguiu!"
+          ]
+        },
+        {
+          "features": [
+            "<b>Disseny senzill</b>: feu que el disseny sigui senzill i fàcil de navegar"
+          ]
+        }
+      ],
+      "2_9_0": [
+        {
+          "title": "Gestor de missatges millorat per a",
+          "features": [
+            "Lectura del menú contextual",
+            "Escriptura del menú contextual"
+          ]
+        },
+        {
+          "title": "Editor d'imatges AI",
+          "features": [
+            "Elimina el fons de qualsevol imatge",
+            "Elimina el text de qualsevol imatge"
+          ]
+        }
+      ],
+      "2_8_0": [
+        "Assistent de lectura: utilitzeu la IA per a una comprensió ràpida mentre llegiu pàgines web",
+        "Assistent d'escriptura: genereu contingut ràpidament amb IA al quadre d'entrada web"
+      ],
+      "2_7_0": [
+        "Dibuixa una imatge a partir del text",
+        "Dibuixa una imatge a partir d'una imatge de referència"
+      ],
+      "2_6_0": [
+        "Sider admet la barra lateral fixa: podeu xatejar entre totes les pestanyes sense superposar cap contingut <br /> (disponible a Chrome 114 o posterior)"
+      ],
+      "2_5_0": [
+        "Resum de YouTube! Mira 1 hora de vídeo de YouTube en 1 minut",
+        "Compareu les respostes proporcionades per humans i IA a llocs de preguntes com Quora, StackOverflow i Zhihu"
+      ],
+      "2_4_0": [
+        "<b>Accés intel·ligent al web</b>: en funció de la vostra consulta, l'Al decidirà si ha d'accedir al web.",
+        "Millora de l'estabilitat"
+      ],
+      "2_3_0": [
+        "Admet la navegació i els connectors per als usuaris Plus!",
+        "ChatGPT amb accés a Internet per a tothom!"
+      ],
+      "2_2_0": [
+        "Redacta qualsevol missatge",
+        "Respondre correu electrònic, tuitejar, comentar, etc"
+      ],
+      "2_1_0": [
+        "Drecera per a la cerca ràpida",
+        "Canvia la mida de la finestra de cerca ràpida",
+        "Correccions d'errors i altres millores d'UX"
+      ],
+      "2_0_0": [
+        "Suport <b>GPT-4 </b>per a tots els usuaris!",
+        "Convida amics i obteniu consultes <b>GPT-4</b> per a tots dos!",
+        "Correccions d'errors i altres millores d'UX"
+      ],
+      "1_1_0": [
+        "Xat complet a la <b>pestanya nova</b>!",
+        "ChatGPT, <b>Bing</b>, <b>Bard</b> junts!",
+        "Reparació d'errors"
+      ],
+      "1_0_13": [
+        "Continueu el xat després de fer preguntes",
+        "Canvia entre GPT-4 i GPT-3.5 per als usuaris Plus",
+        "Accediu i cerqueu fàcilment l'historial de xat"
+      ],
+      "1_0_12": [
+        "Sincronitza la configuració de l'extensió entre ordinadors",
+        "Accediu a les vostres instruccions des de diferents ordinadors portàtils",
+        "Desa els xats per a un ús futur",
+        "Comparteix xats mitjançant un enllaç"
+      ],
+      "1_0_11": [
+        "Accediu ràpidament a les accions mitjançant una finestra emergent sense obrir la barra lateral.",
+        "Afegiu suport per a idiomes addicionals.",
+        "Conserveu la preferència d'idioma de l'usuari quan utilitzeu la funció de traducció.",
+        "Resoldre conflictes de dreceres a plataformes com GitHub i altres."
+      ],
+      "1_0_10": [
+        "Admet més de 50 idiomes ara!"
+      ],
+      "1_0_8": [
+        "Admet GPT-4 per als usuaris Plus! Comproveu la pàgina de configuració!"
+      ],
+      "1_0_7": [
+        "Recordeu l'indicador utilitzat l'última vegada",
+        "Optimitzeu la posició del panell de xatGPT a les pàgines de cerca",
+        "Afegiu una opció per posar la icona de la barra lateral a la pàgina al costat esquerre",
+        "Optimitzar la mida del paquet",
+        "Afegeix el mode fosc",
+        "Admet el vostre proxy d'URL de l'API"
+      ],
+      "1_0_6": [
+        "Millora la funció de resum a la pàgina de Youtube"
+      ],
+      "1_0_5": [
+        "Recordeu la ubicació de la icona de la barra lateral",
+        "Millora les tecles de drecera",
+        "Deseu les plantilles de sol·licitud directament des de la barra lateral"
+      ],
+      "1_0_4": [
+        "Torneu a ordenar els elements del missatge a la llista desplegable",
+        "Arxiveu els elements de sol·licitud que no utilitzareu",
+        "Resposta de suport en més de 50 idiomes"
+      ],
+      "1_0_3": [
+        "CMD/Ctrl + Intro per fer \"Enviar\" ràpid",
+        "Opció per amagar el tauler a la pàgina de resultats de la cerca",
+        "Suport ESC per ocultar la barra lateral",
+        "Suport de resum article llarg"
+      ],
+      "1_0_2": [
+        "Afegeix un botó d'aturada per deixar de generar resposta",
+        "Canvia el botó de col·lapse del lloc"
+      ],
+      "1_0_1": [
+        "Millora la funció de resum a la pàgina de Youtube",
+        "Corregiu alguns errors relacionats amb copiar/enganxar i imprimir"
+      ]
+    }
+  },
+  "producthuntPromote": {
+    "voteBtn": "Vota a Product Hunt",
+    "sidebar2Banner1": "Vota per nosaltres a <b>Product Hunt</b> ARA per difondre'ns.",
+    "sidebar2ModalTitle": "✨ Resum de la barra lateral 2.0",
+    "sidebar2ModalDesc": "• Pestanya de xat\n  • Cerca ràpida per a consultes ràpides\n  • Un compte per sincronitzar les sol·licituds\n  • Desa i comparteix xats\n  • Admet més idiomes\n  • Suport GPT-4",
+    "ios1Banner1": "Vota per ChitChat: aplicació iOS ChatGPT 🎉",
+    "ios1Banner2": "Comencem les coses amb una estona! 😄",
+    "ios1ModalTitle": "✨ Nou a l'aplicació ChitChat per a iOS",
+    "ios1ModalDesc": "• Obteniu respostes de ChatGPT 3.5 i 4\n• Un equip de suport de robots t'ajuda des d'un sol lloc\n  • Converteix el teu PDF en un chatbot"
+  },
+  "searchTool": {
+    "questionMark": "Activa ChatGPT afegint un signe d'interrogació després de la teva consulta",
+    "askForQuery": "Demaneu aquesta consulta a ChatGPT",
+    "fiveStart": "Us agrada aquesta extensió? Doneu-nos una puntuació de 5 estrelles a {{store}}",
+    "loginAndCloudflareCheck": "Si us plau, inicieu la sessió i supereu la comprovació de Cloudflare a {{web}}",
+    "braveTrouble": "Encara no funciona? Segueix {{url}}",
+    "cloudflareCheck": "OpenAI requereix passar un control de seguretat de tant en tant. Si això continua passant, canvieu el proveïdor d'AI per OpenAI API a les <i>opcions d'extensió</i>.",
+    "failedResponse": "No s'ha pogut carregar la resposta de ChatGPT:",
+    "waitResponse": "S'està esperant la resposta de ChatGPT..."
+  },
+  "sidepanel": {
+    "title": "Suport lateral barra lateral fixa",
+    "tip": "Consell: ajusteu l'amplada del panell lateral adequadament per obtenir una millor experiència.",
+    "benefit1": "La vostra barra lateral Sider <b>mai desapareixerà</b> si navegueu a una pàgina nova.",
+    "benefit2": "Pots xatejar entre totes les pestanyes sense <b>superposar cap contingut</b>.",
+    "benefit3": "Només disponible a <b>Google Chrome 114 o posterior</b>"
+  },
+  "webEnhance": {
+    "videoSummaryCost": "Cost {{num}} consultes",
+    "videoSummaryBtn": "Vídeo de resum",
+    "loginToSummary": "Inicieu la sessió a Resumir",
+    "noTranscriptTip": "{{APP_NAME}} no pot resumir vídeos sense subtítols.",
+    "shownotes": "Moments clau",
+    "freeLimitTips": "La vostra prova gratuïta s'ha esgotat, actualitzeu ara per continuar utilitzant la funció de resum de vídeo.",
+    "askQuestionBtn": "Fes una pregunta",
+    "noQuestionTip": "{{APP_NAME}} no pot trobar el problema a la pàgina."
+  },
+  "quickActions": {
+    "defaultPlaceholder": "Pregunteu qualsevol cosa a {{APP_NAME}}",
+    "defaultPlaceholder2": "Pregunta a {{APP_NAME}} amb el contingut anterior",
+    "managePrompts": "Gestiona els missatges",
+    "editSelectionGroup": "Edita o revisa la selecció",
+    "selectionGroup": "Generar a partir de la selecció",
+    "draftGroup": "Esborrany amb {{name}}",
+    "AIGenerating": "{{name}} està generant...",
+    "pressToStop": "Premeu {{name}} per aturar-lo",
+    "pressToClose": "Premeu {{name}} per tancar",
+    "disableOnce": "Amaga fins a la propera visita",
+    "disableSite": "Desactiva per a aquest lloc",
+    "disableGlobal": "Desactivar globalment",
+    "continueImproving": "Continuar millorant"
+  },
+  "msg": {
+    "supportedFileFormat": "Els formats de fitxer admesos són {{formats}}",
+    "maxFileSize": "La mida màxima del fitxer és {{size}}",
+    "enterAPIKey": "Introduïu la vostra clau de l'API OpenAI",
+    "selectModel": "Seleccioneu un model vàlid",
+    "changeSaved": "S'han guardat els canvis",
+    "fiveStart": "Dóna'ns un 5 estrelles",
+    "pleaseContactUs": "Si us plau, <a>contacteu amb nosaltres</a>.",
+    "inviteTitle": "Convida i recompenses",
+    "inviteEarn": "Guanyeu <mx>{{num}} consultes</mx> per a vosaltres i els vostres amics. <b>Com més refereixes, més guanyes</b>.",
+    "inviteStep1": "Fes referència als teus amics amb l'enllaç d'invitació",
+    "inviteStep2": "Els teus amics es registren",
+    "inviteStep3": "Instal·len l'extensió i l'inici de sessió. Recompenses guanyades!",
+    "checkInvitation": "Comproveu els registres d'invitació",
+    "inviteFriendsEarn": "Convida amics i guanya consultes GPT-4",
+    "inviteFriends": "Convidar amics",
+    "inviteRewardsRecord": "Registres de recompenses:",
+    "invitedRewardObtained": "Recompenses obtingudes!",
+    "invitedWelcome": "Benvingut! Les consultes GPT s'han afegit al vostre compte!",
+    "invitedRewardTips": "El vostre amic us convida i cadascun de vosaltres té <mx>{{num}} consultes</mx> per utilitzar",
+    "getMoreGPT4": "Obteniu més quota GPT-4",
+    "errSiderApiLimit": "Heu utilitzat tots els crèdits gratuïts que us proporcionem, seguiu les <i>instruccions aquí</i> per obtenir una API d'OpenAI.",
+    "errSiderApiLimitDevice": "Heu utilitzat tots els crèdits gratuïts que us oferim. <a>Inicieu la sessió</a> per obtenir més crèdits gratuïts.",
+    "errSiderApiLimitLogin": "Heu assolit la vostra quota. Per continuar, considera <a>actualitzar al nostre pla premium</a>. Gràcies!",
+    "errSiderApiLimitLogin2": "Heu arribat a la vostra quota. Per continuar, consideri <a>actualitzar al nostre pla premium</a>. Gràcies!",
+    "errSiderApiLimitPremium": "Heu utilitzat tots els crèdits, <a>actualitzeu el vostre pla</a>.",
+    "errSiderPremiumRequired": "Si us plau, <a>actualitzeu a premium</a> per utilitzar aquesta funció.",
+    "errSiderHighTrafficError": "{{APP_NAME}} s'enfronta a un gran trànsit. Siusplau, intenta-ho més tard.",
+    "errSiderHighTrafficTip": "Penseu en <a>actualitzar a un compte premium</a> per obtenir un accés estable i donar suport al nostre desenvolupament.",
+    "errSiderDeviceBinded": "Si us plau, <a>inicieu la sessió</a> per utilitzar-lo.",
+    "errSiderApiHighLoad": "S'ha assolit el límit de sol·licituds a causa d'una càrrega elevada. Torneu-ho a provar més tard.",
+    "errSiderGPT4HighLoad": "S'ha assolit el límit GPT-4 a causa d'una càrrega elevada. Torneu-ho a provar més tard.",
+    "errSiderGPT4LimitDevice": "Si us plau, <b>inicieu la sessió</b> primer i <amb>convida els teus amics</amb> o <ta>actualitza a premium</ta> per obtenir una quota de text més avançada.",
+    "errSiderGPT4LimitLogin": "<t>Convida els teus amics</t> o <a>actualitza a Premium</a> per obtenir més quota de text avançat.",
+    "errSiderGPT4LimitPremium": "<tm>Convida els teus amics</tm> o <dm>actualitza el teu pla</dm> per obtenir una quota de text més avançada.",
+    "errSiderNeedLogin": "Si us plau, <a>inicieu la sessió</a>.",
+    "goToSignIn": "Vés a iniciar la sessió",
+    "errSiderTimeout": "La sol·licitud s'ha esgotat. Siusplau torna-ho a provar.",
+    "errSiderProcessing": "Només un missatge alhora. Si us plau, permeteu que es completi qualsevol altra resposta abans d'enviar un altre missatge o espereu un moment.",
+    "errTrySiderAPI": "Canvia a l'<i>API de la barra lateral de ChatGPT</i> per obtenir un accés estable (per a tothom)",
+    "errTrySiderAPI2": "O utilitzeu la vostra pròpia clau d'API a la <a>pàgina de configuració</a> (per a desenvolupadors)",
+    "errChatGPTAuth": "Si us plau, <m>feu clic a l'enllaç per iniciar la sessió </m>a la vostra pàgina web de ChatGPT i us ajudarem a fixar-lo. A continuació, podeu utilitzar-lo a la barra lateral.",
+    "errChatGPTAuthTipTitle": "Si no funciona:",
+    "errChatGPTFailToFetch": "No s'ha pogut obtenir resposta de ChatGPT.",
+    "errOpenaiFailToFetch": "No s'ha pogut obtenir resposta d'OpenAI mitjançant la teva clau API.",
+    "errSiderBasicTextLimit": "Heu assolit el nostre límit bàsic de consultes de velocitat de text. Actualment, hi ha una restricció de {{N1}} missatges cada {{NUM2}} minuts. Alternativament, podeu utilitzar la consulta de text avançada i tornar més tard.",
+    "errSiderAdvancedTextLimit": "Heu assolit el nostre límit avançat de consultes de velocitat de text. Actualment, hi ha una restricció de {{N1}} missatges cada {{NUM2}} minuts. Alternativament, podeu utilitzar la consulta de text bàsica i tornar més tard.",
+    "loginAndCloudflareCheck": "Canvieu a l'<a>API de la barra lateral</a> per obtenir un accés estable O inicieu la sessió i supereu la comprovació de Cloudflare a <i>chat.openai.com</i>",
+    "invalidApiKey": "La clau de l'API no és vàlida, obteniu-ne una altra.",
+    "getApiKeyGuide": "Necessites una clau de l'API OpenAI perquè funcioni. Seguiu la nostra guia per obtenir la clau API.",
+    "thankForFeedback": "Gràcies. El formulari s'ha enviat correctament. En breu ens posarem en contacte amb tu.",
+    "writeSomething": "Si us plau, escriu alguna cosa.",
+    "enterEmail": "Introduïu una adreça de correu electrònic per rebre actualitzacions sobre el problema.",
+    "emailRequired": "El correu electrònic és obligatori.",
+    "promptNameRequired": "El nom ràpid és obligatori.",
+    "titleRequired": "El títol és obligatori.",
+    "nameYourPrompt": "Anomena el teu missatge",
+    "nameYourTitle": "Anomena la teva conversa",
+    "promptTplRequired": "Cal un contingut ràpid.",
+    "deletePromptWarn": "Voleu suprimir aquesta sol·licitud?",
+    "restorePromptWarn": "Voleu restaurar aquesta plantilla de sol·licitud?",
+    "notValidEmail": "no és un correu electrònic vàlid",
+    "pleaseSignin": "Si us plau, inicieu la sessió.",
+    "signinTips": "Inicieu la sessió per sincronitzar les vostres sol·licituds i configuració",
+    "signinAward": "Inicieu la sessió per rebre {{num}} consultes al dia",
+    "signinAward2": "Les consultes s'han esgotat per a l'usuari no registrat. Podeu iniciar la sessió per obtenir <b>{{num}} consultes gratuïtes al dia</b>.",
+    "signinAward3": "Inicieu la sessió per rebre més consultes al dia",
+    "chatgptTabGuardTips": "Si us plau, manté aquesta pestanya oberta, ara pots tornar a {{APP_NAME}}",
+    "chatgptTabGuardRefreshingTips": "S'ha produït un error amb ChatGPT. S'està tornant a connectar, espereu...",
+    "chatgptTabGuardRefreshingTips1": "S'ha produït un error amb ChatGPT.",
+    "chatgptTabGuardRefreshingTips2": "S'està tornant a connectar, espereu...",
+    "chatgptTabGuardSetupSuccessTips": "S'ha solucionat, torna-ho a provar",
+    "switchToSiderApiToContinue": "Actualment, aquesta funció només admet el mode API d'{{APP_NAME}}. <a>canvieu a l'API d'{{APP_NAME}}</a> per continuar.",
+    "switchRequired": "Canvi obligatori",
+    "signInRequired": "Inicia sessió obligatori",
+    "useUpUpgrade": "La vostra quota s'ha esgotat, actualitzeu-la per obtenir més quota.",
+    "webSearchSignIn": "Inicieu la sessió per utilitzar aquesta funció.",
+    "featureLimit": "Límit de funcions",
+    "featureLimitTip": "Si us plau, actualitzeu per utilitzar Claude i Bard.",
+    "featureUnavailableOnPage": "Aquesta funció no està disponible en aquesta pàgina",
+    "featureBrowserLimit": "A causa de les restriccions del navegador, aquesta funció no està disponible en aquesta pàgina. Canvia una pàgina i torna-ho a provar.",
+    "quotaModelContent": "S'ha arribat al vostre límit de consultes GPT-4/Claude-2. Actualitza el pla Premium per obtenir més accés o convida amics per fer consultes addicionals gratuïtes.",
+    "signinFeature": "Si us plau, inicieu la sessió per accedir a aquesta funció.",
+    "signinFeature2": "Inicieu la sessió per accedir a aquesta funció",
+    "dragImgTips": "Feu clic o arrossegueu una imatge que vulgueu {{name}}",
+    "reEnableInSettings": "Podeu tornar a activar-lo a <a>Configuració</a>",
+    "switchBarTip": "Amplieu el panell lateral per fixar la barra de navegació.",
+    "upgradeSupport": "Actualitzeu al pla premium per donar-nos suport",
+    "imageSizeLimit": "Límit d'imatge",
+    "imageSizeLimitTip": "Assegureu-vos que la imatge sigui inferior a 10 MB i que l'amplada o l'alçada no superin els 4096 píxels i torneu-ho a provar.",
+    "errOpenAIFilter": "La resposta es va filtrar a causa del missatge que va activar la política de gestió de continguts d'OpenAI. Si us plau, modifiqueu el vostre missatge i torneu-ho a provar."
+  },
+  "options": {
+    "theme": {
+      "auto": "automàtic",
+      "light": "mode brillant",
+      "dark": "mode fosc"
+    },
+    "triggerMode": {
+      "always": {
+        "title": "Sempre",
+        "desc": "Pregunta a ChatGPT a cada cerca"
+      },
+      "questionMark": {
+        "title": "Signe d'interrogació",
+        "desc": "Pregunteu a ChatGPT si les paraules clau acaben amb un signe d'interrogació (?)"
+      },
+      "manually": {
+        "title": "Manualment",
+        "desc": "Pregunteu a ChatGPT només quan feu clic al botó"
+      }
+    },
+    "sidebarLocation": {
+      "left": "costat esquerre",
+      "right": "costat dret"
+    },
+    "searchPromptTpl": {
+      "default": {
+        "title": "Pregunta a ChatGPT",
+        "template": "Em pots dir alguna cosa sobre {{keywords}}? Si és possible, em pots donar alguns enllaços al respecte? Si {{keywords}} és una pregunta relacionada amb el codi, només cal que escriviu el codi"
+      },
+      "list": {
+        "title": "Paraules clau per a preguntes",
+        "template": "Llista 1 pregunta més popular sobre \"{{keywords}}\". Aleshores, respon a aquesta pregunta. Finalment, enumera 4 preguntes més."
+      },
+      "suggest": {
+        "title": "Obteniu paraules clau relacionades",
+        "template": "{{keywords}} són les meves paraules clau de cerca a Google. Si us plau, doneu-me 5 conjunts de paraules clau relacionades."
+      }
+    },
+    "sidebarPromptTpl": {
+      "summarize": {
+        "title": "Resumir",
+        "template": "Resumeix això per a un estudiant de segon grau:"
+      },
+      "similar-pages": {
+        "title": "Pàgines semblants",
+        "template": "Trobeu 10 pàgines semblants al contingut següent amb enllaç:"
+      },
+      "grammar": {
+        "title": "Gramàtica",
+        "template": "Corregiu això amb l'anglès estàndard:"
+      },
+      "explain": {
+        "title": "Explica",
+        "template": "Explica el contingut següent:"
+      },
+      "explain-codes": {
+        "title": "Explica els codis",
+        "template": "Explica els codis següents:"
+      },
+      "rewrite": {
+        "title": "Reescriure",
+        "template": "Torna a escriure el contingut següent:"
+      },
+      "translate": {
+        "title": "Traduir",
+        "template": "Tradueix el contingut següent a l'idioma {{lang}}:"
+      },
+      "qa": {
+        "title": "Q&A",
+        "template": "Respon aquesta pregunta:"
+      }
+    }
+  },
+  "planNames": {
+    "free": "Pla gratuït",
+    "basic": "Pla Bàsic",
+    "pro": "Pla Pro",
+    "ultra": "Ultra Pla"
+  },
+  "queryNames": {
+    "fast": "Text ràpid",
+    "advanced": "Text avançat",
+    "image": "Imatge"
+  },
+  "upgradeModal": {
+    "desc": "Més consultes i més funcions!",
+    "upgradeToUseXXX": "Actualitza per utilitzar <b>bot</b>",
+    "getWebAccess": "Actualitza per obtenir una resposta web",
+    "gpt4Desc": "GPT-4 és molt més intel·ligent i us pot ajudar a obtenir respostes més lògiques i precises.",
+    "claude2Desc": "Claude-2 és molt més intel·ligent i us pot ajudar a obtenir respostes més lògiques i precises.",
+    "webAccessDesc": "Sider recupera les respostes a les vostres preguntes de Google i utilitza IA per a una organització i un resum concis.",
+    "features": {
+      "_0": "<b>Consultes de text ràpides il·limitades</b>",
+      "0_desc": "Per a GPT3.5, Bard & Claude Instant",
+      "_1": "Consultes de text avançades <b>il·limitades</b>",
+      "1_desc": "Per a GPT4 i Claude V2",
+      "_2": "<b>1000/mes</b> consultes d'imatge",
+      "2_desc": "Per a pintor, OCR i Vision"
+    }
+  }
+}
